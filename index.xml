@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LeaveIt on LeaveIt</title>
+    <link>https://example.com/</link>
+    <description>Recent content in LeaveIt on LeaveIt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Sep 2018 13:02:55 +0200</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ronin Time Bureaucrats</title>
+      <link>https://example.com/post/ronin-time-bureaucrats/</link>
+      <pubDate>Fri, 21 Sep 2018 13:02:55 +0200</pubDate>
+      
+      <guid>https://example.com/post/ronin-time-bureaucrats/</guid>
+      <description>&lt;p&gt;« &lt;em&gt;Nobody remembers with certainty in which year the Great Snafu took place, but people generally agree that it was on a September, or perhaps on a Saturday afternoon, on some even-numbered millenium. Also, it involved blowing up the Universe, which made pretty much everybody unhappy, except for a few people who had been waiting for this opportunity to loudly exclaim&lt;/em&gt; &amp;ldquo;I told you so&amp;rdquo;&lt;em&gt;, and even they were not happy for long.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;So, when the Universe was rebooted&lt;/em&gt; &amp;ldquo;with a 99.999% confidence value&amp;rdquo;&lt;em&gt;, the President was barred from Time Travel indefinitely and the Agency for Preservation of Space-Time Continuity was created. Brave Agents dashing around time and space in their Continuum Indirections, fighting off mad scientists, resolving the Y2K bugs before they could overwrite the Universe, bodyguarding baby dictators and generally maintaining the status quo.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;All this took place (subjective) eons ago. Nowadays, the Agency is known as the Time Bureaucracy. With (subjective) years, administrations and fashions, the Bureaucracy has reinvented itself countless times. It has been a strict-but-efficient police, as well as a dusty museum of inventions past and future. It has become a travel agency for dignitaries, as well as a time-traveling gossip source. It has been the military arm of an everlasting dictatorship, as well as an encyclopaedia of entirely verified facts. It has been a time-agnostic anarchist commune, as well as a an undercover channel used to buy future technologies without having to go through the messy process of research. It has been used as a torture chamber and as a taxation office. It has been public and secret, fashionable and forgettable, progressive and repressive, pangenicist and eugenicist and pretty much every other combination.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Throughout its existence and despite all these reinventions, the Bureaucracy has devoted and continues to devote considerable efforts to fighting the main threat towards the continued existence of the Universe.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;This threat is, of course, every single past, future and alternate versions of the Bureaucracy. Because, well, they are so very wrong, aren&amp;rsquo;t they?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;This is a conflict of surprisingly little violence, made of subtle manipulations and grand gestures, of infiltrations, desertions, propaganda, and paradoxes. A Cold War more than a battlefield.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Welcome to Space·Time!&lt;/em&gt; »&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m putting together a book with all the rules and background of Ronin Time Bureaucrats.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s open-source, readable &lt;a href=&#34;https://legacy.gitbook.com/book/yoric/rogue-time-bureaucrats&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;on gitbook&lt;/a&gt; and the source code is available &lt;a href=&#34;https://github.com/Yoric/ronin-time-bureaucrats&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;on github&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ll try and post updates now and then on this blog!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://example.com/categories/ronin-time-bureaucrats/&#34;&gt;&lt;img src=&#34;https://yoric.gitbooks.io/rogue-time-bureaucrats/content/cover.jpg&#34; alt=&#34;Ronin Time Bureaucrats&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About this blog</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>&lt;p&gt;This is David Teller&amp;rsquo;s blog dedicated to role-playing games.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Browse by &lt;a href=&#34;../categories&#34;&gt;categories&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Browse by &lt;a href=&#34;../tags&#34;&gt;tags&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;More to come :)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    <url>
+      <loc>https://example.com/post/ronin-time-bureaucrats/</loc>
+      
+      <lastmod>2018-09-21T13:02:55+02:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://example.com/about/</loc>
+      
+      
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://example.com/categories/</loc>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://example.com/categories/hobbies/</loc>
+      
+      <lastmod>2018-09-21T13:02:55+02:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://example.com/</loc>
+      
+      <lastmod>2018-09-21T13:02:55+02:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://example.com/post/</loc>
+      
+      <lastmod>2018-09-21T13:02:55+02:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://example.com/tags/ronin-time-bureaucrats/</loc>
+      
+      <lastmod>2018-09-21T13:02:55+02:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://example.com/categories/ronin-time-bureaucrats/</loc>
+      
+      <lastmod>2018-09-21T13:02:55+02:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://example.com/tags/rpg/</loc>
+      
+      <lastmod>2018-09-21T13:02:55+02:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://example.com/categories/rpg/</loc>
+      
+      <lastmod>2018-09-21T13:02:55+02:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://example.com/tags/</loc>
+      
+      <lastmod>2018-09-21T13:02:55+02:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+</urlset>
