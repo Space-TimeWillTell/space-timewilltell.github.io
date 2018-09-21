@@ -6,10 +6,28 @@
     <description>Recent content in Tags on Space·Time Will Tell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Sep 2018 19:24:40 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 21 Sep 2018 14:04:50 +0200</lastBuildDate>
     
 	<atom:link href="https://space-timewilltell.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Comic</title>
+      <link>https://space-timewilltell.github.io/tags/comic/</link>
+      <pubDate>Fri, 21 Sep 2018 14:04:50 +0200</pubDate>
+      
+      <guid>https://space-timewilltell.github.io/tags/comic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fate</title>
+      <link>https://space-timewilltell.github.io/tags/fate/</link>
+      <pubDate>Fri, 21 Sep 2018 14:04:50 +0200</pubDate>
+      
+      <guid>https://space-timewilltell.github.io/tags/fate/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Ronin-time-bureaucrats</title>
@@ -23,9 +41,18 @@
     <item>
       <title>Rpg</title>
       <link>https://space-timewilltell.github.io/tags/rpg/</link>
-      <pubDate>Mon, 10 Sep 2018 19:24:40 +0200</pubDate>
+      <pubDate>Fri, 21 Sep 2018 14:04:50 +0200</pubDate>
       
       <guid>https://space-timewilltell.github.io/tags/rpg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorial</title>
+      <link>https://space-timewilltell.github.io/tags/tutorial/</link>
+      <pubDate>Fri, 21 Sep 2018 14:04:50 +0200</pubDate>
+      
+      <guid>https://space-timewilltell.github.io/tags/tutorial/</guid>
       <description></description>
     </item>
     
