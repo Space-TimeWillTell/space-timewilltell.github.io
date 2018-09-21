@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>https://example.com/post/ronin-time-bureaucrats/</loc>
+      <loc>https://rpg.yoric.xyz/post/ronin-time-bureaucrats/</loc>
       
       <lastmod>2018-09-21T13:02:55+02:00</lastmod>
       
@@ -13,7 +13,7 @@
     </url>
   
     <url>
-      <loc>https://example.com/about/</loc>
+      <loc>https://rpg.yoric.xyz/about/</loc>
       
       
       
@@ -21,7 +21,7 @@
     </url>
   
     <url>
-      <loc>https://example.com/categories/</loc>
+      <loc>https://rpg.yoric.xyz/categories/</loc>
       
       
       
@@ -31,19 +31,7 @@
     </url>
   
     <url>
-      <loc>https://example.com/categories/hobbies/</loc>
-      
-      <lastmod>2018-09-21T13:02:55+02:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://example.com/</loc>
+      <loc>https://rpg.yoric.xyz/categories/hobbies/</loc>
       
       <lastmod>2018-09-21T13:02:55+02:00</lastmod>
       
@@ -55,7 +43,7 @@
     </url>
   
     <url>
-      <loc>https://example.com/post/</loc>
+      <loc>https://rpg.yoric.xyz/post/</loc>
       
       <lastmod>2018-09-21T13:02:55+02:00</lastmod>
       
@@ -67,7 +55,7 @@
     </url>
   
     <url>
-      <loc>https://example.com/tags/ronin-time-bureaucrats/</loc>
+      <loc>https://rpg.yoric.xyz/tags/ronin-time-bureaucrats/</loc>
       
       <lastmod>2018-09-21T13:02:55+02:00</lastmod>
       
@@ -79,7 +67,7 @@
     </url>
   
     <url>
-      <loc>https://example.com/categories/ronin-time-bureaucrats/</loc>
+      <loc>https://rpg.yoric.xyz/categories/ronin-time-bureaucrats/</loc>
       
       <lastmod>2018-09-21T13:02:55+02:00</lastmod>
       
@@ -91,7 +79,7 @@
     </url>
   
     <url>
-      <loc>https://example.com/tags/rpg/</loc>
+      <loc>https://rpg.yoric.xyz/tags/rpg/</loc>
       
       <lastmod>2018-09-21T13:02:55+02:00</lastmod>
       
@@ -103,7 +91,7 @@
     </url>
   
     <url>
-      <loc>https://example.com/categories/rpg/</loc>
+      <loc>https://rpg.yoric.xyz/categories/rpg/</loc>
       
       <lastmod>2018-09-21T13:02:55+02:00</lastmod>
       
@@ -115,7 +103,19 @@
     </url>
   
     <url>
-      <loc>https://example.com/tags/</loc>
+      <loc>https://rpg.yoric.xyz/</loc>
+      
+      <lastmod>2018-09-21T13:02:55+02:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://rpg.yoric.xyz/tags/</loc>
       
       <lastmod>2018-09-21T13:02:55+02:00</lastmod>
       

@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on LeaveIt</title>
-    <link>https://example.com/categories/</link>
-    <description>Recent content in Categories on LeaveIt</description>
+    <title>Categories on Space·Time Will Tell</title>
+    <link>https://rpg.yoric.xyz/categories/</link>
+    <description>Recent content in Categories on Space·Time Will Tell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rpg.yoric.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hobbies</title>
-      <link>https://example.com/categories/hobbies/</link>
-      <pubDate>Fri, 21 Sep 2018 13:02:55 +0200</pubDate>
+      <link>https://rpg.yoric.xyz/categories/hobbies/</link>
+      <pubDate>Thu, 06 Sep 2018 09:30:43 +0200</pubDate>
       
-      <guid>https://example.com/categories/hobbies/</guid>
+      <guid>https://rpg.yoric.xyz/categories/hobbies/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ronin-time-bureaucrats</title>
-      <link>https://example.com/categories/ronin-time-bureaucrats/</link>
-      <pubDate>Fri, 21 Sep 2018 13:02:55 +0200</pubDate>
+      <link>https://rpg.yoric.xyz/categories/ronin-time-bureaucrats/</link>
+      <pubDate>Thu, 06 Sep 2018 09:30:43 +0200</pubDate>
       
-      <guid>https://example.com/categories/ronin-time-bureaucrats/</guid>
+      <guid>https://rpg.yoric.xyz/categories/ronin-time-bureaucrats/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rpg</title>
-      <link>https://example.com/categories/rpg/</link>
-      <pubDate>Fri, 21 Sep 2018 13:02:55 +0200</pubDate>
+      <link>https://rpg.yoric.xyz/categories/rpg/</link>
+      <pubDate>Thu, 06 Sep 2018 09:30:43 +0200</pubDate>
       
-      <guid>https://example.com/categories/rpg/</guid>
+      <guid>https://rpg.yoric.xyz/categories/rpg/</guid>
       <description></description>
     </item>
     

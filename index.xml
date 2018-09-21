@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>LeaveIt on LeaveIt</title>
-    <link>https://example.com/</link>
-    <description>Recent content in LeaveIt on LeaveIt</description>
+    <title>Space·Time Will Tell on Space·Time Will Tell</title>
+    <link>https://rpg.yoric.xyz/</link>
+    <description>Recent content in Space·Time Will Tell on Space·Time Will Tell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Sep 2018 13:02:55 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 06 Sep 2018 09:30:43 +0200</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Ronin Time Bureaucrats</title>
-      <link>https://example.com/post/ronin-time-bureaucrats/</link>
-      <pubDate>Fri, 21 Sep 2018 13:02:55 +0200</pubDate>
+      <link>https://rpg.yoric.xyz/post/ronin-time-bureaucrats/</link>
+      <pubDate>Thu, 06 Sep 2018 09:30:43 +0200</pubDate>
       
-      <guid>https://example.com/post/ronin-time-bureaucrats/</guid>
+      <guid>https://rpg.yoric.xyz/post/ronin-time-bureaucrats/</guid>
       <description>&lt;p&gt;« &lt;em&gt;Nobody remembers with certainty in which year the Great Snafu took place, but people generally agree that it was on a September, or perhaps on a Saturday afternoon, on some even-numbered millenium. Also, it involved blowing up the Universe, which made pretty much everybody unhappy, except for a few people who had been waiting for this opportunity to loudly exclaim&lt;/em&gt; &amp;ldquo;I told you so&amp;rdquo;&lt;em&gt;, and even they were not happy for long.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;So, when the Universe was rebooted&lt;/em&gt; &amp;ldquo;with a 99.999% confidence value&amp;rdquo;&lt;em&gt;, the President was barred from Time Travel indefinitely and the Agency for Preservation of Space-Time Continuity was created. Brave Agents dashing around time and space in their Continuum Indirections, fighting off mad scientists, resolving the Y2K bugs before they could overwrite the Universe, bodyguarding baby dictators and generally maintaining the status quo.&lt;/em&gt;&lt;/p&gt;
@@ -35,22 +35,17 @@
 
 &lt;p&gt;I&amp;rsquo;ll try and post updates now and then on this blog!&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://example.com/categories/ronin-time-bureaucrats/&#34;&gt;&lt;img src=&#34;https://yoric.gitbooks.io/rogue-time-bureaucrats/content/cover.jpg&#34; alt=&#34;Ronin Time Bureaucrats&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://rpg.yoric.xyz/categories/ronin-time-bureaucrats/&#34;&gt;&lt;img src=&#34;https://yoric.gitbooks.io/rogue-time-bureaucrats/content/cover.jpg&#34; alt=&#34;Ronin Time Bureaucrats&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>About this blog</title>
-      <link>https://example.com/about/</link>
+      <title>About</title>
+      <link>https://rpg.yoric.xyz/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/about/</guid>
+      <guid>https://rpg.yoric.xyz/about/</guid>
       <description>&lt;p&gt;This is David Teller&amp;rsquo;s blog dedicated to role-playing games.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Browse by &lt;a href=&#34;../categories&#34;&gt;categories&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Browse by &lt;a href=&#34;../tags&#34;&gt;tags&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
 
 &lt;p&gt;More to come :)&lt;/p&gt;
 </description>
