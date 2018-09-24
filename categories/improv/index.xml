@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Improv on Space·Time Will Tell</title>
+    <link>https://space-timewilltell.github.io/categories/improv/</link>
+    <description>Recent content in Improv on Space·Time Will Tell</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Sep 2018 17:43:09 +0200</lastBuildDate>
+    
+	<atom:link href="https://space-timewilltell.github.io/categories/improv/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introducing the Space·Time Deck</title>
+      <link>https://space-timewilltell.github.io/post/the-space-time-deck/</link>
+      <pubDate>Mon, 24 Sep 2018 17:43:09 +0200</pubDate>
+      
+      <guid>https://space-timewilltell.github.io/post/the-space-time-deck/</guid>
+      <description>The Space·Time Deck is a card deck designed to be used as an improv tool, both for storytelling and role-playing games.
+                         We will be posting more about this deck in future posts.
+Note that the oddly large margins are there by design. We&amp;rsquo;ll try and offer this deck for on-demand printing, and such margins are required by printers.</description>
+    </item>
+    
+  </channel>
+</rss>
