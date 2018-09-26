@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Plotonomicon on Space·Time Will Tell</title>
+    <link>https://space-timewilltell.github.io/tags/plotonomicon/</link>
+    <description>Recent content in Plotonomicon on Space·Time Will Tell</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Sep 2018 11:18:34 +0200</lastBuildDate>
+    
+	<atom:link href="https://space-timewilltell.github.io/tags/plotonomicon/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project: The Plotonomicon</title>
+      <link>https://space-timewilltell.github.io/plotonomicon/</link>
+      <pubDate>Wed, 26 Sep 2018 11:18:34 +0200</pubDate>
+      
+      <guid>https://space-timewilltell.github.io/plotonomicon/</guid>
+      <description>We&amp;rsquo;re currently working on a book dedicated to improv in storytelling and role-playing games: The Plotonomicon.
+Stay tuned for more!</description>
+    </item>
+    
+  </channel>
+</rss>
