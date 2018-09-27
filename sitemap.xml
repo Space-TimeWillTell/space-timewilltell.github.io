@@ -147,18 +147,6 @@
     </url>
   
     <url>
-      <loc>https://space-timewilltell.github.io/tags/improv/</loc>
-      
-      <lastmod>2018-09-27T12:05:58+02:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
       <loc>https://space-timewilltell.github.io/categories/improv/</loc>
       
       <lastmod>2018-09-27T12:05:58+02:00</lastmod>
@@ -171,7 +159,7 @@
     </url>
   
     <url>
-      <loc>https://space-timewilltell.github.io/tags/plotonomicon/</loc>
+      <loc>https://space-timewilltell.github.io/tags/improv/</loc>
       
       <lastmod>2018-09-27T12:05:58+02:00</lastmod>
       
@@ -195,7 +183,7 @@
     </url>
   
     <url>
-      <loc>https://space-timewilltell.github.io/post/</loc>
+      <loc>https://space-timewilltell.github.io/tags/plotonomicon/</loc>
       
       <lastmod>2018-09-27T12:05:58+02:00</lastmod>
       
@@ -207,9 +195,9 @@
     </url>
   
     <url>
-      <loc>https://space-timewilltell.github.io/tags/ronin-time-bureaucrats/</loc>
+      <loc>https://space-timewilltell.github.io/post/</loc>
       
-      <lastmod>2018-09-26T11:19:16+02:00</lastmod>
+      <lastmod>2018-09-27T12:05:58+02:00</lastmod>
       
       
       
@@ -231,9 +219,9 @@
     </url>
   
     <url>
-      <loc>https://space-timewilltell.github.io/tags/rpg/</loc>
+      <loc>https://space-timewilltell.github.io/tags/ronin-time-bureaucrats/</loc>
       
-      <lastmod>2018-09-27T12:05:58+02:00</lastmod>
+      <lastmod>2018-09-26T11:19:16+02:00</lastmod>
       
       
       
@@ -255,9 +243,9 @@
     </url>
   
     <url>
-      <loc>https://space-timewilltell.github.io/tags/space-time-deck/</loc>
+      <loc>https://space-timewilltell.github.io/tags/rpg/</loc>
       
-      <lastmod>2018-09-24T19:01:39+02:00</lastmod>
+      <lastmod>2018-09-27T12:05:58+02:00</lastmod>
       
       
       
@@ -291,6 +279,18 @@
     </url>
   
     <url>
+      <loc>https://space-timewilltell.github.io/tags/space-time-deck/</loc>
+      
+      <lastmod>2018-09-24T19:01:39+02:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
       <loc>https://space-timewilltell.github.io/</loc>
       
       <lastmod>2018-09-27T12:05:58+02:00</lastmod>
@@ -315,7 +315,7 @@
     </url>
   
     <url>
-      <loc>https://space-timewilltell.github.io/tags/tutorial/</loc>
+      <loc>https://space-timewilltell.github.io/categories/tutorial/</loc>
       
       <lastmod>2018-09-26T11:09:24+02:00</lastmod>
       
@@ -327,7 +327,7 @@
     </url>
   
     <url>
-      <loc>https://space-timewilltell.github.io/categories/tutorial/</loc>
+      <loc>https://space-timewilltell.github.io/tags/tutorial/</loc>
       
       <lastmod>2018-09-26T11:09:24+02:00</lastmod>
       
