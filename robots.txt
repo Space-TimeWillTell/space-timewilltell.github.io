@@ -63,4 +63,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: https://space-timewilltell.github.io/sitemap.xml
+Sitemap: http://spacetimewilltell.yoric.xyz/sitemap.xml

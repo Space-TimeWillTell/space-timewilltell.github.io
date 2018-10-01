@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Space-time deck on Space·Time Will Tell</title>
-    <link>https://space-timewilltell.github.io/tags/space-time-deck/</link>
-    <description>Recent content in Space-time deck on Space·Time Will Tell</description>
+    <title>Space-time-deck on Space·Time Will Tell</title>
+    <link>http://spacetimewilltell.yoric.xyz/tags/space-time-deck/</link>
+    <description>Recent content in Space-time-deck on Space·Time Will Tell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 24 Sep 2018 19:01:39 +0200</lastBuildDate>
     
-	<atom:link href="https://space-timewilltell.github.io/tags/space-time-deck/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://spacetimewilltell.yoric.xyz/tags/space-time-deck/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Improv(is)ing stories with cards</title>
-      <link>https://space-timewilltell.github.io/post/why-cards/</link>
+      <link>http://spacetimewilltell.yoric.xyz/post/why-cards/</link>
       <pubDate>Mon, 24 Sep 2018 19:01:39 +0200</pubDate>
       
-      <guid>https://space-timewilltell.github.io/post/why-cards/</guid>
+      <guid>http://spacetimewilltell.yoric.xyz/post/why-cards/</guid>
       <description>Earlier, we have posted the Space·Time Deck.
 It&amp;rsquo;s a set of cards, designed to help with improv.
 But why cards?
@@ -26,10 +26,10 @@ Do you know the ideal improviser? His name is Keyser Söze.</description>
     
     <item>
       <title>Introducing the Space·Time Deck</title>
-      <link>https://space-timewilltell.github.io/post/the-space-time-deck/</link>
+      <link>http://spacetimewilltell.yoric.xyz/post/the-space-time-deck/</link>
       <pubDate>Mon, 24 Sep 2018 17:43:09 +0200</pubDate>
       
-      <guid>https://space-timewilltell.github.io/post/the-space-time-deck/</guid>
+      <guid>http://spacetimewilltell.yoric.xyz/post/the-space-time-deck/</guid>
       <description>The Space·Time Deck is a card deck designed to be used as an improv tool, both for storytelling and role-playing games.
  The Excuse.  I.  II.  III.  IV.  V.  VI.  VII.  VIII.  IX.  X.  XI.  XII.  XIII.  XIV.  XV.  XVI.  XVII.  XVIII.  XIX.  XX.  XXI.  Back.   We will be posting more about this deck in future posts.</description>
     </item>
