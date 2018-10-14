@@ -6,8 +6,206 @@
     <description>Recent content in Space-Time Will Tell on Space-Time Will Tell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Oct 2018 10:50:23 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 14 Oct 2018 17:35:18 +0200</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Conflict Resolution With the Space·Time Deck</title>
+      <link>http://spacetimewilltell.yoric.xyz/post/conflict-resolution-with-the-space-time-deck/</link>
+      <pubDate>Sun, 14 Oct 2018 17:35:18 +0200</pubDate>
+      
+      <guid>http://spacetimewilltell.yoric.xyz/post/conflict-resolution-with-the-space-time-deck/</guid>
+      <description>
+
+&lt;p&gt;Most Role-Playing Games resolve conflicts with dice. But since
+we have a &lt;a href=&#34;http://spacetimewilltell.yoric.xyz/tags/space-time-deck&#34;&gt;Space·Time Deck&lt;/a&gt; at hand
+(or any other kind of Tarot-like Deck), let&amp;rsquo;s see if we can
+use it to bring about a different manner of resolving conflicts.&lt;/p&gt;
+
+&lt;p&gt;The following is an extract from the Work-in-Progress &lt;a href=&#34;http://spacetimewilltell.yoric.xyz/plotonomicon&#34;&gt;Plotonomicon&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&#34;what-is-a-conflict&#34;&gt;What is a conflict?&lt;/h1&gt;
+
+&lt;p&gt;A conflict is a scene in which two parties or more have
+agendas which cannot be fulfilled simultaneously. In most role-playing
+games, the most common form of conflict is the combat, but that is by
+no mean the only form possible: conflict could be car races, social wit,
+political campaigns, chess, battlefield strategy, attempting to ruin your
+opponent&amp;rsquo;s reputation or fortune, popularity contests, football matches,
+etc.&lt;/p&gt;
+
+&lt;p&gt;Conflict does not have to be symmetrical. A guerilla may be attempting to
+cause maximal damage to infrastructure while the government forces attempt
+to destroy the guerilla forces. An outlying party may be attempting to
+propagate its doctrine while the more traditional parties attempt to
+maintain the status quo. A sniper may attempt to kill a target. A child
+may be attempting to attract attention during a kidnapping attempt.&lt;/p&gt;
+
+&lt;p&gt;Conflicts assumes that both parties have some manner of assessing their
+situation, and have some ability to act. In other words, as long as the
+target of the sniper is not aware of the sniper, there is no conflict &lt;em&gt;between
+the sniper and the target&lt;/em&gt;. In other words, if no other factors are in play,
+the act of sniping will most likely be a simple case of &lt;strong&gt;Overcoming an obstacle&lt;/strong&gt;.
+On the other hand, if the target is running away, there is a – very asymmetrical —
+conflict between the sniper and the target. Similarly, if an enemy patrol is
+currently looking for an infiltrator, there is a conflict between the sniper&amp;rsquo;s
+smarts, stealth and sniping ability and the enemy patrol&amp;rsquo;s smarts and detection
+ability. Similarly, if the traditional parties are busy quelling a political
+crisis or are unaware of the outlying party, there is no conflict between the
+outlying party and the traditional parties – although there could be a
+conflict between the outlying party and a specific candidate.&lt;/p&gt;
+
+&lt;p&gt;Conflicts decide whether any of the parties manage to reach their desired
+outcome. In the case of a race, the desired outcome is typically arriving
+first. In the case of a gang fight, the desired outcome is typically getting
+the other gang to end up broken and bleeding or fleeing. In the case of a
+sniper vs. patrol, the desired outcome is typically evading the patrol and
+killing the target vs. capturing the intruder before he has the chance to
+cause damage. The players representing each party must have a clear idea
+of the desired outcome for the conflict.&lt;/p&gt;
+
+&lt;p&gt;They are, of course, entirely free to change the desired outcome, but this
+may end up completely changing the state of the conflict. For instance, if
+the hidden sniper finds themself cornered, they may decide to change plan,
+create maximum chaos and attempt to escape – but that&amp;rsquo;s a new conflict.&lt;/p&gt;
+
+&lt;p&gt;The following conflict resolution mechanics are, by design, as minimal as
+possible. They assume that the players already know how to estimate the difference
+of strengths between the parties in a conflict.&lt;/p&gt;
+
+&lt;h1 id=&#34;setting-up-a-conflict&#34;&gt;Setting up a Conflict&lt;/h1&gt;
+
+&lt;p&gt;Before the Conflict starts, the Table needs to:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Agree that it is a Conflict.&lt;/li&gt;
+&lt;li&gt;Determine the Parties involved.&lt;/li&gt;
+&lt;li&gt;Determine the Desired Outcomes.&lt;/li&gt;
+&lt;li&gt;Determine the initial Balance of the Conflit. It may be either
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Balanced&lt;/strong&gt; – while the parties may be widely different,
+they have roughly the same chances of succeeding.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unbalanced&lt;/strong&gt; – one party has a strong advantage.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Overwhelming&lt;/strong&gt; – one party is nearly certain of victory.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;We do not cover this last point – it is left up to the Table, depending
+on how each Party is defined.&lt;/p&gt;
+
+&lt;h1 id=&#34;resolving-a-conflict&#34;&gt;Resolving a Conflict&lt;/h1&gt;
+
+&lt;p&gt;Conflict Resolution takes place in rounds. Rounds do &lt;strong&gt;not&lt;/strong&gt; have a specific
+duration. One round may last a few seconds while the next one lasts several
+months - as long as it makes sense in-story.&lt;/p&gt;
+
+&lt;p&gt;Each Round starts with each party describing broadly their current tactics to
+reach their Desired Outcome.&lt;/p&gt;
+
+&lt;p&gt;The Round will let the Table determine:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;which party, if any, has advanced towards their Desired Outcome;&lt;/li&gt;
+&lt;li&gt;how it happened;&lt;/li&gt;
+&lt;li&gt;whether the Conflict continues, stops entirely or changes shape.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://spacetimewilltell.yoric.xyz/images/space-time-deck/conflict-resolution.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;draw-cards&#34;&gt;Draw cards&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;If the Conflict is &lt;strong&gt;Balanced&lt;/strong&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Each side picks a card of the Space·Time Deck.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;If the Conflict is &lt;strong&gt;Unbalanced&lt;/strong&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The advantaged side draws two cards.&lt;/li&gt;
+&lt;li&gt;The disadvantaged sides draw one card.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;If the Conflict is &lt;strong&gt;Overwhelming&lt;/strong&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The advantaged side draws two cards.&lt;/li&gt;
+&lt;li&gt;The disadvantaged sides also draw two cards.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Once drawn, cards are visible.&lt;/p&gt;
+
+&lt;h2 id=&#34;shifting-balance&#34;&gt;Shifting Balance&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;If any of the cards drawn is the Excuse
+
+&lt;ul&gt;
+&lt;li&gt;The Balance of Conflict moves towards &lt;strong&gt;Balanced&lt;/strong&gt;:
+
+&lt;ul&gt;
+&lt;li&gt;Balanced -&amp;gt; Balanced&lt;/li&gt;
+&lt;li&gt;Unbalanced -&amp;gt; Balanced&lt;/li&gt;
+&lt;li&gt;Overwhelming -&amp;gt; Unbalanced&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Discard the Excuse and draw another one for narration purposes.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Otherwise, if the Conflict is &lt;strong&gt;Balanced&lt;/strong&gt;
+
+&lt;ul&gt;
+&lt;li&gt;If the card of a party beats the card of all other parties, the Balance moves in favor of the winning party
+
+&lt;ul&gt;
+&lt;li&gt;Balanced -&amp;gt; Unbalanced&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Otherwise, the round is a stalemate, the Balance does not change&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Otherwise
+
+&lt;ul&gt;
+&lt;li&gt;If, for &lt;em&gt;every one of the&lt;/em&gt; disadvantaged parties involved, there is one card of the advantaged side and one card of the disadvantaged side such that the the advantaged side wins, the Balance moves in favor of the side that is already advantaged
+
+&lt;ul&gt;
+&lt;li&gt;Balanced -&amp;gt; Unbalanced&lt;/li&gt;
+&lt;li&gt;Unbalanced -&amp;gt; Overwhelming&lt;/li&gt;
+&lt;li&gt;Overwhelming -&amp;gt; Victory&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;If, for &lt;em&gt;every one of the&lt;/em&gt; disadvantaged party involved, all the combinations of one card of the advantaged side
+and one card of the disadvantaged side imply that the advantaged side loses, the Balance moves towards &lt;strong&gt;Balanced&lt;/strong&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Unbalanced -&amp;gt; Balanced&lt;/li&gt;
+&lt;li&gt;Overwhelming -&amp;gt; Unbalanced&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Otherwise, the Balance remains unchanged.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;narrating-the-outcome&#34;&gt;Narrating the outcome&lt;/h2&gt;
+
+&lt;p&gt;Using the images and/or interpretations on the Cards as a basis
+for narration, each side gets to narrate how their immediate
+tactics beat the other sides&amp;rsquo;/backfired or was beaten by the
+other sides&amp;rsquo;. Note that a side may not dictate what the other
+sides did, only how it interacted with their own tactics.&lt;/p&gt;
+
+&lt;h2 id=&#34;deciding-whether-the-conflict-continues&#34;&gt;Deciding whether the Conflict continues&lt;/h2&gt;
+
+&lt;p&gt;If any side reached Victory, the Conflict is over,
+congratulations, that side&amp;rsquo;s Desired Outcome has been
+reached.&lt;/p&gt;
+
+&lt;p&gt;Otherwise, any side may decide to stop the Conflict,
+possibly to turn it into a different Conflict. In
+particular, if there are more than two sides, two
+sides may decide to temporarily join forces, with
+the Desired Outcome of getting rid of a third side.
+Of course, two sides who had temporarily joined forces
+may break their alliance.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Space·Time Deck: The Suit of Scissors (or Blades)</title>
@@ -818,34 +1016,6 @@ so don&amp;rsquo;t hesitate to take a look at the book!&lt;/p&gt;
 
 &lt;p&gt;Credit for the idea of a Fate Core summary of rules goes to &lt;a href=&#34;http://www.uptofourplayers.com/fate-core-rules/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Up to 4 players&lt;/a&gt;.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Ronin Time Bureaucrats: Is there an afterlife?</title>
-      <link>http://spacetimewilltell.yoric.xyz/post/rtb-afterlife/</link>
-      <pubDate>Mon, 10 Sep 2018 19:24:40 +0200</pubDate>
-      
-      <guid>http://spacetimewilltell.yoric.xyz/post/rtb-afterlife/</guid>
-      <description>&lt;p&gt;Is there an afterlife?&lt;/p&gt;
-
-&lt;p&gt;Why, of course, there is, and you came to the right place!&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;Here, at &lt;strong&gt;Time After Time After Time Corporation&lt;/strong&gt;, we pride ourselves of taking care of both your Dearly Departed and of those Death-is-too-good-for-him types. While our competition will simply recreate digitized automatons to give you the illusion of interacting with the dead, we, at Time After Time After Time Corporation, we pride ourselves of having the ability to capture and upload the very SoulMind &amp;trade; of the dead.&lt;/p&gt;
-
-&lt;p&gt;Once you sign with Time After Time After Time Corporation, we will assemble a team of highly trained Space·Time operatives, who will be sent at the exact place and instant of death. They will install an undetectable SoulStream &amp;trade; to scan and upload the the SoulMind &amp;trade; of the dead to one of our own, patented, absolutely secure, SoulSpheres &amp;trade;.&lt;/p&gt;
-
-&lt;p&gt;We offer a comprehensive choice of culturally-appropriate Heavens and Hells for most beliefs throughout the past, present and future history of mankind.&lt;/p&gt;
-
-&lt;p&gt;Time After Time After Time Corporation, where we take care of the dead, for as many eternities as it takes!&lt;/p&gt;
-
-&lt;p&gt;(extract of &lt;a href=&#34;https://legacy.gitbook.com/book/yoric/rogue-time-bureaucrats/details&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Ronin Time Bureaucrats&lt;/em&gt;&lt;/a&gt;, &lt;a href=&#34;https://yoric.gitbooks.io/rogue-time-bureaucrats/content/here-there-and-right-behind-you-the-bureaucracy.html&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Here, There and Right Behind You: The Bureaucracy&lt;/a&gt;)&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;This post is part of the RPG Blog Carnival of October 2018: &lt;a href=&#34;https://ofdiceanddragons.com/character-death-resurrection-and-the-undead-october-2018-rpg-blog-carnival/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Character death, resurrection, and the undead&lt;/em&gt;&lt;/a&gt;.
-&lt;img src=&#34;https://ofdiceanddragons.com/RPG-Carnival/RPGBlogCarnivalLogoSmall.jpg&#34; alt=&#34;RPG Blog Carnival&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>
