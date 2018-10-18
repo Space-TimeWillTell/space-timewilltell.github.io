@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Space·Time Will Tell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Oct 2018 12:37:23 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 18 Oct 2018 22:10:15 +0200</lastBuildDate>
     
 	<atom:link href="http://space-timewilltell.yoric.xyz/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hello, Indie Rpg Planet!</title>
+      <link>http://space-timewilltell.yoric.xyz/post/hello-indie-rpg-planet/</link>
+      <pubDate>Thu, 18 Oct 2018 22:10:15 +0200</pubDate>
+      
+      <guid>http://space-timewilltell.yoric.xyz/post/hello-indie-rpg-planet/</guid>
+      <description>Thanks Alex Schroeder for putting together the Indie RPG Planet! I believe that the Indie RPG community was sorely missing something like this.</description>
+    </item>
     
     <item>
       <title>Space·Time Deck: The Suit of Serpents</title>
