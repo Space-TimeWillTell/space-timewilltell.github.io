@@ -6,8 +6,270 @@
     <description>Recent content in Space·Time Will Tell on Space·Time Will Tell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Oct 2018 22:22:49 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 27 Oct 2018 17:35:18 +0200</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>N-Dimensional Tourists: Conflict Resolution</title>
+      <link>http://space-timewilltell.yoric.xyz/post/tourists-conflict-resolution/</link>
+      <pubDate>Sat, 27 Oct 2018 17:35:18 +0200</pubDate>
+      
+      <guid>http://space-timewilltell.yoric.xyz/post/tourists-conflict-resolution/</guid>
+      <description>
+
+&lt;h1 id=&#34;about-conflicts&#34;&gt;About Conflicts&lt;/h1&gt;
+
+&lt;p&gt;TBD&lt;/p&gt;
+
+&lt;h1 id=&#34;small-recap-of-character-attributes&#34;&gt;Small recap of character attributes&lt;/h1&gt;
+
+&lt;p&gt;In N-Dimensional Tourists, each character is defined by:
+- Any number of Traits, which determine what the character can do;
+- 5 Attributes, which determine how good a character is at their tasks;
+- Any number of Specialties, which match Attributes to specific tasks;
+- At least one Weakness, which makes their life more complicated.&lt;/p&gt;
+
+&lt;p&gt;The Attributes are:
+- Rock (stability, authority, power, physical strength);
+- Paper (knowledge, deduction, riches);
+- Blades (violence, ability to effect change);
+- Serpent (speed, survival, stealth);
+- Unknown (imagination, intuition, perception).&lt;/p&gt;
+
+&lt;p&gt;Attributes range between 1 and 5. Other definitions are not numbered.&lt;/p&gt;
+
+&lt;p&gt;Additionally, heroes start each session with a Reserve of 3 cards. We will see below one way to use these cards.&lt;/p&gt;
+
+&lt;h1 id=&#34;resolving-the-conflict&#34;&gt;Resolving the Conflict&lt;/h1&gt;
+
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;During a Conflict, each party attempts to reach a goal, by adopting shifting
+tactics.&lt;/p&gt;
+
+&lt;p&gt;The key concept during a Conflict is the Advantage, which represents how close the
+Dominant party is to having complete control of the Conflict. If the Conflict is
+balanced, there is no Dominant party and the Advantage is 0. Otherwise, there
+is a Dominant party, and its Advantage value is a positive number. Regardless of
+how many parties are involved in the Conflict, only one party may have the Advantage.
+Once a party has complete control of the Conflict, none can stop it from reaching
+its goal.&lt;/p&gt;
+
+&lt;p&gt;The Conflict takes place as a sequence of Rounds. Each Round represents all parties
+attempting to execute their tactics to either grab the Advantage, if the Conflict
+is Balanced, or otherwise strengthen/weaken the Advantage. Two successive Rounds may
+represent entirely different durations, depending on what makes sense in the story –
+one round may very well last ten minutes and the next one ten years, without problem.&lt;/p&gt;
+
+&lt;p&gt;To grab the Advantage, strengthen their Advantage or weaken the opponent&amp;rsquo;s Advantage,
+each party may need to take risks. With risks come the possibility of Losses. Depending
+on the Conflict, Losses may represent wounds, engine issues, delays, lack of information,
+loss of soldiers, etc. As a
+party accumulates Losses, it becomes weaker, hence making it easier for other parties
+to beat them. Losses may end up with a party being Wiped Out. That&amp;rsquo;s not something
+you want to see happen to your party, as this represents the worst possible outcome –
+possibly death, or slavery, or social infamy, or life behind bars, depending on the
+Conflict. Rather, most parties leave a Conflict by Conceding it, which may represent
+for instance the party surrendering, fleeing, stepping down from power, etc. depending
+on the Conflict.&lt;/p&gt;
+
+&lt;p&gt;Taking risks is represented by a bidding mechanism – each card drawn increases the party&amp;rsquo;s
+chance of achieving their tactics for the round, but also the chance of being hit by
+Losses. Higher Advantage gives the Dominant party the ability to draw more cards before
+they start taking risks.&lt;/p&gt;
+
+&lt;p&gt;If, during the Conflict, a party finds itself in a situation in which it can suddenly
+gain an advantage for reasons related to the story, rather than the cards themselves,
+this party may take the opportunity, hence causing the Conflict to end immediately
+and resume on different terms. This is called Reframing the Conflict. This is what
+happens if a discussion leads to violence, or if a fleeing driver leaves the vehicle
+to enter the subway, or if a political figure caught in a scandal declares a War
+on Terror to distract the public opinion.&lt;/p&gt;
+
+&lt;p&gt;Let&amp;rsquo;s now see the details.&lt;/p&gt;
+
+&lt;h2 id=&#34;establishing-parties-and-goals&#34;&gt;Establishing parties and goals&lt;/h2&gt;
+
+&lt;p&gt;The first thing to do during a Conflict is to establish the parties and the goals.&lt;/p&gt;
+
+&lt;h3 id=&#34;example-kaiju&#34;&gt;Example: Kaiju&lt;/h3&gt;
+
+&lt;p&gt;Consider a Kaiju setting. This is Wednesday morning, so a giant monster is attacking Tokyo.
+For some reason, everybody knows its name: Levinulon. The Mechanized Tokyo Defense Force is currently mobilizing. Tokyo&amp;rsquo;s Police is attempting to shoot at Levinulon using whatever is
+at hand, but they have no chance of doing any damage. Civilians are fleeing. A gang of
+criminals (&amp;ldquo;Family Z&amp;rdquo;) is taking advantage of the chaos to rob a bank.&lt;/p&gt;
+
+&lt;p&gt;What are the sides? Well, it depends on who is interesting.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../../images/posts/tourists-conflict-resolution/kaiju.png&#34; alt=&#34;Picture by Wikipedia User D J Shin – My Toy Museum – Licensed under Creative Commons Attribution ShareAlike 3.0&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If we are interested in Levinulon and the Mechanized Tokyo Defense Force, then these are the two sides. Levinulon intends to destroy the city, while the Mechanized Tokyo Defense Force intends to
+save the city. The Police and civilians will certainly take damange, as well as Tokyo itself, but they have no means of altering the outcome of the Conflict. Rather, they will be used for narrative purposes, to show the progress of Levinulon.&lt;/p&gt;
+
+&lt;p&gt;Or, maybe we are concentrating on the Conflict between Family Z and Police. Family Z intends
+to grab the contents of the bank vaults and leave during the chaos, while the Police intends
+arrest or shoot the gangsters. In this case,
+the Mechanized Tokyo Defense Force, Levinulon and the Civilizans will be there only for
+narrative purposes, for instance to explain why the Police may end up losing Advantage
+against such a low-profile gang (&amp;ldquo;all our communication channels are busy, we can&amp;rsquo;t
+synchronize&amp;rdquo;).&lt;/p&gt;
+
+&lt;p&gt;Or maybe we are concentrating on the efforts of Police officers to evacuate civilians towards safety bunkers. In this case, the parties are the Police officers and Generalized destruction.
+Police officers intend to avoid Civilian losses, while Generalized destruction intends to
+maximize it – of course, this only makes sense if Generalized destruction can somehow be interpreted as having a goal and tactics. This depends entirely on the kind of story you intend to tell. Here, the Mechanized Tokyo Defense Force, Levinulon, the Civilians and Family Z are there purely for narrative purposes, and will serve to explain increasing or decreasing Advantage by
+Police officers and Generalized destruction.&lt;/p&gt;
+
+&lt;p&gt;Note that none of these examples &lt;em&gt;has&lt;/em&gt; to be a Conflict. The Mechanized Tokyo Defense Force
+vs. Levinulon, or Family Z vs. the Police, or the Police vs. Civilian losses may very well
+be represented as &lt;strong&gt;Overcoming Obstacles&lt;/strong&gt; if one of the sides is considered a simple obstacle
+rather than an active Conflict Party. The GM gets to decide what feels more interesting.&lt;/p&gt;
+
+&lt;h3 id=&#34;example-here-comes-a-new-challenger&#34;&gt;Example: Here comes a new challenger&lt;/h3&gt;
+
+&lt;p&gt;Apparently, the US Covert Mech Operations are in Tokyo for an unrelated reason. They are going to join the Conflict.&lt;/p&gt;
+
+&lt;p&gt;Does this make it a three-sided Conflict? Well, it depends on what the US Covert Mech Operations intend to do.&lt;/p&gt;
+
+&lt;p&gt;If the US Covert Mech Operations join forces with the Mechanized Tokyo Defense Force, then no. They are going to help with the initial Advantage, and they are going to have a narrative role, but for the purpose of rules, they are part of the same party as the Mechanized Tokyo Defense Force. So, this remains a Conflict between two sides.&lt;/p&gt;
+
+&lt;p&gt;Now, it is possible that the US Covert Mech Operations was in Tokyo for economic warfare purposes, and the Mechanized Tokyo Defense Force has strict orders to disable their mechs and help the Police capture the US Covert Mech Operations agents, in addition to fighting Levinulon. The US Covert Mech Operations need to reach the Tokyo Stock Exchange and hack it before Levinulon destroys it, shooting down any Mechanized Tokyo Defense Force Officer that comes in the way. Meanwhile, Levinulon is quite happy to destroy everything. In this case, we have three sides in the Conflict.&lt;/p&gt;
+
+&lt;p&gt;By the way, it looks like a helicopter crew of Tokyo News has just arrived on the site. The objective of this helicopter crew is, of course, to gather the best possible images, which may mean putting itself in danger. A vicious GM may decide to make this helicopter crew yet another party. One of the objectives of the Mechanized Tokyo Defense Force is to defend the Tokyo News Crew, which means preventing it from getting the best images. The US Covert Mech Operations must not leave any recorded trace, which also means destroying the helicopter crew. If so, the site has just become a four-sided Conflict.&lt;/p&gt;
+
+&lt;h2 id=&#34;establishing-advantage&#34;&gt;Establishing advantage&lt;/h2&gt;
+
+&lt;p&gt;Each party gets to pick the Attribute they use for the Conflict, as long as it makes sense within the story. Driving Mechs to battle requires either Blades (for the violence), Serpent (for the quick reflexes) or Paper (for the strategy) – of course, you may only do so if you have an Trait that implies that you can drive Mechs at all. Destroying Tokyo with sheer force requires either Blades (for the violence) or Stone (for the raw power). Leading Civilians to safety requires either Paper (for the strategy) or Stone (for the authority).&lt;/p&gt;
+
+&lt;p&gt;Take the numerical value of the Attribute of the party as a baseline. For each Trait that the party has that makes sense within the Conflict, add 1. Similarly, for each Weakness that makes sense, remove 1. If the party doesn&amp;rsquo;t have its own Attributes but is composed of several characters, take as baseline the best Attribute across characters, and all the Traits and Weaknesses that make sense, for all characters.&lt;/p&gt;
+
+&lt;p&gt;When creating NPCs or parties, it is common to write directly a specialized Attribute that may be used during such conflicts, e.g. Levinulon may have Destroy Everything at 8.&lt;/p&gt;
+
+&lt;p&gt;The party with highest total starts with the Advantage. The value of the advantage is the number of ranks of difference between the highest total and the second-highest. Note that if this rank is 5 or more, the chances of the leading party winning are extremely strong, so it may not be necessary to actually have a Conflict. If no party has the highest total, the Conflict starts Balanced.&lt;/p&gt;
+
+&lt;p&gt;In a Conflict with three parties or more, this may mean that a party that is comparatively much weaker than the others starts Balanced. This represents the fact that both stronger parties will be much busier fighting each other than fighting this smaller party.&lt;/p&gt;
+
+&lt;h3 id=&#34;example-kaiju-1&#34;&gt;Example: Kaiju&lt;/h3&gt;
+
+&lt;p&gt;Let us concentrate on the main event: the Tokyo Mechanized Defense Force vs. Levinulon. As mentioned above, Levinulon has been defined with a specialized attribute Destroy Everything at 8.&lt;/p&gt;
+
+&lt;p&gt;The Tokyo Mechanized Defense Force as a whole is defined with a Paper of 5, thanks to the excellent command team. On its character sheet, it also a &lt;em&gt;Well-trained team&lt;/em&gt; (+1), &lt;em&gt;The most agile mechs in the world&lt;/em&gt; (+1) and &lt;em&gt;Excellent knowledge of Tokyo&lt;/em&gt; (+1). Sadly, during the latest fight, it was determined that &lt;em&gt;The second-in-command is severely wounded&lt;/em&gt; – and is probably still in the hospital – (-1). The total is 7.&lt;/p&gt;
+
+&lt;p&gt;With 8 - 7, Levinulon has a slight Advantage (1).&lt;/p&gt;
+
+&lt;h3 id=&#34;example-here-comes-a-new-challenger-1&#34;&gt;Example: Here comes a new challenger&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;../../images/posts/tourists-conflict-resolution/mech.png&#34; alt=&#34;Picture by Flickr User Brian Rinker – Licensed under Creative Commons Attribution Generic 2.0&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Let&amp;rsquo;s add the US Covert Mech Operations to the mix. It is a team of &lt;em&gt;Highly-trained Operatives&lt;/em&gt; (+1), with a Blades of 5. It also has &lt;em&gt;Deadly tactical weapons&lt;/em&gt; (+1), &lt;em&gt;Space-to-Ground support&lt;/em&gt; (+1), &lt;em&gt;Regenerative Alloy&lt;/em&gt; (+1). It has been established as Weakness that they also have &lt;em&gt;Limited Knowledge of Tokyo&lt;/em&gt; (-1). This gives them a total of 8, at equality with Levinulon. Consequently, in a three-sided Conflict, the Conflict starts Balanced.&lt;/p&gt;
+
+&lt;p&gt;This remains true if we add the Tokyo News Crew, with a Serpent of 4 and &lt;em&gt;No Fear&lt;/em&gt; (+1) for a total of 5. Despite the fact that the Crew is so puny with respect of all the other parties, the rules don&amp;rsquo;t give it a specific disadvantage.&lt;/p&gt;
+
+&lt;h1 id=&#34;resolving-the-conflict-1&#34;&gt;Resolving the Conflict&lt;/h1&gt;
+
+&lt;p&gt;A conflict is composed of rounds. During each round, each party has a tactics to either
+grab the advantage (if the Conflict is Balanced), consolidate their advantage (if they
+are the Dominant party) or weaken the advantage of the Dominant party (otherwise).&lt;/p&gt;
+
+&lt;p&gt;Each round is composed of a succession of bids. Each bid is an opportunity for a party to
+take more risks in the pursuit of their immediate tactics. Once bids are complete, parties
+get to narrate what happened to their character during the round.&lt;/p&gt;
+
+&lt;h2 id=&#34;declaring-tactics&#34;&gt;Declaring tactics&lt;/h2&gt;
+
+&lt;p&gt;Before drawing cards, each party must describe their tactics for the round. Tactics may
+change from round to round, and should always be a manner of achieving either control
+of the Conflict or reaching the stated Goal of the party.&lt;/p&gt;
+
+&lt;p&gt;Tactics live purely in the fiction, rather than the rules – in other words, they have no
+impact on the drawing of cards. However, they open the way to Reframing the Conflict
+(see below).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../../images/posts/tourists-conflict-resolution/Napoleon.png&#34; alt=&#34;Ludwig Elsholtz Napoleon I. mit seinen Generalen – Public Domain&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;example-kaiju-2&#34;&gt;Example: Kaiju&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Levinulon: &amp;ldquo;I will simply attempt to do as much damage as I can, trampling the subway if it&amp;rsquo;s close to me.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Tokyo Mechanized Defense Force: &amp;ldquo;We move to intercept Levinulon and distract it from the crowds.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;example-here-comes-a-new-challenger-2&#34;&gt;Example: Here comes a new challenger&lt;/h3&gt;
+
+&lt;h2 id=&#34;balanced-round&#34;&gt;Balanced round&lt;/h2&gt;
+
+&lt;p&gt;Balanced rounds happen whenever all parties are equally matched.&lt;/p&gt;
+
+&lt;h2 id=&#34;unbalanced-round&#34;&gt;Unbalanced round&lt;/h2&gt;
+
+&lt;p&gt;If a round starts Unbalanced in favor of a party (the Dominant), the objective of the Dominant
+is to both use their power to drive the other parties (the Contenders) out of the game and to consolidate their advantage. Conversely, the objective of the other parties (the Contenders) is to decrease the advantage of the Dominant, hopefully returning it to Balance. To do this, the Dominant and the Contenders take part in a succession of &lt;em&gt;bids&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Bidding is the act of deciding to draw one card, then placing it in front of the player without changing its orientation. Drawing a card increases both the risk to the party and its ability to grab or consolidate advantage.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Contender parties speak first, in an arbitrary order (clockwise around the table works nicely),
+each bidding or passing;&lt;/li&gt;
+&lt;li&gt;Dominant may then bid or pass;&lt;/li&gt;
+&lt;li&gt;this repeats until all Contenders and the Dominant have all passed.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This flow may be altered by Using the Advantage, or Using the other party&amp;rsquo;s Weaknesses (see below).&lt;/p&gt;
+
+&lt;p&gt;The bidding ends once:
+- the Excuse shows up; or
+- all parties have passed; or
+- all parties but one have been Taken Out.&lt;/p&gt;
+
+&lt;p&gt;See below for interpretations of all these endings.&lt;/p&gt;
+
+&lt;h3 id=&#34;bidding-ends&#34;&gt;Bidding ends&lt;/h3&gt;
+
+&lt;p&gt;If the Excuse shows up, the Advantage of the Dominant is automatically decreased by 1, possibly
+returning the Conflict to Balance. The player who drew the Excuse discards it and draws another
+card for narrative purposes. If this card is reversed, it counts when collecting Weaknesses (see below).&lt;/p&gt;
+
+&lt;p&gt;If all parties have passed, the Round may either Decrease the advantage of the Dominant
+or Consolidate it. The advantage Decreases if and only if at least one Contender has managed to have in front of them a set of cards that can beat all the cards of the Dominant. Otherwise, the Round Consolidates the advantage of the Dominant.&lt;/p&gt;
+
+&lt;p&gt;If all parties but one have been Taken Out, the remaining party is the victor and has complete
+narrative control of the situation. As long as it makes sense within the story, this may include deciding that the other parties have been killed to the last person standing, or shamed in front of their peers, leaving no choice but sepukku, or dragged to a convent to spend the rest of their
+lives, or ruined and driven to bankrupcy, &amp;hellip; It should be noted that this is &lt;strong&gt;not&lt;/strong&gt; how most Confrontations end.&lt;/p&gt;
+
+&lt;h3 id=&#34;benefits-of-advantage&#34;&gt;Benefits of advantage&lt;/h3&gt;
+
+&lt;p&gt;If one of the parties starts a round with an advantage of &lt;em&gt;n&lt;/em&gt; ranks, it may turn &lt;em&gt;n&lt;/em&gt; cards (of any side) during this round. This may be used to un-reverse their own cards, or to reverse adversary
+cards.&lt;/p&gt;
+
+&lt;p&gt;Turning a card may only be done immediately after the card is drawn.&lt;/p&gt;
+
+&lt;h3 id=&#34;handling-multiple-players-or-characters-per-party&#34;&gt;Handling multiple players or characters per party&lt;/h3&gt;
+
+&lt;p&gt;If one party consists in several players or characters, they are free to decide which of
+the player or character is taking part each time the party participates in a bid. The number of players, however, does not increase the number of bids by the party.&lt;/p&gt;
+
+&lt;p&gt;Weaknesses are attached to whoever character/player in the party drew last. Regardless of which character/player received the Weakness, the Weakness may be used against the entire party.&lt;/p&gt;
+
+&lt;h2 id=&#34;case-1-balance-breakers&#34;&gt;Case 1: Balance Breakers&lt;/h2&gt;
+
+&lt;p&gt;A round is a Balance Breaker if no side has the advantage. In this case, each side draws one card.&lt;/p&gt;
+
+&lt;p&gt;If the Excuse shows up, the balance remains unbroken. End the round without an advantage.&lt;/p&gt;
+
+&lt;p&gt;If one side has a card that beats the cards of the other sides, this side takes an advantage of 1.&lt;/p&gt;
+
+&lt;p&gt;Otherwise, end the round without an advantage.&lt;/p&gt;
+
+&lt;p&gt;As with other situations, collect upside down cards (see &lt;strong&gt;Growing weaker&lt;/strong&gt;).&lt;/p&gt;
+
+&lt;h2 id=&#34;case-2-unbalanced-situation&#34;&gt;Case 2: Unbalanced Situation&lt;/h2&gt;
+
+&lt;p&gt;If one side has an advantage of &lt;em&gt;n&lt;/em&gt;, it immediately draws &lt;em&gt;n&lt;/em&gt; cards.&lt;/p&gt;
+
+&lt;h2 id=&#34;growing-weaker&#34;&gt;Growing weaker&lt;/h2&gt;
+
+&lt;h2 id=&#34;using-weaknesses&#34;&gt;Using weaknesses&lt;/h2&gt;
+</description>
+    </item>
     
     <item>
       <title>Space·Time Deck: The Suit of Out There</title>
@@ -46,20 +308,20 @@
 &lt;h1 id=&#34;credits&#34;&gt;Credits&lt;/h1&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Cards&lt;/strong&gt; David Teller. Available under &lt;a href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt; (source: author).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Out There logo&lt;/strong&gt; A resolution diagram of the game «Rock, Paper, Scissors, Lizard, Spock». Wikipedia user &lt;code&gt;DMacs&lt;/code&gt;. Available under &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/3.0/deed.en&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt; Creative Commons Attribution-Share Alike 3.0 Unported&lt;/a&gt; (source: Wikipedia).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Ruler&lt;/strong&gt; Frank E. Schoonover - Cover of A Princess of Mars by Edgar Rice Burroughs, published by McClurg. Public Domain (source: &lt;a href=&#34;https://en.wikipedia.org/wiki/File:Princess_of_Mars_large.jpg&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Wikimedia Commons&lt;/a&gt;).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Dragon&lt;/strong&gt; Photograph by Wikipedia User &lt;code&gt;Colin&lt;/code&gt; – Paisley Abbey gargoyle 10. Replacement from 1991. &amp;ldquo;Alien&amp;rdquo;. Licensed under the Creative Commons &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/3.0/deed.en&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Attribution-Share Alike 3.0 Unported&lt;/a&gt; license (source: &lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Paisley_Abbey_gargoyle_10.jpg&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Wikimedia Commons&lt;/a&gt;).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Treasure&lt;/strong&gt;  Wikipedia user &lt;code&gt;Madman2001&lt;/code&gt; – A drawing of the lid of the tomb of Maya ruler Pacal the Great. Licensed under the Creative Commons &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/2.0/deed.en&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Attribution-Share Alike 2.0 Generic&lt;/a&gt; license.
-(source: &lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Pacal_the_Great_tomb_lid.svg&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Wikimedia Commons&lt;/a&gt;).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Soldier&lt;/strong&gt; Henry Fuseli – Macbeth consulting the vision of the armed head. Oil on canvas with original inscribed frame, 1793. Licensed under a &lt;a href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt; (source: &lt;a href=&#34;https://luna.folger.edu/luna/servlet/detail/FOLGERCM1~6~6~17235~101571:Macbeth-Consulting-the-Vision-of-th&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Folger Shakespeare Library&lt;/a&gt;).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Builder&lt;/strong&gt; Plate found on page 7 of Marey Wollstonecraft Shelley&amp;rsquo;s &lt;em&gt;Frankenstein or the Modern Prometheus&lt;/em&gt;, captioned &amp;ldquo;FRANKENSTEIN AT WORK IN HIS LABORATORY.&amp;rdquo; Public Domain (source: &lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Frankenstein,_pg_7.jpg&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Wikimedia Commons&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cards&lt;/strong&gt; David Teller. Available under &lt;a href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34; target=&#34;_blank&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt; (source: author).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Out There logo&lt;/strong&gt; A resolution diagram of the game «Rock, Paper, Scissors, Lizard, Spock». Wikipedia user &lt;code&gt;DMacs&lt;/code&gt;. Available under &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/3.0/deed.en&#34; target=&#34;_blank&#34;&gt; Creative Commons Attribution-Share Alike 3.0 Unported&lt;/a&gt; (source: Wikipedia).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ruler&lt;/strong&gt; Frank E. Schoonover - Cover of A Princess of Mars by Edgar Rice Burroughs, published by McClurg. Public Domain (source: &lt;a href=&#34;https://en.wikipedia.org/wiki/File:Princess_of_Mars_large.jpg&#34; target=&#34;_blank&#34;&gt;Wikimedia Commons&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dragon&lt;/strong&gt; Photograph by Wikipedia User &lt;code&gt;Colin&lt;/code&gt; – Paisley Abbey gargoyle 10. Replacement from 1991. &amp;ldquo;Alien&amp;rdquo;. Licensed under the Creative Commons &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/3.0/deed.en&#34; target=&#34;_blank&#34;&gt;Attribution-Share Alike 3.0 Unported&lt;/a&gt; license (source: &lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Paisley_Abbey_gargoyle_10.jpg&#34; target=&#34;_blank&#34;&gt;Wikimedia Commons&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Treasure&lt;/strong&gt;  Wikipedia user &lt;code&gt;Madman2001&lt;/code&gt; – A drawing of the lid of the tomb of Maya ruler Pacal the Great. Licensed under the Creative Commons &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/2.0/deed.en&#34; target=&#34;_blank&#34;&gt;Attribution-Share Alike 2.0 Generic&lt;/a&gt; license.
+(source: &lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Pacal_the_Great_tomb_lid.svg&#34; target=&#34;_blank&#34;&gt;Wikimedia Commons&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Soldier&lt;/strong&gt; Henry Fuseli – Macbeth consulting the vision of the armed head. Oil on canvas with original inscribed frame, 1793. Licensed under a &lt;a href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34; target=&#34;_blank&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt; (source: &lt;a href=&#34;https://luna.folger.edu/luna/servlet/detail/FOLGERCM1~6~6~17235~101571:Macbeth-Consulting-the-Vision-of-th&#34; target=&#34;_blank&#34;&gt;Folger Shakespeare Library&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Builder&lt;/strong&gt; Plate found on page 7 of Marey Wollstonecraft Shelley&amp;rsquo;s &lt;em&gt;Frankenstein or the Modern Prometheus&lt;/em&gt;, captioned &amp;ldquo;FRANKENSTEIN AT WORK IN HIS LABORATORY.&amp;rdquo; Public Domain (source: &lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Frankenstein,_pg_7.jpg&#34; target=&#34;_blank&#34;&gt;Wikimedia Commons&lt;/a&gt;).&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Seeker&lt;/strong&gt; Photo by Diego Delso – Aerial view of the &amp;ldquo;Owlman&amp;rdquo; aka &amp;ldquo;Astronaut&amp;rdquo;, the most enigmatic geoglyph of the Nazca Lines, which are located in the Nazca Desert in southern Peru.
-Licensed under the &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/deed.en&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Creative Commons Attribution-Share Alike 4.0 International&lt;/a&gt; (source: &lt;a href=&#34;https://commons.wikimedia.org/wiki/File:L%C3%ADneas_de_Nazca,_Nazca,_Per%C3%BA,_2015-07-29,_DD_46.JPG&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Wikimedia Commons&lt;/a&gt;).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Lover&lt;/strong&gt; Film poster &lt;em&gt;Plan 9 from Outer Space&lt;/em&gt;. Public Domain (source: &lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Plan_9_Alternative_poster.jpg&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Wikimedia Commons&lt;/a&gt;).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Servant&lt;/strong&gt; Photo by Jean Pezzali – Crâne déformé pour des raisons esthétiques. Musée de Nasca. Licensed under the &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/3.0/deed.en&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Creative Commons Attribution-Share Alike 3.0 Unported&lt;/a&gt; (source: &lt;a href=&#34;https://en.wikipedia.org/wiki/File:Cr%C3%A2ned%C3%A9form%C3%A9.jpg&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Wikimedia Commons&lt;/a&gt;).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Home&lt;/strong&gt; A &amp;ldquo;flat-Earth&amp;rdquo; map drawn by Orlando Ferguson in 1893. Public Domain (source: &lt;a href=&#34;https://fr.m.wikipedia.org/wiki/Fichier:Orlando-Ferguson-flat-earth-map_edit.jpg&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Wikimedia Commons&lt;/a&gt;).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Home&lt;/strong&gt; A good child and a bad child (wearing dunce cap with ass’s ears) in a schoolroom, from &lt;em&gt;The Affectionate Parent’s Gift&lt;/em&gt;, 1828. Public Domain (source: &lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Contrast_a_child_that%E2%80%99s_good_with_one_who_hates_his_book_and_school.png&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Wikimedia Commons&lt;/a&gt;).&lt;/li&gt;
+Licensed under the &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/deed.en&#34; target=&#34;_blank&#34;&gt;Creative Commons Attribution-Share Alike 4.0 International&lt;/a&gt; (source: &lt;a href=&#34;https://commons.wikimedia.org/wiki/File:L%C3%ADneas_de_Nazca,_Nazca,_Per%C3%BA,_2015-07-29,_DD_46.JPG&#34; target=&#34;_blank&#34;&gt;Wikimedia Commons&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lover&lt;/strong&gt; Film poster &lt;em&gt;Plan 9 from Outer Space&lt;/em&gt;. Public Domain (source: &lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Plan_9_Alternative_poster.jpg&#34; target=&#34;_blank&#34;&gt;Wikimedia Commons&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Servant&lt;/strong&gt; Photo by Jean Pezzali – Crâne déformé pour des raisons esthétiques. Musée de Nasca. Licensed under the &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/3.0/deed.en&#34; target=&#34;_blank&#34;&gt;Creative Commons Attribution-Share Alike 3.0 Unported&lt;/a&gt; (source: &lt;a href=&#34;https://en.wikipedia.org/wiki/File:Cr%C3%A2ned%C3%A9form%C3%A9.jpg&#34; target=&#34;_blank&#34;&gt;Wikimedia Commons&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Home&lt;/strong&gt; A &amp;ldquo;flat-Earth&amp;rdquo; map drawn by Orlando Ferguson in 1893. Public Domain (source: &lt;a href=&#34;https://fr.m.wikipedia.org/wiki/Fichier:Orlando-Ferguson-flat-earth-map_edit.jpg&#34; target=&#34;_blank&#34;&gt;Wikimedia Commons&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Home&lt;/strong&gt; A good child and a bad child (wearing dunce cap with ass’s ears) in a schoolroom, from &lt;em&gt;The Affectionate Parent’s Gift&lt;/em&gt;, 1828. Public Domain (source: &lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Contrast_a_child_that%E2%80%99s_good_with_one_who_hates_his_book_and_school.png&#34; target=&#34;_blank&#34;&gt;Wikimedia Commons&lt;/a&gt;).&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&#34;thanks&#34;&gt;Thanks&lt;/h1&gt;
@@ -74,7 +336,7 @@ Licensed under the &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.
       <pubDate>Thu, 18 Oct 2018 22:10:15 +0200</pubDate>
       
       <guid>http://space-timewilltell.yoric.xyz/post/hello-indie-rpg-planet/</guid>
-      <description>&lt;p&gt;Thanks Alex Schroeder for putting together the &lt;a href=&#34;https://campaignwiki.org/indie/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Indie RPG Planet&lt;/a&gt;! I believe that the Indie RPG community was sorely missing something like this.&lt;/p&gt;
+      <description>&lt;p&gt;Thanks Alex Schroeder for putting together the &lt;a href=&#34;https://campaignwiki.org/indie/&#34; target=&#34;_blank&#34;&gt;Indie RPG Planet&lt;/a&gt;! I believe that the Indie RPG community was sorely missing something like this.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-52.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </description>
@@ -128,18 +390,18 @@ Licensed under the &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.
 &lt;h1 id=&#34;credits&#34;&gt;Credits&lt;/h1&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Cards&lt;/strong&gt; David Teller. Available under &lt;a href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt; (source: author).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Serpent logo&lt;/strong&gt; A resolution diagram of the game «Rock, Paper, Scissors, Lizard, Spock». Wikipedia user &lt;code&gt;DMacs&lt;/code&gt;. Available under &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/3.0/deed.en&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt; Creative Commons Attribution-Share Alike 3.0 Unported&lt;/a&gt; (source: Wikipedia).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cards&lt;/strong&gt; David Teller. Available under &lt;a href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34; target=&#34;_blank&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt; (source: author).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Serpent logo&lt;/strong&gt; A resolution diagram of the game «Rock, Paper, Scissors, Lizard, Spock». Wikipedia user &lt;code&gt;DMacs&lt;/code&gt;. Available under &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/3.0/deed.en&#34; target=&#34;_blank&#34;&gt; Creative Commons Attribution-Share Alike 3.0 Unported&lt;/a&gt; (source: Wikipedia).&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Ruler&lt;/strong&gt; Merlin and Vivien in &lt;em&gt;The yellow book : an illustrated quarterly&lt;/em&gt;, 1895.
-Believed to be Public Domain (source: &lt;a href=&#34;https://www.flickr.com/photos/internetarchivebookimages/14787661353/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Flicker Commons&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Dragon&lt;/strong&gt;  The samurai Hanagami Danjo no jo Arakage in Izumo stabbing a giant salamander with his short sword. Public Domain(source: &lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Hanagami_Danjo_no_jo_Arakage_fighting_a_giant_salamander.jpg&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Wikimedia Commons&lt;/a&gt;).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Treasure&lt;/strong&gt; Hans Canon – Der Salamander. Public Domain (source: &lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Hans_Canon_Der_Salamander.jpg&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Wikimedia Commons&lt;/a&gt;).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Soldier&lt;/strong&gt; Émile Bayard – Mélusine. Illustration from &lt;em&gt;The History of Magic&lt;/em&gt;. Public Domain (source: &lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Melusine_(Bayard).jpg&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Wikimedia Commons&lt;/a&gt;).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Builder&lt;/strong&gt; Illumination of a 15th century manuscript of Historia Regum Britanniae showing king of the Britons Vortigern and Ambros watching the fight between two dragons. Public Domain (source: &lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Vortigern-Dragons.jpg&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Wikimedia Commons&lt;/a&gt;).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Seeker&lt;/strong&gt; Photo by Jean-Pierre Dalbéra – Tenture de l&amp;rsquo;Apocalypse: Satan (le Dragon) remet à La Bête de la mer (à droite) le pouvoir figuré par un sceptre (détail du panneau III.40). Public Domain (source: &lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Vortigern-Dragons.jpg&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Wikimedia Commons&lt;/a&gt;).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Lover&lt;/strong&gt; Isobel Lilian Gloag – &lt;em&gt;The Knight and the Mermaid&lt;/em&gt; or &lt;em&gt;The Kiss of the Enchantress&lt;/em&gt;. Public Domain (source: &lt;a href=&#34;https://en.wikipedia.org/wiki/File:The_knight_and_the_mermaid.jpg&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Wikimedia Commons&lt;/a&gt;).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Servant&lt;/strong&gt; Devotions to Nagadevata. Believed to be Public Domain (source: &lt;a href=&#34;https://en.wikipedia.org/wiki/File:Brooklyn_Museum_-_Devotions_to_Nagadevata.jpg&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Wikimedia Commons&lt;/a&gt;).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Home&lt;/strong&gt; Snakes &amp;amp; Ladders, Game of Heaven &amp;amp; Hell. This file is licensed under the &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/deed.en&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Creative Commons Attribution-Share Alike 4.0 International&lt;/a&gt; license (source: &lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Snakes_and_Ladders_(Game_of_Heaven_%26_Hell)_Wellcome_L0035004.jpg&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Wikimedia Commons&lt;/a&gt;).&lt;/li&gt;
+Believed to be Public Domain (source: &lt;a href=&#34;https://www.flickr.com/photos/internetarchivebookimages/14787661353/&#34; target=&#34;_blank&#34;&gt;Flicker Commons&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dragon&lt;/strong&gt;  The samurai Hanagami Danjo no jo Arakage in Izumo stabbing a giant salamander with his short sword. Public Domain(source: &lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Hanagami_Danjo_no_jo_Arakage_fighting_a_giant_salamander.jpg&#34; target=&#34;_blank&#34;&gt;Wikimedia Commons&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Treasure&lt;/strong&gt; Hans Canon – Der Salamander. Public Domain (source: &lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Hans_Canon_Der_Salamander.jpg&#34; target=&#34;_blank&#34;&gt;Wikimedia Commons&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Soldier&lt;/strong&gt; Émile Bayard – Mélusine. Illustration from &lt;em&gt;The History of Magic&lt;/em&gt;. Public Domain (source: &lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Melusine_(Bayard).jpg&#34; target=&#34;_blank&#34;&gt;Wikimedia Commons&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Builder&lt;/strong&gt; Illumination of a 15th century manuscript of Historia Regum Britanniae showing king of the Britons Vortigern and Ambros watching the fight between two dragons. Public Domain (source: &lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Vortigern-Dragons.jpg&#34; target=&#34;_blank&#34;&gt;Wikimedia Commons&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Seeker&lt;/strong&gt; Photo by Jean-Pierre Dalbéra – Tenture de l&amp;rsquo;Apocalypse: Satan (le Dragon) remet à La Bête de la mer (à droite) le pouvoir figuré par un sceptre (détail du panneau III.40). Public Domain (source: &lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Vortigern-Dragons.jpg&#34; target=&#34;_blank&#34;&gt;Wikimedia Commons&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lover&lt;/strong&gt; Isobel Lilian Gloag – &lt;em&gt;The Knight and the Mermaid&lt;/em&gt; or &lt;em&gt;The Kiss of the Enchantress&lt;/em&gt;. Public Domain (source: &lt;a href=&#34;https://en.wikipedia.org/wiki/File:The_knight_and_the_mermaid.jpg&#34; target=&#34;_blank&#34;&gt;Wikimedia Commons&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Servant&lt;/strong&gt; Devotions to Nagadevata. Believed to be Public Domain (source: &lt;a href=&#34;https://en.wikipedia.org/wiki/File:Brooklyn_Museum_-_Devotions_to_Nagadevata.jpg&#34; target=&#34;_blank&#34;&gt;Wikimedia Commons&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Home&lt;/strong&gt; Snakes &amp;amp; Ladders, Game of Heaven &amp;amp; Hell. This file is licensed under the &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/deed.en&#34; target=&#34;_blank&#34;&gt;Creative Commons Attribution-Share Alike 4.0 International&lt;/a&gt; license (source: &lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Snakes_and_Ladders_(Game_of_Heaven_%26_Hell)_Wellcome_L0035004.jpg&#34; target=&#34;_blank&#34;&gt;Wikimedia Commons&lt;/a&gt;).&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&#34;thanks&#34;&gt;Thanks&lt;/h1&gt;
@@ -448,21 +710,21 @@ white margin between the part you can see above and the border.&lt;/p&gt;
 &lt;h1 id=&#34;credits&#34;&gt;Credits&lt;/h1&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Cards&lt;/strong&gt; David Teller. Available under &lt;a href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt; (source: author).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Scissors logo&lt;/strong&gt; A resolution diagram of the game «Rock, Paper, Scissors, Lizard, Spock». Wikipedia user &lt;code&gt;DMacs&lt;/code&gt;. Available under &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/3.0/deed.en&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt; Creative Commons Attribution-Share Alike 3.0 Unported&lt;/a&gt; (source: Wikipedia).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Ruler&lt;/strong&gt; David Teniers the Younger - A monkey barber-surgeon&amp;rsquo;s establishment. Oil painting after. Public domain (source: &lt;a href=&#34;https://commons.wikimedia.org/wiki/File:A_monkey_barber-surgeon&#39;s_establishment._Oil_painting_after_Wellcome_V0017621.jpg&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Wikimedia commons&lt;/a&gt;).
-(&lt;a href=&#34;https://creativecommons.org/publicdomain/zero/1.0/deed.en&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;https://creativecommons.org/publicdomain/zero/1.0/deed.en&lt;/a&gt;) (source: Wikipedia).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cards&lt;/strong&gt; David Teller. Available under &lt;a href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34; target=&#34;_blank&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt; (source: author).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Scissors logo&lt;/strong&gt; A resolution diagram of the game «Rock, Paper, Scissors, Lizard, Spock». Wikipedia user &lt;code&gt;DMacs&lt;/code&gt;. Available under &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/3.0/deed.en&#34; target=&#34;_blank&#34;&gt; Creative Commons Attribution-Share Alike 3.0 Unported&lt;/a&gt; (source: Wikipedia).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ruler&lt;/strong&gt; David Teniers the Younger - A monkey barber-surgeon&amp;rsquo;s establishment. Oil painting after. Public domain (source: &lt;a href=&#34;https://commons.wikimedia.org/wiki/File:A_monkey_barber-surgeon&#39;s_establishment._Oil_painting_after_Wellcome_V0017621.jpg&#34; target=&#34;_blank&#34;&gt;Wikimedia commons&lt;/a&gt;).
+(&lt;a href=&#34;https://creativecommons.org/publicdomain/zero/1.0/deed.en&#34; target=&#34;_blank&#34;&gt;https://creativecommons.org/publicdomain/zero/1.0/deed.en&lt;/a&gt;) (source: Wikipedia).&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Dragon&lt;/strong&gt; John Tenniel –  &amp;ldquo;The Jabberwocky&amp;rdquo;. An illustration to the poem Jabberwocky.
 First published in Carroll, Lewis. 1871. Through the Looking-Glass, and What Alice Found There.
-Public domain (source: &lt;a href=&#34;https://en.wikipedia.org/wiki/File:Jabberwocky.jpg&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Wikipedia&lt;/a&gt;).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Treasure&lt;/strong&gt; Grandville et Eugène Forest, illustrateurs. Michel Delaporte, lithographe. – Résurrection de la Censure. Public domain (source: &lt;a href=&#34;https://fr.wikipedia.org/wiki/Fichier:R%C3%A9surrection_de_la_censure.jpg&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Wikipedia&lt;/a&gt; / Gallica).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Soldier&lt;/strong&gt; Ira Aldridge as Aaron in Shakespeare&amp;rsquo;s Titus Andronicus. Quote: &amp;ldquo;He dies upon my scimetar&amp;rsquo;s [sic] sharp point, / That touches this my first-born son and heir!&amp;rdquo; Act 4, sc. 2. Public domain (source: &lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Ira_Aldridge_as_Aaron_in_Titus_Andronicus.jpg&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Wikimedia commons&lt;/a&gt; / Library of Congress).&lt;/li&gt;
+Public domain (source: &lt;a href=&#34;https://en.wikipedia.org/wiki/File:Jabberwocky.jpg&#34; target=&#34;_blank&#34;&gt;Wikipedia&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Treasure&lt;/strong&gt; Grandville et Eugène Forest, illustrateurs. Michel Delaporte, lithographe. – Résurrection de la Censure. Public domain (source: &lt;a href=&#34;https://fr.wikipedia.org/wiki/Fichier:R%C3%A9surrection_de_la_censure.jpg&#34; target=&#34;_blank&#34;&gt;Wikipedia&lt;/a&gt; / Gallica).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Soldier&lt;/strong&gt; Ira Aldridge as Aaron in Shakespeare&amp;rsquo;s Titus Andronicus. Quote: &amp;ldquo;He dies upon my scimetar&amp;rsquo;s [sic] sharp point, / That touches this my first-born son and heir!&amp;rdquo; Act 4, sc. 2. Public domain (source: &lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Ira_Aldridge_as_Aaron_in_Titus_Andronicus.jpg&#34; target=&#34;_blank&#34;&gt;Wikimedia commons&lt;/a&gt; / Library of Congress).&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Builder&lt;/strong&gt; Photo by Wikipedia user &lt;code&gt;Fablesindia&lt;/code&gt; – A scuptor at work in Konark, Orissa, India.
-Licensed under the &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/3.0/deed.en&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Creative Commons Attribution-Share Alike 3.0 Unported license&lt;/a&gt; (source: &lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Sculptor_Orissa_India.jpg&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Wikimedia commons&lt;/a&gt;).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Seeker&lt;/strong&gt; Atelier d&amp;rsquo;Evrard d&amp;rsquo;Espinques –  Lancelot passant le pont de l&amp;rsquo;Épée, enluminure d&amp;rsquo;un manuscrit en quatre volumes réalisés pour Jacques d&amp;rsquo;Armagnac, duc de Nemours. Believed to be Public Domain (source: &lt;a href=&#34;https://fr.wikipedia.org/wiki/Fichier:Lancelot_passant_le_pont_de_l&#39;%C3%89p%C3%A9e.jpg&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Wikipedia&lt;/a&gt; / BnF).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Lover&lt;/strong&gt; Photograph by Städel Museum – Max Liebermann – Simson und Delila. Believed to be Public Domain (source: &lt;a href=&#34;https://en.wikipedia.org/wiki/File:1902_Liebermann_Simson_und_Delia_anagoria.JPG&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Wikipedia&lt;/a&gt;).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Servant&lt;/strong&gt; Medieval illustration of men harvesting wheat with reaping-hooks, on a calendar page for August. Queen Mary&amp;rsquo;s Psalter (Ms. Royal 2. B. VII), fol. 78v[1]. Believed to be public domain (source: &lt;a href=&#34;https://en.wikipedia.org/wiki/File:Reeve_and_Serfs.jpg&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Wikipedia&lt;/a&gt;).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Home&lt;/strong&gt; First aid kit which belonged to King Edward VII. Licensed  under the &lt;a href=&#34;https://commons.wikimedia.org/wiki/File:First_aid_kit_which_belonged_to_King_Edward_VII_Wellcome_M0004578.jpg&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Creative Commons Attribution 4.0 International&lt;/a&gt; license (source: &lt;a href=&#34;https://commons.wikimedia.org/wiki/File:First_aid_kit_which_belonged_to_King_Edward_VII_Wellcome_M0004578.jpg&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Wikimedia Commons&lt;/a&gt; / Wellcome Trust).&lt;/li&gt;
+Licensed under the &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/3.0/deed.en&#34; target=&#34;_blank&#34;&gt;Creative Commons Attribution-Share Alike 3.0 Unported license&lt;/a&gt; (source: &lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Sculptor_Orissa_India.jpg&#34; target=&#34;_blank&#34;&gt;Wikimedia commons&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Seeker&lt;/strong&gt; Atelier d&amp;rsquo;Evrard d&amp;rsquo;Espinques –  Lancelot passant le pont de l&amp;rsquo;Épée, enluminure d&amp;rsquo;un manuscrit en quatre volumes réalisés pour Jacques d&amp;rsquo;Armagnac, duc de Nemours. Believed to be Public Domain (source: &lt;a href=&#34;https://fr.wikipedia.org/wiki/Fichier:Lancelot_passant_le_pont_de_l&#39;%C3%89p%C3%A9e.jpg&#34; target=&#34;_blank&#34;&gt;Wikipedia&lt;/a&gt; / BnF).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lover&lt;/strong&gt; Photograph by Städel Museum – Max Liebermann – Simson und Delila. Believed to be Public Domain (source: &lt;a href=&#34;https://en.wikipedia.org/wiki/File:1902_Liebermann_Simson_und_Delia_anagoria.JPG&#34; target=&#34;_blank&#34;&gt;Wikipedia&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Servant&lt;/strong&gt; Medieval illustration of men harvesting wheat with reaping-hooks, on a calendar page for August. Queen Mary&amp;rsquo;s Psalter (Ms. Royal 2. B. VII), fol. 78v[1]. Believed to be public domain (source: &lt;a href=&#34;https://en.wikipedia.org/wiki/File:Reeve_and_Serfs.jpg&#34; target=&#34;_blank&#34;&gt;Wikipedia&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Home&lt;/strong&gt; First aid kit which belonged to King Edward VII. Licensed  under the &lt;a href=&#34;https://commons.wikimedia.org/wiki/File:First_aid_kit_which_belonged_to_King_Edward_VII_Wellcome_M0004578.jpg&#34; target=&#34;_blank&#34;&gt;Creative Commons Attribution 4.0 International&lt;/a&gt; license (source: &lt;a href=&#34;https://commons.wikimedia.org/wiki/File:First_aid_kit_which_belonged_to_King_Edward_VII_Wellcome_M0004578.jpg&#34; target=&#34;_blank&#34;&gt;Wikimedia Commons&lt;/a&gt; / Wellcome Trust).&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Foot&lt;/strong&gt; No image.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Teddy Bear&lt;/strong&gt; No image.&lt;/li&gt;
 &lt;/ul&gt;
@@ -499,13 +761,13 @@ Licensed under the &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/3.
 &lt;/ul&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Extract of &lt;a href=&#34;https://legacy.gitbook.com/book/yoric/rogue-time-bureaucrats/details&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Ronin Time Bureaucrats&lt;/em&gt;&lt;/a&gt;, &lt;a href=&#34;https://yoric.gitbooks.io/rogue-time-bureaucrats/content/here-there-and-right-behind-you-the-bureaucracy.html&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Here, There and Right Behind You: The Bureaucracy&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Extract of &lt;a href=&#34;https://legacy.gitbook.com/book/yoric/rogue-time-bureaucrats/details&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Ronin Time Bureaucrats&lt;/em&gt;&lt;/a&gt;, &lt;a href=&#34;https://yoric.gitbooks.io/rogue-time-bureaucrats/content/here-there-and-right-behind-you-the-bureaucracy.html&#34; target=&#34;_blank&#34;&gt;Here, There and Right Behind You: The Bureaucracy&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;For more about afterlife in Ronin Time Bureaucrats, see also &lt;a href=&#34;../rtb-afterlife&#34;&gt;the Time After Time After Time Corporation&lt;/a&gt;!&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;This post is part of the RPG Blog Carnival of October 2018: &lt;a href=&#34;https://ofdiceanddragons.com/character-death-resurrection-and-the-undead-october-2018-rpg-blog-carnival/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Character death, resurrection, and the undead&lt;/em&gt;&lt;/a&gt;.
+&lt;p&gt;This post is part of the RPG Blog Carnival of October 2018: &lt;a href=&#34;https://ofdiceanddragons.com/character-death-resurrection-and-the-undead-october-2018-rpg-blog-carnival/&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Character death, resurrection, and the undead&lt;/em&gt;&lt;/a&gt;.
 &lt;img src=&#34;https://ofdiceanddragons.com/RPG-Carnival/RPGBlogCarnivalLogoSmall.jpg&#34; alt=&#34;RPG Blog Carnival&#34; /&gt;&lt;/p&gt;</description>
     </item>
     
@@ -554,17 +816,17 @@ white margin between the part you can see above and the border.&lt;/p&gt;
 &lt;h1 id=&#34;credits&#34;&gt;Credits&lt;/h1&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Cards&lt;/strong&gt; David Teller. Available under &lt;a href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt; (source: author).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Rock logo&lt;/strong&gt; A resolution diagram of the game «Rock, Paper, Scissors, Lizard, Spock». Wikipedia user &lt;code&gt;DMacs&lt;/code&gt;. Available under &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/3.0/deed.en&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt; Creative Commons Attribution-Share Alike 3.0 Unported&lt;/a&gt; (source: Wikipedia).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Ruler&lt;/strong&gt; Edmonia Lewis – The Death of Cleopatra. This file is made available under the &lt;a href=&#34;https://creativecommons.org/publicdomain/zero/1.0/deed.en&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Creative Commons CC0 1.0 Universal Public Domain Dedication&lt;/a&gt; (source: Wikipedia).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Dragon&lt;/strong&gt; Photo by Denis Bourez – Double-headed serpent, British Museum. This file is licensed under the &lt;a href=&#34;https://creativecommons.org/licenses/by/2.0/deed.en&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Creative Commons Attribution 2.0 Generic license&lt;/a&gt; (source: Wikipedia).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Treasure&lt;/strong&gt; Photo by Wikipedia user &lt;code&gt;Sockenbaer&lt;/code&gt; - Roman-Germanic Matres and Matrones: Detail of a replica of an altar for the Mothers of Aufania (Matronae Aufaniae) from Nettersheim, Germany. This file is licensed under the &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/3.0/deed.en&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Creative Commons Attribution-ShareAlike 3.0 Unported&lt;/a&gt; (source: Wikipedia).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Soldier&lt;/strong&gt; No information. Public Domain (source: &lt;a href=&#34;https://www.maxpixel.net/Archer-Sculpture-Warrior-3290774&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;MaxPixel&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cards&lt;/strong&gt; David Teller. Available under &lt;a href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34; target=&#34;_blank&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt; (source: author).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Rock logo&lt;/strong&gt; A resolution diagram of the game «Rock, Paper, Scissors, Lizard, Spock». Wikipedia user &lt;code&gt;DMacs&lt;/code&gt;. Available under &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/3.0/deed.en&#34; target=&#34;_blank&#34;&gt; Creative Commons Attribution-Share Alike 3.0 Unported&lt;/a&gt; (source: Wikipedia).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ruler&lt;/strong&gt; Edmonia Lewis – The Death of Cleopatra. This file is made available under the &lt;a href=&#34;https://creativecommons.org/publicdomain/zero/1.0/deed.en&#34; target=&#34;_blank&#34;&gt;Creative Commons CC0 1.0 Universal Public Domain Dedication&lt;/a&gt; (source: Wikipedia).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dragon&lt;/strong&gt; Photo by Denis Bourez – Double-headed serpent, British Museum. This file is licensed under the &lt;a href=&#34;https://creativecommons.org/licenses/by/2.0/deed.en&#34; target=&#34;_blank&#34;&gt;Creative Commons Attribution 2.0 Generic license&lt;/a&gt; (source: Wikipedia).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Treasure&lt;/strong&gt; Photo by Wikipedia user &lt;code&gt;Sockenbaer&lt;/code&gt; - Roman-Germanic Matres and Matrones: Detail of a replica of an altar for the Mothers of Aufania (Matronae Aufaniae) from Nettersheim, Germany. This file is licensed under the &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/3.0/deed.en&#34; target=&#34;_blank&#34;&gt;Creative Commons Attribution-ShareAlike 3.0 Unported&lt;/a&gt; (source: Wikipedia).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Soldier&lt;/strong&gt; No information. Public Domain (source: &lt;a href=&#34;https://www.maxpixel.net/Archer-Sculpture-Warrior-3290774&#34; target=&#34;_blank&#34;&gt;MaxPixel&lt;/a&gt;).&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Builder&lt;/strong&gt; Photo by Wikipedia user &lt;code&gt;Wmpearl&lt;/code&gt; – The Fall of Icarus, 17th century, Musée Antoine Vivenel. Public domain (source: Wikipedia).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Seeker&lt;/strong&gt; William Blake&amp;rsquo;s Newton (1795), colour print with pen &amp;amp; ink and watercolour. &lt;a href=&#34;https://creativecommons.org/publicdomain/mark/1.0/deed.en&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Public Domain&lt;/a&gt; (source: &lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Newton-WilliamBlake.jpg&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Wikipedia&lt;/a&gt;).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Lover&lt;/strong&gt; Jean-Léon Gérôme – Pygmalion and Galatea. &lt;a href=&#34;https://creativecommons.org/publicdomain/mark/1.0/deed.en&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Public Domain&lt;/a&gt; (source: &lt;a href=&#34;https://en.wikipedia.org/wiki/File:Jean-L%C3%A9on_G%C3%A9r%C3%B4me,_Pygmalion_and_Galatea,_ca._1890.jpg&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Wikipedia&lt;/a&gt;).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Servant&lt;/strong&gt; Bild aus Seite 016 in &amp;ldquo;Die Gartenlaube&amp;rdquo;. Image from page 016 of journal Die Gartenlaube, 1887. Public domain (source: &lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Die_Gartenlaube_(1887)_b_016.jpg&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Wikipedia&lt;/a&gt;).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Home&lt;/strong&gt; Gustave Doré – &lt;em&gt;Farinata degli Uberti addresses Dante&lt;/em&gt; in &lt;em&gt;The Divine Comedy: The Inferno: Canto 10.&lt;/em&gt;. &lt;a href=&#34;https://creativecommons.org/publicdomain/mark/1.0/deed.en&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Public Domain&lt;/a&gt; (source: &lt;a href=&#34;https://en.wikipedia.org/wiki/File:Dore_woodcut_Divine_Comedy_01.jpg&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Wikipedia&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Seeker&lt;/strong&gt; William Blake&amp;rsquo;s Newton (1795), colour print with pen &amp;amp; ink and watercolour. &lt;a href=&#34;https://creativecommons.org/publicdomain/mark/1.0/deed.en&#34; target=&#34;_blank&#34;&gt;Public Domain&lt;/a&gt; (source: &lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Newton-WilliamBlake.jpg&#34; target=&#34;_blank&#34;&gt;Wikipedia&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lover&lt;/strong&gt; Jean-Léon Gérôme – Pygmalion and Galatea. &lt;a href=&#34;https://creativecommons.org/publicdomain/mark/1.0/deed.en&#34; target=&#34;_blank&#34;&gt;Public Domain&lt;/a&gt; (source: &lt;a href=&#34;https://en.wikipedia.org/wiki/File:Jean-L%C3%A9on_G%C3%A9r%C3%B4me,_Pygmalion_and_Galatea,_ca._1890.jpg&#34; target=&#34;_blank&#34;&gt;Wikipedia&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Servant&lt;/strong&gt; Bild aus Seite 016 in &amp;ldquo;Die Gartenlaube&amp;rdquo;. Image from page 016 of journal Die Gartenlaube, 1887. Public domain (source: &lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Die_Gartenlaube_(1887)_b_016.jpg&#34; target=&#34;_blank&#34;&gt;Wikipedia&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Home&lt;/strong&gt; Gustave Doré – &lt;em&gt;Farinata degli Uberti addresses Dante&lt;/em&gt; in &lt;em&gt;The Divine Comedy: The Inferno: Canto 10.&lt;/em&gt;. &lt;a href=&#34;https://creativecommons.org/publicdomain/mark/1.0/deed.en&#34; target=&#34;_blank&#34;&gt;Public Domain&lt;/a&gt; (source: &lt;a href=&#34;https://en.wikipedia.org/wiki/File:Dore_woodcut_Divine_Comedy_01.jpg&#34; target=&#34;_blank&#34;&gt;Wikipedia&lt;/a&gt;).&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Foot&lt;/strong&gt; No image.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Teddy Bear&lt;/strong&gt; No image.&lt;/li&gt;
 &lt;/ul&gt;
@@ -617,17 +879,17 @@ white margin between the part you can see above and the border.&lt;/p&gt;
 &lt;h1 id=&#34;credits&#34;&gt;Credits&lt;/h1&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Cards&lt;/strong&gt; David Teller. Available under &lt;a href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt; (source: author).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Paper logo&lt;/strong&gt; A resolution diagram of the game «Rock, Paper, Scissors, Lizard, Spock». Wikipedia user &lt;code&gt;DMacs&lt;/code&gt;. Available under &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/3.0/deed.en&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt; Creative Commons Attribution-Share Alike 3.0 Unported&lt;/a&gt; (source: Wikipedia).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cards&lt;/strong&gt; David Teller. Available under &lt;a href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34; target=&#34;_blank&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt; (source: author).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Paper logo&lt;/strong&gt; A resolution diagram of the game «Rock, Paper, Scissors, Lizard, Spock». Wikipedia user &lt;code&gt;DMacs&lt;/code&gt;. Available under &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/3.0/deed.en&#34; target=&#34;_blank&#34;&gt; Creative Commons Attribution-Share Alike 3.0 Unported&lt;/a&gt; (source: Wikipedia).&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Ruler&lt;/strong&gt; Details of a transparent ruler with 4 scales : centimeters, &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;6&lt;/sub&gt;, &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;8&lt;/sub&gt;, &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;10&lt;/sub&gt; inches. Wikipedia user &lt;code&gt;Tangopaso&lt;/code&gt;. Public Domain (source: Wikipedia).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Dragon&lt;/strong&gt; Scary picture prank of a big dog monster in form of an origami dragon. Author: &lt;code&gt;epSos.de&lt;/code&gt;. Available under &lt;a href=&#34;https://creativecommons.org/licenses/by/2.0/deed.en&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Creative Commons Attribution 2.0 Generic&lt;/a&gt; (source: Wikipedia).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dragon&lt;/strong&gt; Scary picture prank of a big dog monster in form of an origami dragon. Author: &lt;code&gt;epSos.de&lt;/code&gt;. Available under &lt;a href=&#34;https://creativecommons.org/licenses/by/2.0/deed.en&#34; target=&#34;_blank&#34;&gt;Creative Commons Attribution 2.0 Generic&lt;/a&gt; (source: Wikipedia).&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Treasure&lt;/strong&gt; 500 Millionen Papiermark vom 1. September 1923. This image depicts a unit of currency issued by Germany. It is believed to be in the public domain (under § 5 Abs.1 UrhG) as an official work issued by a German federal or state authority, or by a predecessor state (source: Wikipedia).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Soldier&lt;/strong&gt; Ishi-jo, wife of Oboshi Yoshio, one of the &amp;ldquo;47 loyal ronin.&amp;rdquo; Print by Kuniyoshi, from the series Seichi Gishin Den, 1848. This file is licensed under the &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Creative Commons Attribution-Share Alike 2.0 France&lt;/a&gt; license.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Builder&lt;/strong&gt; Noah Building the Ark (Dalziels&amp;rsquo; Bible Gallery). This file is made available under the &lt;a href=&#34;https://creativecommons.org/publicdomain/zero/1.0/deed.en&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Creative Commons CC0 1.0 Universal Public Domain Dedication&lt;/a&gt; (source: Wikipedia).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Soldier&lt;/strong&gt; Ishi-jo, wife of Oboshi Yoshio, one of the &amp;ldquo;47 loyal ronin.&amp;rdquo; Print by Kuniyoshi, from the series Seichi Gishin Den, 1848. This file is licensed under the &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en&#34; target=&#34;_blank&#34;&gt;Creative Commons Attribution-Share Alike 2.0 France&lt;/a&gt; license.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Builder&lt;/strong&gt; Noah Building the Ark (Dalziels&amp;rsquo; Bible Gallery). This file is made available under the &lt;a href=&#34;https://creativecommons.org/publicdomain/zero/1.0/deed.en&#34; target=&#34;_blank&#34;&gt;Creative Commons CC0 1.0 Universal Public Domain Dedication&lt;/a&gt; (source: Wikipedia).&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Seeker&lt;/strong&gt; James Watt, inventor of the steam engine. Library of Contress. Public Domain (source: Picryl).&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Lover&lt;/strong&gt; Isaac Cruikshank – The Old Bachelor Alarmed By an Unexpected Present. Public Domain (source: Wikipedia).&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Servant&lt;/strong&gt; Georges de la Tour – The Cheat with the Ace of Diamonds. Public Domain (source: Wikipedia).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Home&lt;/strong&gt; Library of Alexandria (sepia) – This file is licensed under the &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/deed.en&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Creative Commons Attribution-Share Alike 4.0 International&lt;/a&gt; license (source: Wikipedia).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Home&lt;/strong&gt; Library of Alexandria (sepia) – This file is licensed under the &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/deed.en&#34; target=&#34;_blank&#34;&gt;Creative Commons Attribution-Share Alike 4.0 International&lt;/a&gt; license (source: Wikipedia).&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&#34;thanks&#34;&gt;Thanks&lt;/h1&gt;
@@ -967,7 +1229,7 @@ only one thing: the Stone itself.&lt;/li&gt;
 
 &lt;p&gt;&lt;img src=&#34;../../images/ronin/Agency.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;You can find the latest draft (mostly complete, unformatted) &lt;a href=&#34;https://yoric.gitbooks.io/rogue-time-bureaucrats/content/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;online&lt;/a&gt;.
+&lt;p&gt;You can find the latest draft (mostly complete, unformatted) &lt;a href=&#34;https://yoric.gitbooks.io/rogue-time-bureaucrats/content/&#34; target=&#34;_blank&#34;&gt;online&lt;/a&gt;.
 Even in this unfinished form, don&amp;rsquo;t hesitate to leave feedbak!&lt;/p&gt;
 
 &lt;p&gt;Stay tuned for more!&lt;/p&gt;
@@ -1012,38 +1274,12 @@ interesting and fun!&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;You can find the latest draft (incomplete and unformatted) &lt;a href=&#34;https://github.com/Space-TimeWillTell/Channeling-Keyser-Soze/blob/master/SUMMARY.md&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;online&lt;/a&gt;,
+&lt;p&gt;You can find the latest draft (incomplete and unformatted) &lt;a href=&#34;https://github.com/Space-TimeWillTell/Channeling-Keyser-Soze/blob/master/SUMMARY.md&#34; target=&#34;_blank&#34;&gt;online&lt;/a&gt;,
 and we&amp;rsquo;re posting extracts &lt;a href=&#34;http://space-timewilltell.yoric.xyz/tags/plotonomicon&#34;&gt;on this blog&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Even in this unfinished form, don&amp;rsquo;t hesitate to leave feedbak!&lt;/p&gt;
 
 &lt;p&gt;Stay tuned for more!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>We&#39;re on DriveThruRPG!</title>
-      <link>http://space-timewilltell.yoric.xyz/post/now-on-drivethru/</link>
-      <pubDate>Wed, 26 Sep 2018 11:09:24 +0200</pubDate>
-      
-      <guid>http://space-timewilltell.yoric.xyz/post/now-on-drivethru/</guid>
-      <description>&lt;p&gt;After a few weeks spent composing, recomposing and polishing
-our &lt;a href=&#34;../fate-rules-comic-leaflet&#34;&gt;Fate comic book tutorial&lt;/a&gt;,
-it&amp;rsquo;s now &lt;a href=&#34;https://www.drivethrurpg.com/product/252971/Fate-Core-Tutorial&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;available on DriveThruRPG&lt;/a&gt;
-for pay-as-you-want, starting at $0.&lt;/p&gt;
-
-&lt;p&gt;As previously, the license allows you to share, reproduce
-and modify, provided you maintain credits, so feel free
-to bring it to your playing table.&lt;/p&gt;
-
-&lt;p&gt;We&amp;rsquo;re working on making it available print-on-demand.&lt;/p&gt;
-
-&lt;p&gt;Thanks to all the fine folks on Reddit communities
-&lt;a href=&#34;https://www.reddit.com/r/RPGdesign/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;/u/RPGdesign&lt;/a&gt; and &lt;a href=&#34;https://www.reddit.com/r/FATErpg/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;/u/FATErpg&lt;/a&gt; for the feedback,
-and thanks to &lt;a href=&#34;http://evilhat.com/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Evil Hat&lt;/a&gt; for making
-such a great game!&lt;/p&gt;
-
-&lt;p&gt;Now, back to working on the &lt;a href=&#34;../the-space-time-deck&#34;&gt;Space·Time Deck&lt;/a&gt; and its companion Plotonomicon!&lt;/p&gt;
 </description>
     </item>
     

@@ -6,10 +6,21 @@
     <description>Recent content in Improv on Space·Time Will Tell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Oct 2018 22:22:49 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 27 Oct 2018 17:35:18 +0200</lastBuildDate>
     
 	<atom:link href="http://space-timewilltell.yoric.xyz/tags/improv/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>N-Dimensional Tourists: Conflict Resolution</title>
+      <link>http://space-timewilltell.yoric.xyz/post/tourists-conflict-resolution/</link>
+      <pubDate>Sat, 27 Oct 2018 17:35:18 +0200</pubDate>
+      
+      <guid>http://space-timewilltell.yoric.xyz/post/tourists-conflict-resolution/</guid>
+      <description>About Conflicts TBD
+Small recap of character attributes In N-Dimensional Tourists, each character is defined by: - Any number of Traits, which determine what the character can do; - 5 Attributes, which determine how good a character is at their tasks; - Any number of Specialties, which match Attributes to specific tasks; - At least one Weakness, which makes their life more complicated.
+The Attributes are: - Rock (stability, authority, power, physical strength); - Paper (knowledge, deduction, riches); - Blades (violence, ability to effect change); - Serpent (speed, survival, stealth); - Unknown (imagination, intuition, perception).</description>
+    </item>
     
     <item>
       <title>Space·Time Deck: The Suit of Out There</title>
