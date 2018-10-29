@@ -6,10 +6,20 @@
     <description>Recent content in Rpg on Space·Time Will Tell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Oct 2018 00:15:18 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 30 Oct 2018 00:22:48 +0100</lastBuildDate>
     
 	<atom:link href="http://space-timewilltell.yoric.xyz/tags/rpg/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Plotonomicon: About This Book</title>
+      <link>http://space-timewilltell.yoric.xyz/post/plotonomicon-about/</link>
+      <pubDate>Tue, 30 Oct 2018 00:22:48 +0100</pubDate>
+      
+      <guid>http://space-timewilltell.yoric.xyz/post/plotonomicon-about/</guid>
+      <description>As all good things do, this book starts with a story.
+It&amp;rsquo;s the story of a Game Master (let&amp;rsquo;s call her Alice), who spent weeks preparing a campaign for her players. Maybe the Players&amp;rsquo;s Characters were to be a company of heroes, who would save the land from a dragon. Or maybe they were students in magics, who were expected to find the sinister secrets of the Sorcerous Highschool. Or maybe they were survivors of a zombie apocalypse, who were to spend each of their days hiding from hordes of shambling undead.</description>
+    </item>
     
     <item>
       <title>N-Dimensional Tourists: Conflict Resolution</title>
@@ -38,8 +48,8 @@ As you&amp;rsquo;ll see in this chapter, this mechanism is freely inspired from 
       <pubDate>Mon, 29 Oct 2018 19:30:22 +0100</pubDate>
       
       <guid>http://space-timewilltell.yoric.xyz/n-dimensional-tourists/</guid>
-      <description>&lt;p&gt;N-Dimensional Tourists is a lightweight, generic ruleset for fiction-first, narrative roleplaying,
-based on the Space·Time Deck rather than dice.&lt;/p&gt;
+      <description>&lt;p&gt;N-Dimensional Tourists is a lightweight, generic ruleset for fiction-first, narrative roleplaying.
+Instead of dice, it uses the Space·Time Deck.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
