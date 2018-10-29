@@ -6,177 +6,13 @@
     <description>Recent content in Space·Time Will Tell on Space·Time Will Tell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Oct 2018 19:30:53 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 30 Oct 2018 00:15:18 +0200</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>N-Dimensional Tourists: On your Character Sheet</title>
-      <link>http://space-timewilltell.yoric.xyz/post/tourists-attributes/</link>
-      <pubDate>Mon, 29 Oct 2018 19:30:53 +0100</pubDate>
-      
-      <guid>http://space-timewilltell.yoric.xyz/post/tourists-attributes/</guid>
-      <description>
-
-&lt;p&gt;In N-Dimensional Tourists, each major character is defined by:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Any number of &lt;strong&gt;Aspects&lt;/strong&gt;, which determine what the character can do;&lt;/li&gt;
-&lt;li&gt;5 &lt;strong&gt;Attributes&lt;/strong&gt;, which determine how good a character is at their tasks;&lt;/li&gt;
-&lt;li&gt;Any number of &lt;strong&gt;Specialties&lt;/strong&gt;, which let them use &lt;strong&gt;Attributes&lt;/strong&gt; in unusual manners;&lt;/li&gt;
-&lt;li&gt;At least one &lt;strong&gt;Weakness&lt;/strong&gt;, which makes their life more complicated.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Minor non-player characters are typically described in even broader
-strokes, at least until the story calls upon them to be defined in
-more details.&lt;/p&gt;
-
-&lt;h1 id=&#34;aspects&#34;&gt;Aspects&lt;/h1&gt;
-
-&lt;p&gt;You can think of an &lt;strong&gt;Aspect&lt;/strong&gt; as of something that would be written on your police record,
-or any equivalent in your setting. A Aspect is just a few words, without number.&lt;/p&gt;
-
-&lt;p&gt;By describing your character, Aspects enable you to do things that you would otherwise
-not be able to do. For instance, a &lt;em&gt;Boy Magician&lt;/em&gt; will be both a Boy (with all
-the knowledge that children have, and also forbidden from going into the girl&amp;rsquo;s
-dormitories) and a Magician (with the ability to cast spells). By opposition,
-a &lt;em&gt;Gender-ambiguous Knight and Plenipotentiary Emissary of His Majesty King Louis XV&lt;/em&gt;
-will have a very different set of skills, equipment, knowledge, limitations
-and certainly objectives.&lt;/p&gt;
-
-&lt;p&gt;Just by having this Aspect, the &lt;em&gt;Boy Magician&lt;/em&gt; will be able to cast spell
-where the &lt;em&gt;Gender-ambiguous Knight and Plenipotentiary Emissary of His Majesty King Louis XV&lt;/em&gt; won&amp;rsquo;t. On the other hand, the latter will have the authority to speak in the name of the King, while the former will generally be ignored by adults.&lt;/p&gt;
-
-&lt;p&gt;Aspects do not have to be qualities. You can be an &lt;em&gt;Ill-tempered Pirate Princess&lt;/em&gt;,
-a &lt;em&gt;Lazy Ninja Student&lt;/em&gt; or a &lt;em&gt;Good-for-nothing Obsolete Vampire Dandy&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Note that Aspects are not reserved to characters. Places or Situations commonly have Aspects.&lt;/p&gt;
-
-&lt;h2 id=&#34;weaknesses&#34;&gt;Weaknesses&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Weaknesses&lt;/strong&gt; are special Aspects. Every character has at least one Weakness.&lt;/p&gt;
-
-&lt;p&gt;Being harmed during a Conflict, physically, socially or mentally, will give you additional Weaknesses. Whether these Weaknesses may be eventually cured depends on their gravity.&lt;/p&gt;
-
-&lt;p&gt;You could be &lt;em&gt;Physically weak&lt;/em&gt;, or &lt;em&gt;On the run from the Queen&lt;/em&gt;, or &lt;em&gt;Branded with infamy&lt;/em&gt;,
-or &lt;em&gt;Obsessed with Justice&lt;/em&gt;. You could have a &lt;em&gt;Broken arm&lt;/em&gt; or be a &lt;em&gt;PTSD Patient&lt;/em&gt; – either
-of which might or might not heal, depending on the gravity and your setting&amp;rsquo;s ability
-to deal with such trauma.&lt;/p&gt;
-
-&lt;h1 id=&#34;attributes&#34;&gt;Attributes&lt;/h1&gt;
-
-&lt;p&gt;The &lt;strong&gt;Attributes&lt;/strong&gt; are:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Rock&lt;/strong&gt; (stability, authority, power, physical strength);&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Paper&lt;/strong&gt; (knowledge, deduction, riches);&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Blades&lt;/strong&gt; (violence, ability to effect change);&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Serpent&lt;/strong&gt; (speed, survival, stealth, deception);&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Unknown&lt;/strong&gt; (imagination, intuition, perception).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Whether you&amp;rsquo;re a Human Being, a Goddess of Olympus, or
-a Lemming, you have the same Attributes and their
-values range between 1 and 5.&lt;/p&gt;
-
-&lt;p&gt;Human Beings, Gods of Olympus and Lemmings are differentiated
-by their Aspects, their Specialties and their haircut.&lt;/p&gt;
-
-&lt;p&gt;Whenever you&amp;rsquo;re attempting to &lt;strong&gt;Overcome an Obstacle&lt;/strong&gt; or to &lt;strong&gt;Resolve a Conflict&lt;/strong&gt;
-in your favor, your Attributes and Aspects will determine your initial Advantage.
-Higher Attributes and more Aspects that can be applied favorably in the context
-mean that you&amp;rsquo;ll have higher chances of succeeding without complications.&lt;/p&gt;
-
-&lt;h1 id=&#34;specialties&#34;&gt;Specialties&lt;/h1&gt;
-
-&lt;p&gt;Specialties are where the rules are customized to fit your character.&lt;/p&gt;
-
-&lt;p&gt;Each Specialty looks like:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Because I&amp;rsquo;m a Vampire, I can perform physical attacks with my gaze, using Rock.&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Because I&amp;rsquo;m a Time-Hopping Paradox Freak, I can get help temporary from my Future Self when I&amp;rsquo;m stuck, without damaging space-time.&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Because I&amp;rsquo;m a God, no mortal can harm me physically.&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;reserve&#34;&gt;Reserve&lt;/h1&gt;
-
-&lt;p&gt;Let&amp;rsquo;s face it, you are here to play major characters, not extras. The &lt;strong&gt;Reserve&lt;/strong&gt; is where you put
-cards that give you this extra edge, making sure that you&amp;rsquo;re not going to disappear from the story
-as easily as an extra.&lt;/p&gt;
-
-&lt;p&gt;Beginning characters have a Reserve of 3 Cards. This means that at the beginning of a gaming session,
-they draw 3 cards from the Space·Time Deck.&lt;/p&gt;
-
-&lt;p&gt;More experienced characters may have a higher Reserve.&lt;/p&gt;
-
-&lt;h1 id=&#34;now-what&#34;&gt;Now what?&lt;/h1&gt;
-
-&lt;p&gt;That&amp;rsquo;s all. We&amp;rsquo;ll see later how to use your Aspects, Attributes/Weaknesses, Specialties and Reserve.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>N-Dimensional Tourists</title>
-      <link>http://space-timewilltell.yoric.xyz/n-dimensional-tourists/</link>
-      <pubDate>Mon, 29 Oct 2018 19:30:22 +0100</pubDate>
-      
-      <guid>http://space-timewilltell.yoric.xyz/n-dimensional-tourists/</guid>
-      <description>&lt;p&gt;N-Dimensional Tourists is a lightweight, generic ruleset for fiction-first, narrative roleplaying,
-based on the Space·Time Deck rather than dice.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;Let&amp;rsquo;s come back to the terms above:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;lightweight&lt;/em&gt; – A character can be created in about 5 minutes. Besides character creation, there are essentially two
-or three rules used during gameplay, to solve all situations.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;generic&lt;/em&gt; – This ruleset can be used for most universes or stories without any change.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;fiction-first&lt;/em&gt; – If you have the choice between the story and the rules, the story wins.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;narrative&lt;/em&gt; – Much of what happens to the world is decided by the players, rather than the GM.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;the Space·Time Deck&lt;/em&gt; – A deck of card that uses some ideas from Tarot, some from Rock-Paper-Scissors-Lizard-Spock. Used for coming up with ideas, making the story progress and resolving conflicts.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;This book concentrates on rules. &lt;a href=&#34;http://space-timewilltell.yoric.xyz/plotonomicon&#34;&gt;The &lt;em&gt;Plotonomicon&lt;/em&gt;&lt;/a&gt;, its sister book, concentrates on stories. You&amp;rsquo;re welcome to read both :)&lt;/p&gt;
-
-&lt;h1 id=&#34;credits&#34;&gt;Credits&lt;/h1&gt;
-
-&lt;p&gt;While this ruleset is an original work, much of it is
-inspired from the following Role-Playing Games:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Fate Core&lt;/em&gt;/&lt;em&gt;Fate Accelerated&lt;/em&gt;;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Amber Diceless&lt;/em&gt;;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;HeroQuest&lt;/em&gt;/&lt;em&gt;HeroWars&lt;/em&gt;;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Everway&lt;/em&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;summary&#34;&gt;Summary&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://space-timewilltell.yoric.xyz/tags/space-time-deck&#34;&gt;The Space·Time Deck&lt;/a&gt; (TBD)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://space-timewilltell.yoric.xyz/post/tourists-attributes&#34;&gt;Characters and Attributes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Creating Player&amp;rsquo;s Characters (TBD)&lt;/li&gt;
-&lt;li&gt;Overcoming Obstacles (TBD)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://space-timewilltell.yoric.xyz/post/tourists-conflict-resolution&#34;&gt;Resolving Conflicts&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Compelling characters (TBD)&lt;/li&gt;
-&lt;li&gt;Creating the GM&amp;rsquo;s Characters (TBD)&lt;/li&gt;
-&lt;li&gt;Character Progression (TBD)&lt;/li&gt;
-&lt;li&gt;Thanks (TBD)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;downloads&#34;&gt;Downloads&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Character Sheet (TBD)&lt;/li&gt;
-&lt;li&gt;Conflict Resolution Cheat Sheet (TBD)&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
     
     <item>
       <title>N-Dimensional Tourists: Conflict Resolution</title>
       <link>http://space-timewilltell.yoric.xyz/post/tourists-conflict-resolution/</link>
-      <pubDate>Mon, 29 Oct 2018 17:50:18 +0200</pubDate>
+      <pubDate>Tue, 30 Oct 2018 00:15:18 +0200</pubDate>
       
       <guid>http://space-timewilltell.yoric.xyz/post/tourists-conflict-resolution/</guid>
       <description>
@@ -203,27 +39,15 @@ inspired from the following Role-Playing Games:&lt;/p&gt;
 
 
 
-&lt;h1 id=&#34;about-these-rules&#34;&gt;About these rules&lt;/h1&gt;
-
 &lt;p&gt;These rules are part of the N-Dimensional Tourists ruleset.&lt;/p&gt;
 
 &lt;p&gt;Specifically, this entry describes a mechanism to resolve Conflicts between
-two parties or more during a role-playing game.&lt;/p&gt;
+two parties or more during a role-playing game. It is designed to be generic
+enough to cover pretty much any kind of Conflict with the same mechanism, while
+remaining narrative.&lt;/p&gt;
 
-&lt;p&gt;This mechanism is designed
-to be &lt;em&gt;abstract and generic&lt;/em&gt; – it works just as well with a pirate crew
-boarding a merchan ship as with two Formula 1 pilots racing each other
-or three political parties attempting to win or steal the elections.&lt;/p&gt;
-
-&lt;p&gt;It is also designed to be &lt;em&gt;narrative&lt;/em&gt; - players have considerable agency
-in deciding what happens to their characters, and are pretty much
-obligated to narrate the events of the Conflict.&lt;/p&gt;
-
-&lt;p&gt;These rules are largely based on letting players decide how much &lt;em&gt;risk&lt;/em&gt;
-their characters are going to take, and how much &lt;em&gt;loss&lt;/em&gt; they are willing
-to suffer.&lt;/p&gt;
-
-&lt;p&gt;Oh, and finally, it is based on the Space·Time Deck, rather than dice.&lt;/p&gt;
+&lt;p&gt;As you&amp;rsquo;ll see in this chapter, this mechanism is freely inspired from both
+Tarot and Blackjack – and it uses the Space·Time Deck.&lt;/p&gt;
 
 &lt;p&gt;Have fun :)&lt;/p&gt;
 
@@ -2692,6 +2516,172 @@ locations to place cards and tokens, to avoid confusing them all.&lt;/p&gt;
 
 &lt;p&gt;Feel free to print one for each player!&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>N-Dimensional Tourists: On your Character Sheet</title>
+      <link>http://space-timewilltell.yoric.xyz/post/tourists-attributes/</link>
+      <pubDate>Mon, 29 Oct 2018 19:30:53 +0100</pubDate>
+      
+      <guid>http://space-timewilltell.yoric.xyz/post/tourists-attributes/</guid>
+      <description>
+
+&lt;p&gt;In N-Dimensional Tourists, each major character is defined by:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Any number of &lt;strong&gt;Aspects&lt;/strong&gt;, which determine what the character can do;&lt;/li&gt;
+&lt;li&gt;5 &lt;strong&gt;Attributes&lt;/strong&gt;, which determine how good a character is at their tasks;&lt;/li&gt;
+&lt;li&gt;Any number of &lt;strong&gt;Specialties&lt;/strong&gt;, which let them use &lt;strong&gt;Attributes&lt;/strong&gt; in unusual manners;&lt;/li&gt;
+&lt;li&gt;At least one &lt;strong&gt;Weakness&lt;/strong&gt;, which makes their life more complicated.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Minor non-player characters are typically described in even broader
+strokes, at least until the story calls upon them to be defined in
+more details.&lt;/p&gt;
+
+&lt;h1 id=&#34;aspects&#34;&gt;Aspects&lt;/h1&gt;
+
+&lt;p&gt;You can think of an &lt;strong&gt;Aspect&lt;/strong&gt; as of something that would be written on your police record,
+or any equivalent in your setting. A Aspect is just a few words, without number.&lt;/p&gt;
+
+&lt;p&gt;By describing your character, Aspects enable you to do things that you would otherwise
+not be able to do. For instance, a &lt;em&gt;Boy Magician&lt;/em&gt; will be both a Boy (with all
+the knowledge that children have, and also forbidden from going into the girl&amp;rsquo;s
+dormitories) and a Magician (with the ability to cast spells). By opposition,
+a &lt;em&gt;Gender-ambiguous Knight and Plenipotentiary Emissary of His Majesty King Louis XV&lt;/em&gt;
+will have a very different set of skills, equipment, knowledge, limitations
+and certainly objectives.&lt;/p&gt;
+
+&lt;p&gt;Just by having this Aspect, the &lt;em&gt;Boy Magician&lt;/em&gt; will be able to cast spell
+where the &lt;em&gt;Gender-ambiguous Knight and Plenipotentiary Emissary of His Majesty King Louis XV&lt;/em&gt; won&amp;rsquo;t. On the other hand, the latter will have the authority to speak in the name of the King, while the former will generally be ignored by adults.&lt;/p&gt;
+
+&lt;p&gt;Aspects do not have to be qualities. You can be an &lt;em&gt;Ill-tempered Pirate Princess&lt;/em&gt;,
+a &lt;em&gt;Lazy Ninja Student&lt;/em&gt; or a &lt;em&gt;Good-for-nothing Obsolete Vampire Dandy&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Note that Aspects are not reserved to characters. Places or Situations commonly have Aspects.&lt;/p&gt;
+
+&lt;h2 id=&#34;weaknesses&#34;&gt;Weaknesses&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Weaknesses&lt;/strong&gt; are special Aspects. Every character has at least one Weakness.&lt;/p&gt;
+
+&lt;p&gt;Being harmed during a Conflict, physically, socially or mentally, will give you additional Weaknesses. Whether these Weaknesses may be eventually cured depends on their gravity.&lt;/p&gt;
+
+&lt;p&gt;You could be &lt;em&gt;Physically weak&lt;/em&gt;, or &lt;em&gt;On the run from the Queen&lt;/em&gt;, or &lt;em&gt;Branded with infamy&lt;/em&gt;,
+or &lt;em&gt;Obsessed with Justice&lt;/em&gt;. You could have a &lt;em&gt;Broken arm&lt;/em&gt; or be a &lt;em&gt;PTSD Patient&lt;/em&gt; – either
+of which might or might not heal, depending on the gravity and your setting&amp;rsquo;s ability
+to deal with such trauma.&lt;/p&gt;
+
+&lt;h1 id=&#34;attributes&#34;&gt;Attributes&lt;/h1&gt;
+
+&lt;p&gt;The &lt;strong&gt;Attributes&lt;/strong&gt; are:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Rock&lt;/strong&gt; (stability, authority, power, physical strength);&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Paper&lt;/strong&gt; (knowledge, deduction, riches);&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Blades&lt;/strong&gt; (violence, ability to effect change);&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Serpent&lt;/strong&gt; (speed, survival, stealth, deception);&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unknown&lt;/strong&gt; (imagination, intuition, perception).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Whether you&amp;rsquo;re a Human Being, a Goddess of Olympus, or
+a Lemming, you have the same Attributes and their
+values range between 1 and 5.&lt;/p&gt;
+
+&lt;p&gt;Human Beings, Gods of Olympus and Lemmings are differentiated
+by their Aspects, their Specialties and their haircut.&lt;/p&gt;
+
+&lt;p&gt;Whenever you&amp;rsquo;re attempting to &lt;strong&gt;Overcome an Obstacle&lt;/strong&gt; or to &lt;strong&gt;Resolve a Conflict&lt;/strong&gt;
+in your favor, your Attributes and Aspects will determine your initial Advantage.
+Higher Attributes and more Aspects that can be applied favorably in the context
+mean that you&amp;rsquo;ll have higher chances of succeeding without complications.&lt;/p&gt;
+
+&lt;h1 id=&#34;specialties&#34;&gt;Specialties&lt;/h1&gt;
+
+&lt;p&gt;Specialties are where the rules are customized to fit your character.&lt;/p&gt;
+
+&lt;p&gt;Each Specialty looks like:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Because I&amp;rsquo;m a Vampire, I can perform physical attacks with my gaze, using Rock.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Because I&amp;rsquo;m a Time-Hopping Paradox Freak, I can get help temporary from my Future Self when I&amp;rsquo;m stuck, without damaging space-time.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Because I&amp;rsquo;m a God, no mortal can harm me physically.&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;reserve&#34;&gt;Reserve&lt;/h1&gt;
+
+&lt;p&gt;Let&amp;rsquo;s face it, you are here to play major characters, not extras. The &lt;strong&gt;Reserve&lt;/strong&gt; is where you put
+cards that give you this extra edge, making sure that you&amp;rsquo;re not going to disappear from the story
+as easily as an extra.&lt;/p&gt;
+
+&lt;p&gt;Beginning characters have a Reserve of 3 Cards. This means that at the beginning of a gaming session,
+they draw 3 cards from the Space·Time Deck.&lt;/p&gt;
+
+&lt;p&gt;More experienced characters may have a higher Reserve.&lt;/p&gt;
+
+&lt;h1 id=&#34;now-what&#34;&gt;Now what?&lt;/h1&gt;
+
+&lt;p&gt;That&amp;rsquo;s all. We&amp;rsquo;ll see later how to use your Aspects, Attributes/Weaknesses, Specialties and Reserve.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>N-Dimensional Tourists</title>
+      <link>http://space-timewilltell.yoric.xyz/n-dimensional-tourists/</link>
+      <pubDate>Mon, 29 Oct 2018 19:30:22 +0100</pubDate>
+      
+      <guid>http://space-timewilltell.yoric.xyz/n-dimensional-tourists/</guid>
+      <description>&lt;p&gt;N-Dimensional Tourists is a lightweight, generic ruleset for fiction-first, narrative roleplaying,
+based on the Space·Time Deck rather than dice.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://space-timewilltell.yoric.xyz/images/n-dimensional-tourists/logo.png&#34; alt=&#34;A N-Dimensional Tourist. Apparently lost.&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Let&amp;rsquo;s come back to the terms above:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;lightweight&lt;/em&gt; – A character can be created in about 5 minutes. Besides character creation, there are essentially two
+or three rules used during gameplay, to solve all situations.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;generic&lt;/em&gt; – This ruleset can be used for most universes or stories without any change.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;fiction-first&lt;/em&gt; – If you have the choice between the story and the rules, the story wins.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;narrative&lt;/em&gt; – Much of what happens to the world is decided by the players, rather than the GM.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;the Space·Time Deck&lt;/em&gt; – A deck of card that uses some ideas from Tarot, some from Rock-Paper-Scissors-Lizard-Spock. Used for coming up with ideas, making the story progress and resolving conflicts.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This book concentrates on rules. &lt;a href=&#34;http://space-timewilltell.yoric.xyz/plotonomicon&#34;&gt;The &lt;em&gt;Plotonomicon&lt;/em&gt;&lt;/a&gt;, its sister book, concentrates on stories. You&amp;rsquo;re welcome to read both :)&lt;/p&gt;
+
+&lt;h1 id=&#34;credits&#34;&gt;Credits&lt;/h1&gt;
+
+&lt;p&gt;While this ruleset is an original work, much of it is
+inspired from the following Role-Playing Games:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Fate Core&lt;/em&gt;/&lt;em&gt;Fate Accelerated&lt;/em&gt;;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Amber Diceless&lt;/em&gt;;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;HeroQuest&lt;/em&gt;/&lt;em&gt;HeroWars&lt;/em&gt;;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Everway&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;summary&#34;&gt;Summary&lt;/h1&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;http://space-timewilltell.yoric.xyz/tags/space-time-deck&#34;&gt;The Space·Time Deck&lt;/a&gt; (TBD)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://space-timewilltell.yoric.xyz/post/tourists-attributes&#34;&gt;Characters and Attributes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Creating Player&amp;rsquo;s Characters (TBD)&lt;/li&gt;
+&lt;li&gt;Overcoming Obstacles (TBD)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://space-timewilltell.yoric.xyz/post/tourists-conflict-resolution&#34;&gt;Resolving Conflicts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Compelling characters (TBD)&lt;/li&gt;
+&lt;li&gt;Creating the GM&amp;rsquo;s Characters (TBD)&lt;/li&gt;
+&lt;li&gt;Character Progression (TBD)&lt;/li&gt;
+&lt;li&gt;Thanks (TBD)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&#34;appendix&#34;&gt;Appendix&lt;/h1&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Character Sheet (TBD)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://space-timewilltell.yoric.xyz/images/plotonomicon/playingmat.png&#34;&gt;Conflict Resolution Cheat Sheet&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</description>
     </item>
     
     <item>
