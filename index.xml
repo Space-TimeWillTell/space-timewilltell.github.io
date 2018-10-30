@@ -6,8 +6,295 @@
     <description>Recent content in Space·Time Will Tell on Space·Time Will Tell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Oct 2018 13:45:25 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 30 Oct 2018 23:26:01 +0100</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Plotonomicon: A Tutorial</title>
+      <link>http://space-timewilltell.yoric.xyz/post/plotonomicon-tutorial/</link>
+      <pubDate>Tue, 30 Oct 2018 23:26:01 +0100</pubDate>
+      
+      <guid>http://space-timewilltell.yoric.xyz/post/plotonomicon-tutorial/</guid>
+      <description>
+
+&lt;p&gt;You know what? Let&amp;rsquo;s keep explanations for later. Let&amp;rsquo;s start with some action!&lt;/p&gt;
+
+&lt;p&gt;Imagine cars racing in the streets of Rio de Janeiro. It&amp;rsquo;s the present. Two of the heroes (let&amp;rsquo;s call them Desmond and Erika) share a sportscar, driving as fast as they can away from the HQ of Evil Corporation, where they just stole a USB stick. Our third hero (Frank) is in the gadget van, driving more slowly while keeping an eye on a map of traffic lights. A dozen of armed thugs on motorcycles are after Desmond and Erika. Also, imagine you have never visited Rio de Janeiro, you have no clue what the city looks like, and you haven&amp;rsquo;t prepped this pursuit.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://space-timewilltell.yoric.xyz/images/plotonomicon/tutorial-car-chase.png&#34; alt=&#34;Flickr user Alan Levin – Car Chase – Licensed under CC BY 2.0&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;No problem. For one thing, we don&amp;rsquo;t actually care what the city looks like – it&amp;rsquo;s just a game, and you&amp;rsquo;re not going to get it any more wrong than most Hollywood movies. So let&amp;rsquo;s see what we can do to make it fun. If you &lt;em&gt;do&lt;/em&gt; live in Rio de Janeiro, just imagine it&amp;rsquo;s Istanbul instead!&lt;/p&gt;
+
+&lt;h1 id=&#34;setting-up-the-scene&#34;&gt;Setting up the scene&lt;/h1&gt;
+
+&lt;p&gt;First, let&amp;rsquo;s add initial flavour to the encounter. Is it warm? Rainy? Is there a demonstration or a festival today?&lt;/p&gt;
+
+&lt;p&gt;Let&amp;rsquo;s ask the Space·Time Deck. Alice draws, asking &amp;ldquo;&lt;em&gt;What is happening in the streets of Rio today?&lt;/em&gt;&amp;ldquo;&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+    
+    
+    &lt;img
+        src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-22.png&#34;
+        data-src=&#34;/images/space-time-deck/card-22.png&#34;
+        data-sizes=&#34;auto&#34;
+        
+            
+                class=&#34;lazyload yoric-stdeck yoric-single-card yoric-up-card&#34;
+                alt=&#34;Card number 22, upright&#34;
+            
+            
+            
+        
+    /&gt;
+&lt;/figure&gt;
+
+
+
+&lt;p&gt;On this card, we see:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A number, XVII.&lt;/li&gt;
+&lt;li&gt;A name &amp;ldquo;Planning for retirement.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;An interpretation &amp;ldquo;Being ready, always&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;A picture, with many terracota soldiers.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Only one interpretation?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Each card has two interpretations, but we only ever look at the one facing us. Trust us, this adds more
+variety to the results.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Looking at the picture and the interpretation, Alice, our GM, now declares &amp;ldquo;&lt;em&gt;Apparently, there are many soldiers in the streets. You are not sure why, but it looks like an entire batallion is being redeployed today.&lt;/em&gt;&amp;ldquo;&lt;/p&gt;
+
+&lt;p&gt;Actually, let&amp;rsquo;s go further &amp;ldquo;&lt;em&gt;Circulation on the main streets is quite complicated. There are columns of armored vehicles on the avenues and trucks full of young soldiers waiting at the red lights. People don&amp;rsquo;t seem particularly alarmed, so you can only assume that this is either a common occurrence or something that people expected.&lt;/em&gt;&amp;ldquo;&lt;/p&gt;
+
+&lt;p&gt;And since Alice intended to add some flavour, not ruin the pursuit, she adds &amp;ldquo;&lt;em&gt;Frank, since you have been here for hours, if you wish, you may have mapped an escape route that avoids the military.&lt;/em&gt;&amp;ldquo;&lt;/p&gt;
+
+&lt;p&gt;With this draw, Alice has gained:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;an overarching threat for both Desmond + Erika and for Frank (let&amp;rsquo;s not get shot by soldiers);&lt;/li&gt;
+&lt;li&gt;strategic choices during the pursuit (the PCs could decide to get close to the soldiers, or even to disguise themselves as soldiers and board a truck);&lt;/li&gt;
+&lt;li&gt;some background information that may be reused after the pursuit (people were expecting a military redeployment today, why?).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Lest anybody forgets, Alice writes these &lt;strong&gt;Facts&lt;/strong&gt; on a piece of paper:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Soldiers everywhere in the streets.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nobody seems worried by the soldiers.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Large streets are pretty much blocked.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The pursuit may now start. For this, Alice is going to use the usual rules provided by her ruleset, so we&amp;rsquo;re not going to give all the details about the pursuit. If you want Space·Time Deck-based rules for the pursuit, either because you&amp;rsquo;re Charlene the Writer, or because you just want to try something different, you can take a look at the mini-rules included in the deck, or at the sister book, &lt;a href=&#34;http://space-timewilltell.yoric.xyz/n-dimensional-tourists&#34;&gt;N-Dimensional Tourists&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&#34;waking-up-sleeping-players&#34;&gt;Waking up sleeping players&lt;/h1&gt;
+
+&lt;p&gt;Three or four rounds into the pursuit, Alice realizes that Frank&amp;rsquo;s player is getting bored. Desmond and Erika are getting all the actions, while Frank is just giving directions from his van.&lt;/p&gt;
+
+&lt;p&gt;Let&amp;rsquo;s spice things up.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;GM: &amp;ldquo;Frank, trouble is heading your way. While you were concentrating on helping Desmond and Erika, you didn&amp;rsquo;t realize something&amp;hellip;&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Frank: &amp;ldquo;What?&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;GM: &amp;ldquo;Draw a card and tell me what kind of trouble is coming for you.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;figure &gt;
+    
+    
+    
+    &lt;img
+        src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-78.png&#34;
+        data-src=&#34;/images/space-time-deck/card-78.png&#34;
+        data-sizes=&#34;auto&#34;
+        
+            
+                class=&#34;lazyload yoric-stdeck yoric-single-card yoric-up-card&#34;
+                alt=&#34;Card number 78, upright&#34;
+            
+            
+            
+        
+    /&gt;
+&lt;/figure&gt;
+
+
+
+&lt;p&gt;On this card, we see:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A Suit symbol, representing the Serpent.&lt;/li&gt;
+&lt;li&gt;A Figure symbol, representing the Treasure.&lt;/li&gt;
+&lt;li&gt;A name: &amp;ldquo;Be careful, it can make sparks&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;An interpretation: &amp;ldquo;Caution needed.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;A picture, with two serious-looking men carefully looking at a salamander, without realizing that their background is burning already.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Looking at &amp;ldquo;Caution needed&amp;rdquo; and &amp;ldquo;Be careful, it can make sparks&amp;rdquo;, Frank&amp;rsquo;s player decides that soldiers are being extra cautious around his van today. Actually, looking at the fire on the picture, there are probably canine patrols sniffing around and getting close to the van.&lt;/p&gt;
+
+&lt;p&gt;Frank answers &amp;ldquo;&lt;em&gt;I believe that a patrol of soldiers with dogs is inspecting all the cars parked in the street. They&amp;rsquo;re probably checking for bombs, because an official is going to come this way. They&amp;rsquo;re a few cars away from me.&lt;/em&gt;&amp;ldquo;&lt;/p&gt;
+
+&lt;p&gt;Note that Frank&amp;rsquo;s player, just like Alice, doesn&amp;rsquo;t have to interpret the cards alone. There is absolutely no problem with asking around the table for suggestions. Since Frank&amp;rsquo;s player is drawing, he&amp;rsquo;ll be the one picking the final interpretation.
+Of course, as GM, Alice gets to decide whether Frank&amp;rsquo;s interpretation makes sense.&lt;/p&gt;
+
+&lt;p&gt;With this draw, we have additional &lt;strong&gt;Facts&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Canine patrols are looking for bombs.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;An official is coming.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Also, Frank needs to react quickly. He may decide to keep his cool, or to ditch the van. He&amp;rsquo;s probably going to be unavailable for a few rounds, too, so Desmond and Erika won&amp;rsquo;t benefit from Frank&amp;rsquo;s help – so Alice may inform the players that they have a malus.&lt;/p&gt;
+
+&lt;p&gt;On we go, with the pursuit and the canine patrols.&lt;/p&gt;
+
+&lt;h1 id=&#34;keeping-things-interesting&#34;&gt;Keeping things interesting&lt;/h1&gt;
+
+&lt;p&gt;Some chases work nicely, but others can end up uninteresting. Apparently, about twenty minutes later, this is starting to be the case here. Let&amp;rsquo;s see what we can do to liven things up.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;GM: &amp;ldquo;Desmond, Erika, something is going to force you to change tactics. Tell me what!&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Erika&amp;rsquo;s player draws a card.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+    
+    
+    &lt;img
+        src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-17.png&#34;
+        data-src=&#34;/images/space-time-deck/card-17.png&#34;
+        data-sizes=&#34;auto&#34;
+        
+            
+            
+                class=&#34;lazyload yoric-stdeck yoric-single-card yoric-reversed-card&#34;
+                alt=&#34;Card number 17, reversed&#34;
+            
+            
+        
+    /&gt;
+&lt;/figure&gt;
+
+
+
+&lt;p&gt;On this card, we see:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A number: XII.&lt;/li&gt;
+&lt;li&gt;A name: &amp;ldquo;Playing Protector&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;An interpretation: &amp;ldquo;Feeling defenceless&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;A picture, with some kind of winged hero attacking a winged monster.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A player doesn&amp;rsquo;t have to interpret a card alone.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Desmond: &amp;ldquo;&amp;lsquo;Playing protector&amp;rsquo;, so it&amp;rsquo;s related to the army. Possibly some armor.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Erika: &amp;ldquo;&amp;lsquo;Feeling defenceless&amp;rsquo;, so it&amp;rsquo;s something against which we have no defense. Maybe air support?&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Desmond: &amp;ldquo;Well, if it&amp;rsquo;s air support, the military is bound to react, unless it&amp;rsquo;s their air support.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;GM: &amp;ldquo;I&amp;rsquo;d rather avoid having the entire army against you, if that&amp;rsquo;s ok with you.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Erika: &amp;ldquo;I know, maybe some genius from the Evil Corporation has managed to hack the communications of the army, and they&amp;rsquo;re trying to convince helicopters to shoot at us. And we know about that – and we feel defenceless – because Frank is getting all the chatter from his van.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;GM: &amp;ldquo;That sounds good. Frank, I think that you&amp;rsquo;re the only one who can do anything about that. Also, since you&amp;rsquo;re the hacker here, you get to name the Evil Corporation hacker.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Frank: &amp;ldquo;I&amp;rsquo;ll call him&amp;hellip; no, I&amp;rsquo;ll call her Lady Shadowcat! And I&amp;rsquo;ll get immediately to try and hack her while she&amp;rsquo;s hacking the army!&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Desmond: &amp;ldquo;And since we hear about it, we&amp;rsquo;ll have to find a way to avoid being visible from the skies. So Frank, can you lead us through some crowded bazar or mall or subway or something?&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Frank: &amp;ldquo;Hey, give me a minute, I&amp;rsquo;m running interference for you, I&amp;rsquo;m only one man!&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Alice adds the following Facts:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Lady Shadowcat, genius Evil Corporation hacker.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The army may decide to look after Desmond + Erika.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Pretty soon, the pursuit is going to continue in the subway of Rio – are there subways in Rio de Janeiro? That&amp;rsquo;s not important for an Hollywood action chase! (If you wonder: yes, Rio de Janeiro has 3 subway lines.)&lt;/p&gt;
+
+&lt;h1 id=&#34;ending-the-scene&#34;&gt;Ending the scene&lt;/h1&gt;
+
+&lt;p&gt;Eventually, time will come to end the chase. This ending may come up naturally, if the players have managed to get rid of their pursuit, or if they have been overtaken. If it doesn&amp;rsquo;t, it&amp;rsquo;s much better to end the scene without waiting for boredom to catch up.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Alice: &amp;ldquo;The pursuit is ending. I&amp;rsquo;ll draw to find out how.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;assets/small_reversed_card_12.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+    
+    
+    &lt;img
+        src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-17.png&#34;
+        data-src=&#34;/images/space-time-deck/card-17.png&#34;
+        data-sizes=&#34;auto&#34;
+        
+            
+                class=&#34;lazyload yoric-stdeck yoric-single-card yoric-up-card&#34;
+                alt=&#34;Card number 17, upright&#34;
+            
+            
+            
+        
+    /&gt;
+&lt;/figure&gt;
+
+
+
+&lt;p&gt;Hey, we&amp;rsquo;ve seen that card already. No matter, since we&amp;rsquo;re asking a different question, we&amp;rsquo;ll end up with a different use for it.&lt;/p&gt;
+
+&lt;p&gt;On this card, we (still) see:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A number: XII.&lt;/li&gt;
+&lt;li&gt;A name: &amp;ldquo;Playing Protector&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;An interpretation: &amp;ldquo;Rescue is coming&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;A picture, with some kind of winged hero attacking a winged monster.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;From &amp;ldquo;Rescue is coming&amp;rdquo;, Alice decides that, well, rescue is coming. From &amp;ldquo;Playing Protector&amp;rdquo;, she decides that the rescue will be impressive. And looking at the wings, she concludes that it will come from the air. Since there are &lt;strong&gt;Soldiers everywhere in the streets&lt;/strong&gt;, it should be an helicopter from an airborn unit of the army.&lt;/p&gt;
+
+&lt;p&gt;Alice then narrates &amp;ldquo;&lt;em&gt;You drive up the stairways like madpeople, hoping that the bikes&amp;rsquo; wheels won&amp;rsquo;t be as stable as yours. Eventually, you reach the exit, where you hear a chopper, very close to your position. Looking up, you see a military deployment vehicle getting ready to drop shock troopers. Suddenly, the silence on your radio is broken by the voice of Archangel, your boss: &amp;lsquo;Prepare to ditch the car and board the helicopter. It will lead you to a safe place.&amp;rsquo;&lt;/em&gt;&amp;ldquo;&lt;/p&gt;
+
+&lt;p&gt;Also, since &lt;strong&gt;An official is coming&lt;/strong&gt;, Alice suspects that the players are going to meet that official very soon.&lt;/p&gt;
+
+&lt;h1 id=&#34;what-did-we-do&#34;&gt;What did we do?&lt;/h1&gt;
+
+&lt;p&gt;With a little help, an unprepped urban chase scene came up pretty memorable. Just as importantly, once the players encounter the official, all the military deployment and bomb-sniffing dogs will have been turned into &lt;em&gt;foreshadowing&lt;/em&gt; – even though Frank was the one who introduced the canine squads in the first place. Similarly, Lady Shadowcat who is at best a faceless opponent is this scene is going to return, at some point, again turning Frank&amp;rsquo;s introduction into foreshadowing.&lt;/p&gt;
+
+&lt;p&gt;Let&amp;rsquo;s summarize the techniques we have used so far:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Setting up the scene.&lt;/li&gt;
+&lt;li&gt;Asking questions that will help you make the scene fun to play.&lt;/li&gt;
+&lt;li&gt;Drawing and interpreting from the Space·Time Deck.&lt;/li&gt;
+&lt;li&gt;Writing down key facts as they were established.&lt;/li&gt;
+&lt;li&gt;Reusing these facts when they become useful.&lt;/li&gt;
+&lt;li&gt;Shaking things by letting players pick plot twists.&lt;/li&gt;
+&lt;li&gt;Interpreting ideas collaboratively.&lt;/li&gt;
+&lt;li&gt;Letting players come up with future recurring NPCs.&lt;/li&gt;
+&lt;li&gt;Ending a scene before it becomes boring.&lt;/li&gt;
+&lt;li&gt;Turning facts into foreshadowing.&lt;/li&gt;
+&lt;li&gt;Letting the GM catch micro-breaks during the session!&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;All these techniques, or variants thereof, are key ingredients
+to successful stories – whether we&amp;rsquo;re talking role-playing games,
+novels or improv stage acting. So, in the rest of this book, we&amp;rsquo;ll
+expand on these ideas and introduce others tools designed to help
+you make your unprepped stories awesome!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The Space Time Deck</title>
@@ -3624,30 +3911,6 @@ their way to proof printing! We should receive the
 proofs in early December. If everything is alright,
 we should be able to sell them through DriveThru
 by End of Year.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An idea for a future Role-Playing Game: Toys of the Gods</title>
-      <link>http://space-timewilltell.yoric.xyz/post/an-idea-toys-of-the-gods/</link>
-      <pubDate>Mon, 01 Oct 2018 18:46:04 +0200</pubDate>
-      
-      <guid>http://space-timewilltell.yoric.xyz/post/an-idea-toys-of-the-gods/</guid>
-      <description>&lt;p&gt;There are gods in this story, almighty or as near can be. This is not their story.&lt;/p&gt;
-
-&lt;p&gt;These gods shape and make history of mankind, Earth and beyond. This is not the story of mankind, Earth or beyond.&lt;/p&gt;
-
-&lt;p&gt;Let it be known that the gods have children, and that some of these children will ascend to godhood, while others will stop mere heroes or monsters, and the rest will fail and fall. This is not the story of children, or heroes, or monsters, or failing and falling.&lt;/p&gt;
-
-&lt;p&gt;Let it be whispered that very few are the gods who show any kind of love for their children, that most will abandon them, and that some, in their wisdom and madness, will kill them at birth, to prevent the blood or their blood from falling in the hands of their siblings, their competitors, their pretenders. This is not the story of love, or abandon, or wisdom, or madness, or blood, or siblings, or competitors or pretenders.&lt;/p&gt;
-
-&lt;p&gt;Let it be claimed throughout the realms that these children, even those who grow up abandoned or ignored, are off-limit, and that no god, not even the most worthless one, will leave a child of theirs without a token, marking them as sacred, as beyond the reach of mortals and immortals a like. This is the story of these tokens.&lt;/p&gt;
-
-&lt;p&gt;These is the story of these birthmarks, of these feathers abandoned in a crib, of these unbreakable capes marked with symbols from other worlds, of these necklaces and stuffed dolls and love letters.&lt;/p&gt;
-
-&lt;p&gt;This is your story.&lt;/p&gt;
-
-&lt;p&gt;For when the children are in danger, you wake up.&lt;/p&gt;
 </description>
     </item>
     
