@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Space-time-deck on Space·Time Will Tell</title>
-    <link>http://space-timewilltell.yoric.xyz/categories/space-time-deck/</link>
+    <link>https://space-timewilltell.yoric.xyz/categories/space-time-deck/</link>
     <description>Recent content in Space-time-deck on Space·Time Will Tell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 30 Oct 2018 23:26:01 +0100</lastBuildDate>
     
-	<atom:link href="http://space-timewilltell.yoric.xyz/categories/space-time-deck/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://space-timewilltell.yoric.xyz/categories/space-time-deck/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Plotonomicon: A Tutorial</title>
-      <link>http://space-timewilltell.yoric.xyz/post/plotonomicon-tutorial/</link>
+      <link>https://space-timewilltell.yoric.xyz/post/plotonomicon-tutorial/</link>
       <pubDate>Tue, 30 Oct 2018 23:26:01 +0100</pubDate>
       
-      <guid>http://space-timewilltell.yoric.xyz/post/plotonomicon-tutorial/</guid>
+      <guid>https://space-timewilltell.yoric.xyz/post/plotonomicon-tutorial/</guid>
       <description>You know what? Let&amp;rsquo;s keep explanations for later. Let&amp;rsquo;s start with some action!
 Imagine cars racing in the streets of Rio de Janeiro. It&amp;rsquo;s the present. Two of the heroes (let&amp;rsquo;s call them Desmond and Erika) share a sportscar, driving as fast as they can away from the HQ of Evil Corporation, where they just stole a USB stick. Our third hero (Frank) is in the gadget van, driving more slowly while keeping an eye on a map of traffic lights.</description>
     </item>
     
     <item>
       <title>The Space Time Deck</title>
-      <link>http://space-timewilltell.yoric.xyz/space-time-deck/</link>
+      <link>https://space-timewilltell.yoric.xyz/space-time-deck/</link>
       <pubDate>Tue, 30 Oct 2018 13:45:25 +0100</pubDate>
       
-      <guid>http://space-timewilltell.yoric.xyz/space-time-deck/</guid>
+      <guid>https://space-timewilltell.yoric.xyz/space-time-deck/</guid>
       <description>&lt;p&gt;The Space·Time Deck is a deck of 67 cards and a few blanks, loosely inspired
 from Tarot decks, and designed to aid with story improv, including
 Role-Playing Games and other forms of Storytelling.&lt;/p&gt;
@@ -35,9 +35,9 @@ Role-Playing Games and other forms of Storytelling.&lt;/p&gt;
 as part of a narrative role-playing ruleset. For both reasons, cards
 have both illustrations and symbols.&lt;/p&gt;
 
-&lt;p&gt;The Space·Time Deck is used throughout &lt;a href=&#34;http://space-timewilltell.yoric.xyz/plotonomicon&#34;&gt;the Plotonomicon&lt;/a&gt;
+&lt;p&gt;The Space·Time Deck is used throughout &lt;a href=&#34;https://space-timewilltell.yoric.xyz/plotonomicon&#34;&gt;the Plotonomicon&lt;/a&gt;
 for building plots, characters, places, factions, twists, etc. and
-throughout &lt;a href=&#34;http://space-timewilltell.yoric.xyz/n-dimensional-tourists&#34;&gt;the N-Dimensional Tourists&lt;/a&gt;
+throughout &lt;a href=&#34;https://space-timewilltell.yoric.xyz/n-dimensional-tourists&#34;&gt;the N-Dimensional Tourists&lt;/a&gt;
 as a base for resolving obstacles, conflicts, etc.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -45,31 +45,31 @@ as a base for resolving obstacles, conflicts, etc.&lt;/p&gt;
     
     <item>
       <title>The Plotonomicon: About This Book</title>
-      <link>http://space-timewilltell.yoric.xyz/post/plotonomicon-about/</link>
+      <link>https://space-timewilltell.yoric.xyz/post/plotonomicon-about/</link>
       <pubDate>Tue, 30 Oct 2018 00:22:48 +0100</pubDate>
       
-      <guid>http://space-timewilltell.yoric.xyz/post/plotonomicon-about/</guid>
+      <guid>https://space-timewilltell.yoric.xyz/post/plotonomicon-about/</guid>
       <description>As all good things do, this book starts with a story.
 It&amp;rsquo;s the story of a Game Master (let&amp;rsquo;s call her Alice), who spent weeks preparing a campaign for her players. Maybe the Players&amp;rsquo;s Characters were to be a company of heroes, who would save the land from a dragon. Or maybe they were students in magics, who were expected to find the sinister secrets of the Sorcerous Highschool. Or maybe they were survivors of a zombie apocalypse, who were to spend each of their days hiding from hordes of shambling undead.</description>
     </item>
     
     <item>
       <title>N-Dimensional Tourists: Conflict Resolution</title>
-      <link>http://space-timewilltell.yoric.xyz/post/tourists-conflict-resolution/</link>
+      <link>https://space-timewilltell.yoric.xyz/post/tourists-conflict-resolution/</link>
       <pubDate>Tue, 30 Oct 2018 00:15:18 +0200</pubDate>
       
-      <guid>http://space-timewilltell.yoric.xyz/post/tourists-conflict-resolution/</guid>
-      <description>These rules are part of the N-Dimensional Tourists ruleset.
-Specifically, this entry describes a mechanism to resolve Conflicts between two parties or more during a role-playing game. It is designed to be generic enough to cover pretty much any kind of Conflict with the same mechanism, while remaining narrative.
-As you&amp;rsquo;ll see in this chapter, this mechanism is freely inspired from both Tarot and Blackjack – and it uses the Space·Time Deck.</description>
+      <guid>https://space-timewilltell.yoric.xyz/post/tourists-conflict-resolution/</guid>
+      <description>THIS CONTENT IS DEPRECATED Playtesting has indicated that these rules don&amp;rsquo;t work as well as hoped.
+We&amp;rsquo;ll leave them here for historical reasons, but newer versions of N-Dimensional Tourists do not use these rules.
+ These rules describes how to resolve Conflicts between two parties or more during a role-playing game using the N-Dimensional Tourists ruleset. This mechanism is designed to be generic enough to handle pretty much any kind, while remaining mostly narrative.</description>
     </item>
     
     <item>
       <title>N-Dimensional Tourists</title>
-      <link>http://space-timewilltell.yoric.xyz/n-dimensional-tourists/</link>
+      <link>https://space-timewilltell.yoric.xyz/n-dimensional-tourists/</link>
       <pubDate>Mon, 29 Oct 2018 19:30:22 +0100</pubDate>
       
-      <guid>http://space-timewilltell.yoric.xyz/n-dimensional-tourists/</guid>
+      <guid>https://space-timewilltell.yoric.xyz/n-dimensional-tourists/</guid>
       <description>&lt;p&gt;N-Dimensional Tourists is a lightweight, generic ruleset for fiction-first, narrative roleplaying.
 Instead of dice, it uses the Space·Time Deck.&lt;/p&gt;
 
@@ -78,10 +78,10 @@ Instead of dice, it uses the Space·Time Deck.&lt;/p&gt;
     
     <item>
       <title>Space·Time Deck: The Suit of Unknown</title>
-      <link>http://space-timewilltell.yoric.xyz/post/suit-out-there/</link>
+      <link>https://space-timewilltell.yoric.xyz/post/suit-out-there/</link>
       <pubDate>Thu, 18 Oct 2018 22:22:49 +0200</pubDate>
       
-      <guid>http://space-timewilltell.yoric.xyz/post/suit-out-there/</guid>
+      <guid>https://space-timewilltell.yoric.xyz/post/suit-out-there/</guid>
       <description>Well, after the Triumphs and four suits (Paper, Rock, Blade, Serpent), it is time to conclude the Space·Time Deck with its last suit: the Suit of Unknown (you are free to call it the Suit of Spock)!
 Unknown symbolizes:
  imagination; intuition; perception; illusions; dreams.  Whenever you draw a card of this suit, you are encouraged to integrate any of these concepts to your interpretation.
@@ -91,10 +91,10 @@ The cards:
     
     <item>
       <title>Space·Time Deck: The Suit of Serpents</title>
-      <link>http://space-timewilltell.yoric.xyz/post/suit-serpents/</link>
+      <link>https://space-timewilltell.yoric.xyz/post/suit-serpents/</link>
       <pubDate>Wed, 17 Oct 2018 12:37:23 +0200</pubDate>
       
-      <guid>http://space-timewilltell.yoric.xyz/post/suit-serpents/</guid>
+      <guid>https://space-timewilltell.yoric.xyz/post/suit-serpents/</guid>
       <description>Did you think the Space·Time Deck was done after
  the Triumphs; the Suit of Paper; the Suit of Rock; the Suit of Blade?  Were it only that it were so simple!
 Here&amp;rsquo;s the fourth suit: the Suit of Serpents.
@@ -105,20 +105,20 @@ Serpents traditionally symbolize:
     
     <item>
       <title>Conflict Resolution With the Space·Time Deck</title>
-      <link>http://space-timewilltell.yoric.xyz/post/conflict-resolution-with-the-space-time-deck/</link>
+      <link>https://space-timewilltell.yoric.xyz/post/conflict-resolution-with-the-space-time-deck/</link>
       <pubDate>Sun, 14 Oct 2018 17:35:18 +0200</pubDate>
       
-      <guid>http://space-timewilltell.yoric.xyz/post/conflict-resolution-with-the-space-time-deck/</guid>
+      <guid>https://space-timewilltell.yoric.xyz/post/conflict-resolution-with-the-space-time-deck/</guid>
       <description>Most Role-Playing Games resolve conflicts with dice. But since we have a Space·Time Deck at hand (or any other kind of Tarot-like Deck), let&amp;rsquo;s see if we can use it to bring about a different manner of resolving conflicts.
 About Conflicts A Conflict is a scene in which two parties or more have agendas, which cannot be fulfilled simultaneously. In most role-playing games, the most common form of conflict is the combat, but that is by no mean the only form possible: conflict could be car races, social wit, political campaigns, chess, battlefield strategy, attempting to ruin your opponent&amp;rsquo;s reputation or fortune, popularity contests, football matches, etc.</description>
     </item>
     
     <item>
       <title>Space·Time Deck: The Suit of Scissors (or Blades)</title>
-      <link>http://space-timewilltell.yoric.xyz/post/suit-scissors/</link>
+      <link>https://space-timewilltell.yoric.xyz/post/suit-scissors/</link>
       <pubDate>Sun, 14 Oct 2018 10:50:23 +0200</pubDate>
       
-      <guid>http://space-timewilltell.yoric.xyz/post/suit-scissors/</guid>
+      <guid>https://space-timewilltell.yoric.xyz/post/suit-scissors/</guid>
       <description>After the Suit of Paper and the Suit of Rock, here comes the Suit of Scissor (or perhaps Blades – name to be finalized).
 Warning Museum-level nudity.
 Scissors/blade traditionally symbolize:
@@ -128,10 +128,10 @@ Scissors/blade traditionally symbolize:
     
     <item>
       <title>Space·Time Deck: The Suit of Rock</title>
-      <link>http://space-timewilltell.yoric.xyz/post/suit-rock/</link>
+      <link>https://space-timewilltell.yoric.xyz/post/suit-rock/</link>
       <pubDate>Fri, 12 Oct 2018 11:04:23 +0200</pubDate>
       
-      <guid>http://space-timewilltell.yoric.xyz/post/suit-rock/</guid>
+      <guid>https://space-timewilltell.yoric.xyz/post/suit-rock/</guid>
       <description>After the Suit of Paper, here comes the Suit of Rock.
 Warning Museum-level nudity.
 Rock traditionally symbolizes:
@@ -141,10 +141,10 @@ Rock traditionally symbolizes:
     
     <item>
       <title>Space·Time Deck: The Suit of Paper</title>
-      <link>http://space-timewilltell.yoric.xyz/post/suit-paper/</link>
+      <link>https://space-timewilltell.yoric.xyz/post/suit-paper/</link>
       <pubDate>Thu, 11 Oct 2018 21:37:23 +0200</pubDate>
       
-      <guid>http://space-timewilltell.yoric.xyz/post/suit-paper/</guid>
+      <guid>https://space-timewilltell.yoric.xyz/post/suit-paper/</guid>
       <description>A few weeks ago, we introduced the Trump Cards of the Space·Time Deck. It&amp;rsquo;s time for a second delivery: the Suit of Paper.
 Paper traditionally symbolizes:
  knowledge and wisdom; deduction; riches; fragility.  The cards:
@@ -153,10 +153,10 @@ Paper traditionally symbolizes:
     
     <item>
       <title>Improvising with the Space·Time Deck: V. Hello, you gorgeous!</title>
-      <link>http://space-timewilltell.yoric.xyz/post/deck-5/</link>
+      <link>https://space-timewilltell.yoric.xyz/post/deck-5/</link>
       <pubDate>Thu, 27 Sep 2018 12:05:58 +0200</pubDate>
       
-      <guid>http://space-timewilltell.yoric.xyz/post/deck-5/</guid>
+      <guid>https://space-timewilltell.yoric.xyz/post/deck-5/</guid>
       <description>This is an extract from the Plotonomicon.
 Note that we have just changed the picture from
 The old picture (The Slaughter of the Innocents) one was considered too violent – while both are museum pieces, the first one depicts mass murder of children, and was thus discarded as not-safe-for-children&amp;rsquo;s-hands.
@@ -165,19 +165,19 @@ This new version gets rid of almost all violence, and offers much more symbolism
     
     <item>
       <title>The Plotonomicon</title>
-      <link>http://space-timewilltell.yoric.xyz/plotonomicon/</link>
+      <link>https://space-timewilltell.yoric.xyz/plotonomicon/</link>
       <pubDate>Wed, 26 Sep 2018 11:18:34 +0200</pubDate>
       
-      <guid>http://space-timewilltell.yoric.xyz/plotonomicon/</guid>
+      <guid>https://space-timewilltell.yoric.xyz/plotonomicon/</guid>
       <description>Oops, the heroes have ruined the story, again. They managed to get Camelot invaded by the peaceful Seelie while King Arthur was at war, to kill teenage Karl Marx while vacationing in Space·Time or to blow up the Magical University where the entire campaign was meant to take place. Also, they have just entered the Unknowable Dungeon of Unspeakable Death, for which you have no maps, or they are due to meet the Ambassador of the Qfew&amp;rsquo;dhi Confederation, the one you just invented by pushing random keys on your keyboard.</description>
     </item>
     
     <item>
       <title>Introducing the Space·Time Deck</title>
-      <link>http://space-timewilltell.yoric.xyz/post/the-space-time-deck/</link>
+      <link>https://space-timewilltell.yoric.xyz/post/the-space-time-deck/</link>
       <pubDate>Mon, 24 Sep 2018 17:43:09 +0200</pubDate>
       
-      <guid>http://space-timewilltell.yoric.xyz/post/the-space-time-deck/</guid>
+      <guid>https://space-timewilltell.yoric.xyz/post/the-space-time-deck/</guid>
       <description>The Space·Time Deck is a card deck designed to be used as an improv tool, both for storytelling and role-playing games.
  The Excuse.  I.  II.  III.  IV.  V.  VI.  VII.  VIII.  IX.  X.  XI.  XII.  XIII.  XIV.  XV.  XVI.  XVII.  XVIII.  XIX.  XX.  XXI.  Back.  Blank 1  Blank 2  Blank 3  Blank 4  Blank 5  Cheatsheet Front  Cheatsheet Back   More about this deck in future posts.</description>
     </item>

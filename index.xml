@@ -2,26 +2,1782 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Space·Time Will Tell on Space·Time Will Tell</title>
-    <link>http://space-timewilltell.yoric.xyz/</link>
+    <link>https://space-timewilltell.yoric.xyz/</link>
     <description>Recent content in Space·Time Will Tell on Space·Time Will Tell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Oct 2018 23:26:01 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 04 Nov 2018 13:19:49 +0100</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>N-Dimensional Tourists: Meeting Challenges</title>
+      <link>https://space-timewilltell.yoric.xyz/post/tourists-overcoming/</link>
+      <pubDate>Sun, 04 Nov 2018 13:19:49 +0100</pubDate>
+      
+      <guid>https://space-timewilltell.yoric.xyz/post/tourists-overcoming/</guid>
+      <description>
+
+&lt;p&gt;So your character needs to find a key, lost somewhere
+in the mess left by the previous owner, or perhaps to
+pick the lock. Or maybe that piano needs to be moved
+into the living room, or you need to find a way through
+an opaque bureaucratic process, or to look innocent in front
+of a judge, or intimidating in front of a lowly thug.
+Or perhaps you&amp;rsquo;re fishing in a river or piloting
+your starship or settling a duel with another Musketeer
+before the Guards of the Cardinal show up? Or perhaps
+your character is an entire religion, attempting to
+gain converts in a new land, or a team of medics and
+researchers, fighting step by step against an unknown
+pandemic?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://space-timewilltell.yoric.xyz/images/posts/tourists-overcoming/Turk-engraving5.jpg&#34; alt=&#34;Image of a copper engraving from Karl Gottlieb von Windisch&#39;s 1783 book Briefe über den Schachspieler des Hrn. von Kempelen, nebst drei Kupferstichen die diese berühmte Maschine vorstellen. - Public Domain - Source: Wikimedia Commons&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In &lt;a href=&#34;https://space-timewilltell.yoric.xyz/n-dimensional-tourists&#34;&gt;N-Dimensional Tourists ruleset&lt;/a&gt;,
+all these things are called &lt;strong&gt;Challenges&lt;/strong&gt;, and are resolved
+with a single rule. This rule
+determines whether the characters succeed, fail or give
+up, and whether their attempt attracts any kind of Complication.&lt;/p&gt;
+
+&lt;p&gt;Meeting a Challenge is something that only player&amp;rsquo;s characters
+do. We&amp;rsquo;ll discuss below what happens how to resolve the actions
+of non-player character.&lt;/p&gt;
+
+&lt;p&gt;As you&amp;rsquo;ll see, meeting a Challenge is a very generic mechanism
+which may be used for pretty much any purpose or scale.&lt;/p&gt;
+
+&lt;h1 id=&#34;setting-up-the-challenge-part-1&#34;&gt;Setting up the Challenge, part 1&lt;/h1&gt;
+
+&lt;p&gt;Before you can meet a Challenge, everybody involved needs
+to agree on what you&amp;rsquo;re trying to do, exactly. This is called
+&lt;em&gt;Setting up&lt;/em&gt;. To setup the Challenge, you&amp;rsquo;ll need to answer a
+few questions:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;(Player&amp;rsquo;s decision) &lt;strong&gt;Objective&lt;/strong&gt; What is the Challenge you&amp;rsquo;re trying to meet?&lt;/li&gt;
+&lt;li&gt;(Player&amp;rsquo;s decision) &lt;strong&gt;Means&lt;/strong&gt; How are you trying to meet it?&lt;/li&gt;
+&lt;li&gt;(GM&amp;rsquo;s decision) &lt;strong&gt;Reach&lt;/strong&gt; How much effect can the character reasonably achieve?&lt;/li&gt;
+&lt;li&gt;(GM&amp;rsquo;s decision) &lt;strong&gt;Risk&lt;/strong&gt; What kind if risks does this manoeuver entail, even if it succeeds?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This is typically a (very short) conversation between player and
+GM, to put everybody on the same wavelength. While both the Player
+and the GM may have opinions on the matter, the Player has the last
+word on some of these questions and the GM on others, as indicated above.&lt;/p&gt;
+
+&lt;p&gt;These answers will be used to determine the &lt;a href=&#34;#setting-up-the-challenge-part-2&#34;&gt;Challenge rank&lt;/a&gt;,
+the &lt;a href=&#34;#setting-up-the-challenge-part-2&#34;&gt;Attribute involved&lt;/a&gt;, and later
+the &lt;a href=&#34;#outcome-of-a-challenge&#34;&gt;Outcome&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Note that Reach and Risk are on two different scales. It is
+entirely possible to achieve a lot during a Challenge (meeting
+and &lt;em&gt;possibly exceeding&lt;/em&gt; the Reach) while also paying a dire Cost
+(meeting and &lt;em&gt;possibly exceeding&lt;/em&gt; the Risk).&lt;/p&gt;
+
+&lt;h2 id=&#34;example-chess-match&#34;&gt;Example: Chess match&lt;/h2&gt;
+
+&lt;p&gt;Tonight, during a reception at the Ambassador&amp;rsquo;s, an impromptu friendly Chess
+match has begun between two well-known grandmasters. In front of a high-society
+crowd of onlookers, Lady Buckingham, &lt;strong&gt;Chess Grandmistress of the Highest Society&lt;/strong&gt;
+(PC) and Lord Dervon, &lt;strong&gt;Chess Grandmaster and Heir Apparent to the Prime Minister&lt;/strong&gt; (NPC)
+will display their skills.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Lady Buckingham: &amp;ldquo;I&amp;rsquo;m opening with simple manoeuvers.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;GM: &amp;ldquo;Not so fast! What is your objective, here?&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Lady Buckingham: &amp;ldquo;Well, I&amp;rsquo;m going to play chess?&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;GM: &amp;ldquo;For fun?&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Lady Buckingham: &amp;ldquo;No, to win!&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;GM: &amp;ldquo;So your objective is to win. How far are you willing to go for this?&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Lady Buckingham: &amp;ldquo;What do you mean?&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;GM: &amp;ldquo;Well, it is no secret that Lord Dervon wants to sleep with you. If you wish, you could probably use that fact to drop a bomb on him during the conversation, for instance, or strategically show some décolletage, to get him distracted.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Lady Buckingham: &amp;ldquo;That&amp;rsquo;s not really who I am, is it?&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;GM: &amp;ldquo;Your call, entirely.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Lady Buckingham: &amp;ldquo;No, I&amp;rsquo;ll play honestly. On the other hand, you&amp;rsquo;re right that this is a social opportunity, so there will be chatting.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;GM: &amp;ldquo;Are you trying anything special while chatting?&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Lady Buckingham: &amp;ldquo;No, just friendly conversation.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;GM: &amp;ldquo;Ok, so what do you think we take this at a leisurly pace? We&amp;rsquo;ll first see how the first few moves go, while you&amp;rsquo;re chatting with Lord Devon, and see how things develop?&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Lady Buckingham: &amp;ldquo;That sounds good.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;GM: &amp;ldquo;Also, the worst you risk during these first few moves is probably looking – or sounding – like a fool.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In this example, we have the following answers:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Objective: Getting a good start on the chess game, while chatting amicably.&lt;/li&gt;
+&lt;li&gt;Means: Counting on Lady Buckinghams&amp;rsquo; chess skills.&lt;/li&gt;
+&lt;li&gt;Reach: The position for the rest of the game.&lt;/li&gt;
+&lt;li&gt;Risk: Looking or sounding like a fool.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Note that the GM&amp;rsquo;s decision would have been very different if the two characters hadn&amp;rsquo;t both been
+Chess grandmasters.&lt;/p&gt;
+
+&lt;p&gt;For instance, if only Lady Buckingham had been a grandmaster:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;(GM&amp;rsquo;s decision) How much effect can the character reasonably achieve? – As much domination as she whants.&lt;/li&gt;
+&lt;li&gt;(GM&amp;rsquo;s decision) What kind of risks does this manoeuver entail, even if it succeeds? – Disappointing the crowd.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Or, if only Lord Devon had been a grandmaster:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;(GM&amp;rsquo;s decision) How much effect can the character reasonably achieve? – Not being entirely dominated.&lt;/li&gt;
+&lt;li&gt;(GM&amp;rsquo;s decision) What kind of risks does this manoeuver entail, even if it succeeds? – Social shame at being toyed with by a grandmaster.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For the rest of this example, we&amp;rsquo;ll keep our original setup.&lt;/p&gt;
+
+&lt;p&gt;Also, for this example, we&amp;rsquo;ll assume that Lady Buckingham has already used
+all her Reserve Cards, so she won&amp;rsquo;t be able to use them during this
+Challenge.&lt;/p&gt;
+
+&lt;h2 id=&#34;example-escaping-the-furnace&#34;&gt;Example: Escaping the Furnace&lt;/h2&gt;
+
+&lt;p&gt;Alex, &lt;strong&gt;Action Journalist&lt;/strong&gt;, had been in the attic for hourse, searching the house of the suspect
+for clues, when he realized that a fire had started. He now needs to make an exit, hopefully with
+some of the evidence he had managed to sort out.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Alex: &amp;ldquo;So, I had a big heap of documents somewhere in the attic, which I intended to read more
+in details. I&amp;rsquo;ll try and make an exit with these documents.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;GM: &amp;ldquo;You have maybe 10kg worth of papers, without any kind of bag to carry them all. That&amp;rsquo;s tricky.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Alex: &amp;ldquo;Ok, then I&amp;rsquo;ll just grab as many as I can put under my arm, and run to the exit.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;GM: &amp;ldquo;Alright. That sounds possible. If you succeed well enough, you&amp;rsquo;ll keep an armful of documents.
+You might fail, of course, in which case you&amp;rsquo;ll lose some or all of the documents, but the main
+risk is not to the documents, it&amp;rsquo;s to you. Because, well, there is a fire in the house.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Alex: &amp;ldquo;Fair enough.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In this example, we have the following answers:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Objective: Leaving the house safely with an armful of documents.&lt;/li&gt;
+&lt;li&gt;Means: Running to the exit as fast as possible while keeping documents under my arm.&lt;/li&gt;
+&lt;li&gt;Reach: Alex should be able to reach the exit with the documents.&lt;/li&gt;
+&lt;li&gt;Risk: Anything that can happen in a fire.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In other words, the GM agrees with Alex&amp;rsquo; plan and will resolve it all as one meet. The GM could
+have decided that the scene deserve more pacing and that Alex would at first only reach the floor
+below the attic. This would have decreased the effect.&lt;/p&gt;
+
+&lt;p&gt;Also note that the GM mentions &amp;ldquo;&lt;em&gt;we don&amp;rsquo;t know what you&amp;rsquo;re going to meet on your way down&lt;/em&gt;&amp;rdquo; – indeed, that&amp;rsquo;s something that will be decided &lt;em&gt;at the end of the Challenge&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;For this example, we&amp;rsquo;ll assume that Alex doesn&amp;rsquo;t have any Reserve Cards at hand.&lt;/p&gt;
+
+&lt;h2 id=&#34;example-kaiju-attack&#34;&gt;Example: Kaiju attack&lt;/h2&gt;
+
+&lt;p&gt;We are in Tokyo, today is Wednesday, so a giant monster attacks!
+It is called Levinulon, it is taller than the Tokyo General Hospital,
+and it is clearly here to destroy as much of the city as it can.
+Fortunately, the Tokyo Mechanized Defense Force &lt;strong&gt;Mechanized Defenders of the City&lt;/strong&gt;
+(that&amp;rsquo;s a single PC), in its non-military battle robots, is there to protect the city!&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Tokyo Mechanized Defense Force: &amp;ldquo;For the moment, we&amp;rsquo;re taking position and trying to distract Levinulon from any civilian crowds.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;GM: &amp;ldquo;Ok, how do you do this?&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Tokyo Mechanized Defense Force: &amp;ldquo;As much as possible, we&amp;rsquo;re using our remote-controntrolled drones, but if it&amp;rsquo;s not sufficient, we&amp;rsquo;re going to make as much noise as possible without endangering civilians. Maybe by throwing cars, or something.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;GM: &amp;ldquo;Alright. That sounds possible. For the moment, you&amp;rsquo;re not endangering yourselves overmuch. So, it looks like any risk you take will be something like attracting Levinulon&amp;rsquo;s attention a bit too much, too early, or perhaps destroying a few too many things around you. Also, if you succeed, you&amp;rsquo;ll certainly be fighting Levinulon next.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In this example, we have the following answers:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Objective: Levinulon attacking civilians.&lt;/li&gt;
+&lt;li&gt;Means: Distracting Levinulon with drones or, if necessary, the mechs themselves.&lt;/li&gt;
+&lt;li&gt;Reach: Affecting Levinulon&amp;rsquo;s focus.&lt;/li&gt;
+&lt;li&gt;Risk: Little risk to the Tokyo Mechanized Defense Force, but some risk to the city itself.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This only works because the the Tokyo Mechanized Defense Force is
+equipped to fight Kaijus. Otherwise, the GM would certainly have
+minimized the effect that the Tokyo Mechanized Defense Force
+may reasonaby achieve (&amp;ldquo;save a few civilians&amp;rdquo;) and/or increased
+the risk (&amp;ldquo;get wiped out in the attempt&amp;rdquo;).&lt;/p&gt;
+
+&lt;p&gt;For this example, we&amp;rsquo;ll assume that the Tokyo Mechanized Defense Force
+doesn&amp;rsquo;t have any Reserve Cards at hand.&lt;/p&gt;
+
+&lt;h1 id=&#34;setting-up-the-challenge-part-2&#34;&gt;Setting up the Challenge, part 2&lt;/h1&gt;
+
+&lt;p&gt;Once everybody agrees on the nature of the Challenge,
+two more questions can be answered:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;(Player&amp;rsquo;s decision) &lt;strong&gt;Attribute&lt;/strong&gt; What Attribute are you using for this purpose?&lt;/li&gt;
+&lt;li&gt;(GM&amp;rsquo;s decision) &lt;strong&gt;Rank&lt;/strong&gt; What&amp;rsquo;s the Rank of the Challenge?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The Attributes are the 5 Attributes on the character sheet. If you recall, they are:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Rock&lt;/strong&gt; (stability, authority, power, physical strength);&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Paper&lt;/strong&gt; (knowledge, deduction, riches);&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Blades&lt;/strong&gt; (violence, ability to effect change);&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Serpent&lt;/strong&gt; (speed, survival, stealth, deception);&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unknown&lt;/strong&gt; (imagination, intuition, perception).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A lower attribute will increase the likelihood that the risks (or worse) will be realized
+while attempting to achieve the character&amp;rsquo;s goals, while a higher attribute will decrease
+this likelihood.&lt;/p&gt;
+
+&lt;p&gt;The Attribute picked must, of course, match the description of what the character is doing.&lt;/p&gt;
+
+&lt;p&gt;Ranks are defined as follows:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Mythic 9&lt;/li&gt;
+&lt;li&gt;Legendary 8&lt;/li&gt;
+&lt;li&gt;Epic 7&lt;/li&gt;
+&lt;li&gt;Fantastic 6&lt;/li&gt;
+&lt;li&gt;Superb 5&lt;/li&gt;
+&lt;li&gt;Great 4&lt;/li&gt;
+&lt;li&gt;Good 3&lt;/li&gt;
+&lt;li&gt;Fair 2&lt;/li&gt;
+&lt;li&gt;Average 1&lt;/li&gt;
+&lt;li&gt;Mediocre 0&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Conversely, a higher Rank will increase the likelihood of either failure or that the risks will
+be realized, while a lower Rank will decrease it considerably.&lt;/p&gt;
+
+&lt;h2 id=&#34;example-chess-match-1&#34;&gt;Example: Chess match&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Lady Buckingham: &amp;ldquo;I&amp;rsquo;ll be relying on intelligence and deduction, so that&amp;rsquo;s Paper, which is good, because I have Superb (5) in Paper.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;GM: &amp;ldquo;Lord Devon is your peer, so the difficulty will also be Superb (5).&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;example-escaping-the-furnace-1&#34;&gt;Example: Escaping the Furnace&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Alex: &amp;ldquo;I&amp;rsquo;ll be moving fast, which sounds like Serpent, while keeping the papers safely with me, which sounds like Rock. If it&amp;rsquo;s ok, I&amp;rsquo;ll take the highest, which is my Great (4) Rock.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;GM: &amp;ldquo;Sounds reasonable. As for the fire, since you react quickly, it shouldn&amp;rsquo;t be too difficult for you, so it&amp;rsquo;s a Good (3) rank.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;example-kaiju-attack-1&#34;&gt;Example: Kaiju attack&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Tokyo Mechanized Defense Force: &amp;ldquo;I&amp;rsquo;ll be relying on fast movement and misdirection, so that&amp;rsquo;s Serpents. I have Great (4) in Serpent.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;GM: &amp;ldquo;Given Levinulon&amp;rsquo;s size and general taste for mayhem and destruction, attracting his attention might be very difficult. So, let&amp;rsquo;s make it a Superb difficulty (4).&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;drawing&#34;&gt;Drawing&lt;/h1&gt;
+
+&lt;p&gt;Now that everything is setup, the next step is to draw cards.&lt;/p&gt;
+
+&lt;h2 id=&#34;challenge-draws&#34;&gt;Challenge draws&lt;/h2&gt;
+
+&lt;p&gt;The Challenge draws as many cards as its Rank and places them,
+face visible, on the table. Orientation of cards matters. This
+is typically done by the GM, but who draws doesn&amp;rsquo;t matter overmuch.&lt;/p&gt;
+
+&lt;p&gt;As a special rule, if the Challenge encounters the Excuse while
+drawing, drawing stops at the card before the Excuse.&lt;/p&gt;
+
+&lt;p&gt;Pay special attention to the cards that are reversed. They will be
+used to determine the &lt;strong&gt;Cost&lt;/strong&gt; of the Challenge. Similarly, any
+card drawn by the Challenge may affect the &lt;strong&gt;Effect&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;character-draws&#34;&gt;Character draws&lt;/h2&gt;
+
+&lt;p&gt;To beat the challenge, the player will now draw cards for their
+character. The challenge is beaten if the player draws cards that
+beat all the cards of the Challenge. As the player draws cards:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;the likelihood of beating the Challenge increases;&lt;/li&gt;
+&lt;li&gt;the &lt;strong&gt;Effect&lt;/strong&gt; of beating the Challenge increases;&lt;/li&gt;
+&lt;li&gt;the &lt;strong&gt;Cost&lt;/strong&gt; increases, which may prompt the player to stop drawing;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The player may decide to not draw cards. Unless the challenge had
+a Rank of 0, this means that the challenge is not beaten, but also
+that all risks are avoided. Also, to provide a manner for the
+character to bounce back to initiative, the player draws one
+Reserve Card, to be used after the Challenge.&lt;/p&gt;
+
+&lt;p&gt;If the player decides to draw, they take cards one by one, as follows:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;the Cost starts below 0, at minus the value of the Attribute involved;&lt;/li&gt;
+&lt;li&gt;before drawing a card, the player may decide to stop;&lt;/li&gt;
+&lt;li&gt;if the card is the Excuse, discard it and stop drawing immediately;&lt;/li&gt;
+&lt;li&gt;if the card is reversed, it increases the Cost;&lt;/li&gt;
+&lt;li&gt;if the Cost is 5, this is a &lt;strong&gt;Wipe Out&lt;/strong&gt;, stop drawing immediately
+(you don&amp;rsquo;t want a Wipe Out);&lt;/li&gt;
+&lt;li&gt;if the table has 1 (respectively 2, 3, 4, 5) cards of the same
+figure (e.g. 2 Servants, or 2 Lovers, or 2 Dragons, &amp;hellip;), this
+increases the Effect to 1 (respectively 2, 3, 4, 5). This includes
+both the cards of the character and those of the Challenge. As
+Triumphs have no figure, they do not count towards Effect;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;example-chess-match-2&#34;&gt;Example: Chess match&lt;/h2&gt;
+
+&lt;p&gt;As Lord Devon represents a Superb (5) challenge, the GM draws 5 cards:&lt;/p&gt;
+
+
+
+&lt;figure
+    class=&#34;yoric-hand &#34;&gt;
+    
+        
+        
+        
+        &lt;img
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-26.png&#34;
+            data-src=&#34;/images/space-time-deck/card-26.png&#34;
+            data-sizes=&#34;auto&#34;
+            
+                
+                    class=&#34;lazyload yoric-stdeck yoric-hand-card yoric-up-card&#34;
+                    alt=&#34;Card number 26, upright&#34;
+                
+                
+                
+            
+            alt=&#34;Card number 26&#34;
+        /&gt;
+    
+        
+        
+        
+        &lt;img
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-84.png&#34;
+            data-src=&#34;/images/space-time-deck/card-84.png&#34;
+            data-sizes=&#34;auto&#34;
+            
+                
+                    class=&#34;lazyload yoric-stdeck yoric-hand-card yoric-up-card&#34;
+                    alt=&#34;Card number 84, upright&#34;
+                
+                
+                
+            
+            alt=&#34;Card number 84&#34;
+        /&gt;
+    
+        
+        
+        
+        &lt;img
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-82.png&#34;
+            data-src=&#34;/images/space-time-deck/card-82.png&#34;
+            data-sizes=&#34;auto&#34;
+            
+                
+                
+                    class=&#34;lazyload yoric-stdeck yoric-hand-card yoric-reversed-card&#34;
+                    alt=&#34;Card number 82, reversed&#34;
+                
+                
+            
+            alt=&#34;Card number 82&#34;
+        /&gt;
+    
+        
+        
+        
+        &lt;img
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-78.png&#34;
+            data-src=&#34;/images/space-time-deck/card-78.png&#34;
+            data-sizes=&#34;auto&#34;
+            
+                
+                
+                    class=&#34;lazyload yoric-stdeck yoric-hand-card yoric-reversed-card&#34;
+                    alt=&#34;Card number 78, reversed&#34;
+                
+                
+            
+            alt=&#34;Card number 78&#34;
+        /&gt;
+    
+        
+        
+        
+        &lt;img
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-39.png&#34;
+            data-src=&#34;/images/space-time-deck/card-39.png&#34;
+            data-sizes=&#34;auto&#34;
+            
+                
+                
+                    class=&#34;lazyload yoric-stdeck yoric-hand-card yoric-reversed-card&#34;
+                    alt=&#34;Card number 39, reversed&#34;
+                
+                
+            
+            alt=&#34;Card number 39&#34;
+        /&gt;
+    
+&lt;/figure&gt;
+
+
+
+&lt;p&gt;That&amp;rsquo;s unlucky for Lady Buckingham, as this card is the strongest in
+the entire deck:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+    
+    
+    &lt;img
+        src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-26.png&#34;
+        data-src=&#34;/images/space-time-deck/card-26.png&#34;
+        data-sizes=&#34;auto&#34;
+        
+            
+                class=&#34;lazyload yoric-stdeck yoric-single-card yoric-up-card&#34;
+                alt=&#34;Card number 26, upright&#34;
+            
+            
+            
+        
+    /&gt;
+&lt;/figure&gt;
+
+
+
+&lt;p&gt;So, Lady Buckingham&amp;rsquo;s player decides to not draw. She has lost this round,
+but as she hasn&amp;rsquo;t drawn, there is no Cost for her.&lt;/p&gt;
+
+&lt;h2 id=&#34;example-escaping-the-furnace-2&#34;&gt;Example: Escaping the Furnace&lt;/h2&gt;
+
+&lt;p&gt;As the fire represents a Good (3) challenge, the GM draws 3 cards:&lt;/p&gt;
+
+
+
+&lt;figure
+    class=&#34;yoric-hand &#34;&gt;
+    
+        
+        
+        
+        &lt;img
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-49.png&#34;
+            data-src=&#34;/images/space-time-deck/card-49.png&#34;
+            data-sizes=&#34;auto&#34;
+            
+                
+                
+                    class=&#34;lazyload yoric-stdeck yoric-hand-card yoric-reversed-card&#34;
+                    alt=&#34;Card number 49, reversed&#34;
+                
+                
+            
+            alt=&#34;Card number 49&#34;
+        /&gt;
+    
+        
+        
+        
+        &lt;img
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-35.png&#34;
+            data-src=&#34;/images/space-time-deck/card-35.png&#34;
+            data-sizes=&#34;auto&#34;
+            
+                
+                
+                    class=&#34;lazyload yoric-stdeck yoric-hand-card yoric-reversed-card&#34;
+                    alt=&#34;Card number 35, reversed&#34;
+                
+                
+            
+            alt=&#34;Card number 35&#34;
+        /&gt;
+    
+        
+        
+        
+        &lt;img
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-43.png&#34;
+            data-src=&#34;/images/space-time-deck/card-43.png&#34;
+            data-sizes=&#34;auto&#34;
+            
+                
+                    class=&#34;lazyload yoric-stdeck yoric-hand-card yoric-up-card&#34;
+                    alt=&#34;Card number 43, upright&#34;
+                
+                
+                
+            
+            alt=&#34;Card number 43&#34;
+        /&gt;
+    
+&lt;/figure&gt;
+
+
+
+&lt;p&gt;Alex is luckier than Lady Buckingham, as all these cards can be beaten.
+So far, two cards are reversed. Since Alex has a Great (4) Rock, that&amp;rsquo;s
+a Cost of -2 so far.&lt;/p&gt;
+
+&lt;p&gt;Alex starts drawing&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+    
+    
+    &lt;img
+        src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-44.png&#34;
+        data-src=&#34;/images/space-time-deck/card-44.png&#34;
+        data-sizes=&#34;auto&#34;
+        
+            
+            
+                class=&#34;lazyload yoric-stdeck yoric-single-card yoric-reversed-card&#34;
+                alt=&#34;Card number 44, reversed&#34;
+            
+            
+        
+    /&gt;
+&lt;/figure&gt;
+
+
+
+&lt;p&gt;This card is reversed, so Cost climbs to -1. It doesn&amp;rsquo;t beat any of the
+cards of the Challenge, so Alex decides to continue drawing.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+    
+    
+    &lt;img
+        src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-36.png&#34;
+        data-src=&#34;/images/space-time-deck/card-36.png&#34;
+        data-sizes=&#34;auto&#34;
+        
+            
+            
+                class=&#34;lazyload yoric-stdeck yoric-single-card yoric-reversed-card&#34;
+                alt=&#34;Card number 36, reversed&#34;
+            
+            
+        
+    /&gt;
+&lt;/figure&gt;
+
+
+
+&lt;p&gt;This card is reversed, so the Cost climbs to 0. This card is a Paper,
+so it builds the two Unknown cards in the Challenge&amp;rsquo;s hand. Only one
+more card to beat!&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+    
+    
+    &lt;img
+        src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-10.png&#34;
+        data-src=&#34;/images/space-time-deck/card-10.png&#34;
+        data-sizes=&#34;auto&#34;
+        
+            
+            
+                class=&#34;lazyload yoric-stdeck yoric-single-card yoric-reversed-card&#34;
+                alt=&#34;Card number 10, reversed&#34;
+            
+            
+        
+    /&gt;
+&lt;/figure&gt;
+
+
+
+&lt;p&gt;This card is reversed, again, so the Cost climbs to 1. So far, it&amp;rsquo;s a
+very minor Cost. This card is a Triumph, so it beats all the cards of
+the Challenge.&lt;/p&gt;
+
+&lt;p&gt;Let&amp;rsquo;s look at all the cards on the table:&lt;/p&gt;
+
+
+
+&lt;figure
+    class=&#34;yoric-hand &#34;&gt;
+    
+        
+        
+        
+        &lt;img
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-49.png&#34;
+            data-src=&#34;/images/space-time-deck/card-49.png&#34;
+            data-sizes=&#34;auto&#34;
+            
+                
+                
+                    class=&#34;lazyload yoric-stdeck yoric-hand-card yoric-reversed-card&#34;
+                    alt=&#34;Card number 49, reversed&#34;
+                
+                
+            
+            alt=&#34;Card number 49&#34;
+        /&gt;
+    
+        
+        
+        
+        &lt;img
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-35.png&#34;
+            data-src=&#34;/images/space-time-deck/card-35.png&#34;
+            data-sizes=&#34;auto&#34;
+            
+                
+                
+                    class=&#34;lazyload yoric-stdeck yoric-hand-card yoric-reversed-card&#34;
+                    alt=&#34;Card number 35, reversed&#34;
+                
+                
+            
+            alt=&#34;Card number 35&#34;
+        /&gt;
+    
+        
+        
+        
+        &lt;img
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-43.png&#34;
+            data-src=&#34;/images/space-time-deck/card-43.png&#34;
+            data-sizes=&#34;auto&#34;
+            
+                
+                    class=&#34;lazyload yoric-stdeck yoric-hand-card yoric-up-card&#34;
+                    alt=&#34;Card number 43, upright&#34;
+                
+                
+                
+            
+            alt=&#34;Card number 43&#34;
+        /&gt;
+    
+        
+        
+        
+        &lt;img
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-44.png&#34;
+            data-src=&#34;/images/space-time-deck/card-44.png&#34;
+            data-sizes=&#34;auto&#34;
+            
+                
+                
+                    class=&#34;lazyload yoric-stdeck yoric-hand-card yoric-reversed-card&#34;
+                    alt=&#34;Card number 44, reversed&#34;
+                
+                
+            
+            alt=&#34;Card number 44&#34;
+        /&gt;
+    
+        
+        
+        
+        &lt;img
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-36.png&#34;
+            data-src=&#34;/images/space-time-deck/card-36.png&#34;
+            data-sizes=&#34;auto&#34;
+            
+                
+                
+                    class=&#34;lazyload yoric-stdeck yoric-hand-card yoric-reversed-card&#34;
+                    alt=&#34;Card number 36, reversed&#34;
+                
+                
+            
+            alt=&#34;Card number 36&#34;
+        /&gt;
+    
+        
+        
+        
+        &lt;img
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-10.png&#34;
+            data-src=&#34;/images/space-time-deck/card-10.png&#34;
+            data-sizes=&#34;auto&#34;
+            
+                
+                
+                    class=&#34;lazyload yoric-stdeck yoric-hand-card yoric-reversed-card&#34;
+                    alt=&#34;Card number 10, reversed&#34;
+                
+                
+            
+            alt=&#34;Card number 10&#34;
+        /&gt;
+    
+&lt;/figure&gt;
+
+
+
+&lt;p&gt;No pairs, so Alex currently has an Effect of 1. Most likely, that means
+that he&amp;rsquo;ll only have managed to grab a few documents on the way out. Alex
+decides to keep drawing, in order to try and increase his Effect.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+    
+    
+    &lt;img
+        src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-22.png&#34;
+        data-src=&#34;/images/space-time-deck/card-22.png&#34;
+        data-sizes=&#34;auto&#34;
+        
+            
+                class=&#34;lazyload yoric-stdeck yoric-single-card yoric-up-card&#34;
+                alt=&#34;Card number 22, upright&#34;
+            
+            
+            
+        
+    /&gt;
+&lt;/figure&gt;
+
+
+
+&lt;p&gt;Still a Triumph, but still no pairs, it doesn&amp;rsquo;t increase the Effect.
+Alex continues.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+    
+    
+    &lt;img
+        src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-6.png&#34;
+        data-src=&#34;/images/space-time-deck/card-6.png&#34;
+        data-sizes=&#34;auto&#34;
+        
+            
+                class=&#34;lazyload yoric-stdeck yoric-single-card yoric-up-card&#34;
+                alt=&#34;Card number 6, upright&#34;
+            
+            
+            
+        
+    /&gt;
+&lt;/figure&gt;
+
+
+
+&lt;p&gt;Still a Triumph, but still no pairs, it doesn&amp;rsquo;t increase the Effect.
+Alex continues.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+    
+    
+    &lt;img
+        src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-58.png&#34;
+        data-src=&#34;/images/space-time-deck/card-58.png&#34;
+        data-sizes=&#34;auto&#34;
+        
+            
+                class=&#34;lazyload yoric-stdeck yoric-single-card yoric-up-card&#34;
+                alt=&#34;Card number 58, upright&#34;
+            
+            
+            
+        
+    /&gt;
+&lt;/figure&gt;
+
+
+
+&lt;p&gt;Ahah, that&amp;rsquo;s a second Builder! That gives Alex one pair. He decides
+to stop drawing here, with a Cost of 1 and an Effect of 2.&lt;/p&gt;
+
+&lt;h2 id=&#34;example-kaiju-attack-2&#34;&gt;Example: Kaiju attack&lt;/h2&gt;
+
+&lt;p&gt;Levinulon&amp;rsquo;s focus is Superb (4), so the GM draws 4 cards:&lt;/p&gt;
+
+
+
+&lt;figure
+    class=&#34;yoric-hand &#34;&gt;
+    
+        
+        
+        
+        &lt;img
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-79.png&#34;
+            data-src=&#34;/images/space-time-deck/card-79.png&#34;
+            data-sizes=&#34;auto&#34;
+            
+                
+                    class=&#34;lazyload yoric-stdeck yoric-hand-card yoric-up-card&#34;
+                    alt=&#34;Card number 79, upright&#34;
+                
+                
+                
+            
+            alt=&#34;Card number 79&#34;
+        /&gt;
+    
+        
+        
+        
+        &lt;img
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-16.png&#34;
+            data-src=&#34;/images/space-time-deck/card-16.png&#34;
+            data-sizes=&#34;auto&#34;
+            
+                
+                    class=&#34;lazyload yoric-stdeck yoric-hand-card yoric-up-card&#34;
+                    alt=&#34;Card number 16, upright&#34;
+                
+                
+                
+            
+            alt=&#34;Card number 16&#34;
+        /&gt;
+    
+        
+        
+        
+        &lt;img
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-9.png&#34;
+            data-src=&#34;/images/space-time-deck/card-9.png&#34;
+            data-sizes=&#34;auto&#34;
+            
+                
+                    class=&#34;lazyload yoric-stdeck yoric-hand-card yoric-up-card&#34;
+                    alt=&#34;Card number 9, upright&#34;
+                
+                
+                
+            
+            alt=&#34;Card number 9&#34;
+        /&gt;
+    
+        
+        
+        
+        &lt;img
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-14.png&#34;
+            data-src=&#34;/images/space-time-deck/card-14.png&#34;
+            data-sizes=&#34;auto&#34;
+            
+                
+                
+                    class=&#34;lazyload yoric-stdeck yoric-hand-card yoric-reversed-card&#34;
+                    alt=&#34;Card number 14, reversed&#34;
+                
+                
+            
+            alt=&#34;Card number 14&#34;
+        /&gt;
+    
+&lt;/figure&gt;
+
+
+
+&lt;p&gt;Tokyo Mechanized Defense Force is Great (4) in Serpents, so starts with a Cost of -4.
+Since one card is already reversed, that&amp;rsquo;s now -3.&lt;/p&gt;
+
+&lt;p&gt;Tokyo Mechanized Defense Force draws:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+    
+    
+    &lt;img
+        src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-11.png&#34;
+        data-src=&#34;/images/space-time-deck/card-11.png&#34;
+        data-sizes=&#34;auto&#34;
+        
+            
+            
+                class=&#34;lazyload yoric-stdeck yoric-single-card yoric-reversed-card&#34;
+                alt=&#34;Card number 11, reversed&#34;
+            
+            
+        
+    /&gt;
+&lt;/figure&gt;
+
+
+
+&lt;p&gt;So far, Levinulon&amp;rsquo;s focus is greater. Also, Cost increases to -2. Tokyo Mechanized Defense Force continues to draw.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+    
+    
+    &lt;img
+        src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-71.png&#34;
+        data-src=&#34;/images/space-time-deck/card-71.png&#34;
+        data-sizes=&#34;auto&#34;
+        
+            
+            
+                class=&#34;lazyload yoric-stdeck yoric-single-card yoric-reversed-card&#34;
+                alt=&#34;Card number 71, reversed&#34;
+            
+            
+        
+    /&gt;
+&lt;/figure&gt;
+
+
+
+&lt;p&gt;So far, Levinulon&amp;rsquo;s focus is greater. Also, Cost increases to -1. Tokyo Mechanized Defense Force continues to draw.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+    
+    
+    &lt;img
+        src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-7.png&#34;
+        data-src=&#34;/images/space-time-deck/card-7.png&#34;
+        data-sizes=&#34;auto&#34;
+        
+            
+                class=&#34;lazyload yoric-stdeck yoric-single-card yoric-up-card&#34;
+                alt=&#34;Card number 7, upright&#34;
+            
+            
+            
+        
+    /&gt;
+&lt;/figure&gt;
+
+
+
+&lt;p&gt;Levinulon&amp;rsquo;s focus is still greater. Costs remains unchanged. Tokyo Mechanized Defense Force continues to draw.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+    
+    
+    &lt;img
+        src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-80.png&#34;
+        data-src=&#34;/images/space-time-deck/card-80.png&#34;
+        data-sizes=&#34;auto&#34;
+        
+            
+            
+                class=&#34;lazyload yoric-stdeck yoric-single-card yoric-reversed-card&#34;
+                alt=&#34;Card number 80, reversed&#34;
+            
+            
+        
+    /&gt;
+&lt;/figure&gt;
+
+
+
+&lt;p&gt;Levinulon&amp;rsquo;s focus is still greater. Cost increases to Mediocre (0). Tokyo Mechanized Defense Force continues to draw.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+    
+    
+    &lt;img
+        src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-68.png&#34;
+        data-src=&#34;/images/space-time-deck/card-68.png&#34;
+        data-sizes=&#34;auto&#34;
+        
+            
+            
+                class=&#34;lazyload yoric-stdeck yoric-single-card yoric-reversed-card&#34;
+                alt=&#34;Card number 68, reversed&#34;
+            
+            
+        
+    /&gt;
+&lt;/figure&gt;
+
+
+
+&lt;p&gt;Levinulon&amp;rsquo;s focus is still greater. Cost increases to Average (1). Tokyo Mechanized Defense Force continues to draw.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+    
+    
+    &lt;img
+        src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-21.png&#34;
+        data-src=&#34;/images/space-time-deck/card-21.png&#34;
+        data-sizes=&#34;auto&#34;
+        
+            
+            
+                class=&#34;lazyload yoric-stdeck yoric-single-card yoric-reversed-card&#34;
+                alt=&#34;Card number 21, reversed&#34;
+            
+            
+        
+    /&gt;
+&lt;/figure&gt;
+
+
+
+&lt;p&gt;Levinulon&amp;rsquo;s focus is finally beaten! Cost increases to Fair (2). There are two Soldiers on the table, so the Effect
+is currently Fair (2). The GM informs the player that the Tokyo Mechanized Defense Force itself is now at some risk.
+As Tokyo Mechanized Defense Force prioritizes saving citizens to its own survival, the player would like
+an Effect of Good (3). For this purpose, the player would need a third Soldier. The player draws again.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+    
+    
+    &lt;img
+        src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-54.png&#34;
+        data-src=&#34;/images/space-time-deck/card-54.png&#34;
+        data-sizes=&#34;auto&#34;
+        
+            
+            
+                class=&#34;lazyload yoric-stdeck yoric-single-card yoric-reversed-card&#34;
+                alt=&#34;Card number 54, reversed&#34;
+            
+            
+        
+    /&gt;
+&lt;/figure&gt;
+
+
+
+&lt;p&gt;Cost increases to Good (3), with an Effect still at Fair (2). The GM informs the player that any further reversed card
+will start hurting the Tokyo Mechanized Defense Force. Bravely, Tokyo Mechanized Defense Force draws again.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+    
+    
+    &lt;img
+        src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-72.png&#34;
+        data-src=&#34;/images/space-time-deck/card-72.png&#34;
+        data-sizes=&#34;auto&#34;
+        
+            
+                class=&#34;lazyload yoric-stdeck yoric-single-card yoric-up-card&#34;
+                alt=&#34;Card number 72, upright&#34;
+            
+            
+            
+        
+    /&gt;
+&lt;/figure&gt;
+
+
+
+&lt;p&gt;This card alters neither the Cost nor the Effect. Bravely, Tokyo Mechanized Defense Force draws again.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+    
+    
+    &lt;img
+        src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-32.png&#34;
+        data-src=&#34;/images/space-time-deck/card-32.png&#34;
+        data-sizes=&#34;auto&#34;
+        
+            
+                class=&#34;lazyload yoric-stdeck yoric-single-card yoric-up-card&#34;
+                alt=&#34;Card number 32, upright&#34;
+            
+            
+            
+        
+    /&gt;
+&lt;/figure&gt;
+
+
+
+&lt;p&gt;That&amp;rsquo;s a second Ruler, so a second pair. This does not influence the Effect. Tokyo Mechanized Defense Force decides to stop before luck runs out, though.&lt;/p&gt;
+
+&lt;p&gt;So, Tokyo Defense Force has acheived a Fair (2) Effect at a Good (3) Cost. We&amp;rsquo;ll see how to interpret this.&lt;/p&gt;
+
+&lt;h1 id=&#34;outcome-of-a-challenge&#34;&gt;Outcome of a Challenge&lt;/h1&gt;
+
+&lt;p&gt;Now that the cards are drawn, the only thing that remains to do is
+to narrate the outcome.&lt;/p&gt;
+
+&lt;p&gt;The general rule is that the Player is entirely in charge of
+narrating the outcome, as long as it doesn&amp;rsquo;t impact another
+player&amp;rsquo;s character – if this happens, you need the agreement
+of that other player.&lt;/p&gt;
+
+&lt;p&gt;Additionally, when you narrate Effect and
+Cost, the GM is in charge of making sure that the description
+is roughly proportionate to the Effect and Cost as drawn.&lt;/p&gt;
+
+&lt;h2 id=&#34;determining-and-narrating-failure&#34;&gt;Determining and narrating Failure&lt;/h2&gt;
+
+&lt;p&gt;A character has Failed if at least one card of the Challenge was
+not beaten or if the player decided to not draw.&lt;/p&gt;
+
+&lt;p&gt;This means, in particular, that a character can simply never fail
+a Challenge with a rank of Mediocre (0).&lt;/p&gt;
+
+&lt;p&gt;If your character has failed, pick some of the cards on the table
+and use them to narrate what has happened.&lt;/p&gt;
+
+&lt;h3 id=&#34;example-chess-match-3&#34;&gt;Example: Chess match&lt;/h3&gt;
+
+&lt;p&gt;Lady Buckingham&amp;rsquo;s player chooses to interpret the following cards
+picked by Lord Devon:&lt;/p&gt;
+
+
+
+&lt;figure
+    class=&#34;yoric-hand &#34;&gt;
+    
+        
+        
+        
+        &lt;img
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-78.png&#34;
+            data-src=&#34;/images/space-time-deck/card-78.png&#34;
+            data-sizes=&#34;auto&#34;
+            
+                
+                
+                    class=&#34;lazyload yoric-stdeck yoric-hand-card yoric-reversed-card&#34;
+                    alt=&#34;Card number 78, reversed&#34;
+                
+                
+            
+            alt=&#34;Card number 78&#34;
+        /&gt;
+    
+        
+        
+        
+        &lt;img
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-39.png&#34;
+            data-src=&#34;/images/space-time-deck/card-39.png&#34;
+            data-sizes=&#34;auto&#34;
+            
+                
+                
+                    class=&#34;lazyload yoric-stdeck yoric-hand-card yoric-reversed-card&#34;
+                    alt=&#34;Card number 39, reversed&#34;
+                
+                
+            
+            alt=&#34;Card number 39&#34;
+        /&gt;
+    
+&lt;/figure&gt;
+
+
+
+&lt;ul&gt;
+&lt;li&gt;Lady Buckingham: &amp;ldquo;Lord Devon has managed to trick me, very early in the game.
+I should realized that he was using the Calrissian gambit, but unfortunately,
+I fell for it. Now, my only way out of his trap is forward. I&amp;rsquo;ll need to
+play aggressively from now on.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;GM: &amp;ldquo;Can you write down an Aspect?&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The player writes &lt;strong&gt;Tricked by Lord Devon&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Both Lord Devon and Lady Buckingham will remember what has just happened –
+there will be consequences.&lt;/p&gt;
+
+&lt;p&gt;Also, Lady Buckingham draws one Reserve Card&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+    
+    
+    &lt;img
+        src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-47.png&#34;
+        data-src=&#34;/images/space-time-deck/card-47.png&#34;
+        data-sizes=&#34;auto&#34;
+        
+            
+                class=&#34;lazyload yoric-stdeck yoric-single-card yoric-up-card&#34;
+                alt=&#34;Card number 47, upright&#34;
+            
+            
+            
+        
+    /&gt;
+&lt;/figure&gt;
+
+
+
+&lt;p&gt;She&amp;rsquo;ll be able to use it for the mid-game of this match.&lt;/p&gt;
+
+&lt;h2 id=&#34;determining-and-narrating-success&#34;&gt;Determining and narrating Success&lt;/h2&gt;
+
+&lt;p&gt;If each card drawn by the Challenge is beaten by at least one card
+drawn by the player, the Challenge ends in a Success for the
+character.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s time to look at the Reach and Effect to determine just how much
+the character has managed to achieve. As a general idea, if the
+Effect is:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Great (5) – The character has achieved the best possible result, regardless
+of the Reach established before drawing cards.&lt;/li&gt;
+&lt;li&gt;Good (4) – The character has exceeded the Reach.&lt;/li&gt;
+&lt;li&gt;Fair (3) – The character has almost achieved the Reach.&lt;/li&gt;
+&lt;li&gt;Average (2) – The character has roughly achieved half of their Reach.&lt;/li&gt;
+&lt;li&gt;Mediocre (1) – It&amp;rsquo;s a nominal success, but frankly, nothing was achieved.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The player should now pick a few of the cards (typically,
+the pair/triple/&amp;hellip; if there is any) and use it to narrate
+the Effect.&lt;/p&gt;
+
+&lt;p&gt;Note that Effect and Cost do &lt;em&gt;not&lt;/em&gt; cancel out each other,
+so you may end up with a Great Effect and an equally
+Great Cost for the same Challenge.&lt;/p&gt;
+
+&lt;h3 id=&#34;example-escaping-the-furnace-3&#34;&gt;Example: Escaping the Furnace&lt;/h3&gt;
+
+&lt;p&gt;Alex has succeeded at escaping the Furnace with the following pair:&lt;/p&gt;
+
+
+
+&lt;figure
+    class=&#34;yoric-hand &#34;&gt;
+    
+        
+        
+        
+        &lt;img
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-36.png&#34;
+            data-src=&#34;/images/space-time-deck/card-36.png&#34;
+            data-sizes=&#34;auto&#34;
+            
+                
+                
+                    class=&#34;lazyload yoric-stdeck yoric-hand-card yoric-reversed-card&#34;
+                    alt=&#34;Card number 36, reversed&#34;
+                
+                
+            
+            alt=&#34;Card number 36&#34;
+        /&gt;
+    
+        
+        
+        
+        &lt;img
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-58.png&#34;
+            data-src=&#34;/images/space-time-deck/card-58.png&#34;
+            data-sizes=&#34;auto&#34;
+            
+                
+                    class=&#34;lazyload yoric-stdeck yoric-hand-card yoric-up-card&#34;
+                    alt=&#34;Card number 58, upright&#34;
+                
+                
+                
+            
+            alt=&#34;Card number 58&#34;
+        /&gt;
+    
+&lt;/figure&gt;
+
+
+
+&lt;p&gt;That&amp;rsquo;s an Average (2) Effect, which means that he&amp;rsquo;s achieved roughly
+half of what he was attempting to do. This could mean for instance
+that Alex hasn&amp;rsquo;t reached the exit yet, or that Alex has lost roughly
+half of the documents, or that Alex has only grabbed a handful of
+documents.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Alex: &amp;ldquo;Ok, that&amp;rsquo;s not ideal, but it&amp;rsquo;s still better than nothing.
+So, with my great investigation skills, I had actually managed
+to find hundreds and hundreds of documents, which I was in the
+process of sorting into boxes. When I realized that the house
+was on fire, I started grabbing two boxes, one under each arm,
+but when I reached the ladder, I realized that I could couldn&amp;rsquo;t
+get these papers down the ladder and save my skin. I decided
+that my skin was more important than my investigation,
+I stuffed what I could in my pockets and ran the rest of the
+way to the exit.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Note that Alex has slightly changed the initial description of
+his actions now that he knows the result of the cards. As long
+as it doens&amp;rsquo;t change the outcome, this is entirely acceptable.&lt;/p&gt;
+
+&lt;h3 id=&#34;example-kaiju-attack-3&#34;&gt;Example: Kaiju attack&lt;/h3&gt;
+
+&lt;p&gt;The Tokyo Mechanized Defense Force had, with difficulty, succeeded
+with a Fair (2) Effect, with the following pairs:&lt;/p&gt;
+
+
+
+&lt;figure
+    class=&#34;yoric-hand &#34;&gt;
+    
+        
+        
+        
+        &lt;img
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-79.png&#34;
+            data-src=&#34;/images/space-time-deck/card-79.png&#34;
+            data-sizes=&#34;auto&#34;
+            
+                
+                    class=&#34;lazyload yoric-stdeck yoric-hand-card yoric-up-card&#34;
+                    alt=&#34;Card number 79, upright&#34;
+                
+                
+                
+            
+            alt=&#34;Card number 79&#34;
+        /&gt;
+    
+        
+        
+        
+        &lt;img
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-68.png&#34;
+            data-src=&#34;/images/space-time-deck/card-68.png&#34;
+            data-sizes=&#34;auto&#34;
+            
+                
+                
+                    class=&#34;lazyload yoric-stdeck yoric-hand-card yoric-reversed-card&#34;
+                    alt=&#34;Card number 68, reversed&#34;
+                
+                
+            
+            alt=&#34;Card number 68&#34;
+        /&gt;
+    
+&lt;/figure&gt;
+
+
+
+
+
+&lt;figure
+    class=&#34;yoric-hand &#34;&gt;
+    
+        
+        
+        
+        &lt;img
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-54.png&#34;
+            data-src=&#34;/images/space-time-deck/card-54.png&#34;
+            data-sizes=&#34;auto&#34;
+            
+                
+                
+                    class=&#34;lazyload yoric-stdeck yoric-hand-card yoric-reversed-card&#34;
+                    alt=&#34;Card number 54, reversed&#34;
+                
+                
+            
+            alt=&#34;Card number 54&#34;
+        /&gt;
+    
+        
+        
+        
+        &lt;img
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-32.png&#34;
+            data-src=&#34;/images/space-time-deck/card-32.png&#34;
+            data-sizes=&#34;auto&#34;
+            
+                
+                    class=&#34;lazyload yoric-stdeck yoric-hand-card yoric-up-card&#34;
+                    alt=&#34;Card number 32, upright&#34;
+                
+                
+                
+            
+            alt=&#34;Card number 32&#34;
+        /&gt;
+    
+&lt;/figure&gt;
+
+
+
+&lt;p&gt;The Reach was to affect Levinulon&amp;rsquo;s focus. Since an Effect
+of Fair (2) suggests that the Reach is halfway met, this can
+translate to the Tokyo Mechanized Defense Force having succeeded,
+but not before Levinulon has had the time to kill a large number
+of civilians.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Tokyo Mechanized Defense Force: &amp;ldquo;&lt;em&gt;Farewell to the Mighty&lt;/em&gt; and &lt;em&gt;The rule is the same for all&lt;/em&gt; seem
+indicate that Levinulon has destroyed a very important building. Say
+the Bank of Japan.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;GM: &amp;ldquo;The Reach was about civilians.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Tokyo Mechanized Defense Force: &amp;ldquo;Oh, right. Well, while we
+were still trying to attrack Levinulon&amp;rsquo;s attention, it stepped
+on the building, before they had time to evacuate. There will
+be hundreds of casualties, including the President of the Bank
+of Japan.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;GM: &amp;ldquo;You could have done a little less, but it sounds fair.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The GM writes down an Aspect &lt;strong&gt;The Tokyo Mechanized Defense Force couldn&amp;rsquo;t
+save the Bank of Japan.&lt;/strong&gt; Undoubtedly, there will be consequences at some
+point in the future.&lt;/p&gt;
+
+&lt;h2 id=&#34;determining-and-narrating-cost&#34;&gt;Determining and narrating Cost&lt;/h2&gt;
+
+&lt;p&gt;Regardless of whether you succeeded or failed, it&amp;rsquo;s time to look at the Risk
+and Cost to determine just how much the character has suffered from this
+Challenge. As a general idea, if the Cost is:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Great (5) – The worst thing that could happen to the characters in the context
+has happened, regardless of what Risk was established before drawing the cards.&lt;/li&gt;
+&lt;li&gt;Good (4) – The cost exceeds the Risk established before drawing
+the cards.&lt;/li&gt;
+&lt;li&gt;Fair (3) – The cost is not quite as bad as the Risk established before drawing the cards.&lt;/li&gt;
+&lt;li&gt;Average (2) – The cost is roughly half of the Risk established before drawing the cards.&lt;/li&gt;
+&lt;li&gt;Mediocre (1) – The cost is minor and temporary.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Recall that players can decide to stop their draw whenever they want, so Costs
+of Good or Great will be extremely rare, and even Costs of Fair will be uncommon.&lt;/p&gt;
+
+&lt;h3 id=&#34;example-chess-match-4&#34;&gt;Example: Chess match&lt;/h3&gt;
+
+&lt;p&gt;Lady Buckingham conceded the Challenge without drawing cards, so
+she incurs no Cost.&lt;/p&gt;
+
+&lt;h3 id=&#34;example-chess-match-worst-possible-case-variant&#34;&gt;Example: Chess match (worst possible case variant)&lt;/h3&gt;
+
+&lt;p&gt;If Lady Buckingham had suffered a Great (5) cost, regardless of winning
+or losing, she would somehow have passed for a fool in front of a
+crowd of her peers. The player would have narrative control to decide
+exactly how this would have happened, and whether Lady Buckingham is
+responsible or simply a victim of circumstances.&lt;/p&gt;
+
+&lt;p&gt;For instance, people in the crowd could have started gossiping about
+her highly improper – and possibly entirely imaginary – flirt with
+Lord Sussex, or her pregnancy. Or should could have received a
+message that a certain Scotland Yard detective was waiting for her
+in the antechamber, along with a few bobbies dispatched to arrest
+her. Or she could have been drunk and making improper jokes while
+playing chess, etc.&lt;/p&gt;
+
+&lt;p&gt;Fortunately, none of this happened.&lt;/p&gt;
+
+&lt;h3 id=&#34;example-escaping-the-furnace-4&#34;&gt;Example: Escaping the Furnace&lt;/h3&gt;
+
+&lt;p&gt;In this case, Alex suffers a Cost of 1, which is barely worth
+mentioning.&lt;/p&gt;
+
+&lt;p&gt;The player looks at one of the reversed cards&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+    
+    
+    &lt;img
+        src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-44.png&#34;
+        data-src=&#34;/images/space-time-deck/card-44.png&#34;
+        data-sizes=&#34;auto&#34;
+        
+            
+            
+                class=&#34;lazyload yoric-stdeck yoric-single-card yoric-reversed-card&#34;
+                alt=&#34;Card number 44, reversed&#34;
+            
+            
+        
+    /&gt;
+&lt;/figure&gt;
+
+
+
+&lt;ul&gt;
+&lt;li&gt;Alex: &amp;ldquo;I&amp;rsquo;m getting out of this fire alive, but I&amp;rsquo;ll be having nightmares
+for nights to come!&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;GM: &amp;ldquo;Sounds about fair. Could you write down this as a temporary Aspect
+for me?&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Alex writes down &lt;strong&gt;Nightmares on Fire&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;example-escaping-the-furnace-worst-possible-case-variant&#34;&gt;Example: Escaping the Furnace (worst possible case variant)&lt;/h3&gt;
+
+&lt;p&gt;If Alex had suffered a Cost of 5, he would not have died in the furnace,
+as his draw was successful. However, he might have collapsed in the street,
+poisoned by the toxic fumes, and spent the next two years in an hospital.&lt;/p&gt;
+
+&lt;p&gt;Or, he could have made it out of the fire only to be shot by whoever
+had started this fire. Or only to to receive a phone call from his editor
+informing him that he was let go for unspecified reasons. Etc.&lt;/p&gt;
+
+&lt;p&gt;Again, the player gets to narrate a worst case scenario.&lt;/p&gt;
+
+&lt;h3 id=&#34;example-kaiju-attack-4&#34;&gt;Example: Kaiju attack&lt;/h3&gt;
+
+&lt;p&gt;The Tokyo Mechanized Defense Force has suffered from a Good (3) Cost, with
+the following reversed cards&lt;/p&gt;
+
+
+
+&lt;figure
+    class=&#34;yoric-hand &#34;&gt;
+    
+        
+        
+        
+        &lt;img
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-14.png&#34;
+            data-src=&#34;/images/space-time-deck/card-14.png&#34;
+            data-sizes=&#34;auto&#34;
+            
+                
+                
+                    class=&#34;lazyload yoric-stdeck yoric-hand-card yoric-reversed-card&#34;
+                    alt=&#34;Card number 14, reversed&#34;
+                
+                
+            
+            alt=&#34;Card number 14&#34;
+        /&gt;
+    
+        
+        
+        
+        &lt;img
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-11.png&#34;
+            data-src=&#34;/images/space-time-deck/card-11.png&#34;
+            data-sizes=&#34;auto&#34;
+            
+                
+                
+                    class=&#34;lazyload yoric-stdeck yoric-hand-card yoric-reversed-card&#34;
+                    alt=&#34;Card number 11, reversed&#34;
+                
+                
+            
+            alt=&#34;Card number 11&#34;
+        /&gt;
+    
+        
+        
+        
+        &lt;img
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-71.png&#34;
+            data-src=&#34;/images/space-time-deck/card-71.png&#34;
+            data-sizes=&#34;auto&#34;
+            
+                
+                
+                    class=&#34;lazyload yoric-stdeck yoric-hand-card yoric-reversed-card&#34;
+                    alt=&#34;Card number 71, reversed&#34;
+                
+                
+            
+            alt=&#34;Card number 71&#34;
+        /&gt;
+    
+        
+        
+        
+        &lt;img
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-80.png&#34;
+            data-src=&#34;/images/space-time-deck/card-80.png&#34;
+            data-sizes=&#34;auto&#34;
+            
+                
+                
+                    class=&#34;lazyload yoric-stdeck yoric-hand-card yoric-reversed-card&#34;
+                    alt=&#34;Card number 80, reversed&#34;
+                
+                
+            
+            alt=&#34;Card number 80&#34;
+        /&gt;
+    
+        
+        
+        
+        &lt;img
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-68.png&#34;
+            data-src=&#34;/images/space-time-deck/card-68.png&#34;
+            data-sizes=&#34;auto&#34;
+            
+                
+                
+                    class=&#34;lazyload yoric-stdeck yoric-hand-card yoric-reversed-card&#34;
+                    alt=&#34;Card number 68, reversed&#34;
+                
+                
+            
+            alt=&#34;Card number 68&#34;
+        /&gt;
+    
+        
+        
+        
+        &lt;img
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-21.png&#34;
+            data-src=&#34;/images/space-time-deck/card-21.png&#34;
+            data-sizes=&#34;auto&#34;
+            
+                
+                
+                    class=&#34;lazyload yoric-stdeck yoric-hand-card yoric-reversed-card&#34;
+                    alt=&#34;Card number 21, reversed&#34;
+                
+                
+            
+            alt=&#34;Card number 21&#34;
+        /&gt;
+    
+        
+        
+        
+        &lt;img
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-54.png&#34;
+            data-src=&#34;/images/space-time-deck/card-54.png&#34;
+            data-sizes=&#34;auto&#34;
+            
+                
+                
+                    class=&#34;lazyload yoric-stdeck yoric-hand-card yoric-reversed-card&#34;
+                    alt=&#34;Card number 54, reversed&#34;
+                
+                
+            
+            alt=&#34;Card number 54&#34;
+        /&gt;
+    
+&lt;/figure&gt;
+
+
+
+&lt;p&gt;The Risk was: &amp;ldquo;Little risk to the Tokyo Mechanized Defense Force, but some risk to the city itself.&amp;rdquo; –
+as mentioned by the GM, with a Good (3) Cost, the Tokyo Mechanized Defense Force
+actually suffers from this Cost.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Tokyo Mechanized Defense Force: &amp;ldquo;Let&amp;rsquo;s see&amp;hellip; &lt;em&gt;Unreliable Foundations&lt;/em&gt; and &lt;em&gt;Farewell to the Mighty&lt;/em&gt;,
+so that sounds like buildings collapsing. We&amp;rsquo;ve already covered some of that. There has been
+considerable destruction, not just the Bank of Japan. I also see &lt;em&gt;Overlooking an
+Obstacle&lt;/em&gt; and &lt;em&gt;Diminished&lt;/em&gt; – that sounds like one of my drivers was hiding behind one of the
+buildings that was destroyed, and didn&amp;rsquo;t get out in time. So one of the mechs is severely
+damaged, I don&amp;rsquo;t know if he&amp;rsquo;ll be able to make it for the rest of the event.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;GM: &amp;ldquo;Can you write me down an Aspect?&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The player writes down &lt;strong&gt;One severely damaged mech&lt;/strong&gt;. This will undoubtedly serve later.&lt;/p&gt;
+
+&lt;h3 id=&#34;example-kaiju-attack-worst-possible-case-variant&#34;&gt;Example: Kaiju attack (worst possible case variant)&lt;/h3&gt;
+
+&lt;p&gt;With a Great (5) Cost, the Challenge could have covered a much longer period of time,
+with the mechs desperately attempting to attract the attention of Levinulo before he
+could destroy too much of Tokyo. Since the Tokyo Mechanized Defense Force has succeeded,
+a large part of Tokyo&amp;rsquo;s population would have had time to escape, though.&lt;/p&gt;
+
+&lt;p&gt;Also, much of the Tokyo Mechanized Defense Force would have been damaged or destroyed
+in the process, rendering the entire force unusable against Levinulon.&lt;/p&gt;
+
+&lt;h1 id=&#34;what-happens-when-a-npc-attempts-to-do-something&#34;&gt;What happens when a NPC attempts to do something?&lt;/h1&gt;
+
+&lt;p&gt;As you have seen, the rules cover only the case of a PC attempting an action.
+This is by design: while it is often fun for players to draw cards, take risks
+or play it safe, and see what happens to their characters, the GM is expected
+to be impartial and to handle the entire world, which makes notions such as
+risks and effects redundant.&lt;/p&gt;
+
+&lt;p&gt;Therefore, if a NPC attempts an action on a non-consenting PC, in N-Dimensional
+Tourists, this will simply be handled as a PC Challenging the NPC&amp;rsquo;s action.
+The rules are identical and the PC is till the one meeting the Challenge.&lt;/p&gt;
+
+&lt;p&gt;If a NPC attempts to do something on another NPC, rules are neither particularly
+necessary nor particularly interesting. The GM is encouraged to either decide the
+results, possibly drawing a card for inspiration, or ask one of the players to
+draw a card and decide.&lt;/p&gt;
+
+&lt;h1 id=&#34;tips&#34;&gt;Tips&lt;/h1&gt;
+
+&lt;h2 id=&#34;risks-costs-vs-reach-effect&#34;&gt;Risks/Costs vs. Reach/Effect&lt;/h2&gt;
+
+&lt;p&gt;It is sometimes difficult to differentiate between the Reach and the Risk and
+setup a Challenge in such a manner that a high Cost will not contradict a high
+Effect. If you encounter such a case, the simplest solution is to assume:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;if it&amp;rsquo;s within the control of the character, it&amp;rsquo;s a Reach/Effect;&lt;/li&gt;
+&lt;li&gt;if it&amp;rsquo;s without the control of the character, it&amp;rsquo;s a Risk/Cost.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For instance, in the example of the Chess Match, Lady Buckingham can, to
+some extent, control what happens on the chessboard and in the conversation
+between her and Lord Devon, but not what gossip may be circulating in the room.&lt;/p&gt;
+
+&lt;p&gt;This is by no means the &lt;em&gt;only&lt;/em&gt; way of designing Risk vs. Reach or
+Cost vs. Effect, but in our experience, it works when needed.&lt;/p&gt;
+
+&lt;h2 id=&#34;weapons-armors-and-superpowers&#34;&gt;Weapons, armors and superpowers&lt;/h2&gt;
+
+&lt;p&gt;In many games, weapons, armors, superpowers and other manners of affecting
+the universe have dedicated rules. In N-Dimensional Tourists, they are typically
+considered instances of Aspects, either temporary or permanent. As such, they
+provide narrative authorization for characters to accomplish things that they would
+not have been able to accomplish otherwise, and they can be affected by
+Reserve Cards, but they have no special rules.&lt;/p&gt;
+
+&lt;p&gt;For instance, in the Kaiju Attack, the mechs are part of &lt;strong&gt;Mechanized Defenders of the City&lt;/strong&gt;.
+As such, they authorize the Tokyo Mechanized Defense Force to go head-to-head against
+Levinulon. They do not otherwise affect the rules.&lt;/p&gt;
+
+&lt;p&gt;If some equipment is absolutely central to your character, you may make it a Specialty,
+and customize the rule. In effect, this equipment will become part of your character.&lt;/p&gt;
+
+&lt;h2 id=&#34;wounds-traumas-and-social-consequences&#34;&gt;Wounds, Traumas and Social Consequences&lt;/h2&gt;
+
+&lt;p&gt;Many games have rules to represent the health of a character. In N-Dimensional Tourists,
+there are no such rules.&lt;/p&gt;
+
+&lt;p&gt;When your character is doing something particularly risky (as established by the Risk)
+or takes too many chances while doing it (as established by the Cost), they may be
+wounded, or traumatized, or shunned out of polite society, or sentenced to jail,
+or any other kind of heavy consequence.&lt;/p&gt;
+
+&lt;p&gt;These are all (negative) Aspects. Depending on the gravity of the Aspect, it may be
+simple to get rid of it, harder, or even entirely impossible. Differences between
+such aspects exists entirely in-story and not covered by the rules.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Plotonomicon: A Tutorial</title>
-      <link>http://space-timewilltell.yoric.xyz/post/plotonomicon-tutorial/</link>
+      <link>https://space-timewilltell.yoric.xyz/post/plotonomicon-tutorial/</link>
       <pubDate>Tue, 30 Oct 2018 23:26:01 +0100</pubDate>
       
-      <guid>http://space-timewilltell.yoric.xyz/post/plotonomicon-tutorial/</guid>
+      <guid>https://space-timewilltell.yoric.xyz/post/plotonomicon-tutorial/</guid>
       <description>
 
 &lt;p&gt;You know what? Let&amp;rsquo;s keep explanations for later. Let&amp;rsquo;s start with some action!&lt;/p&gt;
 
 &lt;p&gt;Imagine cars racing in the streets of Rio de Janeiro. It&amp;rsquo;s the present. Two of the heroes (let&amp;rsquo;s call them Desmond and Erika) share a sportscar, driving as fast as they can away from the HQ of Evil Corporation, where they just stole a USB stick. Our third hero (Frank) is in the gadget van, driving more slowly while keeping an eye on a map of traffic lights. A dozen of armed thugs on motorcycles are after Desmond and Erika. Also, imagine you have never visited Rio de Janeiro, you have no clue what the city looks like, and you haven&amp;rsquo;t prepped this pursuit.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://space-timewilltell.yoric.xyz/images/plotonomicon/tutorial-car-chase.png&#34; alt=&#34;Flickr user Alan Levin – Car Chase – Licensed under CC BY 2.0&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://space-timewilltell.yoric.xyz/images/plotonomicon/tutorial-car-chase.png&#34; alt=&#34;Flickr user Alan Levin – Car Chase – Licensed under CC BY 2.0&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;No problem. For one thing, we don&amp;rsquo;t actually care what the city looks like – it&amp;rsquo;s just a game, and you&amp;rsquo;re not going to get it any more wrong than most Hollywood movies. So let&amp;rsquo;s see what we can do to make it fun. If you &lt;em&gt;do&lt;/em&gt; live in Rio de Janeiro, just imagine it&amp;rsquo;s Istanbul instead!&lt;/p&gt;
 
@@ -37,7 +1793,7 @@
     
     
     &lt;img
-        src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-22.png&#34;
+        src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-22.png&#34;
         data-src=&#34;/images/space-time-deck/card-22.png&#34;
         data-sizes=&#34;auto&#34;
         
@@ -91,7 +1847,7 @@ variety to the results.&lt;/p&gt;
 &lt;li&gt;&lt;strong&gt;Large streets are pretty much blocked.&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;The pursuit may now start. For this, Alice is going to use the usual rules provided by her ruleset, so we&amp;rsquo;re not going to give all the details about the pursuit. If you want Space·Time Deck-based rules for the pursuit, either because you&amp;rsquo;re Charlene the Writer, or because you just want to try something different, you can take a look at the mini-rules included in the deck, or at the sister book, &lt;a href=&#34;http://space-timewilltell.yoric.xyz/n-dimensional-tourists&#34;&gt;N-Dimensional Tourists&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The pursuit may now start. For this, Alice is going to use the usual rules provided by her ruleset, so we&amp;rsquo;re not going to give all the details about the pursuit. If you want Space·Time Deck-based rules for the pursuit, either because you&amp;rsquo;re Charlene the Writer, or because you just want to try something different, you can take a look at the mini-rules included in the deck, or at the sister book, &lt;a href=&#34;https://space-timewilltell.yoric.xyz/n-dimensional-tourists&#34;&gt;N-Dimensional Tourists&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h1 id=&#34;waking-up-sleeping-players&#34;&gt;Waking up sleeping players&lt;/h1&gt;
 
@@ -111,7 +1867,7 @@ variety to the results.&lt;/p&gt;
     
     
     &lt;img
-        src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-78.png&#34;
+        src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-78.png&#34;
         data-src=&#34;/images/space-time-deck/card-78.png&#34;
         data-sizes=&#34;auto&#34;
         
@@ -171,7 +1927,7 @@ Of course, as GM, Alice gets to decide whether Frank&amp;rsquo;s interpretation 
     
     
     &lt;img
-        src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-17.png&#34;
+        src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-17.png&#34;
         data-src=&#34;/images/space-time-deck/card-17.png&#34;
         data-sizes=&#34;auto&#34;
         
@@ -235,7 +1991,7 @@ Of course, as GM, Alice gets to decide whether Frank&amp;rsquo;s interpretation 
     
     
     &lt;img
-        src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-17.png&#34;
+        src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-17.png&#34;
         data-src=&#34;/images/space-time-deck/card-17.png&#34;
         data-sizes=&#34;auto&#34;
         
@@ -298,10 +2054,10 @@ you make your unprepped stories awesome!&lt;/p&gt;
     
     <item>
       <title>The Space Time Deck</title>
-      <link>http://space-timewilltell.yoric.xyz/space-time-deck/</link>
+      <link>https://space-timewilltell.yoric.xyz/space-time-deck/</link>
       <pubDate>Tue, 30 Oct 2018 13:45:25 +0100</pubDate>
       
-      <guid>http://space-timewilltell.yoric.xyz/space-time-deck/</guid>
+      <guid>https://space-timewilltell.yoric.xyz/space-time-deck/</guid>
       <description>&lt;p&gt;The Space·Time Deck is a deck of 67 cards and a few blanks, loosely inspired
 from Tarot decks, and designed to aid with story improv, including
 Role-Playing Games and other forms of Storytelling.&lt;/p&gt;
@@ -310,9 +2066,9 @@ Role-Playing Games and other forms of Storytelling.&lt;/p&gt;
 as part of a narrative role-playing ruleset. For both reasons, cards
 have both illustrations and symbols.&lt;/p&gt;
 
-&lt;p&gt;The Space·Time Deck is used throughout &lt;a href=&#34;http://space-timewilltell.yoric.xyz/plotonomicon&#34;&gt;the Plotonomicon&lt;/a&gt;
+&lt;p&gt;The Space·Time Deck is used throughout &lt;a href=&#34;https://space-timewilltell.yoric.xyz/plotonomicon&#34;&gt;the Plotonomicon&lt;/a&gt;
 for building plots, characters, places, factions, twists, etc. and
-throughout &lt;a href=&#34;http://space-timewilltell.yoric.xyz/n-dimensional-tourists&#34;&gt;the N-Dimensional Tourists&lt;/a&gt;
+throughout &lt;a href=&#34;https://space-timewilltell.yoric.xyz/n-dimensional-tourists&#34;&gt;the N-Dimensional Tourists&lt;/a&gt;
 as a base for resolving obstacles, conflicts, etc.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;
@@ -354,11 +2110,11 @@ resolution.&lt;/p&gt;
 &lt;p&gt;The Space·Time Deck consists in:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;9 Cards of the &lt;a href=&#34;http://space-timewilltell.yoric.xyz/post/suit-rock&#34;&gt;Rock Suit&lt;/a&gt;, unnumbered + 2 blanks – may symbolize stability, authority, power, physical strength, society, but also rigidity;&lt;/li&gt;
-&lt;li&gt;9 Cards of the &lt;a href=&#34;http://space-timewilltell.yoric.xyz/post/suit-paper&#34;&gt;Paper Suit&lt;/a&gt;, unnumbered + 2 blanks – may symbolize knowledge, deduction, riches, but also fragility;&lt;/li&gt;
-&lt;li&gt;9 Cards of the &lt;a href=&#34;http://space-timewilltell.yoric.xyz/post/suit-blades&#34;&gt;Blades Suit&lt;/a&gt;, unnumbered + 2 blanks – may symbolize forced change, violence and death;&lt;/li&gt;
-&lt;li&gt;9 Cards of the &lt;a href=&#34;http://space-timewilltell.yoric.xyz/post/suit-serpent&#34;&gt;Serpent Suit&lt;/a&gt;, unnumbered + 2 blanks – may symbolize speed, stealth, adaptation, survival but also lies, forbidden knowledge, forbidden power, temptation;&lt;/li&gt;
-&lt;li&gt;9 Cards of the &lt;a href=&#34;http://space-timewilltell.yoric.xyz/post/suit-out-there&#34;&gt;Unknown Suit&lt;/a&gt;, unnumbered + 2 blanks – may symbolize imagination, intuition, perception, dreams, illusions, but also the unability to distinguish between facts and fiction;&lt;/li&gt;
+&lt;li&gt;9 Cards of the &lt;a href=&#34;https://space-timewilltell.yoric.xyz/post/suit-rock&#34;&gt;Rock Suit&lt;/a&gt;, unnumbered + 2 blanks – may symbolize stability, authority, power, physical strength, society, but also rigidity;&lt;/li&gt;
+&lt;li&gt;9 Cards of the &lt;a href=&#34;https://space-timewilltell.yoric.xyz/post/suit-paper&#34;&gt;Paper Suit&lt;/a&gt;, unnumbered + 2 blanks – may symbolize knowledge, deduction, riches, but also fragility;&lt;/li&gt;
+&lt;li&gt;9 Cards of the &lt;a href=&#34;https://space-timewilltell.yoric.xyz/post/suit-blades&#34;&gt;Blades Suit&lt;/a&gt;, unnumbered + 2 blanks – may symbolize forced change, violence and death;&lt;/li&gt;
+&lt;li&gt;9 Cards of the &lt;a href=&#34;https://space-timewilltell.yoric.xyz/post/suit-serpent&#34;&gt;Serpent Suit&lt;/a&gt;, unnumbered + 2 blanks – may symbolize speed, stealth, adaptation, survival but also lies, forbidden knowledge, forbidden power, temptation;&lt;/li&gt;
+&lt;li&gt;9 Cards of the &lt;a href=&#34;https://space-timewilltell.yoric.xyz/post/suit-out-there&#34;&gt;Unknown Suit&lt;/a&gt;, unnumbered + 2 blanks – may symbolize imagination, intuition, perception, dreams, illusions, but also the unability to distinguish between facts and fiction;&lt;/li&gt;
 &lt;li&gt;21 &lt;a href=&#34;http://localhost:1313/post/the-space-time-deck/&#34; target=&#34;_blank&#34;&gt;Triumph Cards&lt;/a&gt;, numbered I to XXI, + 5 blanks;&lt;/li&gt;
 &lt;li&gt;1 &lt;a href=&#34;http://localhost:1313/post/the-space-time-deck/&#34; target=&#34;_blank&#34;&gt;Excuse&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
@@ -401,7 +2157,7 @@ somehow beats another one, there is a universal rule:&lt;/p&gt;
     
     
     &lt;img
-        src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-4.png&#34;
+        src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-4.png&#34;
         data-src=&#34;/images/space-time-deck/card-4.png&#34;
         data-sizes=&#34;auto&#34;
         
@@ -465,7 +2221,7 @@ somehow beats another one, there is a universal rule:&lt;/p&gt;
     
     
     &lt;img
-        src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-10.png&#34;
+        src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-10.png&#34;
         data-src=&#34;/images/space-time-deck/card-10.png&#34;
         data-sizes=&#34;auto&#34;
         
@@ -508,7 +2264,7 @@ somehow beats another one, there is a universal rule:&lt;/p&gt;
     
     
     &lt;img
-        src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-66.png&#34;
+        src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-66.png&#34;
         data-src=&#34;/images/space-time-deck/card-66.png&#34;
         data-sizes=&#34;auto&#34;
         
@@ -541,10 +2297,10 @@ somehow beats another one, there is a universal rule:&lt;/p&gt;
     
     <item>
       <title>The Plotonomicon: About This Book</title>
-      <link>http://space-timewilltell.yoric.xyz/post/plotonomicon-about/</link>
+      <link>https://space-timewilltell.yoric.xyz/post/plotonomicon-about/</link>
       <pubDate>Tue, 30 Oct 2018 00:22:48 +0100</pubDate>
       
-      <guid>http://space-timewilltell.yoric.xyz/post/plotonomicon-about/</guid>
+      <guid>https://space-timewilltell.yoric.xyz/post/plotonomicon-about/</guid>
       <description>&lt;p&gt;As all good things do, this book starts with a story.&lt;/p&gt;
 
 &lt;p&gt;It&amp;rsquo;s the story of a Game Master (let&amp;rsquo;s call her Alice), who spent weeks preparing a campaign for her players. Maybe the Players&amp;rsquo;s Characters were to be a company of heroes, who would save the land from a dragon. Or maybe they were students in magics, who were expected to find the sinister secrets of the Sorcerous Highschool. Or maybe they were survivors of a zombie apocalypse, who were to spend each of their days hiding from hordes of shambling undead.&lt;/p&gt;
@@ -567,17 +2323,23 @@ somehow beats another one, there is a universal rule:&lt;/p&gt;
 and one Game Master (or GM), playing the rest of the world, in particular the Non-Player Characters (or NPCs). Role-players will recognize the standard configuration of most Tabletop Role-Playing Games. However, this book is designed to be useful in more
 situations than just standard Tabletop Role-Playing Games. If you are interested in other forms of storytelling, whether traditional (one storyteller in front of an audience), collaborative (several storytellers, weaving a story together, for each other or for an audience), or written (one writer or more, no audience), you should be able to adapt without difficulty most of the techniques described here to your favorite format.&lt;/p&gt;
 
-&lt;p&gt;Oh, and one last thing: if you are looking for a ruleset for role-playing games, you won&amp;rsquo;t find any in this book, but don&amp;rsquo;t worry: the sister book, &lt;a href=&#34;http://space-timewilltell.yoric.xyz/n-dimensional-tourists&#34;&gt;The N-Dimensional Tourists&lt;/a&gt; has you covered – it contains a dedicated ruleset for role-playing with only the Space·Time Deck!&lt;/p&gt;
+&lt;p&gt;Oh, and one last thing: if you are looking for a ruleset for role-playing games, you won&amp;rsquo;t find any in this book, but don&amp;rsquo;t worry: the sister book, &lt;a href=&#34;https://space-timewilltell.yoric.xyz/n-dimensional-tourists&#34;&gt;The N-Dimensional Tourists&lt;/a&gt; has you covered – it contains a dedicated ruleset for role-playing with only the Space·Time Deck!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>N-Dimensional Tourists: Conflict Resolution</title>
-      <link>http://space-timewilltell.yoric.xyz/post/tourists-conflict-resolution/</link>
+      <link>https://space-timewilltell.yoric.xyz/post/tourists-conflict-resolution/</link>
       <pubDate>Tue, 30 Oct 2018 00:15:18 +0200</pubDate>
       
-      <guid>http://space-timewilltell.yoric.xyz/post/tourists-conflict-resolution/</guid>
+      <guid>https://space-timewilltell.yoric.xyz/post/tourists-conflict-resolution/</guid>
       <description>
+
+&lt;h1 id=&#34;this-content-is-deprecated&#34;&gt;THIS CONTENT IS DEPRECATED&lt;/h1&gt;
+
+&lt;p&gt;Playtesting has indicated that these rules don&amp;rsquo;t work as well as hoped.&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;ll leave them here for historical reasons, but newer versions of &lt;a href=&#34;https://space-timewilltell.yoric.xyz/n-dimensional-tourists&#34;&gt;N-Dimensional Tourists&lt;/a&gt; do &lt;em&gt;not&lt;/em&gt; use these rules.&lt;/p&gt;
 
 
 &lt;figure &gt;
@@ -585,7 +2347,7 @@ situations than just standard Tabletop Role-Playing Games. If you are interested
     
     
     &lt;img
-        src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-back.png&#34;
+        src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-back.png&#34;
         data-src=&#34;/images/space-time-deck/card-back.png&#34;
         data-sizes=&#34;auto&#34;
         
@@ -601,15 +2363,18 @@ situations than just standard Tabletop Role-Playing Games. If you are interested
 
 
 
-&lt;p&gt;These rules are part of the N-Dimensional Tourists ruleset.&lt;/p&gt;
+&lt;p&gt;These rules describes how to resolve Conflicts between
+two parties or more during a role-playing game using
+the &lt;a href=&#34;https://space-timewilltell.yoric.xyz/n-dimensional-tourists&#34;&gt;N-Dimensional Tourists ruleset&lt;/a&gt;.
+This mechanism is designed to be generic enough to handle
+pretty much any kind, while remaining mostly narrative.&lt;/p&gt;
 
-&lt;p&gt;Specifically, this entry describes a mechanism to resolve Conflicts between
-two parties or more during a role-playing game. It is designed to be generic
-enough to cover pretty much any kind of Conflict with the same mechanism, while
-remaining narrative.&lt;/p&gt;
-
-&lt;p&gt;As you&amp;rsquo;ll see in this chapter, this mechanism is freely inspired from both
-Tarot and Blackjack – and it uses the &lt;a href=&#34;http://space-timewilltell.yoric.xyz/space-time-deck&#34;&gt;Space·Time Deck&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The core idea behind this mechanism is that parties
+involved battle for Control of the Conflict. Losing
+Control means that your party will have to take more
+risks to achieve the same results. With sufficient
+Control, a party may essentially dictate the outcome
+of the Conflict.&lt;/p&gt;
 
 &lt;p&gt;Have fun :)&lt;/p&gt;
 
@@ -628,11 +2393,15 @@ cause maximal damage to infrastructure while the government forces attempt
 to destroy the guerilla forces. An outlying party may be attempting to
 propagate its doctrine while the more traditional parties attempt to
 maintain the status quo. A sniper may attempt to kill a target. A child
-may be attempting to attract attention during a kidnapping attempt.&lt;/p&gt;
+may be attempting to attract attention during a kidnapping attempt. A
+mountain may be attempting to kill a climber while taking the risk of
+losing the ability to surprise that climber.&lt;/p&gt;
 
 &lt;p&gt;Conflict does not have to be about killing or maiming. A chess game may
 very well be a Conflict in which players are risking their reputation
-and self-esteem.&lt;/p&gt;
+and self-esteem. A soccer match between to groups of friends is a
+Conflict in which both parties agree tacitly neither to take (too many)
+risks, nor to make the other party take risks.&lt;/p&gt;
 
 &lt;p&gt;Conflicts assumes that both parties have some manner of assessing their
 situation, and have some ability to act. In other words, as long as the
@@ -657,37 +2426,12 @@ killing the target vs. capturing the intruder before he has the chance to
 cause damage. The players representing each party must have a clear idea
 of the desired outcome for the conflict.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://space-timewilltell.yoric.xyz/images/illustrations/Combat Knights 6.jpg&#34; alt=&#34;Credits: Flickr user Paul K&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://space-timewilltell.yoric.xyz/images/illustrations/Combat Knights 6.jpg&#34; alt=&#34;Credits: Flickr user Paul K&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;They are, of course, entirely free to change the desired outcome, but this
 may end up completely changing the state of the conflict. For instance, if
 the hidden sniper finds themself cornered, they may decide to change plan,
 create maximum chaos and attempt to escape – but that&amp;rsquo;s a new conflict.&lt;/p&gt;
-
-&lt;h1 id=&#34;small-recap-of-character-attributes&#34;&gt;Small recap of character attributes&lt;/h1&gt;
-
-&lt;p&gt;In N-Dimensional Tourists, each character is defined by:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Any number of &lt;strong&gt;Aspects&lt;/strong&gt;, which determine what the character can do;&lt;/li&gt;
-&lt;li&gt;5 &lt;strong&gt;Attributes&lt;/strong&gt;, which determine how good a character is at their tasks;&lt;/li&gt;
-&lt;li&gt;Any number of &lt;strong&gt;Specialties&lt;/strong&gt;, which let them use &lt;strong&gt;Attributes&lt;/strong&gt; in unusual manners;&lt;/li&gt;
-&lt;li&gt;At least one &lt;strong&gt;Weakness&lt;/strong&gt;, which makes their life more complicated.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The Attributes are:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Rock&lt;/strong&gt; (stability, authority, power, physical strength);&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Paper&lt;/strong&gt; (knowledge, deduction, riches);&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Blades&lt;/strong&gt; (violence, ability to effect change);&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Serpent&lt;/strong&gt; (speed, survival, stealth, lying);&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Unknown&lt;/strong&gt; (imagination, intuition, perception).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Attributes range between 1 and 5. Other definitions are not numbered.&lt;/p&gt;
-
-&lt;p&gt;Additionally, heroes start each session with a Reserve of 3 cards. We will see below one way to use these cards.&lt;/p&gt;
 
 &lt;h1 id=&#34;required-material&#34;&gt;Required material&lt;/h1&gt;
 
@@ -699,31 +2443,38 @@ create maximum chaos and attempt to escape – but that&amp;rsquo;s a new confli
 &lt;li&gt;lots of space on the table.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;You may also want to take a look at the &lt;a href=&#34;#cheat-sheet&#34;&gt;Cheat Sheet / Playing Mat&lt;/a&gt; below.
-It will help you for your first few attempts.&lt;/p&gt;
+&lt;p&gt;As you will need to organize your cards into several heaps, we suggest using
+the following Playing Mat. Experience shows that it is very helpful
+for your first few attempts.&lt;/p&gt;
 
-&lt;h1 id=&#34;resolving-the-conflict&#34;&gt;Resolving the Conflict&lt;/h1&gt;
+&lt;p&gt;As a bonus, it recapitulates the Conflict resolution rules.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://space-timewilltell.yoric.xyz/images/plotonomicon/playingmat.png&#34; alt=&#34;The N-Dimensional Tourist Playing Mat&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Feel free to print one for each player!&lt;/p&gt;
+
+&lt;h1 id=&#34;setting-up-the-conflict&#34;&gt;Setting up the Conflict&lt;/h1&gt;
 
 &lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 
 &lt;p&gt;During a Conflict, each party attempts to reach a goal, by adopting shifting
 tactics.&lt;/p&gt;
 
-&lt;p&gt;The key concept during a Conflict is the Advantage, which represents how close the
+&lt;p&gt;The key concept during a Conflict is the Control, which represents how close the
 Dominant party is to having complete control of the Conflict. If the Conflict is
-balanced, there is no Dominant party and the Advantage is 0. Otherwise, there
-is a Dominant party, and its Advantage value is a positive number. Regardless of
-how many parties are involved in the Conflict, only one party may have the Advantage.
+balanced, there is no Dominant party and the Control is 0. Otherwise, there
+is a Dominant party, and its Control value is a positive number. Regardless of
+how many parties are involved in the Conflict, only one party may have the Control.
 Once a party has complete control of the Conflict, none can stop it from reaching
 its goal.&lt;/p&gt;
 
 &lt;p&gt;The Conflict takes place as a sequence of Rounds. Each Round represents all parties
-attempting to execute their tactics to either grab the Advantage, if the Conflict
-is Balanced, or otherwise strengthen/weaken the Advantage. Two successive Rounds may
+attempting to execute their tactics to either grab the Control, if the Conflict
+is Balanced, or otherwise strengthen/weaken the Control. Two successive Rounds may
 represent entirely different durations, depending on what makes sense in the story –
 one round may very well last ten minutes and the next one ten years, without problem.&lt;/p&gt;
 
-&lt;p&gt;To grab the Advantage, strengthen their Advantage or weaken the opponent&amp;rsquo;s Advantage,
+&lt;p&gt;To grab the Control, strengthen their Control or weaken the opponent&amp;rsquo;s Control,
 each party may need to take risks. With risks come the possibility of Losses. Depending
 on the Conflict, Losses may represent wounds, engine issues, delays, lack of information,
 loss of soldiers, etc. As a
@@ -737,7 +2488,7 @@ on the Conflict.&lt;/p&gt;
 
 &lt;p&gt;Taking risks is represented by a bidding mechanism – each card drawn increases the party&amp;rsquo;s
 chance of achieving their tactics for the round, but also the chance of being hit by
-Losses. Higher Advantage gives the Dominant party the ability to draw more cards before
+Losses. Higher Control gives the Dominant party the ability to draw more cards before
 they start taking risks.&lt;/p&gt;
 
 &lt;p&gt;If, during the Conflict, a party finds itself in a situation in which it can suddenly
@@ -774,13 +2525,13 @@ save the city. The Police and civilians will certainly take damange, as well as 
 to grab the contents of the bank vaults and leave during the chaos, while the Police intends
 arrest or shoot the gangsters. In this case,
 the Mechanized Tokyo Defense Force, Levinulon and the Civilizans will be there only for
-narrative purposes, for instance to explain why the Police may end up losing Advantage
+narrative purposes, for instance to explain why the Police may end up losing Control
 against such a low-profile gang (&amp;ldquo;all our communication channels are busy, we can&amp;rsquo;t
 synchronize&amp;rdquo;).&lt;/p&gt;
 
 &lt;p&gt;Or maybe we are concentrating on the efforts of Police officers to evacuate civilians towards safety bunkers. In this case, the parties are the Police officers and Generalized destruction.
 Police officers intend to avoid Civilian losses, while Generalized destruction intends to
-maximize it – of course, this only makes sense if Generalized destruction can somehow be interpreted as having a goal and tactics. This depends entirely on the kind of story you intend to tell. Here, the Mechanized Tokyo Defense Force, Levinulon, the Civilians and Family Z are there purely for narrative purposes, and will serve to explain increasing or decreasing Advantage by
+maximize it – of course, this only makes sense if Generalized destruction can somehow be interpreted as having a goal and tactics. This depends entirely on the kind of story you intend to tell. Here, the Mechanized Tokyo Defense Force, Levinulon, the Civilians and Family Z are there purely for narrative purposes, and will serve to explain increasing or decreasing Control by
 Police officers and Generalized destruction.&lt;/p&gt;
 
 &lt;p&gt;Note that none of these examples &lt;em&gt;has&lt;/em&gt; to be a Conflict. The Mechanized Tokyo Defense Force
@@ -794,13 +2545,13 @@ rather than an active Conflict Party. The GM gets to decide what feels more inte
 
 &lt;p&gt;Does this make it a three-sided Conflict? Well, it depends on what the US Covert Mech Operations intend to do.&lt;/p&gt;
 
-&lt;p&gt;If the US Covert Mech Operations join forces with the Mechanized Tokyo Defense Force, then no. They are going to help with the initial Advantage, and they are going to have a narrative role, but for the purpose of rules, they are part of the same party as the Mechanized Tokyo Defense Force. So, this remains a Conflict between two sides.&lt;/p&gt;
+&lt;p&gt;If the US Covert Mech Operations join forces with the Mechanized Tokyo Defense Force, then no. They are going to help with the initial Control, and they are going to have a narrative role, but for the purpose of rules, they are part of the same party as the Mechanized Tokyo Defense Force. So, this remains a Conflict between two sides.&lt;/p&gt;
 
 &lt;p&gt;Now, it is possible that the US Covert Mech Operations was in Tokyo for economic warfare purposes, and the Mechanized Tokyo Defense Force has strict orders to disable their mechs and help the Police capture the US Covert Mech Operations agents, in addition to fighting Levinulon. The US Covert Mech Operations need to reach the Tokyo Stock Exchange and hack it before Levinulon destroys it, shooting down any Mechanized Tokyo Defense Force Officer that comes in the way. Meanwhile, Levinulon is quite happy to destroy everything. In this case, we have three sides in the Conflict.&lt;/p&gt;
 
 &lt;p&gt;By the way, it looks like a helicopter crew of All Nippon News Network has just arrived on the site. The objective of this helicopter crew is, of course, to gather the best possible images, which may mean putting itself in danger. A vicious GM may decide to make this helicopter crew yet another party. One of the objectives of the Mechanized Tokyo Defense Force is to defend the All Nippon News Network Crew, which means preventing it from getting the best images. The US Covert Mech Operations must not leave any recorded trace, which also means destroying the helicopter crew. If so, the site has just become a four-sided Conflict.&lt;/p&gt;
 
-&lt;h2 id=&#34;establishing-advantage&#34;&gt;Establishing Advantage&lt;/h2&gt;
+&lt;h2 id=&#34;establishing-control&#34;&gt;Establishing Control&lt;/h2&gt;
 
 &lt;p&gt;Each party gets to pick the Attribute they use for the Conflict, as long as it makes sense within the story. Driving Mechs to battle requires either Blades (for the violence), Serpent (for the quick reflexes) or Paper (for the strategy) – of course, you may only do so if you have an Aspect that implies that you can drive Mechs at all. Destroying Tokyo with sheer force requires either Blades (for the violence) or Stone (for the raw power). Leading Civilians to safety requires either Paper (for the strategy) or Stone (for the authority).&lt;/p&gt;
 
@@ -808,11 +2559,11 @@ rather than an active Conflict Party. The GM gets to decide what feels more inte
 
 &lt;p&gt;When creating NPCs or parties, it is common to write directly a specialized Attribute that may be used during such conflicts, e.g. Levinulon may have Destroy Everything at 8.&lt;/p&gt;
 
-&lt;p&gt;The party with highest total starts with the Advantage. The value of the advantage is the number of ranks of difference between the highest total and the second-highest. Note that if this rank is 5 or more, the chances of the leading party winning are extremely strong, so it may not be necessary to actually have a Conflict. If no party has the highest total, the Conflict starts Balanced.&lt;/p&gt;
+&lt;p&gt;The party with highest total starts with the Control. The value of the advantage is the number of ranks of difference between the highest total and the second-highest. Note that if this rank is 5 or more, the chances of the leading party winning are extremely strong, so it may not be necessary to actually have a Conflict. If no party has the highest total, the Conflict starts Balanced.&lt;/p&gt;
 
 &lt;p&gt;In a Conflict with three parties or more, this may mean that a party that is comparatively much weaker than the others starts Balanced. This represents the fact that both stronger parties will be much busier fighting each other than fighting this smaller party.&lt;/p&gt;
 
-&lt;p&gt;If one of the Parties has an Advantage of &lt;em&gt;n&lt;/em&gt; ranks, put as many tokens in front of the corresponding player.&lt;/p&gt;
+&lt;p&gt;If one of the Parties has a Control of &lt;em&gt;n&lt;/em&gt; ranks, put as many tokens in front of the corresponding player.&lt;/p&gt;
 
 &lt;h3 id=&#34;example-kaiju-1&#34;&gt;Example: Kaiju&lt;/h3&gt;
 
@@ -820,7 +2571,7 @@ rather than an active Conflict Party. The GM gets to decide what feels more inte
 
 &lt;p&gt;The Tokyo Mechanized Defense Force as a whole is defined with a Paper of 5, thanks to the excellent command team. On its character sheet, it also a &lt;em&gt;Well-trained team&lt;/em&gt; (+1), &lt;em&gt;The most agile mechs in the world&lt;/em&gt; (+1) and &lt;em&gt;Excellent knowledge of Tokyo&lt;/em&gt; (+1). Sadly, during the latest fight, it was determined that &lt;em&gt;The second-in-command is severely wounded&lt;/em&gt; – and is probably still in the hospital – (-1). The total is 7.&lt;/p&gt;
 
-&lt;p&gt;With 8 - 7, Levinulon has a slight Advantage (1). The GM gets one token to materialize this Advantage.&lt;/p&gt;
+&lt;p&gt;With 8 - 7, Levinulon has a slight Control (1). The GM gets one token to materialize this Control.&lt;/p&gt;
 
 &lt;h3 id=&#34;example-here-comes-a-new-challenger-1&#34;&gt;Example: Here comes a new challenger&lt;/h3&gt;
 
@@ -861,7 +2612,7 @@ same party as the Tokyo Mechanized Defense Force.&lt;/p&gt;
 
 &lt;p&gt;Therefore, Levinulon draws 3 cards in its Reserve.&lt;/p&gt;
 
-&lt;h1 id=&#34;resolving-the-conflict-1&#34;&gt;Resolving the Conflict&lt;/h1&gt;
+&lt;h1 id=&#34;resolving-the-conflict&#34;&gt;Resolving the Conflict&lt;/h1&gt;
 
 &lt;p&gt;A conflict is composed of rounds. During each round, each party has a tactics to either
 grab the advantage (if the Conflict is Balanced), consolidate their advantage (if they
@@ -907,7 +2658,7 @@ impact on the drawing of cards. However, they open the way to Reframing the Conf
 
 &lt;h2 id=&#34;balance-breaker-rounds&#34;&gt;Balance Breaker Rounds&lt;/h2&gt;
 
-&lt;p&gt;Balance Breaker Rounds happen whenever no party has managed to grab the Advantage. Balance Breaker Rounds can cause minor Losses, but nothing more dangerous.&lt;/p&gt;
+&lt;p&gt;Balance Breaker Rounds happen whenever no party has managed to grab the Control. Balance Breaker Rounds can cause minor Losses, but nothing more dangerous.&lt;/p&gt;
 
 &lt;p&gt;In a balanced round, bidding proceeds as follows:&lt;/p&gt;
 
@@ -922,7 +2673,7 @@ impact on the drawing of cards. However, they open the way to Reframing the Conf
 &lt;li&gt;Otherwise, if one of the card has drawn a card that beats all other cards
 
 &lt;ul&gt;
-&lt;li&gt;This party now has an Advantage of 1. Give that party one token to represent this Advantage.&lt;/li&gt;
+&lt;li&gt;This party now has a Control of 1. Give that party one token to represent this Control.&lt;/li&gt;
 &lt;li&gt;Bidding is over.&lt;/li&gt;
 &lt;li&gt;Proceed to the end of the round. The next round will be Unbalanced.&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
@@ -940,7 +2691,7 @@ impact on the drawing of cards. However, they open the way to Reframing the Conf
     
     
     &lt;img
-        src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-4.png&#34;
+        src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-4.png&#34;
         data-src=&#34;/images/space-time-deck/card-4.png&#34;
         data-sizes=&#34;auto&#34;
         
@@ -969,7 +2720,7 @@ impact on the drawing of cards. However, they open the way to Reframing the Conf
     
     
     &lt;img
-        src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-19.png&#34;
+        src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-19.png&#34;
         data-src=&#34;/images/space-time-deck/card-19.png&#34;
         data-sizes=&#34;auto&#34;
         
@@ -990,7 +2741,7 @@ impact on the drawing of cards. However, they open the way to Reframing the Conf
     
     
     &lt;img
-        src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-9.png&#34;
+        src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-9.png&#34;
         data-src=&#34;/images/space-time-deck/card-9.png&#34;
         data-sizes=&#34;auto&#34;
         
@@ -1011,7 +2762,7 @@ impact on the drawing of cards. However, they open the way to Reframing the Conf
     
     
     &lt;img
-        src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-79.png&#34;
+        src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-79.png&#34;
         data-src=&#34;/images/space-time-deck/card-79.png&#34;
         data-sizes=&#34;auto&#34;
         
@@ -1032,7 +2783,7 @@ impact on the drawing of cards. However, they open the way to Reframing the Conf
     
     
     &lt;img
-        src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-21.png&#34;
+        src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-21.png&#34;
         data-src=&#34;/images/space-time-deck/card-21.png&#34;
         data-sizes=&#34;auto&#34;
         
@@ -1077,7 +2828,7 @@ each bidding or passing;&lt;/li&gt;
 &lt;li&gt;If a party has just drawn the Excuse:
 
 &lt;ul&gt;
-&lt;li&gt;The Advantage of the Dominant is decreased by 1, possibly returning the Conflict to Balanced.&lt;/li&gt;
+&lt;li&gt;The Control of the Dominant is decreased by 1, possibly returning the Conflict to Balanced.&lt;/li&gt;
 &lt;li&gt;The player who drew the Excuse discards it, regardless of orientation, and draws another card for narrative purpose. If this card is reversed, it will be reused at the end of the Round.&lt;/li&gt;
 &lt;li&gt;Proceed to the end of the Round.&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
@@ -1102,12 +2853,12 @@ each bidding or passing;&lt;/li&gt;
 &lt;li&gt;If at least one Contender (including a Contender that has just been Wiped Out) has a set of cards that beats all the cards of the Dominant (each card of the Dominant needs to be beaten only by one card of the Contender)
 
 &lt;ul&gt;
-&lt;li&gt;The Advantage of the Dominant is decreased by 1, possibly returning the Conflict to Balanced.&lt;/li&gt;
+&lt;li&gt;The Control of the Dominant is decreased by 1, possibly returning the Conflict to Balanced.&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Otherwise
 
 &lt;ul&gt;
-&lt;li&gt;The Advantage of the Dominant is increased by 1.&lt;/li&gt;
+&lt;li&gt;The Control of the Dominant is increased by 1.&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;In either case, Proceed to the end of the Round.&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
@@ -1119,7 +2870,7 @@ each bidding or passing;&lt;/li&gt;
     
     
     &lt;img
-        src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-4.png&#34;
+        src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-4.png&#34;
         data-src=&#34;/images/space-time-deck/card-4.png&#34;
         data-sizes=&#34;auto&#34;
         
@@ -1137,11 +2888,11 @@ each bidding or passing;&lt;/li&gt;
 
 &lt;p&gt;Note that no stalemate is possible in an Unbalanced Round.&lt;/p&gt;
 
-&lt;p&gt;This flow may be altered by Using the Advantage, or Using the other party&amp;rsquo;s Losses (see below).&lt;/p&gt;
+&lt;p&gt;This flow may be altered by using the Control, or Using the other party&amp;rsquo;s Losses (see below).&lt;/p&gt;
 
 &lt;h3 id=&#34;example-kaiju-4&#34;&gt;Example: Kaiju&lt;/h3&gt;
 
-&lt;p&gt;We have previously established that, in a two-sided Conflict, Levinulon has an Advantage of 1. So the Tokyo Mechanized Defense Force draws first.&lt;/p&gt;
+&lt;p&gt;We have previously established that, in a two-sided Conflict, Levinulon has a Control of 1. So the Tokyo Mechanized Defense Force draws first.&lt;/p&gt;
 
 &lt;ol&gt;
 &lt;li&gt;The Tokyo Mechanized Defense Force draws 
@@ -1150,7 +2901,7 @@ each bidding or passing;&lt;/li&gt;
     
     
     &lt;img
-        src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-39.png&#34;
+        src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-39.png&#34;
         data-src=&#34;/images/space-time-deck/card-39.png&#34;
         data-sizes=&#34;auto&#34;
         
@@ -1171,7 +2922,7 @@ each bidding or passing;&lt;/li&gt;
     
     
     &lt;img
-        src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-66.png&#34;
+        src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-66.png&#34;
         data-src=&#34;/images/space-time-deck/card-66.png&#34;
         data-sizes=&#34;auto&#34;
         
@@ -1192,7 +2943,7 @@ each bidding or passing;&lt;/li&gt;
     
     
     &lt;img
-        src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-79.png&#34;
+        src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-79.png&#34;
         data-src=&#34;/images/space-time-deck/card-79.png&#34;
         data-sizes=&#34;auto&#34;
         
@@ -1214,7 +2965,7 @@ each bidding or passing;&lt;/li&gt;
     
     
     &lt;img
-        src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-19.png&#34;
+        src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-19.png&#34;
         data-src=&#34;/images/space-time-deck/card-19.png&#34;
         data-sizes=&#34;auto&#34;
         
@@ -1235,7 +2986,7 @@ each bidding or passing;&lt;/li&gt;
     
     
     &lt;img
-        src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-9.png&#34;
+        src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-9.png&#34;
         data-src=&#34;/images/space-time-deck/card-9.png&#34;
         data-sizes=&#34;auto&#34;
         
@@ -1249,13 +3000,13 @@ each bidding or passing;&lt;/li&gt;
     /&gt;
 &lt;/figure&gt;
 
- At this stage, Levinulon could incur a Temporary Loss (see below). However, using its Advantage Token (see below), it turns the card around, into 
+ At this stage, Levinulon could incur a Temporary Loss (see below). However, using its Control Token (see below), it turns the card around, into 
 &lt;figure &gt;
     
     
     
     &lt;img
-        src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-9.png&#34;
+        src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-9.png&#34;
         data-src=&#34;/images/space-time-deck/card-9.png&#34;
         data-sizes=&#34;auto&#34;
         
@@ -1277,7 +3028,7 @@ each bidding or passing;&lt;/li&gt;
     
     
     &lt;img
-        src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-48.png&#34;
+        src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-48.png&#34;
         data-src=&#34;/images/space-time-deck/card-48.png&#34;
         data-sizes=&#34;auto&#34;
         
@@ -1299,7 +3050,7 @@ each bidding or passing;&lt;/li&gt;
     
     
     &lt;img
-        src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-13.png&#34;
+        src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-13.png&#34;
         data-src=&#34;/images/space-time-deck/card-13.png&#34;
         data-sizes=&#34;auto&#34;
         
@@ -1321,7 +3072,7 @@ each bidding or passing;&lt;/li&gt;
     
     
     &lt;img
-        src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-76.png&#34;
+        src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-76.png&#34;
         data-src=&#34;/images/space-time-deck/card-76.png&#34;
         data-sizes=&#34;auto&#34;
         
@@ -1343,7 +3094,7 @@ each bidding or passing;&lt;/li&gt;
     
     
     &lt;img
-        src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-12.png&#34;
+        src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-12.png&#34;
         data-src=&#34;/images/space-time-deck/card-12.png&#34;
         data-sizes=&#34;auto&#34;
         
@@ -1365,7 +3116,7 @@ each bidding or passing;&lt;/li&gt;
     
     
     &lt;img
-        src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-70.png&#34;
+        src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-70.png&#34;
         data-src=&#34;/images/space-time-deck/card-70.png&#34;
         data-sizes=&#34;auto&#34;
         
@@ -1387,7 +3138,7 @@ each bidding or passing;&lt;/li&gt;
     
     
     &lt;img
-        src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-15.png&#34;
+        src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-15.png&#34;
         data-src=&#34;/images/space-time-deck/card-15.png&#34;
         data-sizes=&#34;auto&#34;
         
@@ -1409,7 +3160,7 @@ each bidding or passing;&lt;/li&gt;
     
     
     &lt;img
-        src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-11.png&#34;
+        src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-11.png&#34;
         data-src=&#34;/images/space-time-deck/card-11.png&#34;
         data-sizes=&#34;auto&#34;
         
@@ -1431,7 +3182,7 @@ each bidding or passing;&lt;/li&gt;
     
     
     &lt;img
-        src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-21.png&#34;
+        src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-21.png&#34;
         data-src=&#34;/images/space-time-deck/card-21.png&#34;
         data-sizes=&#34;auto&#34;
         
@@ -1451,11 +3202,11 @@ each bidding or passing;&lt;/li&gt;
 &lt;li&gt;Bidding is over.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;Levinulon has increased its Advantage, but at the cost of a Lasting Loss (see below), while the Tokyo Mechanized Defense Force has escaped without Loss.&lt;/p&gt;
+&lt;p&gt;Levinulon has increased its Control, but at the cost of a Lasting Loss (see below), while the Tokyo Mechanized Defense Force has escaped without Loss.&lt;/p&gt;
 
 &lt;h3 id=&#34;example-here-comes-a-new-challenger-round-2&#34;&gt;Example: Here comes a new challenger, round 2&lt;/h3&gt;
 
-&lt;p&gt;When we left the four-sided Conflict, the All Nippon News Network Crew had an Advantage of 1.&lt;/p&gt;
+&lt;p&gt;When we left the four-sided Conflict, the All Nippon News Network Crew had a Control of 1.&lt;/p&gt;
 
 &lt;ol&gt;
 &lt;li&gt;The Tokyo Mechanized Defense Force draws 
@@ -1464,7 +3215,7 @@ each bidding or passing;&lt;/li&gt;
     
     
     &lt;img
-        src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-20.png&#34;
+        src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-20.png&#34;
         data-src=&#34;/images/space-time-deck/card-20.png&#34;
         data-sizes=&#34;auto&#34;
         
@@ -1485,7 +3236,7 @@ each bidding or passing;&lt;/li&gt;
     
     
     &lt;img
-        src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-40.png&#34;
+        src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-40.png&#34;
         data-src=&#34;/images/space-time-deck/card-40.png&#34;
         data-sizes=&#34;auto&#34;
         
@@ -1506,7 +3257,7 @@ each bidding or passing;&lt;/li&gt;
     
     
     &lt;img
-        src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-14.png&#34;
+        src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-14.png&#34;
         data-src=&#34;/images/space-time-deck/card-14.png&#34;
         data-sizes=&#34;auto&#34;
         
@@ -1527,7 +3278,7 @@ each bidding or passing;&lt;/li&gt;
     
     
     &lt;img
-        src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-78.png&#34;
+        src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-78.png&#34;
         data-src=&#34;/images/space-time-deck/card-78.png&#34;
         data-sizes=&#34;auto&#34;
         
@@ -1541,13 +3292,13 @@ each bidding or passing;&lt;/li&gt;
     /&gt;
 &lt;/figure&gt;
 
- and uses its Advantage token to avoid a Temporary Loss (see below) by turning it to 
+ and uses its Control token to avoid a Temporary Loss (see below) by turning it to 
 &lt;figure &gt;
     
     
     
     &lt;img
-        src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-78.png&#34;
+        src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-78.png&#34;
         data-src=&#34;/images/space-time-deck/card-78.png&#34;
         data-sizes=&#34;auto&#34;
         
@@ -1562,16 +3313,16 @@ each bidding or passing;&lt;/li&gt;
 &lt;/figure&gt;
 
 &lt;/li&gt;
-&lt;li&gt;The Tokyo Mechanized Defense Force has the lead and passes. If the All Nippon News Network Crew does not manage to beat this card, it will lose the Advantage in the next round.&lt;/li&gt;
-&lt;li&gt;The US Covert Mech Operations team is content to let the Tokyo Mechanized Defense Force take care of removing the All Nippon News Network Crew&amp;rsquo;s Advantage, and passes.&lt;/li&gt;
+&lt;li&gt;The Tokyo Mechanized Defense Force has the lead and passes. If the All Nippon News Network Crew does not manage to beat this card, it will lose the Control in the next round.&lt;/li&gt;
+&lt;li&gt;The US Covert Mech Operations team is content to let the Tokyo Mechanized Defense Force take care of removing the All Nippon News Network Crew&amp;rsquo;s Control, and passes.&lt;/li&gt;
 &lt;li&gt;Levinulon similarly passes.&lt;/li&gt;
-&lt;li&gt;The All Nippon News Network Crew attempts to conserve the Advantage and draws 
+&lt;li&gt;The All Nippon News Network Crew attempts to conserve the Control and draws 
 &lt;figure &gt;
     
     
     
     &lt;img
-        src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-67.png&#34;
+        src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-67.png&#34;
         data-src=&#34;/images/space-time-deck/card-67.png&#34;
         data-sizes=&#34;auto&#34;
         
@@ -1589,13 +3340,13 @@ each bidding or passing;&lt;/li&gt;
 &lt;li&gt;The Tokyo Mechanized Defense Force still has the lead and passes.&lt;/li&gt;
 &lt;li&gt;The US Covert Mech Operations still passes.&lt;/li&gt;
 &lt;li&gt;Levinulon similarly passes.&lt;/li&gt;
-&lt;li&gt;The All Nippon News Network Crew continues its attempt to conserve the Advantage and draws 
+&lt;li&gt;The All Nippon News Network Crew continues its attempt to conserve the Control and draws 
 &lt;figure &gt;
     
     
     
     &lt;img
-        src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-59.png&#34;
+        src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-59.png&#34;
         data-src=&#34;/images/space-time-deck/card-59.png&#34;
         data-sizes=&#34;auto&#34;
         
@@ -1613,13 +3364,13 @@ each bidding or passing;&lt;/li&gt;
 &lt;li&gt;The Tokyo Mechanized Defense Force still has the lead and passes.&lt;/li&gt;
 &lt;li&gt;The US Covert Mech Operations still passes.&lt;/li&gt;
 &lt;li&gt;Levinulon similarly passes.&lt;/li&gt;
-&lt;li&gt;The All Nippon News Network Crew continues its attempt to conserve the Advantage and draws 
+&lt;li&gt;The All Nippon News Network Crew continues its attempt to conserve the Control and draws 
 &lt;figure &gt;
     
     
     
     &lt;img
-        src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-46.png&#34;
+        src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-46.png&#34;
         data-src=&#34;/images/space-time-deck/card-46.png&#34;
         data-sizes=&#34;auto&#34;
         
@@ -1637,13 +3388,13 @@ each bidding or passing;&lt;/li&gt;
 &lt;li&gt;The Tokyo Mechanized Defense Force still has the lead and passes.&lt;/li&gt;
 &lt;li&gt;The US Covert Mech Operations still passes.&lt;/li&gt;
 &lt;li&gt;Levinulon similarly passes.&lt;/li&gt;
-&lt;li&gt;The All Nippon News Network Crew continues its attempt to conserve the Advantage and draws 
+&lt;li&gt;The All Nippon News Network Crew continues its attempt to conserve the Control and draws 
 &lt;figure &gt;
     
     
     
     &lt;img
-        src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-84.png&#34;
+        src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-84.png&#34;
         data-src=&#34;/images/space-time-deck/card-84.png&#34;
         data-sizes=&#34;auto&#34;
         
@@ -1661,13 +3412,13 @@ each bidding or passing;&lt;/li&gt;
 &lt;li&gt;The Tokyo Mechanized Defense Force still has the lead and passes.&lt;/li&gt;
 &lt;li&gt;The US Covert Mech Operations still passes.&lt;/li&gt;
 &lt;li&gt;Levinulon similarly passes.&lt;/li&gt;
-&lt;li&gt;The All Nippon News Network Crew continues its attempt to conserve the Advantage and draws 
+&lt;li&gt;The All Nippon News Network Crew continues its attempt to conserve the Control and draws 
 &lt;figure &gt;
     
     
     
     &lt;img
-        src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-62.png&#34;
+        src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-62.png&#34;
         data-src=&#34;/images/space-time-deck/card-62.png&#34;
         data-sizes=&#34;auto&#34;
         
@@ -1688,7 +3439,7 @@ each bidding or passing;&lt;/li&gt;
 &lt;li&gt;Reasoning that drawing another card would mean about 50% chances of a Lasting Loss and roughly 10% chances of beating the Tokyo Mechanized Defense Force&amp;rsquo;s Triumph, the All Nippon News Network Crew stops taking risks for this round and passes.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;Bidding is over. The All Nippon News Network has lost its Advantage of 1, meaning that the Conflict will now need a Balance Breaker.&lt;/p&gt;
+&lt;p&gt;Bidding is over. The All Nippon News Network has lost its Control of 1, meaning that the Conflict will now need a Balance Breaker.&lt;/p&gt;
 
 &lt;h2 id=&#34;ending-the-round&#34;&gt;Ending the Round&lt;/h2&gt;
 
@@ -1765,7 +3516,7 @@ even Wipe Outs.&lt;/p&gt;
         
         
         &lt;img
-            src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-48.png&#34;
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-48.png&#34;
             data-src=&#34;/images/space-time-deck/card-48.png&#34;
             data-sizes=&#34;auto&#34;
             
@@ -1783,7 +3534,7 @@ even Wipe Outs.&lt;/p&gt;
         
         
         &lt;img
-            src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-13.png&#34;
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-13.png&#34;
             data-src=&#34;/images/space-time-deck/card-13.png&#34;
             data-sizes=&#34;auto&#34;
             
@@ -1801,7 +3552,7 @@ even Wipe Outs.&lt;/p&gt;
         
         
         &lt;img
-            src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-21.png&#34;
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-21.png&#34;
             data-src=&#34;/images/space-time-deck/card-21.png&#34;
             data-sizes=&#34;auto&#34;
             
@@ -1846,7 +3597,7 @@ even Wipe Outs.&lt;/p&gt;
         
         
         &lt;img
-            src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-19.png&#34;
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-19.png&#34;
             data-src=&#34;/images/space-time-deck/card-19.png&#34;
             data-sizes=&#34;auto&#34;
             
@@ -1877,7 +3628,7 @@ even Wipe Outs.&lt;/p&gt;
         
         
         &lt;img
-            src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-9.png&#34;
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-9.png&#34;
             data-src=&#34;/images/space-time-deck/card-9.png&#34;
             data-sizes=&#34;auto&#34;
             
@@ -1908,7 +3659,7 @@ even Wipe Outs.&lt;/p&gt;
         
         
         &lt;img
-            src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-79.png&#34;
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-79.png&#34;
             data-src=&#34;/images/space-time-deck/card-79.png&#34;
             data-sizes=&#34;auto&#34;
             
@@ -1951,7 +3702,7 @@ even Wipe Outs.&lt;/p&gt;
         
         
         &lt;img
-            src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-40.png&#34;
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-40.png&#34;
             data-src=&#34;/images/space-time-deck/card-40.png&#34;
             data-sizes=&#34;auto&#34;
             
@@ -1982,7 +3733,7 @@ even Wipe Outs.&lt;/p&gt;
         
         
         &lt;img
-            src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-84.png&#34;
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-84.png&#34;
             data-src=&#34;/images/space-time-deck/card-84.png&#34;
             data-sizes=&#34;auto&#34;
             
@@ -2000,7 +3751,7 @@ even Wipe Outs.&lt;/p&gt;
         
         
         &lt;img
-            src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-62.png&#34;
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-62.png&#34;
             data-src=&#34;/images/space-time-deck/card-62.png&#34;
             data-sizes=&#34;auto&#34;
             
@@ -2035,7 +3786,7 @@ even Wipe Outs.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;For narration purposes, use at least one of the cards that you have drawn during this Round. While this is not always possible, ideally, you should be able to weave a narrative that uses all the cards.&lt;/li&gt;
 &lt;li&gt;While you may narrate things that have happened to other parties because of or in reaction to your party&amp;rsquo;s tactics, each player has sole narrative control upon their party. In other word, other players may overrule any description you make of their actions and successes.&lt;/li&gt;
-&lt;li&gt;Whether your actions succeeded or failed is entirely up to you to decide. What the cards have determined is how the Advantage has progressed, but even whether you gained/lost, strengthened/weakened your advantage, you may well decide that all your individual actions have failed, or that they have succeeded, or that they have had unexpected results, etc.&lt;/li&gt;
+&lt;li&gt;Whether your actions succeeded or failed is entirely up to you to decide. What the cards have determined is how the Control has progressed, but even whether you gained/lost, strengthened/weakened your advantage, you may well decide that all your individual actions have failed, or that they have succeeded, or that they have had unexpected results, etc.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4 id=&#34;example-kaiju-6&#34;&gt;Example: Kaiju&lt;/h4&gt;
@@ -2047,7 +3798,7 @@ even Wipe Outs.&lt;/p&gt;
 &lt;li&gt;Tokyo Mechanized Defense Force: &amp;ldquo;We move to intercept Levinulon and distract it from the crowds.&amp;rdquo;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Despite its Lasting Loss, Levinulon has increased its Advantage, with a few cards including 
+&lt;p&gt;Despite its Lasting Loss, Levinulon has increased its Control, with a few cards including 
 
 &lt;figure
     class=&#34;yoric-hand &#34;&gt;
@@ -2056,7 +3807,7 @@ even Wipe Outs.&lt;/p&gt;
         
         
         &lt;img
-            src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-15.png&#34;
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-15.png&#34;
             data-src=&#34;/images/space-time-deck/card-15.png&#34;
             data-sizes=&#34;auto&#34;
             
@@ -2074,7 +3825,7 @@ even Wipe Outs.&lt;/p&gt;
         
         
         &lt;img
-            src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-70.png&#34;
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-70.png&#34;
             data-src=&#34;/images/space-time-deck/card-70.png&#34;
             data-sizes=&#34;auto&#34;
             
@@ -2092,7 +3843,7 @@ even Wipe Outs.&lt;/p&gt;
         
         
         &lt;img
-            src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-12.png&#34;
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-12.png&#34;
             data-src=&#34;/images/space-time-deck/card-12.png&#34;
             data-sizes=&#34;auto&#34;
             
@@ -2110,7 +3861,7 @@ even Wipe Outs.&lt;/p&gt;
         
         
         &lt;img
-            src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-76.png&#34;
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-76.png&#34;
             data-src=&#34;/images/space-time-deck/card-76.png&#34;
             data-sizes=&#34;auto&#34;
             
@@ -2145,7 +3896,7 @@ even Wipe Outs.&lt;/p&gt;
         
         
         &lt;img
-            src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-39.png&#34;
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-39.png&#34;
             data-src=&#34;/images/space-time-deck/card-39.png&#34;
             data-sizes=&#34;auto&#34;
             
@@ -2163,7 +3914,7 @@ even Wipe Outs.&lt;/p&gt;
         
         
         &lt;img
-            src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-79.png&#34;
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-79.png&#34;
             data-src=&#34;/images/space-time-deck/card-79.png&#34;
             data-sizes=&#34;auto&#34;
             
@@ -2181,7 +3932,7 @@ even Wipe Outs.&lt;/p&gt;
         
         
         &lt;img
-            src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-19.png&#34;
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-19.png&#34;
             data-src=&#34;/images/space-time-deck/card-19.png&#34;
             data-sizes=&#34;auto&#34;
             
@@ -2227,7 +3978,7 @@ even Wipe Outs.&lt;/p&gt;
         
         
         &lt;img
-            src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-21.png&#34;
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-21.png&#34;
             data-src=&#34;/images/space-time-deck/card-21.png&#34;
             data-sizes=&#34;auto&#34;
             
@@ -2260,7 +4011,7 @@ even Wipe Outs.&lt;/p&gt;
         
         
         &lt;img
-            src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-19.png&#34;
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-19.png&#34;
             data-src=&#34;/images/space-time-deck/card-19.png&#34;
             data-sizes=&#34;auto&#34;
             
@@ -2293,7 +4044,7 @@ even Wipe Outs.&lt;/p&gt;
         
         
         &lt;img
-            src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-9.png&#34;
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-9.png&#34;
             data-src=&#34;/images/space-time-deck/card-9.png&#34;
             data-sizes=&#34;auto&#34;
             
@@ -2326,7 +4077,7 @@ even Wipe Outs.&lt;/p&gt;
         
         
         &lt;img
-            src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-79.png&#34;
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-79.png&#34;
             data-src=&#34;/images/space-time-deck/card-79.png&#34;
             data-sizes=&#34;auto&#34;
             
@@ -2361,7 +4112,7 @@ even Wipe Outs.&lt;/p&gt;
         
         
         &lt;img
-            src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-20.png&#34;
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-20.png&#34;
             data-src=&#34;/images/space-time-deck/card-20.png&#34;
             data-sizes=&#34;auto&#34;
             
@@ -2394,7 +4145,7 @@ even Wipe Outs.&lt;/p&gt;
         
         
         &lt;img
-            src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-78.png&#34;
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-78.png&#34;
             data-src=&#34;/images/space-time-deck/card-78.png&#34;
             data-sizes=&#34;auto&#34;
             
@@ -2412,7 +4163,7 @@ even Wipe Outs.&lt;/p&gt;
         
         
         &lt;img
-            src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-67.png&#34;
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-67.png&#34;
             data-src=&#34;/images/space-time-deck/card-67.png&#34;
             data-sizes=&#34;auto&#34;
             
@@ -2430,7 +4181,7 @@ even Wipe Outs.&lt;/p&gt;
         
         
         &lt;img
-            src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-59.png&#34;
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-59.png&#34;
             data-src=&#34;/images/space-time-deck/card-59.png&#34;
             data-sizes=&#34;auto&#34;
             
@@ -2448,7 +4199,7 @@ even Wipe Outs.&lt;/p&gt;
         
         
         &lt;img
-            src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-46.png&#34;
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-46.png&#34;
             data-src=&#34;/images/space-time-deck/card-46.png&#34;
             data-sizes=&#34;auto&#34;
             
@@ -2466,7 +4217,7 @@ even Wipe Outs.&lt;/p&gt;
         
         
         &lt;img
-            src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-84.png&#34;
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-84.png&#34;
             data-src=&#34;/images/space-time-deck/card-84.png&#34;
             data-sizes=&#34;auto&#34;
             
@@ -2484,7 +4235,7 @@ even Wipe Outs.&lt;/p&gt;
         
         
         &lt;img
-            src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-62.png&#34;
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-62.png&#34;
             data-src=&#34;/images/space-time-deck/card-62.png&#34;
             data-sizes=&#34;auto&#34;
             
@@ -2517,7 +4268,7 @@ even Wipe Outs.&lt;/p&gt;
         
         
         &lt;img
-            src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-14.png&#34;
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-14.png&#34;
             data-src=&#34;/images/space-time-deck/card-14.png&#34;
             data-sizes=&#34;auto&#34;
             
@@ -2550,7 +4301,7 @@ even Wipe Outs.&lt;/p&gt;
         
         
         &lt;img
-            src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-40.png&#34;
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-40.png&#34;
             data-src=&#34;/images/space-time-deck/card-40.png&#34;
             data-sizes=&#34;auto&#34;
             
@@ -2588,7 +4339,7 @@ even Wipe Outs.&lt;/p&gt;
 
 &lt;h4 id=&#34;example-kaiju-later-round-wipe-out&#34;&gt;Example: Kaiju, later round (Wipe Out)&lt;/h4&gt;
 
-&lt;p&gt;Let&amp;rsquo;s fast-forward our two-sided Conflict, to a point where the Tokyo Mechanized Defense Force has suffered five consecutive reversed cards. The force is out of Reserve cards and doesn&amp;rsquo;t have any Advantage point, so there is no way to cancel this fifth reversed card.&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s fast-forward our two-sided Conflict, to a point where the Tokyo Mechanized Defense Force has suffered five consecutive reversed cards. The force is out of Reserve cards and doesn&amp;rsquo;t have any Control point, so there is no way to cancel this fifth reversed card.&lt;/p&gt;
 
 &lt;p&gt;The Tokyo Mechanized Defense Force has just been Wiped Out.&lt;/p&gt;
 
@@ -2603,7 +4354,7 @@ even Wipe Outs.&lt;/p&gt;
 &lt;h4 id=&#34;example-here-comes-a-new-challenger-later-round&#34;&gt;Example: Here comes a new challenger, later round&lt;/h4&gt;
 
 &lt;p&gt;Let&amp;rsquo;s now fast-forward our four-sided Conflict, to a point where the Tokyo Mechanized Defense Force has suffered three Lasting Losses, two of them due to a firefight between itself and the US Covert Mech Operations team. Most of the Japanese Mechs are destroyed,
-Levinulon is happily rampaging – and has the Advantage – and given their current condition, there isn&amp;rsquo;t anything that the Tokyo Mechanized Defense Force can do about it.&lt;/p&gt;
+Levinulon is happily rampaging – and has the Control – and given their current condition, there isn&amp;rsquo;t anything that the Tokyo Mechanized Defense Force can do about it.&lt;/p&gt;
 
 &lt;p&gt;The player beyind Tokyo Mechanized Defense Force decides to Concede. The combat is lost for the team, but as this is a Concession, the player can determine the terms of this loss, as long as it makes sense.&lt;/p&gt;
 
@@ -2636,9 +4387,9 @@ Tokyo Mechanized Defense Force player will need to come up with an alternative e
 
 &lt;p&gt;In terms of rules, all of these complete changes to the layout of the Conflict are called Reframing. Note that simply using a different tactics to achieve the same goals does not, by itself, Reframe a Conflict – that&amp;rsquo;s simply what happens naturally at every round. A Reframed Conflict must have &lt;em&gt;different goals&lt;/em&gt; and &lt;em&gt;different means&lt;/em&gt;. The GM is in charge of validating whether a change in a Conflict is simply a new tactics or a full Reframing.&lt;/p&gt;
 
-&lt;p&gt;When a Conflict is Reframed, the Conflict stops immediately. Parties, goals and Advantage are re-established. Generally, this means that a party that had a high Advantage must restart with a lower Advantage, or possibly without any Advantage. If you have experienced Temporary Losses, they are discarded. If you have experienced Lasting Losses, copy them to your character sheet as Weaknesses, but discard the cards. Your next Lasting Loss will be, once again, something simple to heal/fix.&lt;/p&gt;
+&lt;p&gt;When a Conflict is Reframed, the Conflict stops immediately. Parties, goals and Control are re-established. Generally, this means that a party that had a high Control must restart with a lower Control, or possibly without any Control. If you have experienced Temporary Losses, they are discarded. If you have experienced Lasting Losses, copy them to your character sheet as Weaknesses, but discard the cards. Your next Lasting Loss will be, once again, something simple to heal/fix.&lt;/p&gt;
 
-&lt;p&gt;Once all of this is done, re-establish the Advantage.&lt;/p&gt;
+&lt;p&gt;Once all of this is done, re-establish the Control.&lt;/p&gt;
 
 &lt;h4 id=&#34;example-here-comes-a-new-challenger-later-round-1&#34;&gt;Example: Here comes a new challenger, later round&lt;/h4&gt;
 
@@ -2666,34 +4417,34 @@ Tokyo Mechanized Defense Force player will need to come up with an alternative e
 &lt;p&gt;There are three ways to change the flow of a Round:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;using the Advantage to minimize one&amp;rsquo;s Losses and/or maximize another party&amp;rsquo;s Losses;&lt;/li&gt;
+&lt;li&gt;using the Control to minimize one&amp;rsquo;s Losses and/or maximize another party&amp;rsquo;s Losses;&lt;/li&gt;
 &lt;li&gt;using another party&amp;rsquo;s Losses to prevent them from achieving their tactics;&lt;/li&gt;
 &lt;li&gt;using Reserve cards to do either.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;These three ways work both during a Balance Breaker or an Unbalanced Round.&lt;/p&gt;
 
-&lt;h3 id=&#34;using-the-advantage&#34;&gt;Using the Advantage&lt;/h3&gt;
+&lt;h3 id=&#34;using-the-control&#34;&gt;Using the Control&lt;/h3&gt;
 
-&lt;p&gt;Having the Advantage means that you don&amp;rsquo;t need to take as many risks to achieve your goals. This is materialized by the ability for the party with the Advantage to &lt;em&gt;turn cards&lt;/em&gt; – to either reverse them (hence causing or increasing Losses for other parties) or un-reverse them (to avoid Losses).&lt;/p&gt;
+&lt;p&gt;Having the Control means that you don&amp;rsquo;t need to take as many risks to achieve your goals. This is materialized by the ability for the party with the Control to &lt;em&gt;turn cards&lt;/em&gt; – to either reverse them (hence causing or increasing Losses for other parties) or un-reverse them (to avoid Losses).&lt;/p&gt;
 
-&lt;p&gt;With an Advantage of &lt;em&gt;n&lt;/em&gt; ranks, you may (un)reversing &lt;em&gt;n&lt;/em&gt; cards during a Round. To remember this limit, if you have an  Advantage of &lt;em&gt;n&lt;/em&gt;, you start the round with &lt;em&gt;n&lt;/em&gt; Advantage Tokens (or, equivalently, one d10 set to &lt;em&gt;n&lt;/em&gt;). Each time you turn one card, this costs you 1 Advantage Token. All Advantage Tokens not expended by the end of the round are lost.&lt;/p&gt;
+&lt;p&gt;With a Control of &lt;em&gt;n&lt;/em&gt; ranks, you may (un)reversing &lt;em&gt;n&lt;/em&gt; cards during a Round. To remember this limit, if you have an  Control of &lt;em&gt;n&lt;/em&gt;, you start the round with &lt;em&gt;n&lt;/em&gt; Control Tokens (or, equivalently, one d10 set to &lt;em&gt;n&lt;/em&gt;). Each time you turn one card, this costs you 1 Control Token. All Control Tokens not expended by the end of the round are lost.&lt;/p&gt;
 
-&lt;p&gt;As you can imagine, having many Advantage Tokens is a considerable boon. Recall that, if an adversary party has 5 cards in front of them and you can afford to spend 5 Advantage Tokens, you can simply decide that this party has been Wiped Out during the round.&lt;/p&gt;
+&lt;p&gt;As you can imagine, having many Control Tokens is a considerable boon. Recall that, if an adversary party has 5 cards in front of them and you can afford to spend 5 Control Tokens, you can simply decide that this party has been Wiped Out during the round.&lt;/p&gt;
 
-&lt;p&gt;You may only turn a card immediately after that card is drawn and placed on the table. Advantage does not work against Reserve Cards.&lt;/p&gt;
+&lt;p&gt;You may only turn a card immediately after that card is drawn and placed on the table. Control does not work against Reserve Cards.&lt;/p&gt;
 
 &lt;h4 id=&#34;example-here-comes-a-new-challenger-balance-breaker&#34;&gt;Example: Here comes a new challenger, Balance Breaker&lt;/h4&gt;
 
-&lt;p&gt;In the four-sided conflict above, the All Nippon News Network Crew had drawn its first card reversed. Rather than facing an immediate Temporary Loss, it decided to use its sole Advantage Token to un-reverse the card.&lt;/p&gt;
+&lt;p&gt;In the four-sided conflict above, the All Nippon News Network Crew had drawn its first card reversed. Rather than facing an immediate Temporary Loss, it decided to use its sole Control Token to un-reverse the card.&lt;/p&gt;
 
-&lt;p&gt;For the next round, there is no Advantage, so nobody will be able to turn a card.&lt;/p&gt;
+&lt;p&gt;For the next round, there is no Control, so nobody will be able to turn a card.&lt;/p&gt;
 
 &lt;h4 id=&#34;example-kaiju-7&#34;&gt;Example: Kaiju&lt;/h4&gt;
 
-&lt;p&gt;In the two-sided conflict above, Levinulon has used its sole Advantage Token to un-reverse its first reversed card.&lt;/p&gt;
+&lt;p&gt;In the two-sided conflict above, Levinulon has used its sole Control Token to un-reverse its first reversed card.&lt;/p&gt;
 
-&lt;p&gt;For the next Round, Levinulon has two Advantage tokens, so it will be able to do this operation twice.&lt;/p&gt;
+&lt;p&gt;For the next Round, Levinulon has two Control tokens, so it will be able to do this operation twice.&lt;/p&gt;
 
 &lt;h3 id=&#34;using-losses&#34;&gt;Using Losses&lt;/h3&gt;
 
@@ -2701,7 +4452,7 @@ Tokyo Mechanized Defense Force player will need to come up with an alternative e
 
 &lt;p&gt;Whenever your party experiences Losses, whether Temporary or Lasting, these Losses are represented by cards, &lt;em&gt;face visible&lt;/em&gt;, on your side of the table. A Temporary Loss is represented by 1 card, a Lasting Loss by 3 cards. As long as you have such cards, &lt;em&gt;face visible&lt;/em&gt;, when it is your turn to draw a card that another party doesn&amp;rsquo;t like, that other party may ask you to simply discard the card you have just placed. Since a Loss has been used against you, you get to turn one of the Loss cards in front of you face down, which means that it won&amp;rsquo;t be used against you again.&lt;/p&gt;
 
-&lt;p&gt;As you can imagine, having many Losses makes it very hard to reach for the Advantage or to keep it. That&amp;rsquo;s in addition to the gravity of Lasting Losses, which you&amp;rsquo;ll carry over after the Conflict.&lt;/p&gt;
+&lt;p&gt;As you can imagine, having many Losses makes it very hard to reach for the Control or to keep it. That&amp;rsquo;s in addition to the gravity of Lasting Losses, which you&amp;rsquo;ll carry over after the Conflict.&lt;/p&gt;
 
 &lt;p&gt;When a Temporary Loss has been turned face down, it is expended and you may discard the card. However, to keep track of Lasting Loss, you keep Lasting Losses in front of you, even after they have been turned face down.&lt;/p&gt;
 
@@ -2722,7 +4473,7 @@ Tokyo Mechanized Defense Force player will need to come up with an alternative e
         
         
         &lt;img
-            src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-48.png&#34;
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-48.png&#34;
             data-src=&#34;/images/space-time-deck/card-48.png&#34;
             data-sizes=&#34;auto&#34;
             
@@ -2740,7 +4491,7 @@ Tokyo Mechanized Defense Force player will need to come up with an alternative e
         
         
         &lt;img
-            src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-13.png&#34;
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-13.png&#34;
             data-src=&#34;/images/space-time-deck/card-13.png&#34;
             data-sizes=&#34;auto&#34;
             
@@ -2758,7 +4509,7 @@ Tokyo Mechanized Defense Force player will need to come up with an alternative e
         
         
         &lt;img
-            src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-21.png&#34;
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-21.png&#34;
             data-src=&#34;/images/space-time-deck/card-21.png&#34;
             data-sizes=&#34;auto&#34;
             
@@ -2784,7 +4535,7 @@ Tokyo Mechanized Defense Force player will need to come up with an alternative e
     
     
     &lt;img
-        src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-26.png&#34;
+        src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-26.png&#34;
         data-src=&#34;/images/space-time-deck/card-26.png&#34;
         data-sizes=&#34;auto&#34;
         
@@ -2813,7 +4564,7 @@ Tokyo Mechanized Defense Force player will need to come up with an alternative e
         
         
         &lt;img
-            src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-back.png&#34;
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-back.png&#34;
             data-src=&#34;/images/space-time-deck/card-back.png&#34;
             data-sizes=&#34;auto&#34;
             
@@ -2831,7 +4582,7 @@ Tokyo Mechanized Defense Force player will need to come up with an alternative e
         
         
         &lt;img
-            src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-13.png&#34;
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-13.png&#34;
             data-src=&#34;/images/space-time-deck/card-13.png&#34;
             data-sizes=&#34;auto&#34;
             
@@ -2849,7 +4600,7 @@ Tokyo Mechanized Defense Force player will need to come up with an alternative e
         
         
         &lt;img
-            src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-21.png&#34;
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-21.png&#34;
             data-src=&#34;/images/space-time-deck/card-21.png&#34;
             data-sizes=&#34;auto&#34;
             
@@ -2875,7 +4626,7 @@ Tokyo Mechanized Defense Force player will need to come up with an alternative e
     
     
     &lt;img
-        src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-5.png&#34;
+        src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-5.png&#34;
         data-src=&#34;/images/space-time-deck/card-5.png&#34;
         data-sizes=&#34;auto&#34;
         
@@ -2941,7 +4692,7 @@ Tokyo Mechanized Defense Force player will need to come up with an alternative e
         
         
         &lt;img
-            src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-51.png&#34;
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-51.png&#34;
             data-src=&#34;/images/space-time-deck/card-51.png&#34;
             data-sizes=&#34;auto&#34;
             
@@ -2959,7 +4710,7 @@ Tokyo Mechanized Defense Force player will need to come up with an alternative e
         
         
         &lt;img
-            src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-6.png&#34;
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-6.png&#34;
             data-src=&#34;/images/space-time-deck/card-6.png&#34;
             data-sizes=&#34;auto&#34;
             
@@ -2985,7 +4736,7 @@ Tokyo Mechanized Defense Force player will need to come up with an alternative e
     
     
     &lt;img
-        src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-21.png&#34;
+        src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-21.png&#34;
         data-src=&#34;/images/space-time-deck/card-21.png&#34;
         data-sizes=&#34;auto&#34;
         
@@ -3009,7 +4760,7 @@ Tokyo Mechanized Defense Force player will need to come up with an alternative e
     
     
     &lt;img
-        src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-51.png&#34;
+        src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-51.png&#34;
         data-src=&#34;/images/space-time-deck/card-51.png&#34;
         data-sizes=&#34;auto&#34;
         
@@ -3027,7 +4778,7 @@ Tokyo Mechanized Defense Force player will need to come up with an alternative e
 
 &lt;h2 id=&#34;handling-multiple-players-or-characters-per-party&#34;&gt;Handling multiple players or characters per party&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://space-timewilltell.yoric.xyz/images/posts/tourists-conflict-resolution/party.png&#34; alt=&#34;Photo by Wikipedia user William Tung – Cosplay of DC Comics characters at San Diego Comic Con 2015. – Licensed under CC-BY-SA 2.0 – Source: Wikimedia Commons&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://space-timewilltell.yoric.xyz/images/posts/tourists-conflict-resolution/party.png&#34; alt=&#34;Photo by Wikipedia user William Tung – Cosplay of DC Comics characters at San Diego Comic Con 2015. – Licensed under CC-BY-SA 2.0 – Source: Wikimedia Commons&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Most commonly, the player&amp;rsquo;s characters will, together, be one party in the conflict. This does not change the rules above, but it does lead to interesting questions, such as: &amp;ldquo;who&amp;rsquo;s getting that permanent Loss on their character sheet?&amp;rdquo;, &amp;ldquo;who&amp;rsquo;s spending one Reserve Card?&amp;rdquo; or &amp;ldquo;who&amp;rsquo;s receiving one Reserve Card?&amp;rdquo;&lt;/p&gt;
 
@@ -3066,32 +4817,21 @@ Tokyo Mechanized Defense Force player will need to come up with an alternative e
 &lt;p&gt;If the party Concedes the Conflict as a whole, this is equivalent to each character Conceding individually.&lt;/p&gt;
 
 &lt;p&gt;If a single character manages to Reframe the Conflict, this affects all parties for the entire Conflict.&lt;/p&gt;
-
-&lt;h1 id=&#34;cheat-sheet&#34;&gt;Cheat Sheet&lt;/h1&gt;
-
-&lt;p&gt;For your first few Conflicts using these rules, you may find it easier to use this playing mat:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://space-timewilltell.yoric.xyz/images/plotonomicon/playingmat.png&#34; alt=&#34;The N-Dimensional Tourist Playing Mat&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;As you may see, it recapitulates all the rules we have seen and it indicates convenient
-locations to place cards and tokens, to avoid confusing them all.&lt;/p&gt;
-
-&lt;p&gt;Feel free to print one for each player!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>N-Dimensional Tourists: On your Character Sheet</title>
-      <link>http://space-timewilltell.yoric.xyz/post/tourists-attributes/</link>
+      <link>https://space-timewilltell.yoric.xyz/post/tourists-attributes/</link>
       <pubDate>Mon, 29 Oct 2018 19:30:53 +0100</pubDate>
       
-      <guid>http://space-timewilltell.yoric.xyz/post/tourists-attributes/</guid>
+      <guid>https://space-timewilltell.yoric.xyz/post/tourists-attributes/</guid>
       <description>
 
 &lt;p&gt;In N-Dimensional Tourists, each major character is defined by:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;A &lt;strong&gt;Figure&lt;/strong&gt;, which is used during improv.&lt;/li&gt;
+&lt;li&gt;A &lt;strong&gt;Card&lt;/strong&gt;, which is used during improv.&lt;/li&gt;
 &lt;li&gt;Any number of &lt;strong&gt;Aspects&lt;/strong&gt;, which determine what the character can do;&lt;/li&gt;
 &lt;li&gt;5 &lt;strong&gt;Attributes&lt;/strong&gt;, which determine how good a character is at their tasks;&lt;/li&gt;
 &lt;li&gt;Any number of &lt;strong&gt;Specialties&lt;/strong&gt;, which let them use &lt;strong&gt;Attributes&lt;/strong&gt; in unusual manners;&lt;/li&gt;
@@ -3113,7 +4853,7 @@ the same.&lt;/p&gt;
 is drawn by any player, for any reason, whatever happened is strongly
 related to you.&lt;/p&gt;
 
-&lt;p&gt;The &lt;a href=&#34;http://space-timewilltell.yoric.xyz/space-time-deck&#34;&gt;Space·Time Deck&lt;/a&gt; is provided with a number of blank cards designed to
+&lt;p&gt;The &lt;a href=&#34;https://space-timewilltell.yoric.xyz/space-time-deck&#34;&gt;Space·Time Deck&lt;/a&gt; is provided with a number of blank cards designed to
 be customized. Do not hesitate to add your character to one of these cards.&lt;/p&gt;
 
 &lt;h1 id=&#34;aspects&#34;&gt;Aspects&lt;/h1&gt;
@@ -3167,10 +4907,26 @@ values range between 1 and 5.&lt;/p&gt;
 &lt;p&gt;Human Beings, Gods of Olympus and Lemmings are differentiated
 by their Aspects, their Specialties and their haircut.&lt;/p&gt;
 
-&lt;p&gt;Whenever you&amp;rsquo;re attempting to &lt;strong&gt;Overcome an Obstacle&lt;/strong&gt; or to &lt;strong&gt;Resolve a Conflict&lt;/strong&gt;
-in your favor, your Attributes and Aspects will determine your initial Advantage.
-Higher Attributes and more Aspects that can be applied favorably in the context
-mean that you&amp;rsquo;ll have higher chances of succeeding without complications.&lt;/p&gt;
+&lt;p&gt;If you wonder how good a Serpent of 3 is, look at the following scale:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Mythic (9)&lt;/li&gt;
+&lt;li&gt;Legendary (8)&lt;/li&gt;
+&lt;li&gt;Epic (7)&lt;/li&gt;
+&lt;li&gt;Fantastic (6)&lt;/li&gt;
+&lt;li&gt;Superb (5)&lt;/li&gt;
+&lt;li&gt;Great (4)&lt;/li&gt;
+&lt;li&gt;Good (3)&lt;/li&gt;
+&lt;li&gt;Fair (2)&lt;/li&gt;
+&lt;li&gt;Average (1)&lt;/li&gt;
+&lt;li&gt;Mediocre (0)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Of course, Good for the Lord of Forges is not the same thing as Good
+for a lowly rodent, but they can both have a Serpent of 3.&lt;/p&gt;
+
+&lt;p&gt;Whenever you&amp;rsquo;re attempting to &lt;strong&gt;Meet a Challenge&lt;/strong&gt; in your favor, your
+Attributes will increase your chances of succeeding without Cost.&lt;/p&gt;
 
 &lt;h1 id=&#34;specialties&#34;&gt;Specialties&lt;/h1&gt;
 
@@ -3179,9 +4935,14 @@ mean that you&amp;rsquo;ll have higher chances of succeeding without complicatio
 &lt;p&gt;Each Specialty looks like:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Because I&amp;rsquo;m a Vampire, I can perform physical attacks with my gaze, using Rock.&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Because I&amp;rsquo;m a Time-Hopping Paradox Freak, I can get help temporary from my Future Self when I&amp;rsquo;m stuck, without damaging space-time.&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Because I&amp;rsquo;m a God, no mortal can harm me physically.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;*Because I&amp;rsquo;m a &lt;strong&gt;Vampire&lt;/strong&gt;, I can perform physical attacks with my gaze, using Rock.*&lt;/li&gt;
+&lt;li&gt;*Because I&amp;rsquo;m a &lt;strong&gt;Time-Hopping Paradox Freak&lt;/strong&gt;, whenever I&amp;rsquo;m stuck, I can often count on my Future Self to have already helped me when I was looking away, without damaging space-time.*&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Or, more generally,&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Because I am/I have [something pretty unique], whenever [some condition is met], I can [do something out of the ordinary]/[tweak the rules somehow]&lt;/em&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&#34;reserve&#34;&gt;Reserve&lt;/h1&gt;
@@ -3203,16 +4964,16 @@ they draw 3 cards from the Space·Time Deck.&lt;/p&gt;
     
     <item>
       <title>N-Dimensional Tourists</title>
-      <link>http://space-timewilltell.yoric.xyz/n-dimensional-tourists/</link>
+      <link>https://space-timewilltell.yoric.xyz/n-dimensional-tourists/</link>
       <pubDate>Mon, 29 Oct 2018 19:30:22 +0100</pubDate>
       
-      <guid>http://space-timewilltell.yoric.xyz/n-dimensional-tourists/</guid>
+      <guid>https://space-timewilltell.yoric.xyz/n-dimensional-tourists/</guid>
       <description>&lt;p&gt;N-Dimensional Tourists is a lightweight, generic ruleset for fiction-first, narrative roleplaying.
 Instead of dice, it uses the Space·Time Deck.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://space-timewilltell.yoric.xyz/images/n-dimensional-tourists/logo.png&#34; alt=&#34;A N-Dimensional Tourist. Apparently lost.&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://space-timewilltell.yoric.xyz/images/n-dimensional-tourists/logo.png&#34; alt=&#34;A N-Dimensional Tourist. Apparently lost.&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Let&amp;rsquo;s come back to the terms above:&lt;/p&gt;
 
@@ -3225,29 +4986,32 @@ or three rules used during gameplay, to solve all situations.&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;the Space·Time Deck&lt;/em&gt; – A deck of card that uses some ideas from Tarot, some from Rock-Paper-Scissors-Lizard-Spock. Used for coming up with ideas, making the story progress and resolving conflicts.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;This book concentrates on rules. &lt;a href=&#34;http://space-timewilltell.yoric.xyz/plotonomicon&#34;&gt;The &lt;em&gt;Plotonomicon&lt;/em&gt;&lt;/a&gt;, its sister book, concentrates on stories. You&amp;rsquo;re welcome to read both :)&lt;/p&gt;
+&lt;p&gt;This book concentrates on rules. &lt;a href=&#34;https://space-timewilltell.yoric.xyz/plotonomicon&#34;&gt;The &lt;em&gt;Plotonomicon&lt;/em&gt;&lt;/a&gt;, its sister book, concentrates on stories. You&amp;rsquo;re welcome to read both :)&lt;/p&gt;
 
 &lt;h1 id=&#34;credits&#34;&gt;Credits&lt;/h1&gt;
 
-&lt;p&gt;While this ruleset is an original work, much of it is
-inspired from the following Role-Playing Games:&lt;/p&gt;
+&lt;p&gt;While this ruleset is an original work, it owes a lot to
+the following Role-Playing Games:&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;em&gt;Fate Core&lt;/em&gt;/&lt;em&gt;Fate Accelerated&lt;/em&gt;;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Amber Diceless&lt;/em&gt;;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Amber Diceless&lt;/em&gt;/&lt;em&gt;Lords of Olympus&lt;/em&gt;/&lt;em&gt;Lords of Gossamer and Shadow&lt;/em&gt;;&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;HeroQuest&lt;/em&gt;/&lt;em&gt;HeroWars&lt;/em&gt;;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Everway&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Everway&lt;/em&gt;;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Engel&lt;/em&gt;;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Blades in the Dark&lt;/em&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&#34;summary&#34;&gt;Summary&lt;/h1&gt;
 
 &lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;http://space-timewilltell.yoric.xyz/space-time-deck&#34;&gt;The Space·Time Deck&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://space-timewilltell.yoric.xyz/post/tourists-attributes&#34;&gt;Characters and Attributes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://space-timewilltell.yoric.xyz/space-time-deck&#34;&gt;The Space·Time Deck&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://space-timewilltell.yoric.xyz/post/tourists-attributes&#34;&gt;Characters and Attributes&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Creating Player&amp;rsquo;s Characters (TBD)&lt;/li&gt;
-&lt;li&gt;Overcoming Obstacles (TBD)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://space-timewilltell.yoric.xyz/post/tourists-conflict-resolution&#34;&gt;Resolving Conflicts&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Compelling characters (TBD)&lt;/li&gt;
+&lt;li&gt;Using Aspects and Reserve Cards (TBD)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://space-timewilltell.yoric.xyz/post/tourists-overcoming&#34;&gt;Meeting Challenges&lt;/a&gt; (TBD)&lt;/li&gt;
+&lt;li&gt;Conflicts (TBD)&lt;/li&gt;
+&lt;li&gt;Stronger together (TBD)&lt;/li&gt;
 &lt;li&gt;Creating the GM&amp;rsquo;s Characters (TBD)&lt;/li&gt;
 &lt;li&gt;Character Progression (TBD)&lt;/li&gt;
 &lt;li&gt;Thanks (TBD)&lt;/li&gt;
@@ -3257,16 +5021,16 @@ inspired from the following Role-Playing Games:&lt;/p&gt;
 
 &lt;ol&gt;
 &lt;li&gt;Character Sheet (TBD)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://space-timewilltell.yoric.xyz/images/plotonomicon/playingmat.png&#34;&gt;Conflict Resolution Cheat Sheet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://space-timewilltell.yoric.xyz/images/plotonomicon/playingmat.png&#34;&gt;Conflict Resolution Cheat Sheet&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;</description>
     </item>
     
     <item>
       <title>Space·Time Deck: The Suit of Unknown</title>
-      <link>http://space-timewilltell.yoric.xyz/post/suit-out-there/</link>
+      <link>https://space-timewilltell.yoric.xyz/post/suit-out-there/</link>
       <pubDate>Thu, 18 Oct 2018 22:22:49 +0200</pubDate>
       
-      <guid>http://space-timewilltell.yoric.xyz/post/suit-out-there/</guid>
+      <guid>https://space-timewilltell.yoric.xyz/post/suit-out-there/</guid>
       <description>
 
 &lt;p&gt;Well, after the &lt;a href=&#34;../the-space-time-deck&#34;&gt;Triumphs&lt;/a&gt; and four suits (&lt;a href=&#34;../suit-paper&#34;&gt;Paper&lt;/a&gt;, &lt;a href=&#34;../suit-rock&#34;&gt;Rock&lt;/a&gt;, &lt;a href=&#34;../suit-blade&#34;&gt;Blade&lt;/a&gt;, &lt;a href=&#34;../suit-serpents&#34;&gt;Serpent&lt;/a&gt;), it is time to conclude the Space·Time Deck with its last suit: the &lt;strong&gt;Suit of Unknown&lt;/strong&gt; (you are free to call it the &lt;strong&gt;Suit of Spock&lt;/strong&gt;)!&lt;/p&gt;
@@ -3327,22 +5091,22 @@ Licensed under the &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.
     
     <item>
       <title>Hello, Indie Rpg Planet!</title>
-      <link>http://space-timewilltell.yoric.xyz/post/hello-indie-rpg-planet/</link>
+      <link>https://space-timewilltell.yoric.xyz/post/hello-indie-rpg-planet/</link>
       <pubDate>Thu, 18 Oct 2018 22:10:15 +0200</pubDate>
       
-      <guid>http://space-timewilltell.yoric.xyz/post/hello-indie-rpg-planet/</guid>
+      <guid>https://space-timewilltell.yoric.xyz/post/hello-indie-rpg-planet/</guid>
       <description>&lt;p&gt;Thanks Alex Schroeder for putting together the &lt;a href=&#34;https://campaignwiki.org/indie/&#34; target=&#34;_blank&#34;&gt;Indie RPG Planet&lt;/a&gt;! I believe that the Indie RPG community was sorely missing something like this.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://space-timewilltell.yoric.xyz/images/space-time-deck/card-52.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-52.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Space·Time Deck: The Suit of Serpents</title>
-      <link>http://space-timewilltell.yoric.xyz/post/suit-serpents/</link>
+      <link>https://space-timewilltell.yoric.xyz/post/suit-serpents/</link>
       <pubDate>Wed, 17 Oct 2018 12:37:23 +0200</pubDate>
       
-      <guid>http://space-timewilltell.yoric.xyz/post/suit-serpents/</guid>
+      <guid>https://space-timewilltell.yoric.xyz/post/suit-serpents/</guid>
       <description>
 
 &lt;p&gt;Did you think the Space·Time Deck was done after&lt;/p&gt;
@@ -3412,14 +5176,14 @@ Believed to be Public Domain (source: &lt;a href=&#34;https://www.flickr.com/pho
     
     <item>
       <title>Conflict Resolution With the Space·Time Deck</title>
-      <link>http://space-timewilltell.yoric.xyz/post/conflict-resolution-with-the-space-time-deck/</link>
+      <link>https://space-timewilltell.yoric.xyz/post/conflict-resolution-with-the-space-time-deck/</link>
       <pubDate>Sun, 14 Oct 2018 17:35:18 +0200</pubDate>
       
-      <guid>http://space-timewilltell.yoric.xyz/post/conflict-resolution-with-the-space-time-deck/</guid>
+      <guid>https://space-timewilltell.yoric.xyz/post/conflict-resolution-with-the-space-time-deck/</guid>
       <description>
 
 &lt;p&gt;Most Role-Playing Games resolve conflicts with dice. But since
-we have a &lt;a href=&#34;http://space-timewilltell.yoric.xyz/tags/space-time-deck&#34;&gt;Space·Time Deck&lt;/a&gt; at hand
+we have a &lt;a href=&#34;https://space-timewilltell.yoric.xyz/tags/space-time-deck&#34;&gt;Space·Time Deck&lt;/a&gt; at hand
 (or any other kind of Tarot-like Deck), let&amp;rsquo;s see if we can
 use it to bring about a different manner of resolving conflicts.&lt;/p&gt;
 
@@ -3463,7 +5227,7 @@ killing the target vs. capturing the intruder before he has the chance to
 cause damage. The players representing each party must have a clear idea
 of the desired outcome for the conflict.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://space-timewilltell.yoric.xyz/images/illustrations/Combat Knights 6.jpg&#34; alt=&#34;Credits: Flickr user Paul K&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://space-timewilltell.yoric.xyz/images/illustrations/Combat Knights 6.jpg&#34; alt=&#34;Credits: Flickr user Paul K&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;They are, of course, entirely free to change the desired outcome, but this
 may end up completely changing the state of the conflict. For instance, if
@@ -3495,7 +5259,7 @@ they have roughly the same chances of succeeding.&lt;/li&gt;
 &lt;p&gt;We do not cover this last point – it is left up to the Table, depending
 on how each Party is defined.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://space-timewilltell.yoric.xyz/images/illustrations/Bodleian_Libraries,_The_balance_of_power.jpg&#34; alt=&#34;Credits: Digital Bodleian – Williams, C – The Balance of Power – Creative Commons Attribution 4.0 International&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://space-timewilltell.yoric.xyz/images/illustrations/Bodleian_Libraries,_The_balance_of_power.jpg&#34; alt=&#34;Credits: Digital Bodleian – Williams, C – The Balance of Power – Creative Commons Attribution 4.0 International&#34; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&#34;resolving-a-conflict&#34;&gt;Resolving a Conflict&lt;/h1&gt;
 
@@ -3584,7 +5348,7 @@ and one card of the disadvantaged side imply that the advantaged side loses, the
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://space-timewilltell.yoric.xyz/images/illustrations/Retaliations.jpg&#34; alt=&#34;Credits: Flickr User neekoh.fi – Attribution 2.0 Generic&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://space-timewilltell.yoric.xyz/images/illustrations/Retaliations.jpg&#34; alt=&#34;Credits: Flickr User neekoh.fi – Attribution 2.0 Generic&#34; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;narrating-the-outcome-of-the-round&#34;&gt;Narrating the outcome of the round&lt;/h2&gt;
 
@@ -3619,7 +5383,7 @@ cards but only the player can decide on the actual interpretation.
 This may mean that players will come up with uninteresting
 interpretations from time to time. That&amp;rsquo;s ok.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://space-timewilltell.yoric.xyz/images/illustrations/640px-Ruse_with_an_Empty_City_.jpg&#34; alt=&#34;Ruse with an Empty City&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://space-timewilltell.yoric.xyz/images/illustrations/640px-Ruse_with_an_Empty_City_.jpg&#34; alt=&#34;Ruse with an Empty City&#34; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;deciding-whether-the-conflict-continues&#34;&gt;Deciding whether the Conflict continues&lt;/h2&gt;
 
@@ -3667,10 +5431,10 @@ with a GM, the GM gets final say on this.&lt;/p&gt;
     
     <item>
       <title>Space·Time Deck: The Suit of Scissors (or Blades)</title>
-      <link>http://space-timewilltell.yoric.xyz/post/suit-scissors/</link>
+      <link>https://space-timewilltell.yoric.xyz/post/suit-scissors/</link>
       <pubDate>Sun, 14 Oct 2018 10:50:23 +0200</pubDate>
       
-      <guid>http://space-timewilltell.yoric.xyz/post/suit-scissors/</guid>
+      <guid>https://space-timewilltell.yoric.xyz/post/suit-scissors/</guid>
       <description>
 
 &lt;p&gt;After the &lt;a href=&#34;../suit-paper&#34;&gt;Suit of &lt;strong&gt;Paper&lt;/strong&gt;&lt;/a&gt; and the &lt;a href=&#34;../suit-rock&#34;&gt;Suit of &lt;strong&gt;Rock&lt;/strong&gt;&lt;/a&gt;, here comes the Suit of &lt;strong&gt;Scissor&lt;/strong&gt; (or perhaps Blades – name to be finalized).&lt;/p&gt;
@@ -3738,10 +5502,10 @@ Licensed under the &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/3.
     
     <item>
       <title>Ronin Time Bureaucrats: Afterlife and the Time Adjustment Foundation</title>
-      <link>http://space-timewilltell.yoric.xyz/post/rtb-time-adjustment-foundation/</link>
+      <link>https://space-timewilltell.yoric.xyz/post/rtb-time-adjustment-foundation/</link>
       <pubDate>Sat, 13 Oct 2018 17:40:20 +0200</pubDate>
       
-      <guid>http://space-timewilltell.yoric.xyz/post/rtb-time-adjustment-foundation/</guid>
+      <guid>https://space-timewilltell.yoric.xyz/post/rtb-time-adjustment-foundation/</guid>
       <description>&lt;p&gt;While the Time Federation is forever limited by its Prime Directive, the militarist branches managed to get away with murder, kidnapping and torture by finessing paradoxes. Some cadres of the Time Federation wanted the ability to counter-attack, and managed to create a covert operations branch called the &lt;strong&gt;Time Adjustment Foundation&lt;/strong&gt;. And further is exactly where it goes.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;
@@ -3774,10 +5538,10 @@ Licensed under the &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/3.
     
     <item>
       <title>Space·Time Deck: The Suit of Rock</title>
-      <link>http://space-timewilltell.yoric.xyz/post/suit-rock/</link>
+      <link>https://space-timewilltell.yoric.xyz/post/suit-rock/</link>
       <pubDate>Fri, 12 Oct 2018 11:04:23 +0200</pubDate>
       
-      <guid>http://space-timewilltell.yoric.xyz/post/suit-rock/</guid>
+      <guid>https://space-timewilltell.yoric.xyz/post/suit-rock/</guid>
       <description>
 
 &lt;p&gt;After the &lt;a href=&#34;../suit-paper&#34;&gt;Suit of &lt;strong&gt;Paper&lt;/strong&gt;&lt;/a&gt;, here comes the Suit of &lt;strong&gt;Rock&lt;/strong&gt;.&lt;/p&gt;
@@ -3840,10 +5604,10 @@ white margin between the part you can see above and the border.&lt;/p&gt;
     
     <item>
       <title>Space·Time Deck: The Suit of Paper</title>
-      <link>http://space-timewilltell.yoric.xyz/post/suit-paper/</link>
+      <link>https://space-timewilltell.yoric.xyz/post/suit-paper/</link>
       <pubDate>Thu, 11 Oct 2018 21:37:23 +0200</pubDate>
       
-      <guid>http://space-timewilltell.yoric.xyz/post/suit-paper/</guid>
+      <guid>https://space-timewilltell.yoric.xyz/post/suit-paper/</guid>
       <description>
 
 &lt;p&gt;A few weeks ago, we introduced &lt;a href=&#34;../the-space-time-deck&#34;&gt;the Trump Cards of the Space·Time Deck&lt;/a&gt;.
@@ -3897,20 +5661,6 @@ white margin between the part you can see above and the border.&lt;/p&gt;
 &lt;h1 id=&#34;thanks&#34;&gt;Thanks&lt;/h1&gt;
 
 &lt;p&gt;Many thanks to jlorenzo, pnkfelix, nickwedig, Alamantus, mxfraud, GiantKumquat for their help!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Space·Time Deck: On the way to proof printing!</title>
-      <link>http://space-timewilltell.yoric.xyz/post/cards-draft/</link>
-      <pubDate>Thu, 11 Oct 2018 10:04:31 +0200</pubDate>
-      
-      <guid>http://space-timewilltell.yoric.xyz/post/cards-draft/</guid>
-      <description>&lt;p&gt;The &lt;a href=&#34;../the-space-time-deck&#34;&gt;22 Trump Cards of the Space·Time Deck&lt;/a&gt; are now on
-their way to proof printing! We should receive the
-proofs in early December. If everything is alright,
-we should be able to sell them through DriveThru
-by End of Year.&lt;/p&gt;
 </description>
     </item>
     
