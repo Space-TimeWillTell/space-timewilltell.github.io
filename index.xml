@@ -6,13 +6,13 @@
     <description>Recent content in Space·Time Will Tell on Space·Time Will Tell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Nov 2018 13:19:49 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 05 Nov 2018 19:19:49 +0100</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>N-Dimensional Tourists: Meeting Challenges</title>
       <link>https://space-timewilltell.yoric.xyz/post/tourists-overcoming/</link>
-      <pubDate>Sun, 04 Nov 2018 13:19:49 +0100</pubDate>
+      <pubDate>Mon, 05 Nov 2018 19:19:49 +0100</pubDate>
       
       <guid>https://space-timewilltell.yoric.xyz/post/tourists-overcoming/</guid>
       <description>
@@ -267,15 +267,17 @@ be realized, while a lower Rank will decrease it considerably.&lt;/p&gt;
 &lt;li&gt;GM: &amp;ldquo;Given Levinulon&amp;rsquo;s size and general taste for mayhem and destruction, attracting his attention might be very difficult. So, let&amp;rsquo;s make it a Superb (4) difficulty.&amp;rdquo;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;drawing-cards&#34;&gt;Drawing cards&lt;/h1&gt;
+&lt;h1 id=&#34;drawing-cards-and-narrating-progress&#34;&gt;Drawing cards and narrating progress&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://space-timewilltell.yoric.xyz/images/posts/tourists-overcoming/cardsharps.png&#34; alt=&#34;Caravaggio – The Cardsharps - Public Domain – Source: Wikimedia Commons&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Now that everything is setup, the next step is to draw cards.&lt;/p&gt;
 
-&lt;h2 id=&#34;challenge-draws&#34;&gt;Challenge draws&lt;/h2&gt;
+&lt;h2 id=&#34;challenge-draws-and-gm-narrates&#34;&gt;Challenge draws and GM narrates&lt;/h2&gt;
 
 &lt;p&gt;The Challenge draws as many cards as its Rank and places them,
 face visible, on the table. Orientation of cards matters. This
-is typically done by the GM, but who draws doesn&amp;rsquo;t matter overmuch.&lt;/p&gt;
+is typically done by the GM, but that&amp;rsquo;s not a requirement.&lt;/p&gt;
 
 &lt;p&gt;As a special rule, if the Challenge encounters the Excuse while
 drawing, drawing stops at the card before the Excuse.&lt;/p&gt;
@@ -284,7 +286,297 @@ drawing, drawing stops at the card before the Excuse.&lt;/p&gt;
 used to determine the &lt;strong&gt;Cost&lt;/strong&gt; of the Challenge. Similarly, any
 card drawn by the Challenge may affect the &lt;strong&gt;Effect&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;h2 id=&#34;character-draws&#34;&gt;Character draws&lt;/h2&gt;
+&lt;p&gt;Once the Challenge has drawn, whoever drew for these cards gets
+to narrate some of the difficulties encountered by the character.&lt;/p&gt;
+
+&lt;h3 id=&#34;example-chess-match-2&#34;&gt;Example: Chess match&lt;/h3&gt;
+
+&lt;p&gt;As Lord Devon represents a Superb (5) challenge, the GM draws 5 cards:&lt;/p&gt;
+
+
+
+&lt;figure
+    class=&#34;yoric-hand &#34;&gt;
+    
+        
+        
+        
+        &lt;img
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-26.png&#34;
+            data-src=&#34;/images/space-time-deck/card-26.png&#34;
+            data-sizes=&#34;auto&#34;
+            
+                
+                    class=&#34;lazyload yoric-stdeck yoric-hand-card yoric-up-card&#34;
+                    alt=&#34;Card number 26, upright&#34;
+                
+                
+                
+            
+            alt=&#34;Card number 26&#34;
+        /&gt;
+    
+        
+        
+        
+        &lt;img
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-84.png&#34;
+            data-src=&#34;/images/space-time-deck/card-84.png&#34;
+            data-sizes=&#34;auto&#34;
+            
+                
+                    class=&#34;lazyload yoric-stdeck yoric-hand-card yoric-up-card&#34;
+                    alt=&#34;Card number 84, upright&#34;
+                
+                
+                
+            
+            alt=&#34;Card number 84&#34;
+        /&gt;
+    
+        
+        
+        
+        &lt;img
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-82.png&#34;
+            data-src=&#34;/images/space-time-deck/card-82.png&#34;
+            data-sizes=&#34;auto&#34;
+            
+                
+                
+                    class=&#34;lazyload yoric-stdeck yoric-hand-card yoric-reversed-card&#34;
+                    alt=&#34;Card number 82, reversed&#34;
+                
+                
+            
+            alt=&#34;Card number 82&#34;
+        /&gt;
+    
+        
+        
+        
+        &lt;img
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-78.png&#34;
+            data-src=&#34;/images/space-time-deck/card-78.png&#34;
+            data-sizes=&#34;auto&#34;
+            
+                
+                
+                    class=&#34;lazyload yoric-stdeck yoric-hand-card yoric-reversed-card&#34;
+                    alt=&#34;Card number 78, reversed&#34;
+                
+                
+            
+            alt=&#34;Card number 78&#34;
+        /&gt;
+    
+        
+        
+        
+        &lt;img
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-39.png&#34;
+            data-src=&#34;/images/space-time-deck/card-39.png&#34;
+            data-sizes=&#34;auto&#34;
+            
+                
+                
+                    class=&#34;lazyload yoric-stdeck yoric-hand-card yoric-reversed-card&#34;
+                    alt=&#34;Card number 39, reversed&#34;
+                
+                
+            
+            alt=&#34;Card number 39&#34;
+        /&gt;
+    
+&lt;/figure&gt;
+
+
+
+&lt;ul&gt;
+&lt;li&gt;GM: &amp;ldquo;Lord Devon is obviously in no hurry (&lt;em&gt;Longevity&lt;/em&gt;). He starts slowly, cautiously
+following his usual style (&lt;em&gt;Heaven &amp;amp; Hell, the usual game&lt;/em&gt;). What you may or may
+not realize in time is that he has a sophisticated trap in mind (&lt;em&gt;Subterfuge&lt;/em&gt;)
+against your Queen (&lt;em&gt;Living to Consume&lt;/em&gt;). At the end of this early game, the
+trap will have closed and it will be &lt;em&gt;Too late for subterfuges&lt;/em&gt;.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;example-escaping-the-furnace-2&#34;&gt;Example: Escaping the Furnace&lt;/h3&gt;
+
+&lt;p&gt;As the fire represents a Good (3) challenge, the GM draws 3 cards:&lt;/p&gt;
+
+
+
+&lt;figure
+    class=&#34;yoric-hand &#34;&gt;
+    
+        
+        
+        
+        &lt;img
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-49.png&#34;
+            data-src=&#34;/images/space-time-deck/card-49.png&#34;
+            data-sizes=&#34;auto&#34;
+            
+                
+                
+                    class=&#34;lazyload yoric-stdeck yoric-hand-card yoric-reversed-card&#34;
+                    alt=&#34;Card number 49, reversed&#34;
+                
+                
+            
+            alt=&#34;Card number 49&#34;
+        /&gt;
+    
+        
+        
+        
+        &lt;img
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-35.png&#34;
+            data-src=&#34;/images/space-time-deck/card-35.png&#34;
+            data-sizes=&#34;auto&#34;
+            
+                
+                
+                    class=&#34;lazyload yoric-stdeck yoric-hand-card yoric-reversed-card&#34;
+                    alt=&#34;Card number 35, reversed&#34;
+                
+                
+            
+            alt=&#34;Card number 35&#34;
+        /&gt;
+    
+        
+        
+        
+        &lt;img
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-43.png&#34;
+            data-src=&#34;/images/space-time-deck/card-43.png&#34;
+            data-sizes=&#34;auto&#34;
+            
+                
+                    class=&#34;lazyload yoric-stdeck yoric-hand-card yoric-up-card&#34;
+                    alt=&#34;Card number 43, upright&#34;
+                
+                
+                
+            
+            alt=&#34;Card number 43&#34;
+        /&gt;
+    
+&lt;/figure&gt;
+
+
+
+&lt;ul&gt;
+&lt;li&gt;GM: &amp;ldquo;For a while, you were busy in the attic, digging through crates of paperworks,
+and nothing happened. The attic is full of, well, way too many things. You can find
+Japanese artwork (&lt;em&gt;Soldier of Paper&lt;/em&gt;), old movie parapharnelia (&lt;em&gt;Lover of Unknown&lt;/em&gt;),
+and tons of things piled haphazardly on top of each other (&lt;em&gt;Failures on top of failures&lt;/em&gt;).
+And suddenly, as if coming from nowhere, fire (&lt;em&gt;Sudden power&lt;/em&gt;)!&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Note that the GM didn&amp;rsquo;t use the interpretation &lt;em&gt;Underestimating the enemy&lt;/em&gt;, as they couldn&amp;rsquo;t find
+    a way to use this without forcing their narration on Alex. Alex&amp;rsquo; player has control
+    over his character, so only that player may decide whether Alex did or did not
+    underestimate the enemy.&lt;/p&gt;
+
+&lt;h3 id=&#34;example-kaiju-attack-2&#34;&gt;Example: Kaiju attack&lt;/h3&gt;
+
+&lt;p&gt;Levinulon&amp;rsquo;s focus is Superb (4), so the GM draws 4 cards:&lt;/p&gt;
+
+
+
+&lt;figure
+    class=&#34;yoric-hand &#34;&gt;
+    
+        
+        
+        
+        &lt;img
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-79.png&#34;
+            data-src=&#34;/images/space-time-deck/card-79.png&#34;
+            data-sizes=&#34;auto&#34;
+            
+                
+                    class=&#34;lazyload yoric-stdeck yoric-hand-card yoric-up-card&#34;
+                    alt=&#34;Card number 79, upright&#34;
+                
+                
+                
+            
+            alt=&#34;Card number 79&#34;
+        /&gt;
+    
+        
+        
+        
+        &lt;img
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-16.png&#34;
+            data-src=&#34;/images/space-time-deck/card-16.png&#34;
+            data-sizes=&#34;auto&#34;
+            
+                
+                    class=&#34;lazyload yoric-stdeck yoric-hand-card yoric-up-card&#34;
+                    alt=&#34;Card number 16, upright&#34;
+                
+                
+                
+            
+            alt=&#34;Card number 16&#34;
+        /&gt;
+    
+        
+        
+        
+        &lt;img
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-9.png&#34;
+            data-src=&#34;/images/space-time-deck/card-9.png&#34;
+            data-sizes=&#34;auto&#34;
+            
+                
+                    class=&#34;lazyload yoric-stdeck yoric-hand-card yoric-up-card&#34;
+                    alt=&#34;Card number 9, upright&#34;
+                
+                
+                
+            
+            alt=&#34;Card number 9&#34;
+        /&gt;
+    
+        
+        
+        
+        &lt;img
+            src=&#34;https://space-timewilltell.yoric.xyz/images/space-time-deck/card-14.png&#34;
+            data-src=&#34;/images/space-time-deck/card-14.png&#34;
+            data-sizes=&#34;auto&#34;
+            
+                
+                
+                    class=&#34;lazyload yoric-stdeck yoric-hand-card yoric-reversed-card&#34;
+                    alt=&#34;Card number 14, reversed&#34;
+                
+                
+            
+            alt=&#34;Card number 14&#34;
+        /&gt;
+    
+&lt;/figure&gt;
+
+
+
+&lt;p&gt;This time, the GM decides to take things mostly literally:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;GM: &amp;ldquo;By the time you arrive, Levinulon has already destroyed a large subway station
+(&lt;em&gt;XI. of Triumph&lt;/em&gt;) and is tearing apart a skyscraper (&lt;em&gt;IV. of Triumph&lt;/em&gt;). Under
+its footstep, you can also see the remains of what must have been a brothel
+(&lt;em&gt;A truth, uncovered&lt;/em&gt;), full of naked people dead or screaming.
+Levinulon simply stepped through it, tearing through as if it had
+been paper (&lt;em&gt;Overlooking an obstacle&lt;/em&gt;).&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;character-draws-and-player-narrates&#34;&gt;Character draws and Player narrates&lt;/h2&gt;
 
 &lt;p&gt;To beat the challenge, the player will now draw cards for their
 character. The challenge is beaten if the player draws cards that
@@ -296,11 +588,12 @@ beat all the cards of the Challenge. As the player draws cards:&lt;/p&gt;
 &lt;li&gt;the &lt;strong&gt;Cost&lt;/strong&gt; increases, which may prompt the player to stop drawing;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;The player may decide to not draw cards. Unless the challenge had
-a Rank of 0, this means that the challenge is not beaten, but also
-that all risks are avoided. Also, to provide a manner for the
+&lt;p&gt;The player may decide to not draw cards. If this happens, all Cost
+is avoided, regardless of the number of reversed cards already drawn
+by the Challenge. Unless the challenge had a Rank of 0, this means
+that the challenge is not beaten. Also, to provide a manner for the
 character to bounce back to initiative, the player draws one
-Reserve Card, to be used after the Challenge.&lt;/p&gt;
+Reserve Card, to be used after this Challenge.&lt;/p&gt;
 
 &lt;p&gt;If the player decides to draw, they take cards one by one, as follows:&lt;/p&gt;
 
@@ -310,17 +603,19 @@ Reserve Card, to be used after the Challenge.&lt;/p&gt;
 &lt;li&gt;if the card is the Excuse, discard it and stop drawing immediately;&lt;/li&gt;
 &lt;li&gt;if the card is reversed, it increases the Cost;&lt;/li&gt;
 &lt;li&gt;if the Cost is 5, this is a &lt;strong&gt;Wipe Out&lt;/strong&gt;, stop drawing immediately
-(you don&amp;rsquo;t want a Wipe Out);&lt;/li&gt;
+(you don&amp;rsquo;t want a Wipe Out, ever);&lt;/li&gt;
 &lt;li&gt;if the table has 1 (respectively 2, 3, 4, 5) cards of the same
 figure (e.g. 2 Servants, or 2 Lovers, or 2 Dragons, &amp;hellip;), this
 increases the Effect to 1 (respectively 2, 3, 4, 5). This includes
 both the cards of the character and those of the Challenge. As
 Triumphs have no figure, they do not count towards Effect;&lt;/li&gt;
+&lt;li&gt;after drawing every card, the player narrates their charater&amp;rsquo;s
+effort&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;example-chess-match-2&#34;&gt;Example: Chess match&lt;/h2&gt;
+&lt;h2 id=&#34;example-chess-match-3&#34;&gt;Example: Chess match&lt;/h2&gt;
 
-&lt;p&gt;As Lord Devon represents a Superb (5) challenge, the GM draws 5 cards:&lt;/p&gt;
+&lt;p&gt;If you recall, the GM has drawn the following cards for Lord Devon:&lt;/p&gt;
 
 
 
@@ -446,12 +741,13 @@ the entire deck:&lt;/p&gt;
 
 
 
-&lt;p&gt;So, Lady Buckingham&amp;rsquo;s player decides to not draw. She has lost this round,
+&lt;p&gt;As Lady Buckingham simply cannot beat this hand, Lady Buckingham&amp;rsquo;s
+player decides to not draw. She has lost this round,
 but as she hasn&amp;rsquo;t drawn, there is no Cost for her.&lt;/p&gt;
 
-&lt;h2 id=&#34;example-escaping-the-furnace-2&#34;&gt;Example: Escaping the Furnace&lt;/h2&gt;
+&lt;h2 id=&#34;example-escaping-the-furnace-3&#34;&gt;Example: Escaping the Furnace&lt;/h2&gt;
 
-&lt;p&gt;As the fire represents a Good (3) challenge, the GM draws 3 cards:&lt;/p&gt;
+&lt;p&gt;If you recall, the GM has drawn the following cards for the Furnace:&lt;/p&gt;
 
 
 
@@ -544,7 +840,13 @@ a Cost of -2 so far.&lt;/p&gt;
 
 
 
-&lt;p&gt;This card is reversed, so Cost climbs to -1. It doesn&amp;rsquo;t beat any of the
+&lt;p&gt;This card is reversed, so Cost climbs to -1.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Alex: &amp;ldquo;Fire quickly spreads everywhere, it&amp;rsquo;s a &lt;em&gt;nightmare&lt;/em&gt;!&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It doesn&amp;rsquo;t beat any of the
 cards of the Challenge, so Alex decides to continue drawing.&lt;/p&gt;
 
 
@@ -569,9 +871,16 @@ cards of the Challenge, so Alex decides to continue drawing.&lt;/p&gt;
 
 
 
-&lt;p&gt;This card is reversed, so the Cost climbs to 0. This card is a Paper,
+&lt;p&gt;This card is reversed, so the Cost climbs to Mediocre (0). This card is a Paper,
 Paper beats Unknown, so the two Unknown cards in the Challenge&amp;rsquo;s hand
-are now beaten. Only one more card to beat!&lt;/p&gt;
+are now beaten.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Alex: &amp;ldquo;I&amp;rsquo;m surrounded by &lt;em&gt;paper&lt;/em&gt; and rotting timber (&lt;em&gt;Letting the world rot&lt;/em&gt;).
+This is going to get even worse soon!&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Only one more card to beat!&lt;/p&gt;
 
 
 &lt;figure &gt;
@@ -595,9 +904,17 @@ are now beaten. Only one more card to beat!&lt;/p&gt;
 
 
 
-&lt;p&gt;This card is reversed, again, so the Cost climbs to 1. So far, it&amp;rsquo;s a
-very minor Cost. This card is a Triumph, so it beats all the cards of
-the Challenge.&lt;/p&gt;
+&lt;p&gt;This card is reversed, again, so the Cost climbs to Average (1). So far, it&amp;rsquo;s a
+very minor Cost.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Alex: &amp;ldquo;At first, I look for an easy way out, a manner of getting out
+of there without going through the fire, but no, that&amp;rsquo;s &lt;em&gt;futile&lt;/em&gt;.
+I&amp;rsquo;ll need to go through the fire to get out of here.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This card is a Triumph, so it beats all the cards of
+the Challenge. At this stage, the Challenge is won.&lt;/p&gt;
 
 &lt;p&gt;Let&amp;rsquo;s look at all the cards on the table:&lt;/p&gt;
 
@@ -718,9 +1035,10 @@ the Challenge.&lt;/p&gt;
 
 
 
-&lt;p&gt;No pairs, so Alex currently has an Effect of 1. Most likely, that means
-that he&amp;rsquo;ll only have managed to grab a few documents on the way out. Alex
-decides to keep drawing, in order to try and increase his Effect.&lt;/p&gt;
+&lt;p&gt;So far, there are no pairs, so Alex currently has an Effect of Mediocre (1). Most likely,
+that means that he&amp;rsquo;ll only have managed to grab a few documents on the way out.
+Alex decides to keep drawing, in order to try and increase his Effect, at the
+risk of increasing the Cost.&lt;/p&gt;
 
 
 &lt;figure &gt;
@@ -744,8 +1062,16 @@ decides to keep drawing, in order to try and increase his Effect.&lt;/p&gt;
 
 
 
-&lt;p&gt;Still a Triumph, but still no pairs, it doesn&amp;rsquo;t increase the Effect.
-Alex continues.&lt;/p&gt;
+&lt;p&gt;Once again a Triumph, but still no pairs, it doesn&amp;rsquo;t increase the Effect.
+On the upside, the card is upright, so it doesn&amp;rsquo;t increase the Cost,
+either.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Alex: &amp;ldquo;Fortunately, as an &lt;strong&gt;Action Journalist&lt;/strong&gt;, I&amp;rsquo;m &lt;em&gt;always ready&lt;/em&gt; for action.
+I bravely step through the fire.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Alex continues.&lt;/p&gt;
 
 
 &lt;figure &gt;
@@ -769,8 +1095,14 @@ Alex continues.&lt;/p&gt;
 
 
 
-&lt;p&gt;Still a Triumph, but still no pairs, it doesn&amp;rsquo;t increase the Effect.
-Alex continues.&lt;/p&gt;
+&lt;p&gt;One more Triumph, but still no pairs, it doesn&amp;rsquo;t increase the Effect.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Alex: &amp;ldquo;As I walk through the furnace, covering my face as well as I can to avoid
+breathing toxic fumes, I hear a &lt;em&gt;big bang&lt;/em&gt; somewhere, but I won&amp;rsquo;t let this distract me.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Alex continues.&lt;/p&gt;
 
 
 &lt;figure &gt;
@@ -795,11 +1127,16 @@ Alex continues.&lt;/p&gt;
 
 
 &lt;p&gt;Ahah, that&amp;rsquo;s a second Builder! That gives Alex one pair. He decides
-to stop drawing here, with a Cost of 1 and an Effect of 2.&lt;/p&gt;
+to stop drawing here, with a Cost of Mediocre (1) and an Effect of Fair (2).&lt;/p&gt;
 
-&lt;h2 id=&#34;example-kaiju-attack-2&#34;&gt;Example: Kaiju attack&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Alex: &amp;ldquo;In a final display of my trademarked &lt;strong&gt;Action Journalist&lt;/strong&gt; sprinting skill,
+I manage to leave the furnace. I end up in the street&amp;hellip; let&amp;rsquo;s see in which state.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Levinulon&amp;rsquo;s focus is Superb (4), so the GM draws 4 cards:&lt;/p&gt;
+&lt;h2 id=&#34;example-kaiju-attack-3&#34;&gt;Example: Kaiju attack&lt;/h2&gt;
+
+&lt;p&gt;If you recall, Levinulon drew:&lt;/p&gt;
 
 
 
@@ -909,7 +1246,13 @@ Since one card is already reversed, that&amp;rsquo;s now -3.&lt;/p&gt;
 
 
 
-&lt;p&gt;So far, Levinulon&amp;rsquo;s focus is greater. Also, Cost increases to -2. Tokyo Mechanized Defense Force continues to draw.&lt;/p&gt;
+&lt;p&gt;So far, Levinulon&amp;rsquo;s focus is greater. Also, Cost increases to -2.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Tokyo Mechanized Defense Force: &amp;ldquo;For the moment, it looks like Levinulon hasn&amp;rsquo;t seen us at all, or our drones (&lt;em&gt;Where is Waldo?&lt;/em&gt;).&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Tokyo Mechanized Defense Force draws again.&lt;/p&gt;
 
 
 &lt;figure &gt;
@@ -933,7 +1276,13 @@ Since one card is already reversed, that&amp;rsquo;s now -3.&lt;/p&gt;
 
 
 
-&lt;p&gt;So far, Levinulon&amp;rsquo;s focus is greater. Also, Cost increases to -1. Tokyo Mechanized Defense Force continues to draw.&lt;/p&gt;
+&lt;p&gt;Levinulon&amp;rsquo;s remains greater. Also, Cost increases to -1.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Tokyo Mechanized Defense Force: &amp;ldquo;It&amp;rsquo;s actually quite humbling. Even in our mechs, we feel like paper dolls in front of this giant (&lt;em&gt;Diminished&lt;/em&gt;).&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Tokyo Mechanized Defense Force draws again.&lt;/p&gt;
 
 
 &lt;figure &gt;
@@ -957,7 +1306,13 @@ Since one card is already reversed, that&amp;rsquo;s now -3.&lt;/p&gt;
 
 
 
-&lt;p&gt;Levinulon&amp;rsquo;s focus is still greater. Costs remains unchanged. Tokyo Mechanized Defense Force continues to draw.&lt;/p&gt;
+&lt;p&gt;Levinulon&amp;rsquo;s focus is still greater. Costs remains unchanged.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Tokyo Mechanized Defense Force: &amp;ldquo;To add to the insult, it really looks like Levinulon is having too much &lt;em&gt;fun&lt;/em&gt; destroying these buildings and killing all these people to pay attention to us.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Tokyo Mechanized Defense Force draws again.&lt;/p&gt;
 
 
 &lt;figure &gt;
@@ -981,7 +1336,13 @@ Since one card is already reversed, that&amp;rsquo;s now -3.&lt;/p&gt;
 
 
 
-&lt;p&gt;Levinulon&amp;rsquo;s focus is still greater. Cost increases to Mediocre (0). Tokyo Mechanized Defense Force continues to draw.&lt;/p&gt;
+&lt;p&gt;Levinulon&amp;rsquo;s focus is still greater. Cost increases to Mediocre (0).&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Tokyo Mechanized Defense Force: &amp;ldquo;Also, the very ground is shaking whenever Levinulon takes a step (&lt;em&gt;Unreliable foundations&lt;/em&gt;). Our mechs are built for mobility, which makes us relatively frail. We keep losing our balance and stumbling around as the ground shakes.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Tokyo Mechanized Defense Force draws again.&lt;/p&gt;
 
 
 &lt;figure &gt;
@@ -1005,7 +1366,13 @@ Since one card is already reversed, that&amp;rsquo;s now -3.&lt;/p&gt;
 
 
 
-&lt;p&gt;Levinulon&amp;rsquo;s focus is still greater. Cost increases to Average (1). Tokyo Mechanized Defense Force continues to draw.&lt;/p&gt;
+&lt;p&gt;Levinulon&amp;rsquo;s focus is still greater. Cost increases to Average (1).&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Tokyo Mechanized Defense Force: &amp;ldquo;We must have turned around Levinulon five or six times, making as much noise as possible, without succeeding at catching his attention (&lt;em&gt;Senseless cycle&lt;/em&gt;).&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Tokyo Mechanized Defense Force draws again.&lt;/p&gt;
 
 
 &lt;figure &gt;
@@ -1030,8 +1397,14 @@ Since one card is already reversed, that&amp;rsquo;s now -3.&lt;/p&gt;
 
 
 &lt;p&gt;Levinulon&amp;rsquo;s focus is finally beaten! Cost increases to Fair (2). There are two Soldiers on the table, so the Effect
-is currently Fair (2). The GM informs the player that the Tokyo Mechanized Defense Force itself is now at some risk.
-As Tokyo Mechanized Defense Force prioritizes saving citizens to its own survival, the player would like
+is currently Fair (2). The GM informs the player that the Tokyo Mechanized Defense Force itself is now at some risk.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Tokyo Mechanized Defense Force: &amp;ldquo;Finally, in a very risky move, our Pigeon-Class Mech takes flight above
+Levinulon (&lt;em&gt;Taking Flight&lt;/em&gt;) and Levinulon looks at it. I think we caught its attention!&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As Tokyo Mechanized Defense Force prioritizes saving citizens to its own survival, the player would like
 an Effect of Good (3). For this purpose, the player would need a third Soldier. The player draws again.&lt;/p&gt;
 
 
@@ -1057,7 +1430,14 @@ an Effect of Good (3). For this purpose, the player would need a third Soldier. 
 
 
 &lt;p&gt;Cost increases to Good (3), with an Effect still at Fair (2). The GM informs the player that any further reversed card
-will start hurting the Tokyo Mechanized Defense Force. Bravely, Tokyo Mechanized Defense Force draws again.&lt;/p&gt;
+will start hurting the Tokyo Mechanized Defense Force.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Tokyo Mechanized Defense Force: &amp;ldquo;Yes, Levinulon looks away from the latest skyscraper
+it was destroying (&lt;em&gt;Farewell to the mighty&lt;/em&gt;) and finally focuses upon us.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Bravely, Tokyo Mechanized Defense Force draws again.&lt;/p&gt;
 
 
 &lt;figure &gt;
@@ -1081,7 +1461,15 @@ will start hurting the Tokyo Mechanized Defense Force. Bravely, Tokyo Mechanized
 
 
 
-&lt;p&gt;This card alters neither the Cost nor the Effect. Bravely, Tokyo Mechanized Defense Force draws again.&lt;/p&gt;
+&lt;p&gt;This card alters neither the Cost nor the Effect.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Tokyo Mechanized Defense Force: &amp;ldquo;It&amp;rsquo;s time for the mechs to show their &lt;em&gt;Polyvalence&lt;/em&gt;. We&amp;rsquo;re going to try and
+surround him, to ensure that he doesn&amp;rsquo;t have a single target, and make as much noise as possible to ensure
+that he keeps focusing on us!&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Without fear, Tokyo Mechanized Defense Force draws again.&lt;/p&gt;
 
 
 &lt;figure &gt;
@@ -1105,16 +1493,28 @@ will start hurting the Tokyo Mechanized Defense Force. Bravely, Tokyo Mechanized
 
 
 
-&lt;p&gt;That&amp;rsquo;s a second Ruler, so a second pair. This does not influence the Effect. Tokyo Mechanized Defense Force decides to stop before luck runs out, though.&lt;/p&gt;
+&lt;p&gt;That&amp;rsquo;s a second Ruler, so a second pair. This does not influence the Effect.&lt;/p&gt;
 
-&lt;p&gt;So, Tokyo Defense Force has acheived a Fair (2) Effect at a Good (3) Cost. We&amp;rsquo;ll see how to interpret this.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tokyo Mechanized Defense Force: &amp;ldquo;Incoming message from the Command Center (&lt;em&gt;Ruler&lt;/em&gt;): &amp;lsquo;Don&amp;rsquo;t get so close,
+it can destroy you all easily!&amp;lsquo;&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Tokyo Mechanized Defense Force decides to stop before luck runs out.&lt;/p&gt;
+
+&lt;p&gt;So, Tokyo Defense Force has acheived a Fair (2) Effect at a Good (3) Cost.
+It could have been worse (the rules are design to make Cost easier to
+accumulate than Effect). The player will get a second opportunity to
+interpret this result in a moment.&lt;/p&gt;
 
 &lt;h1 id=&#34;outcome-of-a-challenge&#34;&gt;Outcome of a Challenge&lt;/h1&gt;
 
 &lt;p&gt;Now that the cards are drawn, the only thing that remains to do is
-to narrate the outcome.&lt;/p&gt;
+to narrate the outcome. Typically, most of what happened during
+the Challenge has already been narrated, but now is time to conclude
+it as a Success or Failure, and to account for Cost.&lt;/p&gt;
 
-&lt;p&gt;The general rule is that the Player is entirely in charge of
+&lt;p&gt;As a general rule is that the Player is entirely in charge of
 narrating the outcome, as long as it doesn&amp;rsquo;t impact another
 player&amp;rsquo;s character – if this happens, you need the agreement
 of that other player.&lt;/p&gt;
@@ -1132,9 +1532,11 @@ not beaten or if the player decided to not draw.&lt;/p&gt;
 a Challenge with a rank of Mediocre (0).&lt;/p&gt;
 
 &lt;p&gt;If your character has failed, pick some of the cards on the table
-and use them to narrate what has happened.&lt;/p&gt;
+and use them to narrate what has happened. If it sounds interesting,
+the GM may ask you to write down your Failure as an Aspect, which may
+be used later to elaborate on the consequences of this Failure.&lt;/p&gt;
 
-&lt;h3 id=&#34;example-chess-match-3&#34;&gt;Example: Chess match&lt;/h3&gt;
+&lt;h3 id=&#34;example-chess-match-4&#34;&gt;Example: Chess match&lt;/h3&gt;
 
 &lt;p&gt;Lady Buckingham&amp;rsquo;s player chooses to interpret the following cards
 picked by Lord Devon:&lt;/p&gt;
@@ -1185,7 +1587,7 @@ picked by Lord Devon:&lt;/p&gt;
 
 
 &lt;ul&gt;
-&lt;li&gt;Lady Buckingham: &amp;ldquo;Lord Devon has managed to trick me, very early in the game.
+&lt;li&gt;Lady Buckingham: &amp;ldquo;Lord Devon has managed to trick me.
 I should realized that he was using the Calrissian gambit, but unfortunately,
 I fell for it. Now, my only way out of his trap is forward. I&amp;rsquo;ll need to
 play aggressively from now on.&amp;rdquo;&lt;/li&gt;
@@ -1197,7 +1599,7 @@ play aggressively from now on.&amp;rdquo;&lt;/li&gt;
 &lt;p&gt;Both Lord Devon and Lady Buckingham will remember what has just happened –
 there will be consequences.&lt;/p&gt;
 
-&lt;p&gt;Also, Lady Buckingham draws one Reserve Card&lt;/p&gt;
+&lt;p&gt;Also, as Lady Buckingham conceded the Challenge, she gets to draw one Reserve Card&lt;/p&gt;
 
 
 &lt;figure &gt;
@@ -1221,7 +1623,8 @@ there will be consequences.&lt;/p&gt;
 
 
 
-&lt;p&gt;She&amp;rsquo;ll be able to use it for the mid-game of this match.&lt;/p&gt;
+&lt;p&gt;She&amp;rsquo;ll be able to use it for the mid-game of this match, or
+anytime after.&lt;/p&gt;
 
 &lt;h2 id=&#34;determining-and-narrating-success&#34;&gt;Determining and narrating Success&lt;/h2&gt;
 
@@ -1252,7 +1655,11 @@ the Effect.&lt;/p&gt;
 so you may end up with a Great Effect and an equally
 Great Cost for the same Challenge.&lt;/p&gt;
 
-&lt;h3 id=&#34;example-escaping-the-furnace-3&#34;&gt;Example: Escaping the Furnace&lt;/h3&gt;
+&lt;p&gt;Again, if it sounds interesting,
+the GM may ask you to write down your Success as an Aspect, which may
+be used later to elaborate on the consequences of this Success.&lt;/p&gt;
+
+&lt;h3 id=&#34;example-escaping-the-furnace-4&#34;&gt;Example: Escaping the Furnace&lt;/h3&gt;
 
 &lt;p&gt;Alex has succeeded at escaping the Furnace with the following pair:&lt;/p&gt;
 
@@ -1322,9 +1729,22 @@ way to the exit.&amp;rdquo;&lt;/li&gt;
 
 &lt;p&gt;Note that Alex has slightly changed the initial description of
 his actions now that he knows the result of the cards. As long
-as it doens&amp;rsquo;t change the outcome, this is entirely acceptable.&lt;/p&gt;
+as it doesn&amp;rsquo;t change the outcome, this is entirely acceptable.&lt;/p&gt;
 
-&lt;h3 id=&#34;example-kaiju-attack-3&#34;&gt;Example: Kaiju attack&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;GM: &amp;ldquo;Could you write this down as an Aspect?&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The player writes down &lt;strong&gt;Most of the evidence was destroyed, but a few wads of paper survived.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;example-escaping-the-furnace-best-possible-case-variant&#34;&gt;Example: Escaping the Furnace (best possible case variant)&lt;/h3&gt;
+
+&lt;p&gt;If Alex had succeeded with a Superb (5) Effect, he would have made
+it out of the furnace with all the important papers. The furnace
+might accidentally even have helped him reveal hidden proofs or
+clues – possibly a dead body.&lt;/p&gt;
+
+&lt;h3 id=&#34;example-kaiju-attack-4&#34;&gt;Example: Kaiju attack&lt;/h3&gt;
 
 &lt;p&gt;The Tokyo Mechanized Defense Force had, with difficulty, succeeded
 with a Fair (2) Effect, with the following pairs:&lt;/p&gt;
@@ -1426,7 +1846,7 @@ but not before Levinulon has had the time to kill a large number
 of civilians.&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Tokyo Mechanized Defense Force: &amp;ldquo;&lt;em&gt;Farewell to the Mighty&lt;/em&gt; and &lt;em&gt;The rule is the same for all&lt;/em&gt; seem
+&lt;li&gt;Tokyo Mechanized Defense Force: &amp;ldquo;For me, &lt;em&gt;Farewell to the Mighty&lt;/em&gt; and &lt;em&gt;The rule is the same for all&lt;/em&gt;
 indicate that Levinulon has destroyed a very important building. Say
 the Bank of Japan.&amp;rdquo;&lt;/li&gt;
 &lt;li&gt;GM: &amp;ldquo;The Reach was about civilians.&amp;rdquo;&lt;/li&gt;
@@ -1435,12 +1855,37 @@ were still trying to attrack Levinulon&amp;rsquo;s attention, it stepped
 on the building, before they had time to evacuate. There will
 be hundreds of casualties, including the President of the Bank
 of Japan.&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;GM: &amp;ldquo;You could have done a little less, but it sounds fair.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;GM: &amp;ldquo;That&amp;rsquo;s in addition to the subway station, the brothel, etc.?&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Tokyo Mechanized Defense Force: &amp;ldquo;Yeah. Lots of damage.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;GM: &amp;ldquo;You could have done a little less, but it sounds fair. What about
+an Aspect?&amp;rdquo;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;The GM writes down an Aspect &lt;strong&gt;The Tokyo Mechanized Defense Force couldn&amp;rsquo;t
+&lt;p&gt;The player writes down an Aspect &lt;strong&gt;The Tokyo Mechanized Defense Force couldn&amp;rsquo;t
 save the Bank of Japan.&lt;/strong&gt; Undoubtedly, there will be consequences at some
 point in the future.&lt;/p&gt;
+
+&lt;h3 id=&#34;example-kaiju-attack-best-possible-case-variant&#34;&gt;Example: Kaiju attack (best possible case variant)&lt;/h3&gt;
+
+&lt;p&gt;What if the Tokyo Mechanized Defense Force had succeeded with a Superb (5) Effect?&lt;/p&gt;
+
+&lt;p&gt;Well, in that case, it would immediately have attracted the attention of Levinulon.
+Moreover, the Tokyo Mechanized Defense Force would certainly have found a way to
+neutralize Levinulon as a threat, possibly by managing to lead it out of Tokyo,
+or to move the fight underwater.&lt;/p&gt;
+
+&lt;h3 id=&#34;example-chess-match-best-possible-case-variant&#34;&gt;Example: Chess match (best possible case variant)&lt;/h3&gt;
+
+&lt;p&gt;What if Lady Buckingham had succeeded with a Superb (5) Effect?&lt;/p&gt;
+
+&lt;p&gt;Well, in that case, she would have clearly dominated the early game – possibly
+with an early checkmate, if the player decided. Also, since such a large
+Effect gives the player the ability to considerably exceed the Reach, she
+would have managed to further whatever objective she had for this evening.
+Perhaps, during the idle chat, she could have managed to slip information
+meant to be heard by the right persons, starting the appropriate
+high-society rumor, or she could have gotten Lord Devon to accidentally
+divulge a secret of interest to her.&lt;/p&gt;
 
 &lt;h2 id=&#34;determining-and-narrating-cost&#34;&gt;Determining and narrating Cost&lt;/h2&gt;
 
@@ -1461,7 +1906,7 @@ the cards.&lt;/li&gt;
 &lt;p&gt;Recall that players can decide to stop their draw whenever they want, so Costs
 of Good or Great will be extremely rare, and even Costs of Fair will be uncommon.&lt;/p&gt;
 
-&lt;h3 id=&#34;example-chess-match-4&#34;&gt;Example: Chess match&lt;/h3&gt;
+&lt;h3 id=&#34;example-chess-match-5&#34;&gt;Example: Chess match&lt;/h3&gt;
 
 &lt;p&gt;Lady Buckingham conceded the Challenge without drawing cards, so
 she incurs no Cost.&lt;/p&gt;
@@ -1486,7 +1931,7 @@ playing chess, etc.&lt;/p&gt;
 
 &lt;p&gt;Fortunately, none of this happened.&lt;/p&gt;
 
-&lt;h3 id=&#34;example-escaping-the-furnace-4&#34;&gt;Example: Escaping the Furnace&lt;/h3&gt;
+&lt;h3 id=&#34;example-escaping-the-furnace-5&#34;&gt;Example: Escaping the Furnace&lt;/h3&gt;
 
 &lt;p&gt;In this case, Alex suffers a Cost of 1, which is barely worth
 mentioning.&lt;/p&gt;
@@ -1536,7 +1981,7 @@ informing him that he was let go for unspecified reasons. Etc.&lt;/p&gt;
 
 &lt;p&gt;Again, the player gets to narrate a worst case scenario.&lt;/p&gt;
 
-&lt;h3 id=&#34;example-kaiju-attack-4&#34;&gt;Example: Kaiju attack&lt;/h3&gt;
+&lt;h3 id=&#34;example-kaiju-attack-5&#34;&gt;Example: Kaiju attack&lt;/h3&gt;
 
 &lt;p&gt;The Tokyo Mechanized Defense Force has suffered from a Good (3) Cost, with
 the following reversed cards&lt;/p&gt;
@@ -1721,6 +2166,22 @@ draw a card and decide.&lt;/p&gt;
 
 &lt;h1 id=&#34;tips&#34;&gt;Tips&lt;/h1&gt;
 
+&lt;h2 id=&#34;sometimes-it-s-not-a-challenge&#34;&gt;Sometimes, it&amp;rsquo;s not a Challenge&lt;/h2&gt;
+
+&lt;p&gt;Meeting a Challenge in N-Dimensional Tourist is not exactly the same process
+as resolving an action in most Role-Playing Games. For one thing, it involves
+Risks. Also, high levels of Cost or Effect can have a profound impact on the
+story itself. Also, setting up a Conflict, then drawing and interpreting an
+unbounded number of cards simply takes more time and effort of imagination
+than rolling a die and getting a quick answer. That&amp;rsquo;s probably not something
+you want to happen whenever a character is opening a door, climbing stairs or
+having lunch.&lt;/p&gt;
+
+&lt;p&gt;As a GM, whenever a character is doing something, before setting up a
+Challenge, you need to decide whether this action actually deserves a
+Challenge. As a general guideline, if the action involves no interesting
+reasonable consequences (Risk or Reach), don&amp;rsquo;t make it a Challenge.&lt;/p&gt;
+
 &lt;h2 id=&#34;risks-costs-vs-reach-effect&#34;&gt;Risks/Costs vs. Reach/Effect&lt;/h2&gt;
 
 &lt;p&gt;It is sometimes difficult to differentiate between the Reach and the Risk and
@@ -1770,6 +2231,25 @@ or any other kind of heavy consequence.&lt;/p&gt;
 &lt;p&gt;These are all (negative) Aspects. Depending on the gravity of the Aspect, it may be
 simple to get rid of it, harder, or even entirely impossible. Differences between
 such aspects exists entirely in-story and not covered by the rules.&lt;/p&gt;
+
+&lt;h2 id=&#34;death&#34;&gt;Death&lt;/h2&gt;
+
+&lt;p&gt;Just as there are no specific rules for health, there are no rules for Death. While
+the threat of Death can make for an interesting story, we feel that Death itself is
+generally not interesting enough that it deserves special rules.&lt;/p&gt;
+
+&lt;p&gt;If a character has to die because it makes sense in the story, then let it happen.
+Perhaps it&amp;rsquo;s because the character was Wiped Out in a Challenge that involved a
+clear risk of Death. Perhaps it&amp;rsquo;s because of a heroic sacrifice, or something that
+had been decided by the player for some time. In either case, we believe that
+Death is nothing that requires special rules.&lt;/p&gt;
+
+&lt;p&gt;There are, of course, exceptions. You may be playing in a setting which allows the
+game to continue past Death, in which case Death becomes simply part of the story,
+possibly a simple Aspect. If you are playing in such a setting, you may want to come
+up with rules – or at least agreements – on how to handle Death, Afterlife,
+Resurrection, Ghosts, Undead and the like. If so, your agreement will be highly
+specific to your setting.&lt;/p&gt;
 </description>
     </item>
     
