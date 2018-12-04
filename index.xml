@@ -6,8 +6,27 @@
     <description>Recent content in Space·Time Will Tell on Space·Time Will Tell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Dec 2018 10:26:52 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 04 Dec 2018 11:31:50 -0500</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>N-Dimensional Tourists: In two pages</title>
+      <link>https://space-timewilltell.yoric.xyz/post/tourist-comic/</link>
+      <pubDate>Tue, 04 Dec 2018 11:31:50 -0500</pubDate>
+      
+      <guid>https://space-timewilltell.yoric.xyz/post/tourist-comic/</guid>
+      <description>&lt;p&gt;This is a two-sheets comic-book tutorial for N-Dimensional Tourists.
+Leave it lying on your tables and use it to create worlds,
+characters, plot twists and more!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://space-timewilltell.yoric.xyz/images/n-dimensional-tourists/Comics-1.png&#34; alt=&#34;N-Dimensional Tourists Comic - Part 1&#34; /&gt;
+&lt;img src=&#34;https://space-timewilltell.yoric.xyz/images/n-dimensional-tourists/Comics-2.png&#34; alt=&#34;N-Dimensional Tourists Comic - Part 2&#34; /&gt;
+&lt;img src=&#34;https://space-timewilltell.yoric.xyz/images/n-dimensional-tourists/Comics-3.png&#34; alt=&#34;N-Dimensional Tourists Comic - Part 3&#34; /&gt;
+&lt;img src=&#34;https://space-timewilltell.yoric.xyz/images/n-dimensional-tourists/Comics-4.png&#34; alt=&#34;N-Dimensional Tourists Comic - Part 4&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://space-timewilltell.yoric.xyz/images/plotonomicon/N-Dimensional-Tourists.pdf&#34;&gt;Download the high-resolution pdf&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The Plotonomicon: In One Sheet</title>
@@ -15,7 +34,11 @@
       <pubDate>Tue, 04 Dec 2018 10:26:52 -0500</pubDate>
       
       <guid>https://space-timewilltell.yoric.xyz/post/plotonomicon-comic/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://space-timewilltell.yoric.xyz/images/plotonomicon/Plotonomicon Comics-1.png&#34; alt=&#34;The Plotonomicon Comic - Part 1&#34; /&gt;
+      <description>&lt;p&gt;This is a one-sheet comic-book tutorial for the Plotonomicon.
+Leave it lying on your tables and use it to create worlds,
+characters, plot twists and more!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://space-timewilltell.yoric.xyz/images/plotonomicon/Plotonomicon Comics-1.png&#34; alt=&#34;The Plotonomicon Comic - Part 1&#34; /&gt;
 &lt;img src=&#34;https://space-timewilltell.yoric.xyz/images/plotonomicon/Plotonomicon Comics-2.png&#34; alt=&#34;The Plotonomicon Comic - Part 2&#34; /&gt;
 &lt;img src=&#34;https://space-timewilltell.yoric.xyz/images/plotonomicon/Plotonomicon Comics-3.png&#34; alt=&#34;The Plotonomicon Comic - Part 3&#34; /&gt;&lt;/p&gt;
 
@@ -8121,75 +8144,6 @@ they draw 3 cards from the Space·Time Deck.&lt;/p&gt;
 
 &lt;p&gt;That&amp;rsquo;s all. We&amp;rsquo;ll see later how to use your Aspects, Attributes/Weaknesses, Specialties and Reserve.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>N-Dimensional Tourists</title>
-      <link>https://space-timewilltell.yoric.xyz/post/n-dimensional-tourists/</link>
-      <pubDate>Mon, 29 Oct 2018 19:30:22 +0100</pubDate>
-      
-      <guid>https://space-timewilltell.yoric.xyz/post/n-dimensional-tourists/</guid>
-      <description>&lt;p&gt;N-Dimensional Tourists is a lightweight, generic ruleset for fiction-first, narrative roleplaying.
-Instead of dice, it uses the &lt;a href=&#34;https://space-timewilltell.yoric.xyz/space-time-deck&#34;&gt;Space·Time Deck&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://space-timewilltell.yoric.xyz/images/n-dimensional-tourists/logo.png&#34; alt=&#34;A N-Dimensional Tourist. Apparently lost.&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Let&amp;rsquo;s come back to the terms above:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;lightweight&lt;/em&gt; – A character can be created in about 5 minutes. Besides character creation, there are essentially two
-or three rules used during gameplay, to solve all situations.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;generic&lt;/em&gt; – This ruleset can be used for most universes or stories without any change.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;fiction-first&lt;/em&gt; – If you have the choice between the story and the rules, the story wins.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;narrative&lt;/em&gt; – Much of what happens to the world is decided by the players, rather than the GM.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;the Space·Time Deck&lt;/em&gt; – A deck of card that uses some ideas from Tarot, some from Rock-Paper-Scissors-Lizard-Spock. Used for coming up with ideas, making the story progress and resolving conflicts.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;This book concentrates on rules. &lt;a href=&#34;https://space-timewilltell.yoric.xyz/plotonomicon&#34;&gt;The &lt;em&gt;Plotonomicon&lt;/em&gt;&lt;/a&gt;, its sister book, concentrates on stories. You&amp;rsquo;re welcome to read both :)&lt;/p&gt;
-
-&lt;h1 id=&#34;credits&#34;&gt;Credits&lt;/h1&gt;
-
-&lt;p&gt;While this ruleset is an original work, it owes a lot to
-the following Role-Playing Games:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Fate Core&lt;/em&gt;/&lt;em&gt;Fate Accelerated&lt;/em&gt;;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Amber Diceless&lt;/em&gt;/&lt;em&gt;Lords of Olympus&lt;/em&gt;/&lt;em&gt;Lords of Gossamer and Shadow&lt;/em&gt;;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;HeroQuest&lt;/em&gt;/&lt;em&gt;HeroWars&lt;/em&gt;;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Everway&lt;/em&gt;;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Engel&lt;/em&gt;;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Blades in the Dark&lt;/em&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-
-
-
-
-
-&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;https://space-timewilltell.yoric.xyz/n-dimensional-tourists&#34;&gt;About this book&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://space-timewilltell.yoric.xyz/post/tourists-space-time-deck&#34;&gt;The Space·Time Deck&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://space-timewilltell.yoric.xyz/post/tourists-attributes&#34;&gt;Characters and Attributes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Creating Player&amp;rsquo;s Characters (TBD)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://space-timewilltell.yoric.xyz/post/tourists-overcoming&#34;&gt;Meeting Challenges&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://space-timewilltell.yoric.xyz/post/tourists-the-sleeve&#34;&gt;Aspects and using the Cards up your Sleeve&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Conflicts (TBD)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://space-timewilltell.yoric.xyz/posts/tourists-parties&#34;&gt;Stronger together&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Creating the GM&amp;rsquo;s Characters (TBD)&lt;/li&gt;
-&lt;li&gt;Character Progression (TBD)&lt;/li&gt;
-&lt;li&gt;Thanks (TBD)&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&#34;appendix&#34;&gt;Appendix&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Character Sheet (TBD)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://space-timewilltell.yoric.xyz/images/plotonomicon/playingmat.png&#34;&gt;Conflict Resolution Cheat Sheet&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;</description>
     </item>
     
   </channel>
