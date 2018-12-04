@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Space-time-deck on Space·Time Will Tell</title>
+    <title>Space-time deck on Space·Time Will Tell</title>
     <link>https://space-timewilltell.yoric.xyz/tags/space-time-deck/</link>
-    <description>Recent content in Space-time-deck on Space·Time Will Tell</description>
+    <description>Recent content in Space-time deck on Space·Time Will Tell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Nov 2018 20:10:37 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 04 Dec 2018 10:26:52 -0500</lastBuildDate>
     
 	<atom:link href="https://space-timewilltell.yoric.xyz/tags/space-time-deck/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Plotonomicon: In One Sheet</title>
+      <link>https://space-timewilltell.yoric.xyz/post/plotonomicon-comic/</link>
+      <pubDate>Tue, 04 Dec 2018 10:26:52 -0500</pubDate>
+      
+      <guid>https://space-timewilltell.yoric.xyz/post/plotonomicon-comic/</guid>
+      <description>Download the high-resolution pdf.</description>
+    </item>
     
     <item>
       <title>The Plotonomicon: Creating Worlds</title>
