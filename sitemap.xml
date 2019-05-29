@@ -1,6 +1,53 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    <url>
+      <loc>https://space-timewilltell.yoric.xyz/categories/</loc>
+      
+      <lastmod>2018-12-06T16:44:41-05:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://space-timewilltell.yoric.xyz/post/</loc>
+      
+      <lastmod>2018-12-06T16:44:41-05:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://space-timewilltell.yoric.xyz/</loc>
+      
+      <lastmod>2018-12-06T16:44:41-05:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://space-timewilltell.yoric.xyz/tags/</loc>
+      
+      <lastmod>2018-12-06T16:44:41-05:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
   
     <url>
       <loc>https://space-timewilltell.yoric.xyz/post/cards-printer-proofs/</loc>
@@ -8,6 +55,54 @@
       <lastmod>2018-12-06T16:44:41-05:00</lastmod>
       
       
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://space-timewilltell.yoric.xyz/categories/rpg/</loc>
+      
+      <lastmod>2018-12-06T16:44:41-05:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://space-timewilltell.yoric.xyz/tags/rpg/</loc>
+      
+      <lastmod>2018-12-06T16:44:41-05:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://space-timewilltell.yoric.xyz/tags/space-time-deck/</loc>
+      
+      <lastmod>2018-12-06T16:44:41-05:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://space-timewilltell.yoric.xyz/categories/space-time-deck/</loc>
+      
+      <lastmod>2018-12-06T16:44:41-05:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
       
       
     </url>
@@ -23,6 +118,42 @@
     </url>
   
     <url>
+      <loc>https://space-timewilltell.yoric.xyz/tags/enemies/</loc>
+      
+      <lastmod>2018-12-04T16:33:50-05:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://space-timewilltell.yoric.xyz/categories/ronin-time-bureaucrats/</loc>
+      
+      <lastmod>2018-12-04T16:33:50-05:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://space-timewilltell.yoric.xyz/tags/ronin-time-bureaucrats/</loc>
+      
+      <lastmod>2018-12-04T16:33:50-05:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
       <loc>https://space-timewilltell.yoric.xyz/post/tourist-comic/</loc>
       
       <lastmod>2018-12-04T11:31:50-05:00</lastmod>
@@ -33,11 +164,59 @@
     </url>
   
     <url>
+      <loc>https://space-timewilltell.yoric.xyz/categories/n-dimensional-tourists/</loc>
+      
+      <lastmod>2018-12-04T11:31:50-05:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://space-timewilltell.yoric.xyz/tags/n-dimensional-tourists/</loc>
+      
+      <lastmod>2018-12-04T11:31:50-05:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
       <loc>https://space-timewilltell.yoric.xyz/post/plotonomicon-comic/</loc>
       
       <lastmod>2018-12-04T10:26:52-05:00</lastmod>
       
       
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://space-timewilltell.yoric.xyz/categories/plotonomicon/</loc>
+      
+      <lastmod>2018-12-04T10:26:52-05:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://space-timewilltell.yoric.xyz/tags/plotonomicon/</loc>
+      
+      <lastmod>2018-12-04T10:26:52-05:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
       
       
     </url>
@@ -83,11 +262,59 @@
     </url>
   
     <url>
+      <loc>https://space-timewilltell.yoric.xyz/tags/idea/</loc>
+      
+      <lastmod>2018-11-07T11:56:38+01:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://space-timewilltell.yoric.xyz/categories/random-ideas/</loc>
+      
+      <lastmod>2018-11-07T11:56:38+01:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
       <loc>https://space-timewilltell.yoric.xyz/post/plotonomicon-the-art-of-not-preparing/</loc>
       
       <lastmod>2018-11-06T13:29:51+01:00</lastmod>
       
       
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://space-timewilltell.yoric.xyz/categories/improv/</loc>
+      
+      <lastmod>2018-11-06T13:29:51+01:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://space-timewilltell.yoric.xyz/tags/improv/</loc>
+      
+      <lastmod>2018-11-06T13:29:51+01:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
       
       
     </url>
@@ -203,6 +430,18 @@
     </url>
   
     <url>
+      <loc>https://space-timewilltell.yoric.xyz/categories/indie/</loc>
+      
+      <lastmod>2018-10-18T22:10:15+02:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
       <loc>https://space-timewilltell.yoric.xyz/post/suit-serpents/</loc>
       
       <lastmod>2018-10-17T12:37:23+02:00</lastmod>
@@ -233,11 +472,47 @@
     </url>
   
     <url>
+      <loc>https://space-timewilltell.yoric.xyz/tags/nudity/</loc>
+      
+      <lastmod>2018-10-14T10:50:23+02:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
       <loc>https://space-timewilltell.yoric.xyz/post/rtb-time-adjustment-foundation/</loc>
       
       <lastmod>2018-10-13T17:40:20+02:00</lastmod>
       
       
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://space-timewilltell.yoric.xyz/categories/hobbies/</loc>
+      
+      <lastmod>2018-10-13T17:40:20+02:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://space-timewilltell.yoric.xyz/tags/rpg-blog-carnival/</loc>
+      
+      <lastmod>2018-10-13T17:40:20+02:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
       
       
     </url>
@@ -323,11 +598,59 @@
     </url>
   
     <url>
+      <loc>https://space-timewilltell.yoric.xyz/tags/fate/</loc>
+      
+      <lastmod>2018-09-26T11:09:24+02:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
       <loc>https://space-timewilltell.yoric.xyz/post/now-on-drivethru/</loc>
       
       <lastmod>2018-09-26T11:09:24+02:00</lastmod>
       
       
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://space-timewilltell.yoric.xyz/tags/comic/</loc>
+      
+      <lastmod>2018-09-26T11:09:24+02:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://space-timewilltell.yoric.xyz/categories/tutorial/</loc>
+      
+      <lastmod>2018-09-26T11:09:24+02:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://space-timewilltell.yoric.xyz/tags/tutorial/</loc>
+      
+      <lastmod>2018-09-26T11:09:24+02:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
       
       
     </url>
@@ -387,6 +710,8 @@
       
       
       
+      <priority>0</priority>
+      
       
     </url>
   
@@ -394,6 +719,8 @@
       <loc>https://space-timewilltell.yoric.xyz/books/plotonomicon/</loc>
       
       
+      
+      <priority>0</priority>
       
       
     </url>
@@ -408,352 +735,6 @@
   
     <url>
       <loc>https://space-timewilltell.yoric.xyz/books/</loc>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://space-timewilltell.yoric.xyz/categories/</loc>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://space-timewilltell.yoric.xyz/tags/comic/</loc>
-      
-      <lastmod>2018-09-26T11:09:24+02:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://space-timewilltell.yoric.xyz/tags/enemies/</loc>
-      
-      <lastmod>2018-12-04T16:33:50-05:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://space-timewilltell.yoric.xyz/tags/fate/</loc>
-      
-      <lastmod>2018-09-26T11:09:24+02:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://space-timewilltell.yoric.xyz/categories/hobbies/</loc>
-      
-      <lastmod>2018-10-13T17:40:20+02:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://space-timewilltell.yoric.xyz/tags/idea/</loc>
-      
-      <lastmod>2018-11-07T11:56:38+01:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://space-timewilltell.yoric.xyz/tags/improv/</loc>
-      
-      <lastmod>2018-11-06T13:29:51+01:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://space-timewilltell.yoric.xyz/categories/improv/</loc>
-      
-      <lastmod>2018-11-06T13:29:51+01:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://space-timewilltell.yoric.xyz/categories/indie/</loc>
-      
-      <lastmod>2018-10-18T22:10:15+02:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://space-timewilltell.yoric.xyz/tags/n-dimensional-tourists/</loc>
-      
-      <lastmod>2018-12-04T11:31:50-05:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://space-timewilltell.yoric.xyz/categories/n-dimensional-tourists/</loc>
-      
-      <lastmod>2018-12-04T11:31:50-05:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://space-timewilltell.yoric.xyz/tags/nudity/</loc>
-      
-      <lastmod>2018-10-14T10:50:23+02:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://space-timewilltell.yoric.xyz/tags/plotonomicon/</loc>
-      
-      <lastmod>2018-12-04T10:26:52-05:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://space-timewilltell.yoric.xyz/categories/plotonomicon/</loc>
-      
-      <lastmod>2018-12-04T10:26:52-05:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://space-timewilltell.yoric.xyz/post/</loc>
-      
-      <lastmod>2018-12-06T16:44:41-05:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://space-timewilltell.yoric.xyz/categories/random-ideas/</loc>
-      
-      <lastmod>2018-11-07T11:56:38+01:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://space-timewilltell.yoric.xyz/categories/ronin-time-bureaucrats/</loc>
-      
-      <lastmod>2018-09-24T19:01:39+02:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://space-timewilltell.yoric.xyz/tags/ronin-time-bureaucrats/</loc>
-      
-      <lastmod>2018-12-04T16:33:50-05:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://space-timewilltell.yoric.xyz/categories/ronin-time-bureaucrats/</loc>
-      
-      <lastmod>2018-12-04T16:33:50-05:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://space-timewilltell.yoric.xyz/tags/rpg/</loc>
-      
-      <lastmod>2018-12-06T16:44:41-05:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://space-timewilltell.yoric.xyz/categories/rpg/</loc>
-      
-      <lastmod>2018-12-06T16:44:41-05:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://space-timewilltell.yoric.xyz/tags/rpg-blog-carnival/</loc>
-      
-      <lastmod>2018-10-13T17:40:20+02:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://space-timewilltell.yoric.xyz/tags/space-time-deck/</loc>
-      
-      <lastmod>2018-12-06T16:44:41-05:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://space-timewilltell.yoric.xyz/tags/space-time-deck/</loc>
-      
-      <lastmod>2018-12-06T16:44:41-05:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://space-timewilltell.yoric.xyz/categories/space-time-deck/</loc>
-      
-      <lastmod>2018-12-06T16:44:41-05:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://space-timewilltell.yoric.xyz/</loc>
-      
-      <lastmod>2018-12-06T16:44:41-05:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://space-timewilltell.yoric.xyz/tags/</loc>
-      
-      <lastmod>2018-09-26T11:09:24+02:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://space-timewilltell.yoric.xyz/tags/tutorial/</loc>
-      
-      <lastmod>2018-09-26T11:09:24+02:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://space-timewilltell.yoric.xyz/categories/tutorial/</loc>
-      
-      <lastmod>2018-09-26T11:09:24+02:00</lastmod>
       
       
       
