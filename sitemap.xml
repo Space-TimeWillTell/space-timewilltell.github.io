@@ -4,7 +4,7 @@
     <url>
       <loc>https://space-timewilltell.yoric.xyz/categories/</loc>
       
-      <lastmod>2019-06-22T09:13:07+02:00</lastmod>
+      <lastmod>2019-10-08T19:56:35+02:00</lastmod>
       
       
       
@@ -14,19 +14,9 @@
     </url>
   
     <url>
-      <loc>https://space-timewilltell.yoric.xyz/post/arcadia-welcome/</loc>
-      
-      <lastmod>2019-06-22T09:13:07+02:00</lastmod>
-      
-      
-      
-      
-    </url>
-  
-    <url>
       <loc>https://space-timewilltell.yoric.xyz/post/</loc>
       
-      <lastmod>2019-06-22T09:13:07+02:00</lastmod>
+      <lastmod>2019-10-08T19:56:35+02:00</lastmod>
       
       
       
@@ -38,7 +28,7 @@
     <url>
       <loc>https://space-timewilltell.yoric.xyz/</loc>
       
-      <lastmod>2019-06-22T09:13:07+02:00</lastmod>
+      <lastmod>2019-10-08T19:56:35+02:00</lastmod>
       
       
       
@@ -50,7 +40,7 @@
     <url>
       <loc>https://space-timewilltell.yoric.xyz/tags/</loc>
       
-      <lastmod>2019-06-22T09:13:07+02:00</lastmod>
+      <lastmod>2019-10-08T19:56:35+02:00</lastmod>
       
       
       
@@ -60,9 +50,19 @@
     </url>
   
     <url>
-      <loc>https://space-timewilltell.yoric.xyz/categories/arcadia/</loc>
+      <loc>https://space-timewilltell.yoric.xyz/post/torg-covert-delphi-1/</loc>
       
-      <lastmod>2019-06-22T09:13:07+02:00</lastmod>
+      <lastmod>2019-10-08T19:56:35+02:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://space-timewilltell.yoric.xyz/categories/covert/</loc>
+      
+      <lastmod>2019-10-08T19:56:35+02:00</lastmod>
       
       
       
@@ -72,33 +72,9 @@
     </url>
   
     <url>
-      <loc>https://space-timewilltell.yoric.xyz/tags/arcadia/</loc>
+      <loc>https://space-timewilltell.yoric.xyz/tags/covert/</loc>
       
-      <lastmod>2019-06-22T09:13:07+02:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://space-timewilltell.yoric.xyz/categories/improv/</loc>
-      
-      <lastmod>2019-06-22T09:13:07+02:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://space-timewilltell.yoric.xyz/tags/improv/</loc>
-      
-      <lastmod>2019-06-22T09:13:07+02:00</lastmod>
+      <lastmod>2019-10-08T19:56:35+02:00</lastmod>
       
       
       
@@ -110,7 +86,7 @@
     <url>
       <loc>https://space-timewilltell.yoric.xyz/categories/rpg/</loc>
       
-      <lastmod>2019-06-22T09:13:07+02:00</lastmod>
+      <lastmod>2019-10-08T19:56:35+02:00</lastmod>
       
       
       
@@ -122,7 +98,19 @@
     <url>
       <loc>https://space-timewilltell.yoric.xyz/tags/rpg/</loc>
       
-      <lastmod>2019-06-22T09:13:07+02:00</lastmod>
+      <lastmod>2019-10-08T19:56:35+02:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://space-timewilltell.yoric.xyz/tags/torg/</loc>
+      
+      <lastmod>2019-10-08T19:56:35+02:00</lastmod>
       
       
       
@@ -349,6 +337,30 @@
       <lastmod>2018-11-06T13:29:51+01:00</lastmod>
       
       
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://space-timewilltell.yoric.xyz/categories/improv/</loc>
+      
+      <lastmod>2018-11-06T13:29:51+01:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://space-timewilltell.yoric.xyz/tags/improv/</loc>
+      
+      <lastmod>2018-11-06T13:29:51+01:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
       
       
     </url>
