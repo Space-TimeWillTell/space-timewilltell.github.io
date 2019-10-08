@@ -4,7 +4,7 @@
     <url>
       <loc>https://space-timewilltell.yoric.xyz/categories/</loc>
       
-      <lastmod>2018-12-06T16:44:41-05:00</lastmod>
+      <lastmod>2019-06-22T09:13:07+02:00</lastmod>
       
       
       
@@ -14,9 +14,19 @@
     </url>
   
     <url>
+      <loc>https://space-timewilltell.yoric.xyz/post/arcadia-welcome/</loc>
+      
+      <lastmod>2019-06-22T09:13:07+02:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
       <loc>https://space-timewilltell.yoric.xyz/post/</loc>
       
-      <lastmod>2018-12-06T16:44:41-05:00</lastmod>
+      <lastmod>2019-06-22T09:13:07+02:00</lastmod>
       
       
       
@@ -28,7 +38,7 @@
     <url>
       <loc>https://space-timewilltell.yoric.xyz/</loc>
       
-      <lastmod>2018-12-06T16:44:41-05:00</lastmod>
+      <lastmod>2019-06-22T09:13:07+02:00</lastmod>
       
       
       
@@ -40,7 +50,79 @@
     <url>
       <loc>https://space-timewilltell.yoric.xyz/tags/</loc>
       
-      <lastmod>2018-12-06T16:44:41-05:00</lastmod>
+      <lastmod>2019-06-22T09:13:07+02:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://space-timewilltell.yoric.xyz/categories/arcadia/</loc>
+      
+      <lastmod>2019-06-22T09:13:07+02:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://space-timewilltell.yoric.xyz/tags/arcadia/</loc>
+      
+      <lastmod>2019-06-22T09:13:07+02:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://space-timewilltell.yoric.xyz/categories/improv/</loc>
+      
+      <lastmod>2019-06-22T09:13:07+02:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://space-timewilltell.yoric.xyz/tags/improv/</loc>
+      
+      <lastmod>2019-06-22T09:13:07+02:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://space-timewilltell.yoric.xyz/categories/rpg/</loc>
+      
+      <lastmod>2019-06-22T09:13:07+02:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://space-timewilltell.yoric.xyz/tags/rpg/</loc>
+      
+      <lastmod>2019-06-22T09:13:07+02:00</lastmod>
       
       
       
@@ -55,30 +137,6 @@
       <lastmod>2018-12-06T16:44:41-05:00</lastmod>
       
       
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://space-timewilltell.yoric.xyz/categories/rpg/</loc>
-      
-      <lastmod>2018-12-06T16:44:41-05:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://space-timewilltell.yoric.xyz/tags/rpg/</loc>
-      
-      <lastmod>2018-12-06T16:44:41-05:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
       
       
     </url>
@@ -291,30 +349,6 @@
       <lastmod>2018-11-06T13:29:51+01:00</lastmod>
       
       
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://space-timewilltell.yoric.xyz/categories/improv/</loc>
-      
-      <lastmod>2018-11-06T13:29:51+01:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://space-timewilltell.yoric.xyz/tags/improv/</loc>
-      
-      <lastmod>2018-11-06T13:29:51+01:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
       
       
     </url>
@@ -701,6 +735,16 @@
       <lastmod>2018-09-21T13:02:55+02:00</lastmod>
       
       
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://space-timewilltell.yoric.xyz/books/arcadia/</loc>
+      
+      
+      
+      <priority>0</priority>
       
       
     </url>
