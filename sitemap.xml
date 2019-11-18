@@ -4,7 +4,7 @@
     <url>
       <loc>https://space-timewilltell.yoric.xyz/categories/</loc>
       
-      <lastmod>2019-11-18T19:22:53+01:00</lastmod>
+      <lastmod>2019-11-18T22:20:50+01:00</lastmod>
       
       
       
@@ -14,9 +14,19 @@
     </url>
   
     <url>
+      <loc>https://space-timewilltell.yoric.xyz/post/covert-published/</loc>
+      
+      <lastmod>2019-11-18T22:20:50+01:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
       <loc>https://space-timewilltell.yoric.xyz/post/</loc>
       
-      <lastmod>2019-11-18T19:22:53+01:00</lastmod>
+      <lastmod>2019-11-18T22:20:50+01:00</lastmod>
       
       
       
@@ -28,7 +38,7 @@
     <url>
       <loc>https://space-timewilltell.yoric.xyz/</loc>
       
-      <lastmod>2019-11-18T19:22:53+01:00</lastmod>
+      <lastmod>2019-11-18T22:20:50+01:00</lastmod>
       
       
       
@@ -40,7 +50,67 @@
     <url>
       <loc>https://space-timewilltell.yoric.xyz/tags/</loc>
       
-      <lastmod>2019-11-18T19:22:53+01:00</lastmod>
+      <lastmod>2019-11-18T22:20:50+01:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://space-timewilltell.yoric.xyz/categories/covert/</loc>
+      
+      <lastmod>2019-11-18T22:20:50+01:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://space-timewilltell.yoric.xyz/tags/covert/</loc>
+      
+      <lastmod>2019-11-18T22:20:50+01:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://space-timewilltell.yoric.xyz/categories/rpg/</loc>
+      
+      <lastmod>2019-11-18T22:20:50+01:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://space-timewilltell.yoric.xyz/tags/rpg/</loc>
+      
+      <lastmod>2019-11-18T22:20:50+01:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://space-timewilltell.yoric.xyz/tags/torg/</loc>
+      
+      <lastmod>2019-11-18T22:20:50+01:00</lastmod>
       
       
       
@@ -55,66 +125,6 @@
       <lastmod>2019-11-18T19:22:53+01:00</lastmod>
       
       
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://space-timewilltell.yoric.xyz/categories/covert/</loc>
-      
-      <lastmod>2019-11-18T19:22:53+01:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://space-timewilltell.yoric.xyz/tags/covert/</loc>
-      
-      <lastmod>2019-11-18T19:22:53+01:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://space-timewilltell.yoric.xyz/categories/rpg/</loc>
-      
-      <lastmod>2019-11-18T19:22:53+01:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://space-timewilltell.yoric.xyz/tags/rpg/</loc>
-      
-      <lastmod>2019-11-18T19:22:53+01:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://space-timewilltell.yoric.xyz/tags/torg/</loc>
-      
-      <lastmod>2019-11-18T19:22:53+01:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
       
       
     </url>
