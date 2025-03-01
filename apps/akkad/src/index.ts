@@ -1,17 +1,9 @@
 import { deck, CardIndex, ShuffleEvent, LockEvent, NUMBER_OF_CARDS } from "./deck.mjs";
+import { preload } from "./preloader.mjs";
+import { imgURL } from "./loader.mjs";
 
 console.log("Starting deck", deck);
 
-function pageIndex(index: CardIndex): string {
-    let value = (index + 1 )* 2;
-    if (value < 10) {
-        return `00${value}`;
-    }
-    if (value < 100) {
-        return `0${value}`;
-    }
-    return `${value}`;
-}
 
 const divVisibleCard = document.getElementById("visibleCard");
 const divVisibleCardDescriptionName = document.getElementById("visibleCardName");
@@ -30,7 +22,7 @@ const btnDiscard = document.getElementById("discard");
 
 function displayCard() {
     let drawn = deck.top();
-    let url = `url("./resources/img/deck/Deck of Memories - pod-page${pageIndex(drawn.card.index)}.png")`;
+    let url = `url("${imgURL(drawn.card.index)}")`;
     if (drawn.up) {
         divVisibleCard.style.transform = "";
     } else {
@@ -153,3 +145,6 @@ deck.addEventListener({event: "locked", callback: function(event: LockEvent) {
 
 // Useful for debugging.
 (window as any).deck = deck;
+
+// Launch background download of images into the cache.
+preload();
