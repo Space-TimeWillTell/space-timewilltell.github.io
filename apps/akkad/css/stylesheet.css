@@ -1,0 +1,132 @@
+div.button {
+    border-color: black;
+    border-width: 0pt;
+    border-style: double;
+    background-color: black;
+    box-shadow: darkgray;
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: fixed;
+    font-size: 2em;
+    width: 128px;
+    height: 128px;
+}
+div.button:hover {
+    border-width: 2pt;
+}
+
+div.btnPanel {
+    position: fixed;
+    width: 128px;
+    background-color: white;
+}
+
+#leftPanel {
+    left: 0px;
+    top: 0px;
+    height: 788px;
+}
+
+#rightPanel {
+    left: 850px;
+    top: 0px;
+    height: 264px;
+}
+
+#lockForScene {
+    top: 0px;
+    left: 0px;
+    color: #bb3221;
+    background-image: url("../resources/img/icons/banish scene.png");
+}
+
+#lockForSession {
+    top: 132px;
+    left: 0px;
+    color: #6d2579;
+    background-image: url("../resources/img/icons/banish session.png");
+}
+
+#lockForAct {
+    top: 264px;
+    left: 0px;
+    color: #eab4c5;
+    -webkit-text-stroke: black 0.5pt;
+    background-image: url("../resources/img/icons/banish act.png");
+}
+
+#refreshScene {
+    left: 0px;
+    top: 396px;
+    color: #000080;
+    background-image: url("../resources/img/icons/new\ scene.png");
+}
+
+#refreshSession {
+    left: 0px;
+    top: 528px;
+    color: #9d9d3a;
+    background-image: url("../resources/img/icons/new\ session.png");
+}
+
+#refreshAct {
+    left: 0px;
+    top: 660px;
+    color: #000000;
+    background-image: url("../resources/img/icons/new\ act.png");
+}
+
+#visibleCard {
+    position: absolute;
+    top: 0px;
+    left: 64px;
+    width: 819px;
+    height: 1113px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#visibleCardContainer > .description {
+    position: absolute;
+    top: 1150px;
+    left: 150px;
+}
+
+#shuffling {
+    position: absolute;
+    left: 128px;
+    top: 1000px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-image: url("../resources/img/icons/reshuffle.png");
+    opacity: 0%;
+    transition-property: "opacity";
+    transition-duration: 500ms;
+    width: 128px;
+    height: 120px;
+}
+
+#deck {
+    top: 0px;
+    left: 850px;
+    background-image: url("../resources/img/icons/deck.png");
+}
+
+#discard {
+    top: 132px;
+    left: 850px;
+    background-image: url("../resources/img/icons/discard.png");
+}
+
+dl {
+    font-size: 2em;
+}
+dt {
+    font-weight: bold;
+}
+
+dd#visibleCardLegend {
+    font-style: italic;
+}

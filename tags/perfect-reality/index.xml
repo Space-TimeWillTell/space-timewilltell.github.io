@@ -1,24 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>perfect reality on Space·Time Will Tell</title>
+    <title>Perfect Reality on Space·Time Will Tell</title>
     <link>https://space-timewilltell.yoric.xyz/tags/perfect-reality/</link>
-    <description>Recent content in perfect reality on Space·Time Will Tell</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Perfect Reality on Space·Time Will Tell</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 27 Dec 2019 21:06:21 +0100</lastBuildDate>
-    
-	<atom:link href="https://space-timewilltell.yoric.xyz/tags/perfect-reality/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://space-timewilltell.yoric.xyz/tags/perfect-reality/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Perfect Reality (Working Title)</title>
       <link>https://space-timewilltell.yoric.xyz/post/the-divine-reality/</link>
       <pubDate>Fri, 27 Dec 2019 21:06:21 +0100</pubDate>
-      
       <guid>https://space-timewilltell.yoric.xyz/post/the-divine-reality/</guid>
-      <description>This world still looks very much like our own. Governments, companies, global warming, Internet of Things, online porn, spam, spyware everywhere. The web itself has evolved into immersive Augmented Reality-like experiences backed by both glasses, holograms and pseudo-solid fields dubbed Perfect Reality. Telling the real from the virtual slowly becomes impossible. Tele-commuting has replaced many workplaces and massive automation has killed many jobs but due to peak energy and the cost of sophisticated AI mean that people still need to work and you&amp;rsquo;ll still find a few humans at your local restaurant, clinic or childcare center.</description>
+      <description>&lt;p&gt;This world still looks very much like our own. Governments, companies, global warming, Internet of Things, online porn, spam, spyware everywhere. The web itself has evolved into immersive Augmented Reality-like experiences backed by both glasses, holograms and pseudo-solid fields dubbed Perfect Reality. Telling the real from the virtual slowly becomes impossible. Tele-commuting has&#xA;replaced many workplaces and massive automation has killed many jobs but due to peak energy and the cost of sophisticated AI mean that people still need to work and you&amp;rsquo;ll still find a few humans at your local restaurant, clinic or childcare center. Perfect Reality has shaped a society of distributed yet insular communities with entirely distinct lifestyles, which interact each other mostly through a global LARP/strategy hybrid game called &lt;em&gt;The Alterlight&lt;/em&gt;. Democracy and capitalism still exists in many countries, but once a government or a large company have picked objectives, they delegate most of their strategy to AI experts. Medicine has continued improving and a few dozen types of muscular, nervous or encephalic brain implants have become affordable [FIXME: Is this cyberware? Wetware? Nanotech? Something else entirely?]&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

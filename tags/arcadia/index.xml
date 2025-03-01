@@ -1,47 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>arcadia on Space·Time Will Tell</title>
-    <link>https://space-timewilltell.yoric.xyz/tags/arcadia/</link>
-    <description>Recent content in arcadia on Space·Time Will Tell</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Arcadia on Space·Time Will Tell</title>
+    <link>http://localhost:1313/tags/arcadia/</link>
+    <description>Recent content in Arcadia on Space·Time Will Tell</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 22 Jun 2019 16:51:32 -0700</lastBuildDate>
-    
-	<atom:link href="https://space-timewilltell.yoric.xyz/tags/arcadia/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="http://localhost:1313/tags/arcadia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>In Arcadia Ego: The setting</title>
-      <link>https://space-timewilltell.yoric.xyz/post/arcadia-creating-arcadians/</link>
+      <link>http://localhost:1313/post/arcadia-creating-arcadians/</link>
       <pubDate>Sat, 22 Jun 2019 16:51:32 -0700</pubDate>
-      
-      <guid>https://space-timewilltell.yoric.xyz/post/arcadia-creating-arcadians/</guid>
-      <description>Expectations There is no Ultimate Truth to In Arcadia Ego. No well-structured cosmology, no detailed rules to determine what Arcadians can or cannot do, how to hurt them, trap them or heal them, or how magic interacts with technology. There is no canonical list of factions, artifacts, heroes and villains.
-All these will need to emerge progressively from two things:
- the answers given by the players to the Player Document; whatever the characters do during the game.</description>
+      <guid>http://localhost:1313/post/arcadia-creating-arcadians/</guid>
+      <description>&lt;h1 id=&#34;expectations&#34;&gt;Expectations&lt;/h1&gt;&#xA;&lt;p&gt;There is no Ultimate Truth to &lt;em&gt;In Arcadia Ego&lt;/em&gt;. No well-structured cosmology, no detailed rules to determine what Arcadians can or cannot do, how to hurt them, trap them or heal them, or how magic interacts with technology. There is no canonical list of factions, artifacts, heroes and villains.&lt;/p&gt;&#xA;&lt;p&gt;All these will need to emerge progressively from two things:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;the answers given by the players to the &lt;a href=&#34;http://localhost:1313/documents/arcadia/bootstrap.pdf&#34;&gt;Player Document&lt;/a&gt;;&lt;/li&gt;&#xA;&lt;li&gt;whatever the characters &lt;em&gt;do&lt;/em&gt; during the game.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Getting this world to emerge is a shared responsibility between the players and the GM. For instance, the &lt;a href=&#34;http://localhost:1313/documents/arcadia/bootstrap.pdf&#34;&gt;Player Document&lt;/a&gt; gets the players to determine &lt;em&gt;when&lt;/em&gt; and &lt;em&gt;where&lt;/em&gt; the campaign starts. The first scene may just as well take place in Viking Lands during the 7th Century as on a refugee spaceship headed for Mars during year 125 of the Anti-Matter Age.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>In Arcadia Ego: About Rules</title>
-      <link>https://space-timewilltell.yoric.xyz/post/arcadia-rules/</link>
+      <link>http://localhost:1313/post/arcadia-rules/</link>
       <pubDate>Sat, 22 Jun 2019 15:19:27 -0700</pubDate>
-      
-      <guid>https://space-timewilltell.yoric.xyz/post/arcadia-rules/</guid>
-      <description>In Arcadia Ego was designed and tested with the following rulesets:
- Fate Accelerated (which you may download for free here); N-Dimensional Tourists (which you may download for free here).  Both rulesets are members of the family of Fate.
-While you are encouraged to use whichever ruleset you prefer – whether Fate or anything else – you will need to understand and possibly adapt the notion of Aspects, which is used throughout the game.</description>
+      <guid>http://localhost:1313/post/arcadia-rules/</guid>
+      <description>&lt;p&gt;&lt;em&gt;In Arcadia Ego&lt;/em&gt; was designed and tested with the following rulesets:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;em&gt;Fate Accelerated&lt;/em&gt; (which you may download for free &lt;a href=&#34;https://www.evilhat.com/home/fae/&#34;&gt;here&lt;/a&gt;);&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;N-Dimensional Tourists&lt;/em&gt; (which you may download for free &lt;a href=&#34;https://www.drivethrurpg.com/product/252068/The-SpaceTime-Deck&#34;&gt;here&lt;/a&gt;).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Both rulesets are members of the family of &lt;em&gt;Fate&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;While you are encouraged to use whichever ruleset you prefer – whether &lt;em&gt;Fate&lt;/em&gt; or anything else – you will need to understand and possibly adapt the notion of &lt;strong&gt;Aspects&lt;/strong&gt;, which is used throughout the game.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>In Arcadia Ego</title>
-      <link>https://space-timewilltell.yoric.xyz/post/arcadia-welcome/</link>
+      <link>http://localhost:1313/post/arcadia-welcome/</link>
       <pubDate>Sat, 22 Jun 2019 09:13:07 +0200</pubDate>
-      
-      <guid>https://space-timewilltell.yoric.xyz/post/arcadia-welcome/</guid>
-      <description>Welcome to In Arcadia Ego!
-In Arcadia Ego is a narrative tabletop role-playing game for experienced GMs/Narrators. Each player takes the role of a regular person who, for some reason, has recently become Something Else – something we like to call an Arcadian. What is an Arcadian? Well, in fact, pretty much anything they can imagine, from a Bram Stoker-style Vampire to a creature of pure Mathematics made flesh, an Ancient God reborn or a fictional character become real.</description>
+      <guid>http://localhost:1313/post/arcadia-welcome/</guid>
+      <description>&lt;p&gt;Welcome to &lt;em&gt;In Arcadia Ego&lt;/em&gt;!&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;In Arcadia Ego&lt;/em&gt; is a narrative tabletop role-playing game for experienced GMs/Narrators. Each player takes the role of a regular person who, for some reason, has recently become Something Else – something we like to call an Arcadian. What is an Arcadian? Well, in fact, pretty much anything they can imagine, from a Bram Stoker-style Vampire to a creature of pure Mathematics made flesh,&#xA;an Ancient God reborn or a fictional character become real.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

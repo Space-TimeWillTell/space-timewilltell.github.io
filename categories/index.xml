@@ -1,123 +1,110 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Space·Time Will Tell</title>
     <link>https://space-timewilltell.yoric.xyz/categories/</link>
     <description>Recent content in Categories on Space·Time Will Tell</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Dec 2019 21:06:21 +0100</lastBuildDate>
-    
-	<atom:link href="https://space-timewilltell.yoric.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 28 Feb 2025 15:36:37 +0100</lastBuildDate>
+    <atom:link href="https://space-timewilltell.yoric.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>perfect reality</title>
-      <link>https://space-timewilltell.yoric.xyz/categories/perfect-reality/</link>
-      <pubDate>Fri, 27 Dec 2019 21:06:21 +0100</pubDate>
-      
-      <guid>https://space-timewilltell.yoric.xyz/categories/perfect-reality/</guid>
+      <title>Akkad</title>
+      <link>https://space-timewilltell.yoric.xyz/categories/akkad/</link>
+      <pubDate>Fri, 28 Feb 2025 15:36:37 +0100</pubDate>
+      <guid>https://space-timewilltell.yoric.xyz/categories/akkad/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>rpg</title>
-      <link>https://space-timewilltell.yoric.xyz/categories/rpg/</link>
-      <pubDate>Fri, 27 Dec 2019 21:06:21 +0100</pubDate>
-      
-      <guid>https://space-timewilltell.yoric.xyz/categories/rpg/</guid>
+      <title>Cards</title>
+      <link>https://space-timewilltell.yoric.xyz/categories/cards/</link>
+      <pubDate>Fri, 28 Feb 2025 15:36:37 +0100</pubDate>
+      <guid>https://space-timewilltell.yoric.xyz/categories/cards/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>covert</title>
-      <link>https://space-timewilltell.yoric.xyz/categories/covert/</link>
-      <pubDate>Mon, 18 Nov 2019 22:20:50 +0100</pubDate>
-      
-      <guid>https://space-timewilltell.yoric.xyz/categories/covert/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>space-time-deck</title>
-      <link>https://space-timewilltell.yoric.xyz/categories/space-time-deck/</link>
-      <pubDate>Thu, 06 Dec 2018 16:44:41 -0500</pubDate>
-      
-      <guid>https://space-timewilltell.yoric.xyz/categories/space-time-deck/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ronin-time-bureaucrats</title>
-      <link>https://space-timewilltell.yoric.xyz/categories/ronin-time-bureaucrats/</link>
-      <pubDate>Tue, 04 Dec 2018 16:33:50 -0500</pubDate>
-      
-      <guid>https://space-timewilltell.yoric.xyz/categories/ronin-time-bureaucrats/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>n-dimensional-tourists</title>
-      <link>https://space-timewilltell.yoric.xyz/categories/n-dimensional-tourists/</link>
-      <pubDate>Tue, 04 Dec 2018 11:31:50 -0500</pubDate>
-      
-      <guid>https://space-timewilltell.yoric.xyz/categories/n-dimensional-tourists/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>plotonomicon</title>
-      <link>https://space-timewilltell.yoric.xyz/categories/plotonomicon/</link>
-      <pubDate>Tue, 04 Dec 2018 10:26:52 -0500</pubDate>
-      
-      <guid>https://space-timewilltell.yoric.xyz/categories/plotonomicon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>random-ideas</title>
-      <link>https://space-timewilltell.yoric.xyz/categories/random-ideas/</link>
-      <pubDate>Wed, 07 Nov 2018 11:56:38 +0100</pubDate>
-      
-      <guid>https://space-timewilltell.yoric.xyz/categories/random-ideas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>improv</title>
+      <title>Improv</title>
       <link>https://space-timewilltell.yoric.xyz/categories/improv/</link>
-      <pubDate>Tue, 06 Nov 2018 13:29:51 +0100</pubDate>
-      
+      <pubDate>Fri, 28 Feb 2025 15:36:37 +0100</pubDate>
       <guid>https://space-timewilltell.yoric.xyz/categories/improv/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>indie</title>
+      <title>Rpg</title>
+      <link>https://space-timewilltell.yoric.xyz/categories/rpg/</link>
+      <pubDate>Fri, 28 Feb 2025 15:36:37 +0100</pubDate>
+      <guid>https://space-timewilltell.yoric.xyz/categories/rpg/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Perfect Reality</title>
+      <link>https://space-timewilltell.yoric.xyz/categories/perfect-reality/</link>
+      <pubDate>Fri, 27 Dec 2019 21:06:21 +0100</pubDate>
+      <guid>https://space-timewilltell.yoric.xyz/categories/perfect-reality/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Covert</title>
+      <link>https://space-timewilltell.yoric.xyz/categories/covert/</link>
+      <pubDate>Mon, 18 Nov 2019 22:20:50 +0100</pubDate>
+      <guid>https://space-timewilltell.yoric.xyz/categories/covert/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Space-Time-Deck</title>
+      <link>https://space-timewilltell.yoric.xyz/categories/space-time-deck/</link>
+      <pubDate>Thu, 06 Dec 2018 16:44:41 -0500</pubDate>
+      <guid>https://space-timewilltell.yoric.xyz/categories/space-time-deck/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ronin-Time-Bureaucrats</title>
+      <link>https://space-timewilltell.yoric.xyz/categories/ronin-time-bureaucrats/</link>
+      <pubDate>Tue, 04 Dec 2018 16:33:50 -0500</pubDate>
+      <guid>https://space-timewilltell.yoric.xyz/categories/ronin-time-bureaucrats/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>N-Dimensional-Tourists</title>
+      <link>https://space-timewilltell.yoric.xyz/categories/n-dimensional-tourists/</link>
+      <pubDate>Tue, 04 Dec 2018 11:31:50 -0500</pubDate>
+      <guid>https://space-timewilltell.yoric.xyz/categories/n-dimensional-tourists/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Plotonomicon</title>
+      <link>https://space-timewilltell.yoric.xyz/categories/plotonomicon/</link>
+      <pubDate>Tue, 04 Dec 2018 10:26:52 -0500</pubDate>
+      <guid>https://space-timewilltell.yoric.xyz/categories/plotonomicon/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Random-Ideas</title>
+      <link>https://space-timewilltell.yoric.xyz/categories/random-ideas/</link>
+      <pubDate>Wed, 07 Nov 2018 11:56:38 +0100</pubDate>
+      <guid>https://space-timewilltell.yoric.xyz/categories/random-ideas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Indie</title>
       <link>https://space-timewilltell.yoric.xyz/categories/indie/</link>
       <pubDate>Thu, 18 Oct 2018 22:10:15 +0200</pubDate>
-      
       <guid>https://space-timewilltell.yoric.xyz/categories/indie/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>hobbies</title>
+      <title>Hobbies</title>
       <link>https://space-timewilltell.yoric.xyz/categories/hobbies/</link>
       <pubDate>Sat, 13 Oct 2018 17:40:20 +0200</pubDate>
-      
       <guid>https://space-timewilltell.yoric.xyz/categories/hobbies/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>tutorial</title>
+      <title>Tutorial</title>
       <link>https://space-timewilltell.yoric.xyz/categories/tutorial/</link>
       <pubDate>Wed, 26 Sep 2018 11:09:24 +0200</pubDate>
-      
       <guid>https://space-timewilltell.yoric.xyz/categories/tutorial/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

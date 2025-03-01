@@ -1,48 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>random-ideas on Space·Time Will Tell</title>
+    <title>Random-Ideas on Space·Time Will Tell</title>
     <link>https://space-timewilltell.yoric.xyz/categories/random-ideas/</link>
-    <description>Recent content in random-ideas on Space·Time Will Tell</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Random-Ideas on Space·Time Will Tell</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 07 Nov 2018 11:56:38 +0100</lastBuildDate>
-    
-	<atom:link href="https://space-timewilltell.yoric.xyz/categories/random-ideas/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://space-timewilltell.yoric.xyz/categories/random-ideas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Role-Playing Game Pitch: Kingdom Came</title>
       <link>https://space-timewilltell.yoric.xyz/post/an-idea-kingdom-came/</link>
       <pubDate>Wed, 07 Nov 2018 11:56:38 +0100</pubDate>
-      
       <guid>https://space-timewilltell.yoric.xyz/post/an-idea-kingdom-came/</guid>
-      <description>Rejoice, for the Kingdom of Death is no more.
-It was first reported Last Thursday, at 0421 GMT and it happened all over the globe: the dead have returned to walk among the living. They are disoriented, surely, and returned from Heaven or Hell or other places, but they are peaceful, for the most part.
-What most of them are no more is human. For all the dead have returned, all since the first step of our kind, or possibly before, and few of them have a body to return to.</description>
+      <description>&lt;p&gt;Rejoice, for the Kingdom of Death is no more.&lt;/p&gt;&#xA;&lt;p&gt;It was first reported Last Thursday, at 0421 GMT and it happened all over the globe: the dead have returned to walk among the living. They are disoriented, surely, and returned from Heaven or Hell or other places, but they are peaceful, for the most part.&lt;/p&gt;&#xA;&lt;p&gt;What most of them are no more is &lt;em&gt;human&lt;/em&gt;. For &lt;em&gt;all&lt;/em&gt; the dead have returned, all since the first step of our kind, or possibly before, and few of them have a body to return to. The fresh ones, the ones who had died just a few moments after the event, those woke up without a pulse and continued their day without realizing that something was amiss. The decayed ones, the ones who had been in the ground or under the water for weeks or years or centuries, those woke up as creatures of their own nightmares, without context or explanation.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Role-Playing Game Pitch: Toys of the Gods</title>
       <link>https://space-timewilltell.yoric.xyz/post/an-idea-toys-of-the-gods/</link>
       <pubDate>Mon, 01 Oct 2018 18:46:04 +0200</pubDate>
-      
       <guid>https://space-timewilltell.yoric.xyz/post/an-idea-toys-of-the-gods/</guid>
-      <description>There are gods in this story, almighty or as near can be. This is not their story.
-These gods shape and make history of mankind, Earth and beyond. This is not the story of mankind, Earth or beyond.
-Let it be known that the gods have children, and that some of these children will ascend to godhood, while others will stop mere heroes or monsters, and the rest will fail and fall.</description>
+      <description>&lt;p&gt;There are gods in this story, almighty or as near can be. This is not their story.&lt;/p&gt;&#xA;&lt;p&gt;These gods shape and make history of mankind, Earth and beyond. This is not the story of mankind, Earth or beyond.&lt;/p&gt;&#xA;&lt;p&gt;Let it be known that the gods have children, and that some of these children will ascend to godhood, while others will stop mere heroes or monsters, and the rest will fail and fall. This is not the story of children, or heroes, or monsters, or failing and falling.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>An Idea for a future Role-Playing Game: Wandering Spirits</title>
       <link>https://space-timewilltell.yoric.xyz/post/an-idea-wandering-spirits/</link>
       <pubDate>Mon, 01 Oct 2018 14:00:04 +0200</pubDate>
-      
       <guid>https://space-timewilltell.yoric.xyz/post/an-idea-wandering-spirits/</guid>
-      <description>Here&amp;rsquo;s a possible idea for a setting. It owns to Hurlements, Nephilim, Highlander, Continuum.
-The story is set on our Earth, past, present and future.
-The heroes are immortal, Wandering Spirits. They have existed on Earth since before Mankind, and will still be there after Mankind. In a way, they are gods: free to roam at will, to experience it all, without fear of consequences. In another way, they are but prisoners, condemned to live and relive the history of the world, either as passive observers, or as mere humans, borrowed for a day or a lifetime.</description>
+      <description>&lt;p&gt;Here&amp;rsquo;s a possible idea for a setting. It owns to &lt;em&gt;Hurlements&lt;/em&gt;, &lt;em&gt;Nephilim&lt;/em&gt;,&#xA;&lt;em&gt;Highlander&lt;/em&gt;, &lt;em&gt;Continuum&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;The story is set on our Earth, past, present and future.&lt;/p&gt;&#xA;&lt;p&gt;The heroes are immortal, Wandering Spirits. They have existed on Earth&#xA;since before Mankind, and will still be there after Mankind. In a way,&#xA;they are gods: free to roam at will, to experience it all, without fear&#xA;of consequences. In another way, they are but prisoners, condemned to&#xA;live and relive the history of the world, either as passive observers,&#xA;or as mere humans, borrowed for a day or a lifetime.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

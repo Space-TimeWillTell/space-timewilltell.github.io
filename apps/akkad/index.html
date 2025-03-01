@@ -1,0 +1,36 @@
+<html>
+    <head>
+        <script src="src/index.js" type="module"></script>
+        <link rel="stylesheet" href="css/stylesheet.css" />
+    </head>
+    <body>
+        <div id="visibleCardContainer">
+            <div id="visibleCard">
+                <!--The image for the visible card. May be rotated.-->
+            </div>
+            <div class="description">
+                <!--The description for the visible card. Hidden by default.-->
+                <dl>
+                    <dt>Name</dt><dd id="visibleCardName"></dd>
+                    <dt>Symbol</dt><dd id="visibleCardSymbol"></dd>
+                    <dt>Legend</dt><dd id="visibleCardLegend"></dd>
+                    <dt>Value</dt><dd id="visibleCardValue"></dd>
+                </dl>
+            </div>
+        </div>
+        <div id="leftPanel" class="btnPanel">
+            <div class="button" id="lockForScene" aria-label="Lock for Scene"></div>
+            <div class="button" id="lockForSession" aria-label="Lock for Session"></div>
+            <div class="button" id="lockForAct" aria-label="Lock for Act"></div>
+            <div class="button" id="refreshScene" aria-label="Refresh Scene"></div>
+            <div class="button" id="refreshSession" aria-label="Refresh Session"></div>
+            <div class="button" id="refreshAct" aria-label="Refresh Act"></div>
+        </div>
+
+        <div id="rightPanel" class="btnPanel">
+            <div class="button" id="discard"></div>
+            <div class="button" id="deck"></div>
+        </div>
+        <div id="shuffling"></div>
+    </body>
+</html>

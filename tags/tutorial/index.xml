@@ -1,38 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tutorial on Space·Time Will Tell</title>
+    <title>Tutorial on Space·Time Will Tell</title>
     <link>https://space-timewilltell.yoric.xyz/tags/tutorial/</link>
-    <description>Recent content in tutorial on Space·Time Will Tell</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Tutorial on Space·Time Will Tell</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 26 Sep 2018 11:09:24 +0200</lastBuildDate>
-    
-	<atom:link href="https://space-timewilltell.yoric.xyz/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://space-timewilltell.yoric.xyz/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>We&#39;re on DriveThruRPG!</title>
       <link>https://space-timewilltell.yoric.xyz/post/now-on-drivethru/</link>
       <pubDate>Wed, 26 Sep 2018 11:09:24 +0200</pubDate>
-      
       <guid>https://space-timewilltell.yoric.xyz/post/now-on-drivethru/</guid>
-      <description>After a few weeks spent composing, recomposing and polishing our Fate comic book tutorial, it&amp;rsquo;s now available on DriveThruRPG for pay-as-you-want, starting at $0.
-As previously, the license allows you to share, reproduce and modify, provided you maintain credits, so feel free to bring it to your playing table.
-We&amp;rsquo;re working on making it available print-on-demand.
-Thanks to all the fine folks on Reddit communities /u/RPGdesign and /u/FATErpg for the feedback, and thanks to Evil Hat for making such a great game!</description>
+      <description>&lt;p&gt;After a few weeks spent composing, recomposing and polishing&#xA;our &lt;a href=&#34;../fate-rules-comic-leaflet&#34;&gt;Fate comic book tutorial&lt;/a&gt;,&#xA;it&amp;rsquo;s now &lt;a href=&#34;https://www.drivethrurpg.com/product/252971/Fate-Core-Tutorial&#34;&gt;available on DriveThruRPG&lt;/a&gt;&#xA;for pay-as-you-want, starting at $0.&lt;/p&gt;&#xA;&lt;p&gt;As previously, the license allows you to share, reproduce&#xA;and modify, provided you maintain credits, so feel free&#xA;to bring it to your playing table.&lt;/p&gt;&#xA;&lt;p&gt;We&amp;rsquo;re working on making it available print-on-demand.&lt;/p&gt;&#xA;&lt;p&gt;Thanks to all the fine folks on Reddit communities&#xA;&lt;a href=&#34;https://www.reddit.com/r/RPGdesign/&#34;&gt;/u/RPGdesign&lt;/a&gt; and &lt;a href=&#34;https://www.reddit.com/r/FATErpg/&#34;&gt;/u/FATErpg&lt;/a&gt; for the feedback,&#xA;and thanks to &lt;a href=&#34;http://evilhat.com/&#34;&gt;Evil Hat&lt;/a&gt; for making&#xA;such a great game!&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>A comic book tutorial for Fate Core</title>
       <link>https://space-timewilltell.yoric.xyz/post/fate-rules-comic-leaflet/</link>
       <pubDate>Fri, 21 Sep 2018 14:04:50 +0200</pubDate>
-      
       <guid>https://space-timewilltell.yoric.xyz/post/fate-rules-comic-leaflet/</guid>
-      <description>If you are interested in improv/narrative role-playing games, you may have heard of Fate Core, a great ruleset made by Evil Hat exactly for this purpose. It&amp;rsquo;s simple, it&amp;rsquo;s excellent, and it&amp;rsquo;s missing a tutorial, so here is one:
-As you can see, it fits in one sheet, and it&amp;rsquo;s designed to be printed and brought with you at your table.
-I&amp;rsquo;d like to make it available in other languages – if you wish to help, don&amp;rsquo;t hesitate to get in touch!</description>
+      <description>&lt;p&gt;If you are interested in improv/narrative role-playing games, you may&#xA;have heard of &lt;a href=&#34;https://www.evilhat.com/home/fate-core/&#34;&gt;Fate Core&lt;/a&gt;, a great ruleset made by &lt;a href=&#34;http://evilhat.com/&#34;&gt;Evil Hat&lt;/a&gt; exactly for&#xA;this purpose. It&amp;rsquo;s simple, it&amp;rsquo;s excellent, and it&amp;rsquo;s missing a tutorial,&#xA;so here is one:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../../images/fate/generic_rules_p0.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../../images/fate/generic_rules_p1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;As you can see, it fits in one sheet, and it&amp;rsquo;s designed to be printed&#xA;and brought with you at your table.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;d like to make it available in other languages – if you wish to help,&#xA;don&amp;rsquo;t hesitate to get in touch!&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

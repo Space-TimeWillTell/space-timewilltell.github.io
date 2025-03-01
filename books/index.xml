@@ -1,41 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Books on Space·Time Will Tell</title>
     <link>https://space-timewilltell.yoric.xyz/books/</link>
     <description>Recent content in Books on Space·Time Will Tell</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    
-	<atom:link href="https://space-timewilltell.yoric.xyz/books/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://space-timewilltell.yoric.xyz/books/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://space-timewilltell.yoric.xyz/books/arcadia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://space-timewilltell.yoric.xyz/books/arcadia/</guid>
-      <description> Summary  In Arcadia Ego About Rules The Setting Journeys (TBD)  Appendix  Player Document Fate tutorial (TBD) N-Dimensional Tourists tutorial (TBD)  </description>
+      <description>&lt;h1 id=&#34;summary&#34;&gt;Summary&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://space-timewilltell.yoric.xyz/post/arcadia-welcome&#34;&gt;In Arcadia Ego&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://space-timewilltell.yoric.xyz/post/arcadia-rules&#34;&gt;About Rules&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://space-timewilltell.yoric.xyz/post/arcadia-creating-arcadians&#34;&gt;The Setting&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Journeys (TBD)&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;appendix&#34;&gt;Appendix&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://space-timewilltell.yoric.xyz/documents/arcadia/bootstrap.pdf&#34;&gt;Player Document&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Fate tutorial (TBD)&lt;/li&gt;&#xA;&lt;li&gt;N-Dimensional Tourists tutorial (TBD)&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://space-timewilltell.yoric.xyz/books/n-dimensional-tourists/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://space-timewilltell.yoric.xyz/books/n-dimensional-tourists/</guid>
-      <description> Summary  About this book The Space·Time Deck Characters and Attributes Creating Player&amp;rsquo;s Characters (TBD) Meeting Challenges Aspects and using the Cards up your Sleeve Conflicts (TBD) Stronger together Creating the GM&amp;rsquo;s Characters (TBD) Character Progression (TBD) Thanks (TBD)  Appendix  Character Sheet (TBD) Conflict Resolution Cheat Sheet  </description>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://space-timewilltell.yoric.xyz/n-dimensional-tourists&#34;&gt;About this book&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://space-timewilltell.yoric.xyz/post/tourists-space-time-deck&#34;&gt;The Space·Time Deck&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://space-timewilltell.yoric.xyz/post/tourists-attributes&#34;&gt;Characters and Attributes&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Creating Player&amp;rsquo;s Characters (TBD)&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://space-timewilltell.yoric.xyz/post/tourists-overcoming&#34;&gt;Meeting Challenges&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://space-timewilltell.yoric.xyz/post/tourists-the-sleeve&#34;&gt;Aspects and using the Cards up your Sleeve&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Conflicts (TBD)&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://space-timewilltell.yoric.xyz/posts/tourists-parties&#34;&gt;Stronger together&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Creating the GM&amp;rsquo;s Characters (TBD)&lt;/li&gt;&#xA;&lt;li&gt;Character Progression (TBD)&lt;/li&gt;&#xA;&lt;li&gt;Thanks (TBD)&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;appendix&#34;&gt;Appendix&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Character Sheet (TBD)&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://space-timewilltell.yoric.xyz/images/plotonomicon/playingmat.png&#34;&gt;Conflict Resolution Cheat Sheet&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
     </item>
-    
     <item>
       <title></title>
       <link>https://space-timewilltell.yoric.xyz/books/plotonomicon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://space-timewilltell.yoric.xyz/books/plotonomicon/</guid>
-      <description> Summary  About this book Drawing for ideas: A tutorial The Space·Time Deck Let&amp;rsquo;s not prepare Creating Worlds Who&amp;rsquo;s that? Improvising characters (TBD) Threats and crisis: improvising a campaign (TBD) Take that! Improvising for a conflict (TBD) Planets, dungeons and amusement parks: improvising places (TBD)  Appendix  Plotonomicon: The Comic Book Credits (TBD) License (TBD) The Cards (TBD)  </description>
+      <description>&lt;h1 id=&#34;summary&#34;&gt;Summary&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://space-timewilltell.yoric.xyz/post/plotonomicon-about&#34;&gt;About this book&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://space-timewilltell.yoric.xyz/post/plotonomicon-tutorial&#34;&gt;Drawing for ideas: A tutorial&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://space-timewilltell.yoric.xyz/post/plotonomicon-space-time-deck&#34;&gt;The Space·Time Deck&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://space-timewilltell.yoric.xyz/post/plotonomicon-the-art-of-not-preparing&#34;&gt;Let&amp;rsquo;s not prepare&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://space-timewilltell.yoric.xyz/post/plotonomicon-creating-worlds&#34;&gt;Creating Worlds&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Who&amp;rsquo;s that? Improvising characters (TBD)&lt;/li&gt;&#xA;&lt;li&gt;Threats and crisis: improvising a campaign (TBD)&lt;/li&gt;&#xA;&lt;li&gt;Take that! Improvising for a conflict (TBD)&lt;/li&gt;&#xA;&lt;li&gt;Planets, dungeons and amusement parks: improvising places (TBD)&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;appendix&#34;&gt;Appendix&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://space-timewilltell.yoric.xyz/post/plotonomicon-comic&#34;&gt;Plotonomicon: The Comic Book&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Credits (TBD)&lt;/li&gt;&#xA;&lt;li&gt;License (TBD)&lt;/li&gt;&#xA;&lt;li&gt;The Cards (TBD)&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
     </item>
-    
   </channel>
 </rss>
