@@ -1,7 +1,9 @@
 <html>
     <head>
+        <title>The Deck of Memories</title>
         <script src="src/index.js" type="module"></script>
         <link rel="stylesheet" href="css/stylesheet.css" />
+        <link rel="icon" href="resources/img/icons/favicon.png" />
     </head>
     <body>
         <div id="visibleCardContainer">
@@ -11,9 +13,10 @@
             <div class="description">
                 <!--The description for the visible card. Hidden by default.-->
                 <dl>
-                    <dt>Name</dt><dd id="visibleCardName"></dd>
-                    <dt>Symbol</dt><dd id="visibleCardSymbol"></dd>
+                    <dt id="visibleCardSuit">Suit</dt><dd id="visibleCardSuitInterpretation"></dd>
+                    <dt id="visibleCardSymbol">Symbol</dt><dd id="visibleCardSymbolInterpretation"></dd>
                     <dt>Legend</dt><dd id="visibleCardLegend"></dd>
+                    <dt>Name</dt><dd id="visibleCardName"></dd>
                     <dt>Value</dt><dd id="visibleCardValue"></dd>
                 </dl>
             </div>

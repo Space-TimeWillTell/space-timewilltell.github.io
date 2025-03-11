@@ -1,3 +1,12 @@
+var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, generator) {
+    function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }
+    return new (P || (P = Promise))(function (resolve, reject) {
+        function fulfilled(value) { try { step(generator.next(value)); } catch (e) { reject(e); } }
+        function rejected(value) { try { step(generator["throw"](value)); } catch (e) { reject(e); } }
+        function step(result) { result.done ? resolve(result.value) : adopt(result.value).then(fulfilled, rejected); }
+        step((generator = generator.apply(thisArg, _arguments || [])).next());
+    });
+};
 import { deck, NUMBER_OF_CARDS } from "./deck.mjs";
 import { preload } from "./preloader.mjs";
 import { imgURL } from "./loader.mjs";
@@ -5,8 +14,11 @@ console.log("Starting deck", deck);
 const divVisibleCard = document.getElementById("visibleCard");
 const divVisibleCardDescriptionName = document.getElementById("visibleCardName");
 const divVisibleCardDescriptionSymbol = document.getElementById("visibleCardSymbol");
+const divVisibleCardDescriptionSymbolInterpretation = document.getElementById("visibleCardSymbolInterpretation");
 const divVisibleCardDescriptionLegend = document.getElementById("visibleCardLegend");
 const divVisibleCardDescriptionValue = document.getElementById("visibleCardValue");
+const divVisibleCardDescriptionSuit = document.getElementById("visibleCardSuit");
+const divVisibleCardDescriptionSuitInterpretation = document.getElementById("visibleCardSuitInterpretation");
 const divShuffling = document.getElementById("shuffling");
 const btnLockScene = document.getElementById("lockForScene");
 const btnLockSession = document.getElementById("lockForSession");
@@ -17,23 +29,30 @@ const btnRefreshAct = document.getElementById("refreshAct");
 const btnDeck = document.getElementById("deck");
 const btnDiscard = document.getElementById("discard");
 function displayCard() {
-    let drawn = deck.top();
-    let url = `url("${imgURL(drawn.card.index)}")`;
-    if (drawn.up) {
-        divVisibleCard.style.transform = "";
-    }
-    else {
-        divVisibleCard.style.transform = "rotate(180deg)";
-    }
-    divVisibleCard.style.backgroundImage = url;
-    let name = drawn.up ? drawn.card.name : `${drawn.card.name} (reversed)`;
-    let symbol = drawn.up ? drawn.card.suit.upSymbol : drawn.card.suit.reversedSymbol;
-    let legend = drawn.up ? drawn.card.upLegend : drawn.card.reversedLegend;
-    let value = `${drawn.card.strValue} of ${drawn.card.suit.name}`;
-    divVisibleCardDescriptionName.textContent = name;
-    divVisibleCardDescriptionSymbol.textContent = symbol;
-    divVisibleCardDescriptionLegend.textContent = `"${legend}"`;
-    divVisibleCardDescriptionValue.textContent = value;
+    return __awaiter(this, void 0, void 0, function* () {
+        let drawn = yield deck.top();
+        let url = `url("${imgURL(drawn.card.index)}")`;
+        if (drawn.up) {
+            divVisibleCard.style.transform = "";
+        }
+        else {
+            divVisibleCard.style.transform = "rotate(180deg)";
+        }
+        divVisibleCard.style.backgroundImage = url;
+        console.debug('card', drawn.card);
+        let name = drawn.up ? drawn.card.name : `${drawn.card.name} (reversed)`;
+        let symbol = drawn.up ? drawn.card.suit.upSymbol : drawn.card.suit.reversedSymbol;
+        let symbolInterpretation = drawn.up ? drawn.card.suit.upSymbolInterpretation : drawn.card.suit.reversedSymbolInterpretation;
+        let legend = drawn.up ? drawn.card.upLegend : drawn.card.reversedLegend;
+        let value = `${drawn.card.strValue} of ${drawn.card.suit.name}`;
+        divVisibleCardDescriptionName.textContent = name;
+        divVisibleCardDescriptionSymbol.textContent = symbol;
+        divVisibleCardDescriptionLegend.textContent = `"${legend}"`;
+        divVisibleCardDescriptionValue.textContent = value;
+        divVisibleCardDescriptionSuitInterpretation.textContent = drawn.card.suit.interpretation;
+        divVisibleCardDescriptionSuit.textContent = drawn.card.suit.name;
+        divVisibleCardDescriptionSymbolInterpretation.textContent = symbolInterpretation;
+    });
 }
 function displayLocked() {
     btnLockScene.textContent = deck.lockedScene.size > 0 ? `${deck.lockedScene.size}` : "";

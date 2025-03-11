@@ -14,6 +14,29 @@ function cardIndex(value: number): CardIndex {
     return value as CardIndex;
 }
 
+let promiseCards: Promise<Card[]> = (async function init() {
+    let response = await fetch("../resources/cards.json");
+    let json = await response.json();
+    let cards = [];
+    for (let suitKey of Object.keys(json)) {
+        let suitCards = json[suitKey];
+        let suit: Suit = suits[suitKey];
+        for (let cardKey of Object.keys(suitCards)) {
+            let card = suitCards[cardKey];
+            cards.push(new Card(
+                card.up.name,
+                suit,
+                card.up.legend,
+                card.down.legend,
+                card.up.index,
+                card.up.value,
+                card.up.index
+            ));
+        }
+    }
+    return cards;
+})();
+
 /**
  * The state of the deck.
  */
@@ -190,18 +213,18 @@ class Deck {
     /**
      * The current card.
      */
-    top(): Drawn {
+    async top(): Promise<Drawn> {
         if (this.nextCards.length == 0) {
             this.shuffle();
         }
-        let card = cards[this.nextCards[this.nextCards.length - 1]];
+        let card = (await promiseCards)[this.nextCards[this.nextCards.length - 1]];
         return new Drawn(card, this.nextUpside);
     }
 
     /**
      * Draw the next card.
      */
-    next(): Drawn {
+    async next(): Promise<Drawn> {
         // Pop the top card.
         this.nextCards.length -= 1;
         console.debug("We still have", this.nextCards.length, "cards");
@@ -218,10 +241,10 @@ class Deck {
         return this.top();
     }
 
-    _auxLock(to: Set<CardIndex>, name: "scene" | "session" | "act") {
+    async _auxLock(to: Set<CardIndex>, name: "scene" | "session" | "act") {
         for (let i = 0; i < NUMBER_OF_CARDS; ++i) {
             // We limit redraws in case the only remaining cards are black.
-            let drawn = this.next();
+            let drawn = await this.next();
             if (drawn.card.suit == black) {
                 console.debug("Deck", "locking for", name, "skipping black card", drawn);
                 continue;
@@ -339,38 +362,67 @@ type SerializedStoreState = {
 
 type Suit = {
     name: string,
+    interpretation: string,
     upSymbol: string,
+    upSymbolInterpretation: string,
     reversedSymbol: string,
+    reversedSymbolInterpretation: string,
 }
 export const red: Suit = {
     name: "Red: The Dreamers",
-    upSymbol: "The Broken Icon (broken dreams, shattered promises)",
-    reversedSymbol: "The Smoke (illusions, dreams, imagination)",
+    interpretation: "Those who want to change the world or escape it. Journalists, addicts, authors, scientists, philosophers, rebels, priests, ... Also, perhaps, a tendency to live in a world that isn't quite the same as everybody else.",
+    upSymbol: "The Broken Icon",
+    upSymbolInterpretation: "Broken dreams, shattered promises.",
+    reversedSymbol: "The Smoke",
+    reversedSymbolInterpretation: "Illusions, dreams, imagination."
 }
 export const purple: Suit = {
     name: "Purple: The Underbelly",
-    upSymbol: "The Gangster (upsetting the rules, breaking the limits, bullying)",
-    reversedSymbol: "The Spirit Bottle (excess, vice, self-harm)",
+    interpretation: "Those  who survive in the gutter, or have risen from the gutter, usually to prey upon people. Gangsters, brothel and cabaret owners, but also corrupt police officers, homeless people, ethnic minorities, drug dealers, informants, forgers, the shadow police, ... Also, perhaps, a will to survive, and to have something to call their own, even if it currently belongs to someone else.",
+    upSymbol: "The Gangster",
+    upSymbolInterpretation: "Upsetting the rules, breaking the limits, violence.",
+    reversedSymbol: "The Spirit Bottle",
+    reversedSymbolInterpretation: "Excess, vice, self-harm."
 }
 export const pink: Suit = {
     name: "Pink: The Adventurers",
-    upSymbol: "The Eye/Tree (growth, learning, discovery)",
-    reversedSymbol: "The Sleeper (rest, death, the future yet to be born)",
+    interpretation: "Those who have escaped the boundaries of society, or who pretend that they have, or those who help them along the way. Athletes, pilots, race drivers, but also spies, burglars. Also, perhaps, contempt for those who live normal lives.",
+    upSymbol: "The Eye/Tree",
+    upSymbolInterpretation: "Growth, learning, discovery.",
+    reversedSymbol: "The Sleeper",
+    reversedSymbolInterpretation: "Rest, death, the future yet to be born."
 }
 export const blue: Suit = {
     name: "Blue: The People",
-    upSymbol: "The Imperial Owl (authority, conformity, order, safety)",
-    reversedSymbol: "The Broken Man (exploitation, discontent, accidents, disregard)",
+    interpretation: "Most of the population, both lower and middle classes, looking up to the power. Workers, soldiers and police officers, but also lynching and book-burning mobs, school students and their teachers, civil servants, believers and farmers. Also, perhaps, jealousy towards elites, real or imaginary.",
+    upSymbol: "The Imperial Owl",
+    upSymbolInterpretation: "Authority, conformity, order, safety.",
+    reversedSymbol: "The Broken Man.",
+    reversedSymbolInterpretation: "Exploitation, discontent, accidents, disregard."
 }
 export const gold: Suit = {
     name: "Gold: The Elites",
-    upSymbol: "The Scroll (knowledge, law, birthright)",
-    reversedSymbol: "The Golden Apple (lies, discord, politics, temptation)",
+    interpretation: "Those who are envied, with or without justification, usually for their wealth, their lineage or their knowledge. Scholars and investors, aristocrats and tradespeople. Also, perhaps, the fear of the People.",
+    upSymbol: "The Scroll",
+    upSymbolInterpretation: "Knowledge, law, tradition, birthright.",
+    reversedSymbol: "The Golden Apple",
+    reversedSymbolInterpretation: "lies, discord, politics, temptation."
 }
 export const black: Suit = {
     name: "Black: The Divider",
-    upSymbol: "The Hourglass (something old and corrupted, the slow decay of something beautiful, failing to let go)",
-    reversedSymbol: "The Wind (something new and evil, the sudden destruction of something beautiful, giving up too early)",
+    interpretation: "Everything and everyone that enables the Restoration to maintain its regime. The army and the theoreticians of the Restoration, the police forces and the propagandists. Also, perhaps, the hole, deep within our souls and society, that let them grab and hold to power.",
+    upSymbol: "The Hourglass",
+    upSymbolInterpretation: "Something old and corrupted, the slow decay of something beautiful, failing to let go.",
+    reversedSymbol: "The Wind",
+    reversedSymbolInterpretation: "Something new and evil, the sudden destruction of something beautiful, giving up too early",
+}
+let suits = {
+    red: red,
+    purple: purple,
+    pink: pink,
+    blue: blue,
+    gold: gold,
+    black: black
 }
 
 class Card {
@@ -378,7 +430,6 @@ class Card {
     suit: Suit;
     upLegend: string;
     reversedLegend: string;
-    value: number;
     strValue: string;
     index: CardIndex;
     constructor(name: string, suit: Suit, upLegend: string, reversedLegend: string, value: number, strValue: string, index: number) {
@@ -386,7 +437,6 @@ class Card {
         this.suit = suit;
         this.upLegend = upLegend;
         this.reversedLegend = reversedLegend;
-        this.value = value;
         this.strValue = strValue;
         this.index = cardIndex(index);
     }
@@ -400,99 +450,6 @@ class Drawn {
         this.up = up;
     }
 }
-
-export const cards = [
-	new Card("The Air Field", red, "Higher and higher", "And never return", 0, "1", 0),
-	new Card("The Studios", red, "A world of magic", "From your dreams stars are made", 1, "2", 1),
-	new Card("The Sea", red, "Quiet", "The wrath of elements", 2, "3", 2),
-	new Card("The Player", red, "Double or quit?", "My passion", 3, "4", 3),
-	new Card("The Journalist", red, "Uncovering the truth", "Walking the editorial line", 4, "5", 4),
-	new Card("The Muse", red, "Beloved of all", "Prisoner of their glances", 5, "6", 5),
-	new Card("The Factory", red, "With our hands", "The last of the Masters", 6, "7", 6),
-	new Card("The House of Games", red, "Everything to Win", "Everything to Lose", 7, "8", 7),
-	new Card("The Orange Garden", red, "An artificial Paradise", "Quite decorative", 8, "9", 8),
-	new Card("One More Game?", red, "My Queen for your Kingdom", "Five steps ahead", 9, "10", 9),
-	new Card("The Summoning", red, "Among us still", "It's all in your mind, silly", 10, "11", 10),
-	new Card("The Smoke", red, "Reveal the Unseen", "Where does Reality end?", 11, "12", 11),
-	new Card("The Union", red, "Right makes might", "Our time will come", 12, "13", 12),
-	new Card("The Rebellion", red, "For a better world", "Pick your side", 13, "14", 13),
-	new Card("The Researchers", red, "I would give anything to find out", "A lifetime worth of questions", 14, "15", 14),
-	new Card("Whatever Remains", purple, "Letting go", "We could have rebuilt", 0, "1", 15),
-	new Card("The Ghetto", purple, "Those people", "Just behind your house", 1, "2", 16),
-	new Card("The Docks", purple, "Time to rebuild", "The blood of empires", 2, "3", 17),
-	new Card("The Madame", purple, "A mother for us all", "Their miserable secrets", 3, "4", 18),
-	new Card("The Forger", purple, "Reality is an art", "Absolute conformity", 4, "5", 19),
-	new Card("The Contract Killer", purple, "Every problem has a solution", "Staring down the barrel", 5, "6", 20),
-	new Card("The Arena", purple, "One last round", "Just to destroy something beautiful", 6, "7", 21),
-	new Card("The Cabaret", purple, "Let the fun times begin!", "A layer of gold on a background of misery", 7, "8", 22),
-	new Card("The Distillery", purple, "The eldest tradition", "One last step towards Oblivion", 8, "9", 23),
-	new Card("The Informant", purple, "Our staunchest ally", "The final traitor", 9, "10", 24),
-	new Card("The Shootout", purple, "Saw no evil, heard no evil, spoke no evil", "Wrong job if you want to grow old", 10, "11", 25),
-	new Card("The Crackdown", purple, "Fun times are over", "Nothing to see", 11, "12", 26),
-	new Card("The Lost Children", purple, "And never grow up", "For you have sinned", 12, "13", 27),
-	new Card("The Shadow Police", purple, "Discretion itself", "Just a point of detail", 13, "14", 28),
-	new Card("The Gang", purple, "A form of hope", "Nothing is as sacred as family", 14, "15", 29),
-	new Card("The Catacombs", pink, "A strange place to meet", "Secrets are best buried deep", 0, "1", 30),
-	new Card("The Immensity", pink, "We wanted to touch the sky", "Absolute freedom", 1, "2", 31),
-	new Card("The Jungle", pink, "The call to adventure", "The ruins of the past", 2, "3", 32),
-	new Card("The Burglar", pink, "A light touch", "Never to be found", 3, "4", 33),
-	new Card("The Aviatrix", pink, "A formidable hero", "Hotheaded", 4, "5", 34),
-	new Card("The Physician", pink, "Do no harm", "Acceptable losses", 5, "6", 35),
-	new Card("The Nicosie", pink, "At the crossroads", "The grass must be greener", 6, "7", 36),
-	new Card("The Workshop", pink, "There are no limits", "Liberty will come from above", 7, "8", 37),
-	new Card("The Hideout", pink, "We could be safe", "We can't stay forever", 8, "9", 38),
-	new Card("The Jump", pink, "I will not follow that track", "It's not the fall that matters", 9, "10", 39),
-	new Card("The Duel", pink, "A matter of honor", "One of us is too many", 10, "11", 40),
-	new Card("The Chase", pink, "Grace and bravery", "I'll be there for you", 11, "12", 41),
-	new Card("The Mechanics", pink, "It runs better than ever", "Don't mind the holes", 12, "13", 42),
-	new Card("The Soldiers", pink, "Look at them march", "Some will return", 13, "14", 43),
-	new Card("The Archaeologists", pink, "The battle for History", "We walk the sublime paths", 14, "15", 44),
-	new Card("The City", blue, "All the riches in the Empire", "Behind closed doors", 0, "1", 45),
-	new Card("The Worker's Village", blue, "Sleep on, you brave folk", "At least, I have a roof", 1, "2", 46),
-	new Card("The Desert", blue, "A good place to start over", "A good place to waste away", 2, "3", 47),
-	new Card("The Veteran", blue, "The sum of our experiences", "Just another piece of waste", 3, "4", 48),
-	new Card("The Farmer", blue, "The Empire hungers", "And my father before him", 4, "5", 49),
-	new Card("The Dancer", blue, "The one perfect move", "Fifteen minutes of glory", 5, "6", 50),
-	new Card("The Station", blue, "Get on board", "On the wrong side of the tracks", 6, "7", 51),
-	new Card("The Fortress", blue, "Protected", "Disappeared", 7, "8", 52),
-	new Card("The Palace", blue, "Let my Justice be done", "You have your orders", 8, "9", 53),
-	new Card("The Wait", blue, "Something will come up", "Fresh meat", 9, "10", 54),
-	new Card("The Burning", blue, "Leave the past to the past", "To think is to disobey", 10, "11", 55),
-	new Card("The War", blue, "Nothing new", "Diplomacy has failed", 11, "12", 56),
-	new Card("The Faithful Ones", blue, "Never shall we falter", "We are Legion", 12, "13", 57),
-	new Card("The School Students", blue, "I didn't do it, I swear!", "I'll catch you on the greasy side", 13, "14", 58),
-	new Card("The Workers", blue, "United, we shouldn't be defeated", "Back to work", 14, "15", 59),
-	new Card("The Industry", gold, "The Wheel is turning", "Smells like progress", 0, "1", 60),
-	new Card("The Trading Grounds", gold, "Unlimited riches", "The Bank always wins", 1, "2", 61),
-	new Card("The Outpost", gold, "Heaven, one brick at a time", "Who cares about the cost?", 2, "3", 62),
-	new Card("The Patron of Arts", gold, "To raise the soul", "Industrializing hope", 3, "4", 63),
-	new Card("The Authority", gold, "This is how to use talent", "In time", 4, "5", 64),
-	new Card("The Thinker", gold, "An Age of Wonders", "Blessed be the ones who listen", 5, "6", 65),
-	new Card("The Opera", gold, "Where will music lead us?", "Losing oneself for an instant", 6, "7", 66),
-	new Card("The Curio Cabinet", gold, "Collecting mysteries", "There is place for you", 7, "8", 67),
-	new Card("The Gallery", gold, "How may I help you?", "The new temple", 8, "9", 68),
-	new Card("The Graduation", gold, "Years of work", "Just a formality", 9, "10", 69),
-	new Card("The Progress", gold, "It's painless", "We build the new man", 10, "11", 70),
-	new Card("The Betrayal", gold, "The rules are simple", "Loyalty is a luxury", 11, "12", 71),
-	new Card("The Myths", gold, "The time of legends is over", "Unworthy of us", 12, "13", 72),
-	new Card("The Leadership", gold, "You shall be protected", "Unrefined brutes", 13, "14", 73),
-	new Card("Those Who Have", gold, "Among us", "Poverty is a sin", 14, "15", 74),
-	new Card("The Mistress of Games", black, "Life is a Bet", "Change the Rules", 0, "I", 75),
-	new Card("The Nihilist", black, "History is a Myth", "Out with the Old, in with Chaos", 1, "II", 76),
-	new Card("The Socialite", black, "Love Lost", "Lost By Love", 2, "III", 77),
-	new Card("The Boogey People", black, "Who Wants to Play?", "You had been warned", 3, "IIII", 78),
-	new Card("The Gentleman of Fortune", black, "No one escapes my Destiny", "An offer you can't refuse", 4, "V", 79),
-	new Card("The Merciful One", black, "Your best, your only, your final friend", "No heroes in this story", 5, "VI", 80),
-	new Card("The Visionary", black, "Let me tell you about the future", "Dreams are written in stone", 6, "VII", 81),
-	new Card("The Despair", black, "Forget the stars", "In the Heart of Darkness", 7, "VIII", 82),
-	new Card("The Propagandist", black, "Words can Fly", "Past Perfected", 8, "VIIII", 83),
-	new Card("The Professor", black, "Behold my generosity", "My feather is mightier than all your swords", 9, "X", 84),
-	new Card("The Innovator", black, "Quicker, easier, more seductive", "No ruin, no gain", 10, "XI", 85),
-	new Card("The Philosopher", black, "Reduce the world to concepts", "And in darkness, bind them", 11, "XII", 86),
-	new Card("The Denial", black, "Why know?", "Who limit oneself?", 12, "XIII", 87),
-	new Card("The Thought", black, "Much too dangerous for the masses", "Let the opposition deconstruct itself", 13, "XIIII", 88),
-	new Card("The Divine", black, "At the beginning, they scream", "At the end, they die", 14, "XV", 89)
-]
 
 // Initialize.
 export const deck = new Deck(window.localStorage.getItem("deck"));

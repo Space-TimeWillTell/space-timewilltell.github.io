@@ -8,8 +8,11 @@ console.log("Starting deck", deck);
 const divVisibleCard = document.getElementById("visibleCard");
 const divVisibleCardDescriptionName = document.getElementById("visibleCardName");
 const divVisibleCardDescriptionSymbol = document.getElementById("visibleCardSymbol");
+const divVisibleCardDescriptionSymbolInterpretation = document.getElementById("visibleCardSymbolInterpretation");
 const divVisibleCardDescriptionLegend = document.getElementById("visibleCardLegend");
 const divVisibleCardDescriptionValue = document.getElementById("visibleCardValue");
+const divVisibleCardDescriptionSuit = document.getElementById("visibleCardSuit");
+const divVisibleCardDescriptionSuitInterpretation = document.getElementById("visibleCardSuitInterpretation");
 const divShuffling = document.getElementById("shuffling");
 const btnLockScene = document.getElementById("lockForScene");
 const btnLockSession = document.getElementById("lockForSession");
@@ -20,8 +23,8 @@ const btnRefreshAct = document.getElementById("refreshAct");
 const btnDeck = document.getElementById("deck");
 const btnDiscard = document.getElementById("discard");
 
-function displayCard() {
-    let drawn = deck.top();
+async function displayCard() {
+    let drawn = await deck.top();
     let url = `url("${imgURL(drawn.card.index)}")`;
     if (drawn.up) {
         divVisibleCard.style.transform = "";
@@ -30,8 +33,10 @@ function displayCard() {
     }
     divVisibleCard.style.backgroundImage = url;
 
+    console.debug('card', drawn.card);
     let name = drawn.up ? drawn.card.name : `${drawn.card.name} (reversed)`;
     let symbol = drawn.up ? drawn.card.suit.upSymbol : drawn.card.suit.reversedSymbol;
+    let symbolInterpretation = drawn.up ? drawn.card.suit.upSymbolInterpretation : drawn.card.suit.reversedSymbolInterpretation;
     let legend = drawn.up ? drawn.card.upLegend : drawn.card.reversedLegend;
     let value = `${drawn.card.strValue} of ${drawn.card.suit.name}`;
 
@@ -39,6 +44,9 @@ function displayCard() {
     divVisibleCardDescriptionSymbol.textContent = symbol;
     divVisibleCardDescriptionLegend.textContent = `"${legend}"`;
     divVisibleCardDescriptionValue.textContent = value;
+    divVisibleCardDescriptionSuitInterpretation.textContent = drawn.card.suit.interpretation;
+    divVisibleCardDescriptionSuit.textContent = drawn.card.suit.name;
+    divVisibleCardDescriptionSymbolInterpretation.textContent = symbolInterpretation;
 }
 
 function displayLocked() {
