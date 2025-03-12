@@ -1,0 +1,1898 @@
+{
+        "red": {
+            "air_field": {
+                "up": {
+                    "name": "The Air Field",
+                    "symbol": "The Broken Icon (up)",
+                    "legend": "Higher and higher",
+                    "value": "1",
+                    "color": "Dreamers (Red)",
+                    "upside": true,
+                    "index": 0
+                },
+                "down": {
+                    "name": "The Air Field",
+                    "symbol": "The Smoke (down)",
+                    "legend": "And never return",
+                    "value": "1",
+                    "color": "Dreamers (Red)",
+                    "upside": false,
+                    "index": 0
+                }
+            },
+
+            "studios": {
+                "up": {
+                    "name": "The Studios",
+                    "symbol": "The Broken Icon (up)",
+                    "legend": "A world of magic",
+                    "value": "2",
+                    "color": "Dreamers (Red)",
+                    "upside": true,
+                    "index": 1
+                },
+                "down": {
+                    "name": "The Studios",
+                    "symbol": "The Smoke (down)",
+                    "legend": "From your dreams stars are made",
+                    "value": "2",
+                    "color": "Dreamers (Red)",
+                    "upside": false,
+                    "index": 1
+                }
+            },
+
+            "sea": {
+                "up": {
+                    "name": "The Sea",
+                    "symbol": "The Broken Icon (up)",
+                    "legend": "So quiet",
+                    "value": "3",
+                    "color": "Dreamers (Red)",
+                    "upside": true,
+                    "index": 2
+                },
+                "down": {
+                    "name": "The Sea",
+                    "symbol": "The Smoke (down)",
+                    "legend": "The elements hunger",
+                    "value": "3",
+                    "color": "Dreamers (Red)",
+                    "upside": false,
+                    "index": 2
+                }
+            },
+
+            "player": {
+                "up": {
+                    "name": "The Player",
+                    "symbol": "The Broken Icon (up)",
+                    "legend": "Double or quit?",
+                    "value": "4",
+                    "color": "Dreamers (Red)",
+                    "upside": true,
+                    "index": 3
+                },
+                "down": {
+                    "name": "The Player",
+                    "symbol": "The Smoke (down)",
+                    "legend": "My passion",
+                    "value": "4",
+                    "color": "Dreamers (Red)",
+                    "upside": false,
+                    "index": 3
+                }
+            },
+
+            "journalist": {
+                "up": {
+                    "name": "The Journalist",
+                    "symbol": "The Broken Icon (up)",
+                    "legend": "Uncovering the truth",
+                    "value": "5",
+                    "color": "Dreamers (Red)",
+                    "upside": true,
+                    "index": 4
+                },
+                "down": {
+                    "name": "The Journalist",
+                    "symbol": "The Smoke (down)",
+                    "legend": "Walking the editorial line",
+                    "value": "5",
+                    "color": "Dreamers (Red)",
+                    "upside": false,
+                    "index": 4
+                }
+            },
+
+            "muse": {
+                "up": {
+                    "name": "The Muse",
+                    "symbol": "The Broken Icon (up)",
+                    "legend": "Beloved of all",
+                    "value": "6",
+                    "color": "Dreamers (Red)",
+                    "upside": true,
+                    "index": 5
+                },
+                "down": {
+                    "name": "The Muse",
+                    "symbol": "The Smoke (down)",
+                    "legend": "Prisoner of their glances",
+                    "value": "6",
+                    "color": "Dreamers (Red)",
+                    "upside": false,
+                    "index": 5
+                }
+            },
+
+            "factory": {
+                "up": {
+                    "name": "The Factory",
+                    "symbol": "The Broken Icon (up)",
+                    "legend": "With our hands",
+                    "value": "7",
+                    "color": "Dreamers (Red)",
+                    "upside": true,
+                    "index": 6
+                },
+                "down": {
+                    "name": "The Factory",
+                    "symbol": "The Smoke (down)",
+                    "legend": "The last of the Masters",
+                    "value": "7",
+                    "color": "Dreamers (Red)",
+                    "upside": false,
+                    "index": 6
+                }
+            },
+
+            "house_of_games": {
+                "up": {
+                    "name": "The House of Games",
+                    "symbol": "The Broken Icon (up)",
+                    "legend": "Everything to Win",
+                    "value": "8",
+                    "color": "Dreamers (Red)",
+                    "upside": true,
+                    "index": 7
+                },
+                "down": {
+                    "name": "The House of Games",
+                    "symbol": "The Smoke (down)",
+                    "legend": "Everything to Lose",
+                    "value": "8",
+                    "color": "Dreamers (Red)",
+                    "upside": false,
+                    "index": 7
+                }
+            },
+
+            "orange_garden": {
+                "up": {
+                    "name": "The Orange Garden",
+                    "symbol": "The Broken Icon (up)",
+                    "legend": "An artificial Paradise",
+                    "value": "9",
+                    "color": "Dreamers (Red)",
+                    "upside": true,
+                    "index": 8
+                },
+                "down": {
+                    "name": "The Orange Garden",
+                    "symbol": "The Smoke (down)",
+                    "legend": "Quite decorative",
+                    "value": "9",
+                    "color": "Dreamers (Red)",
+                    "upside": false,
+                    "index": 8
+                }
+            },
+
+            "one_more_game": {
+                "up": {
+                    "name": "One More Game?",
+                    "symbol": "The Broken Icon (up)",
+                    "legend": "My Queen for your Kingdom",
+                    "value": "10",
+                    "color": "Dreamers (Red)",
+                    "upside": true,
+                    "index": 9
+                },
+                "down": {
+                    "name": "One More Game?",
+                    "symbol": "The Smoke (down)",
+                    "legend": "Five steps ahead",
+                    "value": "10",
+                    "color": "Dreamers (Red)",
+                    "upside": false,
+                    "index": 9
+                }
+            },
+
+            "summoning": {
+                "up": {
+                    "name": "The Summoning",
+                    "symbol": "The Broken Icon (up)",
+                    "legend": "Among us still",
+                    "value": "11",
+                    "color": "Dreamers (Red)",
+                    "upside": true,
+                    "index": 10
+                },
+                "down": {
+                    "name": "The Summoning",
+                    "symbol": "The Smoke (down)",
+                    "legend": "It's all in your mind, silly",
+                    "value": "11",
+                    "color": "Dreamers (Red)",
+                    "upside": false,
+                    "index": 10
+                }
+            },
+
+            "smoke": {
+                "up": {
+                    "name": "The Smoke",
+                    "symbol": "The Broken Icon (up)",
+                    "legend": "Reveal the Unseen",
+                    "value": "12",
+                    "color": "Dreamers (Red)",
+                    "upside": true,
+                    "index": 11
+                },
+                "down": {
+                    "name": "The Smoke",
+                    "symbol": "The Smoke (down)",
+                    "legend": "Where does Reality end?",
+                    "value": "12",
+                    "color": "Dreamers (Red)",
+                    "upside": false,
+                    "index": 11
+                }
+            },
+
+            "union": {
+                "up": {
+                    "name": "The Union",
+                    "symbol": "The Broken Icon (up)",
+                    "legend": "Right makes might",
+                    "value": "13",
+                    "color": "Dreamers (Red)",
+                    "upside": true,
+                    "index": 12
+                },
+                "down": {
+                    "name": "The Union",
+                    "symbol": "The Smoke (down)",
+                    "legend": "Our time will come",
+                    "value": "13",
+                    "color": "Dreamers (Red)",
+                    "upside": false,
+                    "index": 12
+                }
+            },
+
+            "rebellion": {
+                "up": {
+                    "name": "The Rebellion",
+                    "symbol": "The Broken Icon (up)",
+                    "legend": "For a better world",
+                    "value": "14",
+                    "color": "Dreamers (Red)",
+                    "upside": true,
+                    "index": 13
+                },
+                "down": {
+                    "name": "The Rebellion",
+                    "symbol": "The Smoke (down)",
+                    "legend": "Pick your side",
+                    "value": "14",
+                    "color": "Dreamers (Red)",
+                    "upside": false,
+                    "index": 13
+                }
+            },
+
+            "researchers": {
+                "up": {
+                    "name": "The Researchers",
+                    "symbol": "The Broken Icon (up)",
+                    "legend": "I would give anything to find out",
+                    "value": "15",
+                    "color": "Dreamers (Red)",
+                    "upside": true,
+                    "index": 14
+                },
+                "down": {
+                    "name": "The Researchers",
+                    "symbol": "The Smoke (down)",
+                    "legend": "A lifetime worth of questions",
+                    "value": "15",
+                    "color": "Dreamers (Red)",
+                    "upside": false,
+                    "index": 14
+                }
+            }
+    },
+        "purple": {
+            "whatever_remains": {
+                "up": {
+                    "name": "Whatever Remains",
+                    "symbol": "The Gangster (up)",
+                    "legend": "Letting go",
+                    "value": "1",
+                    "color": "Underworld (Purple)",
+                    "upside": true,
+                    "index": 15
+                },
+                "down": {
+                    "name": "Whatever Remains",
+                    "symbol": "The Spirit Bottle (down)",
+                    "legend": "We could have rebuilt",
+                    "value": "1",
+                    "color": "Underworld (Purple)",
+                    "upside": false,
+                    "index": 15
+                }
+            },
+
+            "ghetto": {
+                "up": {
+                    "name": "The Ghetto",
+                    "symbol": "The Gangster (up)",
+                    "legend": "Those people",
+                    "value": "2",
+                    "color": "Underworld (Purple)",
+                    "upside": true,
+                    "index": 16
+                },
+                "down": {
+                    "name": "The Ghetto",
+                    "symbol": "The Spirit Bottle (down)",
+                    "legend": "Just behind your house",
+                    "value": "2",
+                    "color": "Underworld (Purple)",
+                    "upside": false,
+                    "index": 16
+                }
+            },
+
+            "catacombs": {
+                "up": {
+                    "name": "The Catacombs",
+                    "symbol": "The Gangster (up)",
+                    "legend": "Strange place to meet someone",
+                    "value": "3",
+                    "color": "Underworld (Purple)",
+                    "upside": true,
+                    "index": 17
+                },
+                "down": {
+                    "name": "The Catacombs",
+                    "symbol": "The Spirit Bottle (down)",
+                    "legend": "Secrets are best buried deep",
+                    "value": "3",
+                    "color": "Underworld (Purple)",
+                    "upside": false,
+                    "index": 17
+                }
+            },
+
+            "madame": {
+                "up": {
+                    "name": "The Madame",
+                    "symbol": "The Gangster (up)",
+                    "legend": "A mother for us all",
+                    "value": "4",
+                    "color": "Underworld (Purple)",
+                    "upside": true,
+                    "index": 18
+                },
+                "down": {
+                    "name": "The Madame",
+                    "symbol": "The Spirit Bottle (down)",
+                    "legend": "Their miserable secrets",
+                    "value": "4",
+                    "color": "Underworld (Purple)",
+                    "upside": false,
+                    "index": 18
+                }
+            },
+
+            "forger": {
+                "up": {
+                    "name": "The Forger",
+                    "symbol": "The Gangster (up)",
+                    "legend": "Reality is an art",
+                    "value": "5",
+                    "color": "Underworld (Purple)",
+                    "upside": true,
+                    "index": 19
+                },
+                "down": {
+                    "name": "The Forger",
+                    "symbol": "The Spirit Bottle (down)",
+                    "legend": "Absolute conformity",
+                    "value": "5",
+                    "color": "Underworld (Purple)",
+                    "upside": false,
+                    "index": 19
+                }
+            },
+
+            "contract_killer": {
+                "up": {
+                    "name": "The Contract Killer",
+                    "symbol": "The Gangster (up)",
+                    "legend": "Every problem has a solution",
+                    "value": "6",
+                    "color": "Underworld (Purple)",
+                    "upside": true,
+                    "index": 20
+                },
+                "down": {
+                    "name": "The Contract Killer",
+                    "symbol": "The Spirit Bottle (down)",
+                    "legend": "Staring down the barrel",
+                    "value": "6",
+                    "color": "Underworld (Purple)",
+                    "upside": false,
+                    "index": 20
+                }
+            },
+
+            "arena": {
+                "up": {
+                    "name": "The Arena",
+                    "symbol": "The Gangster (up)",
+                    "legend": "One last round",
+                    "value": "7",
+                    "color": "Underworld (Purple)",
+                    "upside": true,
+                    "index": 21
+                },
+                "down": {
+                    "name": "The Arena",
+                    "symbol": "The Spirit Bottle (down)",
+                    "legend": "Just to destroy something beautiful",
+                    "value": "7",
+                    "color": "Underworld (Purple)",
+                    "upside": false,
+                    "index": 21
+                }
+            },
+
+            "cabaret": {
+                "up": {
+                    "name": "The Cabaret",
+                    "symbol": "The Gangster (up)",
+                    "legend": "Let the fun times begin!",
+                    "value": "8",
+                    "color": "Underworld (Purple)",
+                    "upside": true,
+                    "index": 22
+                },
+                "down": {
+                    "name": "The Cabaret",
+                    "symbol": "The Spirit Bottle (down)",
+                    "legend": "A layer of gold on a background of misery",
+                    "value": "8",
+                    "color": "Underworld (Purple)",
+                    "upside": false,
+                    "index": 22
+                }
+            },
+
+            "distillery": {
+                "up": {
+                    "name": "The Distillery",
+                    "symbol": "The Gangster (up)",
+                    "legend": "The eldest tradition",
+                    "value": "9",
+                    "color": "Underworld (Purple)",
+                    "upside": true,
+                    "index": 23
+                },
+                "down": {
+                    "name": "The Distillery",
+                    "symbol": "The Spirit Bottle (down)",
+                    "legend": "One last step towards Oblivion",
+                    "value": "9",
+                    "color": "Underworld (Purple)",
+                    "upside": false,
+                    "index": 23
+                }
+            },
+
+            "informant": {
+                "up": {
+                    "name": "The Informant",
+                    "symbol": "The Gangster (up)",
+                    "legend": "Our staunchest ally",
+                    "value": "10",
+                    "color": "Underworld (Purple)",
+                    "upside": true,
+                    "index": 24
+                },
+                "down": {
+                    "name": "The Informant",
+                    "symbol": "The Spirit Bottle (down)",
+                    "legend": "The final traitor",
+                    "value": "10",
+                    "color": "Underworld (Purple)",
+                    "upside": false,
+                    "index": 24
+                }
+            },
+
+            "shootout": {
+                "up": {
+                    "name": "The Shootout",
+                    "symbol": "The Gangster (up)",
+                    "legend": "Saw no evil, heard no evil, spoke no evil",
+                    "value": "11",
+                    "color": "Underworld (Purple)",
+                    "upside": true,
+                    "index": 25
+                },
+                "down": {
+                    "name": "The Shootout",
+                    "symbol": "The Spirit Bottle (down)",
+                    "legend": "Wrong job if you want to grow old",
+                    "value": "11",
+                    "color": "Underworld (Purple)",
+                    "upside": false,
+                    "index": 25
+                }
+            },
+
+            "crackdown": {
+                "up": {
+                    "name": "The Crackdown",
+                    "symbol": "The Gangster (up)",
+                    "legend": "Fun times are over",
+                    "value": "12",
+                    "color": "Underworld (Purple)",
+                    "upside": true,
+                    "index": 26
+                },
+                "down": {
+                    "name": "The Crackdown",
+                    "symbol": "The Spirit Bottle (down)",
+                    "legend": "Nothing to see",
+                    "value": "12",
+                    "color": "Underworld (Purple)",
+                    "upside": false,
+                    "index": 26
+                }
+            },
+
+            "lost_children": {
+                "up": {
+                    "name": "The Lost Children",
+                    "symbol": "The Gangster (up)",
+                    "legend": "And never grow up",
+                    "value": "13",
+                    "color": "Underworld (Purple)",
+                    "upside": true,
+                    "index": 27
+                },
+                "down": {
+                    "name": "The Lost Children",
+                    "symbol": "The Spirit Bottle (down)",
+                    "legend": "For you have sinned",
+                    "value": "13",
+                    "color": "Underworld (Purple)",
+                    "upside": false,
+                    "index": 27
+                }
+            },
+
+            "shadow_office": {
+                "up": {
+                    "name": "The Shadow Office",
+                    "symbol": "The Gangster (up)",
+                    "legend": "Discretion itself",
+                    "value": "14",
+                    "color": "Underworld (Purple)",
+                    "upside": true,
+                    "index": 28
+                },
+                "down": {
+                    "name": "The Shadow Office",
+                    "symbol": "The Spirit Bottle (down)",
+                    "legend": "Just a point of detail",
+                    "value": "14",
+                    "color": "Underworld (Purple)",
+                    "upside": false,
+                    "index": 28
+                }
+            },
+
+            "gang": {
+                "up": {
+                    "name": "The Gang",
+                    "symbol": "The Gangster (up)",
+                    "legend": "A form of hope",
+                    "value": "15",
+                    "color": "Underworld (Purple)",
+                    "upside": true,
+                    "index": 29
+                },
+                "down": {
+                    "name": "The Gang",
+                    "symbol": "The Spirit Bottle (down)",
+                    "legend": "Nothing is as sacred as family",
+                    "value": "15",
+                    "color": "Underworld (Purple)",
+                    "upside": false,
+                    "index": 29
+                }
+            }
+    },
+        "pink": {
+            "desert": {
+                "up": {
+                    "name": "The Desert",
+                    "symbol": "The Tree (up)",
+                    "legend": "One step at a time",
+                    "value": "1",
+                    "color": "Adventurers (Pink)",
+                    "upside": true,
+                    "index": 30
+                },
+                "down": {
+                    "name": "The Desert",
+                    "symbol": "The Sleeper (down)",
+                    "legend": "Your footsteps will fade",
+                    "value": "1",
+                    "color": "Adventurers (Pink)",
+                    "upside": false,
+                    "index": 30
+                }
+            },
+
+            "immensity": {
+                "up": {
+                    "name": "The Immensity",
+                    "symbol": "The Tree (up)",
+                    "legend": "We wanted to touch the sky",
+                    "value": "2",
+                    "color": "Adventurers (Pink)",
+                    "upside": true,
+                    "index": 31
+                },
+                "down": {
+                    "name": "The Immensity",
+                    "symbol": "The Sleeper (down)",
+                    "legend": "Absolute freedom",
+                    "value": "2",
+                    "color": "Adventurers (Pink)",
+                    "upside": false,
+                    "index": 31
+                }
+            },
+
+            "jungle": {
+                "up": {
+                    "name": "The Jungle",
+                    "symbol": "The Tree (up)",
+                    "legend": "The call to adventure",
+                    "value": "3",
+                    "color": "Adventurers (Pink)",
+                    "upside": true,
+                    "index": 32
+                },
+                "down": {
+                    "name": "The Jungle",
+                    "symbol": "The Sleeper (down)",
+                    "legend": "The ruins of the past",
+                    "value": "3",
+                    "color": "Adventurers (Pink)",
+                    "upside": false,
+                    "index": 32
+                }
+            },
+
+            "burglar": {
+                "up": {
+                    "name": "The Burglar",
+                    "symbol": "The Tree (up)",
+                    "legend": "A light touch",
+                    "value": "4",
+                    "color": "Adventurers (Pink)",
+                    "upside": true,
+                    "index": 33
+                },
+                "down": {
+                    "name": "The Burglar",
+                    "symbol": "The Sleeper (down)",
+                    "legend": "Never to be found",
+                    "value": "4",
+                    "color": "Adventurers (Pink)",
+                    "upside": false,
+                    "index": 33
+                }
+            },
+
+            "aviatrix": {
+                "up": {
+                    "name": "The Aviatrix",
+                    "symbol": "The Tree (up)",
+                    "legend": "A formidable hero",
+                    "value": "5",
+                    "color": "Adventurers (Pink)",
+                    "upside": true,
+                    "index": 34
+                },
+                "down": {
+                    "name": "The Aviatrix",
+                    "symbol": "The Sleeper (down)",
+                    "legend": "Hotheaded",
+                    "value": "5",
+                    "color": "Adventurers (Pink)",
+                    "upside": false,
+                    "index": 34
+                }
+            },
+
+            "physician": {
+                "up": {
+                    "name": "The Physician",
+                    "symbol": "The Tree (up)",
+                    "legend": "Do no harm",
+                    "value": "6",
+                    "color": "Adventurers (Pink)",
+                    "upside": true,
+                    "index": 35
+                },
+                "down": {
+                    "name": "The Physician",
+                    "symbol": "The Sleeper (down)",
+                    "legend": "Acceptable losses",
+                    "value": "6",
+                    "color": "Adventurers (Pink)",
+                    "upside": false,
+                    "index": 35
+                }
+            },
+
+            "nicosie": {
+                "up": {
+                    "name": "The Nicosie",
+                    "symbol": "The Tree (up)",
+                    "legend": "At the crossroads",
+                    "value": "7",
+                    "color": "Adventurers (Pink)",
+                    "upside": true,
+                    "index": 36
+                },
+                "down": {
+                    "name": "The Nicosie",
+                    "symbol": "The Sleeper (down)",
+                    "legend": "The grass must be greener",
+                    "value": "7",
+                    "color": "Adventurers (Pink)",
+                    "upside": false,
+                    "index": 36
+                }
+            },
+
+            "workshop": {
+                "up": {
+                    "name": "The Workshop",
+                    "symbol": "The Tree (up)",
+                    "legend": "There are no limits",
+                    "value": "8",
+                    "color": "Adventurers (Pink)",
+                    "upside": true,
+                    "index": 37
+                },
+                "down": {
+                    "name": "The Workshop",
+                    "symbol": "The Sleeper (down)",
+                    "legend": "Liberty will come from above",
+                    "value": "8",
+                    "color": "Adventurers (Pink)",
+                    "upside": false,
+                    "index": 37
+                }
+            },
+
+            "hideout": {
+                "up": {
+                    "name": "The Hideout",
+                    "symbol": "The Tree (up)",
+                    "legend": "We could be safe",
+                    "value": "9",
+                    "color": "Adventurers (Pink)",
+                    "upside": true,
+                    "index": 38
+                },
+                "down": {
+                    "name": "The Hideout",
+                    "symbol": "The Sleeper (down)",
+                    "legend": "We can't stay forever",
+                    "value": "9",
+                    "color": "Adventurers (Pink)",
+                    "upside": false,
+                    "index": 38
+                }
+            },
+
+            "jump": {
+                "up": {
+                    "name": "The Jump",
+                    "symbol": "The Tree (up)",
+                    "legend": "I will not follow that track",
+                    "value": "10",
+                    "color": "Adventurers (Pink)",
+                    "upside": true,
+                    "index": 39
+                },
+                "down": {
+                    "name": "The Jump",
+                    "symbol": "The Sleeper (down)",
+                    "legend": "It's not the fall that matters",
+                    "value": "10",
+                    "color": "Adventurers (Pink)",
+                    "upside": false,
+                    "index": 39
+                }
+            },
+
+            "duel": {
+                "up": {
+                    "name": "The Duel",
+                    "symbol": "The Tree (up)",
+                    "legend": "A matter of honor",
+                    "value": "11",
+                    "color": "Adventurers (Pink)",
+                    "upside": true,
+                    "index": 40
+                },
+                "down": {
+                    "name": "The Duel",
+                    "symbol": "The Sleeper (down)",
+                    "legend": "One of us is too many",
+                    "value": "11",
+                    "color": "Adventurers (Pink)",
+                    "upside": false,
+                    "index": 40
+                }
+            },
+
+            "chase": {
+                "up": {
+                    "name": "The Chase",
+                    "symbol": "The Tree (up)",
+                    "legend": "Grace and bravery",
+                    "value": "12",
+                    "color": "Adventurers (Pink)",
+                    "upside": true,
+                    "index": 41
+                },
+                "down": {
+                    "name": "The Chase",
+                    "symbol": "The Sleeper (down)",
+                    "legend": "I'll be there for you",
+                    "value": "12",
+                    "color": "Adventurers (Pink)",
+                    "upside": false,
+                    "index": 41
+                }
+            },
+
+            "mechanics": {
+                "up": {
+                    "name": "The Mechanics",
+                    "symbol": "The Tree (up)",
+                    "legend": "It runs better than ever",
+                    "value": "13",
+                    "color": "Adventurers (Pink)",
+                    "upside": true,
+                    "index": 42
+                },
+                "down": {
+                    "name": "The Mechanics",
+                    "symbol": "The Sleeper (down)",
+                    "legend": "Don't mind the holes",
+                    "value": "13",
+                    "color": "Adventurers (Pink)",
+                    "upside": false,
+                    "index": 42
+                }
+            },
+
+            "soldiers": {
+                "up": {
+                    "name": "The Soldiers",
+                    "symbol": "The Tree (up)",
+                    "legend": "Look at them march",
+                    "value": "14",
+                    "color": "Adventurers (Pink)",
+                    "upside": true,
+                    "index": 43
+                },
+                "down": {
+                    "name": "The Soldiers",
+                    "symbol": "The Sleeper (down)",
+                    "legend": "Some will return",
+                    "value": "14",
+                    "color": "Adventurers (Pink)",
+                    "upside": false,
+                    "index": 43
+                }
+            },
+
+            "archaeologists": {
+                "up": {
+                    "name": "The Archaeologists",
+                    "symbol": "The Tree (up)",
+                    "legend": "The battle for History",
+                    "value": "15",
+                    "color": "Adventurers (Pink)",
+                    "upside": true,
+                    "index": 44
+                },
+                "down": {
+                    "name": "The Archaeologists",
+                    "symbol": "The Sleeper (down)",
+                    "legend": "We walk the sublime paths",
+                    "value": "15",
+                    "color": "Adventurers (Pink)",
+                    "upside": false,
+                    "index": 44
+                }
+            }
+    },
+        "blue": {
+            "city": {
+                "up": {
+                    "name": "The City",
+                    "symbol": "The Imperial Owl (up)",
+                    "legend": "All the riches in the Empire",
+                    "value": "1",
+                    "color": "People (Blue)",
+                    "upside": true,
+                    "index": 45
+                },
+                "down": {
+                    "name": "The City",
+                    "symbol": "The Broken Man (down)",
+                    "legend": "Behind closed doors",
+                    "value": "1",
+                    "color": "People (Blue)",
+                    "upside": false,
+                    "index": 45
+                }
+            },
+
+            "workers_village": {
+                "up": {
+                    "name": "The Worker's Village",
+                    "symbol": "The Imperial Owl (up)",
+                    "legend": "Sleep on, you brave folk",
+                    "value": "2",
+                    "color": "People (Blue)",
+                    "upside": true,
+                    "index": 46
+                },
+                "down": {
+                    "name": "The Worker's Village",
+                    "symbol": "The Broken Man (down)",
+                    "legend": "At least, I have a roof",
+                    "value": "2",
+                    "color": "People (Blue)",
+                    "upside": false,
+                    "index": 46
+                }
+            },
+
+            "docks": {
+                "up": {
+                    "name": "The Desert",
+                    "symbol": "The Imperial Owl (up)",
+                    "legend": "Here flows the blood of empires",
+                    "value": "3",
+                    "color": "People (Blue)",
+                    "upside": true,
+                    "index": 47
+                },
+                "down": {
+                    "name": "The Desert",
+                    "symbol": "The Broken Man (down)",
+                    "legend": "Ship it",
+                    "value": "3",
+                    "color": "People (Blue)",
+                    "upside": false,
+                    "index": 47
+                }
+            },
+
+            "veteran": {
+                "up": {
+                    "name": "The Veteran",
+                    "symbol": "The Imperial Owl (up)",
+                    "legend": "The sum of our experiences",
+                    "value": "4",
+                    "color": "People (Blue)",
+                    "upside": true,
+                    "index": 48
+                },
+                "down": {
+                    "name": "The Veteran",
+                    "symbol": "The Broken Man (down)",
+                    "legend": "Just another piece of waste",
+                    "value": "4",
+                    "color": "People (Blue)",
+                    "upside": false,
+                    "index": 48
+                }
+            },
+
+            "farmer": {
+                "up": {
+                    "name": "The Farmer",
+                    "symbol": "The Imperial Owl (up)",
+                    "legend": "The Empire hungers",
+                    "value": "5",
+                    "color": "People (Blue)",
+                    "upside": true,
+                    "index": 49
+                },
+                "down": {
+                    "name": "The Farmer",
+                    "symbol": "The Broken Man (down)",
+                    "legend": "And my father before him",
+                    "value": "5",
+                    "color": "People (Blue)",
+                    "upside": false,
+                    "index": 49
+                }
+            },
+
+            "dancer": {
+                "up": {
+                    "name": "The Dancer",
+                    "symbol": "The Imperial Owl (up)",
+                    "legend": "The one perfect move",
+                    "value": "6",
+                    "color": "People (Blue)",
+                    "upside": true,
+                    "index": 50
+                },
+                "down": {
+                    "name": "The Dancer",
+                    "symbol": "The Broken Man (down)",
+                    "legend": "Fifteen minutes of glory",
+                    "value": "6",
+                    "color": "People (Blue)",
+                    "upside": false,
+                    "index": 50
+                }
+            },
+
+            "station": {
+                "up": {
+                    "name": "The Station",
+                    "symbol": "The Imperial Owl (up)",
+                    "legend": "Get on board",
+                    "value": "7",
+                    "color": "People (Blue)",
+                    "upside": true,
+                    "index": 51
+                },
+                "down": {
+                    "name": "The Station",
+                    "symbol": "The Broken Man (down)",
+                    "legend": "On the wrong side of the tracks",
+                    "value": "7",
+                    "color": "People (Blue)",
+                    "upside": false,
+                    "index": 51
+                }
+            },
+
+            "fortress": {
+                "up": {
+                    "name": "The Fortress",
+                    "symbol": "The Imperial Owl (up)",
+                    "legend": "Protected",
+                    "value": "8",
+                    "color": "People (Blue)",
+                    "upside": true,
+                    "index": 52
+                },
+                "down": {
+                    "name": "The Fortress",
+                    "symbol": "The Broken Man (down)",
+                    "legend": "Disappeared",
+                    "value": "8",
+                    "color": "People (Blue)",
+                    "upside": false,
+                    "index": 52
+                }
+            },
+
+            "high_works": {
+                "up": {
+                    "name": "The High Works",
+                    "symbol": "The Imperial Owl (up)",
+                    "legend": "Time to rebuild",
+                    "value": "9",
+                    "color": "People (Blue)",
+                    "upside": true,
+                    "index": 53
+                },
+                "down": {
+                    "name": "The High Works",
+                    "symbol": "The Broken Man (down)",
+                    "legend": "On the shoulders of Titans",
+                    "value": "9",
+                    "color": "People (Blue)",
+                    "upside": false,
+                    "index": 53
+                }
+            },
+
+            "wait": {
+                "up": {
+                    "name": "The Wait",
+                    "symbol": "The Imperial Owl (up)",
+                    "legend": "Something will come up",
+                    "value": "10",
+                    "color": "People (Blue)",
+                    "upside": true,
+                    "index": 54
+                },
+                "down": {
+                    "name": "The Wait",
+                    "symbol": "The Broken Man (down)",
+                    "legend": "Fresh meat",
+                    "value": "10",
+                    "color": "People (Blue)",
+                    "upside": false,
+                    "index": 54
+                }
+            },
+
+            "burning": {
+                "up": {
+                    "name": "The Burning",
+                    "symbol": "The Imperial Owl (up)",
+                    "legend": "Leave the past to the past",
+                    "value": "11",
+                    "color": "People (Blue)",
+                    "upside": true,
+                    "index": 55
+                },
+                "down": {
+                    "name": "The Burning",
+                    "symbol": "The Broken Man (down)",
+                    "legend": "To think is to disobey",
+                    "value": "11",
+                    "color": "People (Blue)",
+                    "upside": false,
+                    "index": 55
+                }
+            },
+
+            "war": {
+                "up": {
+                    "name": "The War",
+                    "symbol": "The Imperial Owl (up)",
+                    "legend": "Nothing new",
+                    "value": "12",
+                    "color": "People (Blue)",
+                    "upside": true,
+                    "index": 56
+                },
+                "down": {
+                    "name": "The War",
+                    "symbol": "The Broken Man (down)",
+                    "legend": "Diplomacy has failed",
+                    "value": "12",
+                    "color": "People (Blue)",
+                    "upside": false,
+                    "index": 56
+                }
+            },
+
+            "faithful_ones": {
+                "up": {
+                    "name": "The Faithful Ones",
+                    "symbol": "The Imperial Owl (up)",
+                    "legend": "Never shall we falter",
+                    "value": "13",
+                    "color": "People (Blue)",
+                    "upside": true,
+                    "index": 57
+                },
+                "down": {
+                    "name": "The Faithful Ones",
+                    "symbol": "The Broken Man (down)",
+                    "legend": "We are Legion",
+                    "value": "13",
+                    "color": "People (Blue)",
+                    "upside": false,
+                    "index": 57
+                }
+            },
+
+            "school_students": {
+                "up": {
+                    "name": "The School Students",
+                    "symbol": "The Imperial Owl (up)",
+                    "legend": "I didn't do it, I swear!",
+                    "value": "14",
+                    "color": "People (Blue)",
+                    "upside": true,
+                    "index": 58
+                },
+                "down": {
+                    "name": "The School Students",
+                    "symbol": "The Broken Man (down)",
+                    "legend": "I'll catch you on the greasy side",
+                    "value": "14",
+                    "color": "People (Blue)",
+                    "upside": false,
+                    "index": 58
+                }
+            },
+
+            "workers": {
+                "up": {
+                    "name": "The Workers",
+                    "symbol": "The Imperial Owl (up)",
+                    "legend": "United, we shouldn't be defeated",
+                    "value": "15",
+                    "color": "People (Blue)",
+                    "upside": true,
+                    "index": 59
+                },
+                "down": {
+                    "name": "The Workers",
+                    "symbol": "The Broken Man (down)",
+                    "legend": "Back to work",
+                    "value": "15",
+                    "color": "People (Blue)",
+                    "upside": false,
+                    "index": 59
+                }
+            }
+    },
+        "gold": {
+            "industry": {
+                "up": {
+                    "name": "The Industry",
+                    "symbol": "The Scroll (up)",
+                    "legend": "The Wheel is turning",
+                    "value": "1",
+                    "color": "Elite (Gold)",
+                    "upside": true,
+                    "index": 60
+                },
+                "down": {
+                    "name": "The Industry",
+                    "symbol": "The Golden Apple (down)",
+                    "legend": "Smells like progress",
+                    "value": "1",
+                    "color": "Elite (Gold)",
+                    "upside": false,
+                    "index": 60
+                }
+            },
+
+            "trading_grounds": {
+                "up": {
+                    "name": "The Trading Grounds",
+                    "symbol": "The Scroll (up)",
+                    "legend": "Unlimited riches",
+                    "value": "2",
+                    "color": "Elite (Gold)",
+                    "upside": true,
+                    "index": 61
+                },
+                "down": {
+                    "name": "The Trading Grounds",
+                    "symbol": "The Golden Apple (down)",
+                    "legend": "The Bank always wins",
+                    "value": "2",
+                    "color": "Elite (Gold)",
+                    "upside": false,
+                    "index": 61
+                }
+            },
+
+            "oversea_holdings": {
+                "up": {
+                    "name": "The Oversea Holdings",
+                    "symbol": "The Scroll (up)",
+                    "legend": "Heaven, one brick at a time",
+                    "value": "3",
+                    "color": "Elite (Gold)",
+                    "upside": true,
+                    "index": 62
+                },
+                "down": {
+                    "name": "The Oversea Holdings",
+                    "symbol": "The Golden Apple (down)",
+                    "legend": "Who cares about the cost?",
+                    "value": "3",
+                    "color": "Elite (Gold)",
+                    "upside": false,
+                    "index": 62
+                }
+            },
+
+            "patron_of_arts": {
+                "up": {
+                    "name": "The Patron of Arts",
+                    "symbol": "The Scroll (up)",
+                    "legend": "To raise the soul",
+                    "value": "4",
+                    "color": "Elite (Gold)",
+                    "upside": true,
+                    "index": 63
+                },
+                "down": {
+                    "name": "The Patron of Arts",
+                    "symbol": "The Golden Apple (down)",
+                    "legend": "Industrializing hope",
+                    "value": "4",
+                    "color": "Elite (Gold)",
+                    "upside": false,
+                    "index": 63
+                }
+            },
+
+            "authority": {
+                "up": {
+                    "name": "The Authority",
+                    "symbol": "The Scroll (up)",
+                    "legend": "This is how to use talent",
+                    "value": "5",
+                    "color": "Elite (Gold)",
+                    "upside": true,
+                    "index": 64
+                },
+                "down": {
+                    "name": "The Authority",
+                    "symbol": "The Golden Apple (down)",
+                    "legend": "In time",
+                    "value": "5",
+                    "color": "Elite (Gold)",
+                    "upside": false,
+                    "index": 64
+                }
+            },
+
+            "thinker": {
+                "up": {
+                    "name": "The Thinker",
+                    "symbol": "The Scroll (up)",
+                    "legend": "An Age of Wonders",
+                    "value": "6",
+                    "color": "Elite (Gold)",
+                    "upside": true,
+                    "index": 65
+                },
+                "down": {
+                    "name": "The Thinker",
+                    "symbol": "The Golden Apple (down)",
+                    "legend": "Blessed be the ones who listen",
+                    "value": "6",
+                    "color": "Elite (Gold)",
+                    "upside": false,
+                    "index": 65
+                }
+            },
+
+            "opera": {
+                "up": {
+                    "name": "The Opera",
+                    "symbol": "The Scroll (up)",
+                    "legend": "Where will music lead us?",
+                    "value": "7",
+                    "color": "Elite (Gold)",
+                    "upside": true,
+                    "index": 66
+                },
+                "down": {
+                    "name": "The Opera",
+                    "symbol": "The Golden Apple (down)",
+                    "legend": "Losing oneself for an instant",
+                    "value": "7",
+                    "color": "Elite (Gold)",
+                    "upside": false,
+                    "index": 66
+                }
+            },
+
+            "curio_cabinet": {
+                "up": {
+                    "name": "The Curio Cabinet",
+                    "symbol": "The Scroll (up)",
+                    "legend": "Collecting mysteries",
+                    "value": "8",
+                    "color": "Elite (Gold)",
+                    "upside": true,
+                    "index": 67
+                },
+                "down": {
+                    "name": "The Curio Cabinet",
+                    "symbol": "The Golden Apple (down)",
+                    "legend": "There is place for you",
+                    "value": "8",
+                    "color": "Elite (Gold)",
+                    "upside": false,
+                    "index": 67
+                }
+            },
+
+            "gallery": {
+                "up": {
+                    "name": "The Gallery",
+                    "symbol": "The Scroll (up)",
+                    "legend": "How may I help you?",
+                    "value": "9",
+                    "color": "Elite (Gold)",
+                    "upside": true,
+                    "index": 68
+                },
+                "down": {
+                    "name": "The Gallery",
+                    "symbol": "The Golden Apple (down)",
+                    "legend": "The new temple",
+                    "value": "9",
+                    "color": "Elite (Gold)",
+                    "upside": false,
+                    "index": 68
+                }
+            },
+
+            "graduation": {
+                "up": {
+                    "name": "The Graduation",
+                    "symbol": "The Scroll (up)",
+                    "legend": "Years of work",
+                    "value": "10",
+                    "color": "Elite (Gold)",
+                    "upside": true,
+                    "index": 69
+                },
+                "down": {
+                    "name": "The Graduation",
+                    "symbol": "The Golden Apple (down)",
+                    "legend": "Just a formality",
+                    "value": "10",
+                    "color": "Elite (Gold)",
+                    "upside": false,
+                    "index": 69
+                }
+            },
+
+            "progress": {
+                "up": {
+                    "name": "The Progress",
+                    "symbol": "The Scroll (up)",
+                    "legend": "It's painless",
+                    "value": "11",
+                    "color": "Elite (Gold)",
+                    "upside": true,
+                    "index": 70
+                },
+                "down": {
+                    "name": "The Progress",
+                    "symbol": "The Golden Apple (down)",
+                    "legend": "We build the new man",
+                    "value": "11",
+                    "color": "Elite (Gold)",
+                    "upside": false,
+                    "index": 70
+                }
+            },
+
+            "betrayal": {
+                "up": {
+                    "name": "The Betrayal",
+                    "symbol": "The Scroll (up)",
+                    "legend": "The rules are simple",
+                    "value": "12",
+                    "color": "Elite (Gold)",
+                    "upside": true,
+                    "index": 71
+                },
+                "down": {
+                    "name": "The Betrayal",
+                    "symbol": "The Golden Apple (down)",
+                    "legend": "Loyalty is a luxury",
+                    "value": "12",
+                    "color": "Elite (Gold)",
+                    "upside": false,
+                    "index": 71
+                }
+            },
+
+            "myths": {
+                "up": {
+                    "name": "The Myths",
+                    "symbol": "The Scroll (up)",
+                    "legend": "The time of legends is over",
+                    "value": "13",
+                    "color": "Elite (Gold)",
+                    "upside": true,
+                    "index": 72
+                },
+                "down": {
+                    "name": "The Myths",
+                    "symbol": "The Golden Apple (down)",
+                    "legend": "Unworthy of us",
+                    "value": "13",
+                    "color": "Elite (Gold)",
+                    "upside": false,
+                    "index": 72
+                }
+            },
+
+            "leadership": {
+                "up": {
+                    "name": "The Leadership",
+                    "symbol": "The Scroll (up)",
+                    "legend": "You shall be protected",
+                    "value": "14",
+                    "color": "Elite (Gold)",
+                    "upside": true,
+                    "index": 73
+                },
+                "down": {
+                    "name": "The Leadership",
+                    "symbol": "The Golden Apple (down)",
+                    "legend": "Unrefined brutes",
+                    "value": "14",
+                    "color": "Elite (Gold)",
+                    "upside": false,
+                    "index": 73
+                }
+            },
+
+            "those_who_have": {
+                "up": {
+                    "name": "Those Who Have",
+                    "symbol": "The Scroll (up)",
+                    "legend": "Among us",
+                    "value": "15",
+                    "color": "Elite (Gold)",
+                    "upside": true,
+                    "index": 74
+                },
+                "down": {
+                    "name": "Those Who Have",
+                    "symbol": "The Golden Apple (down)",
+                    "legend": "Poverty is a sin",
+                    "value": "15",
+                    "color": "Elite (Gold)",
+                    "upside": false,
+                    "index": 74
+                }
+            }
+    },
+        "black": {
+            "mistress_of_games": {
+                "up": {
+                    "name": "The Mistress of Games",
+                    "symbol": "The Wind (up)",
+                    "legend": "Life is a Bet",
+                    "value": "I",
+                    "color": "Menace (Black)",
+                    "upside": true,
+                    "index": 75
+                },
+                "down": {
+                    "name": "The Mistress of Games",
+                    "symbol": "The Hourglass (down)",
+                    "legend": "Change the Rules",
+                    "value": "I",
+                    "color": "Menace (Black)",
+                    "upside": false,
+                    "index": 75
+                }
+            },
+
+            "nihilist": {
+                "up": {
+                    "name": "The Nihilist",
+                    "symbol": "The Wind (up)",
+                    "legend": "History is a Myth",
+                    "value": "II",
+                    "color": "Menace (Black)",
+                    "upside": true,
+                    "index": 76
+                },
+                "down": {
+                    "name": "The Nihilist",
+                    "symbol": "The Hourglass (down)",
+                    "legend": "Out with the Old, in with Chaos",
+                    "value": "II",
+                    "color": "Menace (Black)",
+                    "upside": false,
+                    "index": 76
+                }
+            },
+
+            "socialite": {
+                "up": {
+                    "name": "The Socialite",
+                    "symbol": "The Wind (up)",
+                    "legend": "Love Lost",
+                    "value": "III",
+                    "color": "Menace (Black)",
+                    "upside": true,
+                    "index": 77
+                },
+                "down": {
+                    "name": "The Socialite",
+                    "symbol": "The Hourglass (down)",
+                    "legend": "Lost By Love",
+                    "value": "III",
+                    "color": "Menace (Black)",
+                    "upside": false,
+                    "index": 77
+                }
+            },
+
+            "boogey_people": {
+                "up": {
+                    "name": "The Boogey People",
+                    "symbol": "The Wind (up)",
+                    "legend": "Who Wants to Play?",
+                    "value": "IIII",
+                    "color": "Menace (Black)",
+                    "upside": true,
+                    "index": 78
+                },
+                "down": {
+                    "name": "The Boogey People",
+                    "symbol": "The Hourglass (down)",
+                    "legend": "You had been warned",
+                    "value": "IIII",
+                    "color": "Menace (Black)",
+                    "upside": false,
+                    "index": 78
+                }
+            },
+
+            "gentleman_of_fortune": {
+                "up": {
+                    "name": "The Gentleman of Fortune",
+                    "symbol": "The Wind (up)",
+                    "legend": "No one escapes my Destiny",
+                    "value": "V",
+                    "color": "Menace (Black)",
+                    "upside": true,
+                    "index": 79
+                },
+                "down": {
+                    "name": "The Gentleman of Fortune",
+                    "symbol": "The Hourglass (down)",
+                    "legend": "An offer you can't refuse",
+                    "value": "V",
+                    "color": "Menace (Black)",
+                    "upside": false,
+                    "index": 79
+                }
+            },
+
+            "merciful_one": {
+                "up": {
+                    "name": "The Merciful One",
+                    "symbol": "The Wind (up)",
+                    "legend": "Your best, your only, your final friend",
+                    "value": "VI",
+                    "color": "Menace (Black)",
+                    "upside": true,
+                    "index": 80
+                },
+                "down": {
+                    "name": "The Merciful One",
+                    "symbol": "The Hourglass (down)",
+                    "legend": "No heroes in this story",
+                    "value": "VI",
+                    "color": "Menace (Black)",
+                    "upside": false,
+                    "index": 80
+                }
+            },
+
+            "visionary": {
+                "up": {
+                    "name": "The Visionary",
+                    "symbol": "The Wind (up)",
+                    "legend": "Let me tell you about the future",
+                    "value": "VII",
+                    "color": "Menace (Black)",
+                    "upside": true,
+                    "index": 81
+                },
+                "down": {
+                    "name": "The Visionary",
+                    "symbol": "The Hourglass (down)",
+                    "legend": "Dreams are written in stone",
+                    "value": "VII",
+                    "color": "Menace (Black)",
+                    "upside": false,
+                    "index": 81
+                }
+            },
+
+            "despair": {
+                "up": {
+                    "name": "The Despair",
+                    "symbol": "The Wind (up)",
+                    "legend": "Forget the stars",
+                    "value": "VIII",
+                    "color": "Menace (Black)",
+                    "upside": true,
+                    "index": 82
+                },
+                "down": {
+                    "name": "The Despair",
+                    "symbol": "The Hourglass (down)",
+                    "legend": "In the Heart of Darkness",
+                    "value": "VIII",
+                    "color": "Menace (Black)",
+                    "upside": false,
+                    "index": 82
+                }
+            },
+
+            "propagandist": {
+                "up": {
+                    "name": "The Propagandist",
+                    "symbol": "The Wind (up)",
+                    "legend": "Words can Fly",
+                    "value": "VIIII",
+                    "color": "Menace (Black)",
+                    "upside": true,
+                    "index": 83
+                },
+                "down": {
+                    "name": "The Propagandist",
+                    "symbol": "The Hourglass (down)",
+                    "legend": "Past Perfected",
+                    "value": "VIIII",
+                    "color": "Menace (Black)",
+                    "upside": false,
+                    "index": 83
+                }
+            },
+
+            "professor": {
+                "up": {
+                    "name": "The Professor",
+                    "symbol": "The Wind (up)",
+                    "legend": "Behold my generosity",
+                    "value": "X",
+                    "color": "Menace (Black)",
+                    "upside": true,
+                    "index": 84
+                },
+                "down": {
+                    "name": "The Professor",
+                    "symbol": "The Hourglass (down)",
+                    "legend": "My feather is mightier than all your swords",
+                    "value": "X",
+                    "color": "Menace (Black)",
+                    "upside": false,
+                    "index": 84
+                }
+            },
+
+            "innovator": {
+                "up": {
+                    "name": "The Innovator",
+                    "symbol": "The Wind (up)",
+                    "legend": "Quicker, easier, more seductive",
+                    "value": "XI",
+                    "color": "Menace (Black)",
+                    "upside": true,
+                    "index": 85
+                },
+                "down": {
+                    "name": "The Innovator",
+                    "symbol": "The Hourglass (down)",
+                    "legend": "No ruin, no gain",
+                    "value": "XI",
+                    "color": "Menace (Black)",
+                    "upside": false,
+                    "index": 85
+                }
+            },
+
+            "philosopher": {
+                "up": {
+                    "name": "The Philosopher",
+                    "symbol": "The Wind (up)",
+                    "legend": "Reduce the world to concepts",
+                    "value": "XII",
+                    "color": "Menace (Black)",
+                    "upside": true,
+                    "index": 86
+                },
+                "down": {
+                    "name": "The Philosopher",
+                    "symbol": "The Hourglass (down)",
+                    "legend": "And in darkness, bind them",
+                    "value": "XII",
+                    "color": "Menace (Black)",
+                    "upside": false,
+                    "index": 86
+                }
+            },
+
+            "denial": {
+                "up": {
+                    "name": "The Denial",
+                    "symbol": "The Wind (up)",
+                    "legend": "Why know?",
+                    "value": "XIII",
+                    "color": "Menace (Black)",
+                    "upside": true,
+                    "index": 87
+                },
+                "down": {
+                    "name": "The Denial",
+                    "symbol": "The Hourglass (down)",
+                    "legend": "Who limit oneself?",
+                    "value": "XIII",
+                    "color": "Menace (Black)",
+                    "upside": false,
+                    "index": 87
+                }
+            },
+
+            "thought": {
+                "up": {
+                    "name": "The Thought",
+                    "symbol": "The Wind (up)",
+                    "legend": "Much too dangerous for the masses",
+                    "value": "XIIII",
+                    "color": "Menace (Black)",
+                    "upside": true,
+                    "index": 88
+                },
+                "down": {
+                    "name": "The Thought",
+                    "symbol": "The Hourglass (down)",
+                    "legend": "Let the opposition deconstruct itself",
+                    "value": "XIIII",
+                    "color": "Menace (Black)",
+                    "upside": false,
+                    "index": 88
+                }
+            },
+
+            "divine": {
+                "up": {
+                    "name": "The Divine",
+                    "symbol": "The Wind (up)",
+                    "legend": "At the beginning, they scream",
+                    "value": "XV",
+                    "color": "Menace (Black)",
+                    "upside": true,
+                    "index": 89
+                },
+                "down": {
+                    "name": "The Divine",
+                    "symbol": "The Hourglass (down)",
+                    "legend": "At the end, they die",
+                    "value": "XV",
+                    "color": "Menace (Black)",
+                    "upside": false,
+                    "index": 89
+                }
+            }
+    }
+}

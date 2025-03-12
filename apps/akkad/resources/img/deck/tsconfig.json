@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "module": "ES2015",
+    "moduleDetection": "auto",
+    "lib": ["es2015", "dom"],
+    "target": "ES2015",
+    "moduleResolution": "classic",
+  }
+}
