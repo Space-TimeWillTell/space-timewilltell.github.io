@@ -378,7 +378,7 @@ export const red: Suit = {
 }
 export const purple: Suit = {
     name: "Purple: The Underbelly",
-    interpretation: "Those  who survive in the gutter, or have risen from the gutter, usually to prey upon people. Gangsters, brothel and cabaret owners, but also corrupt police officers, homeless people, ethnic minorities, drug dealers, informants, forgers, the shadow police, ... Also, perhaps, a will to survive, and to have something to call their own, even if it currently belongs to someone else.",
+    interpretation: "Those  who survive in the gutter, or have risen from the gutter, usually to prey upon people. Gangsters, brothel and cabaret owners, but also corrupt police officers, homeless people, ethnic minorities, drug dealers, informants, forgers, the shadow office, ... Also, perhaps, a will to survive, and to have something to call their own, even if it currently belongs to someone else.",
     upSymbol: "The Gangster",
     upSymbolInterpretation: "Upsetting the rules, breaking the limits, violence.",
     reversedSymbol: "The Spirit Bottle",
