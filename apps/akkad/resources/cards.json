@@ -126,20 +126,20 @@
                 }
             },
 
-            "factory": {
+            "atelier": {
                 "up": {
-                    "name": "The Factory",
+                    "name": "The Atelier",
                     "symbol": "The Broken Icon (up)",
-                    "legend": "With our hands",
+                    "legend": "Life imitates dream imitates art",
                     "value": "7",
                     "color": "Dreamers (Red)",
                     "upside": true,
                     "index": 6
                 },
                 "down": {
-                    "name": "The Factory",
+                    "name": "The Atelier",
                     "symbol": "The Smoke (down)",
-                    "legend": "The last of the Masters",
+                    "legend": "The color of screams",
                     "value": "7",
                     "color": "Dreamers (Red)",
                     "upside": false,
@@ -181,7 +181,7 @@
                 "down": {
                     "name": "The Orange Garden",
                     "symbol": "The Smoke (down)",
-                    "legend": "Quite decorative",
+                    "legend": "Highly decorative",
                     "value": "9",
                     "color": "Dreamers (Red)",
                     "upside": false,
@@ -509,7 +509,7 @@
                 "up": {
                     "name": "The Informant",
                     "symbol": "The Gangster (up)",
-                    "legend": "Our staunchest ally",
+                    "legend": "Our most trusted ally",
                     "value": "10",
                     "color": "Underworld (Purple)",
                     "upside": true,
@@ -612,18 +612,18 @@
 
             "gang": {
                 "up": {
-                    "name": "The Gang",
+                    "name": "The Family",
                     "symbol": "The Gangster (up)",
-                    "legend": "A form of hope",
+                    "legend": "Bonds forged",
                     "value": "15",
                     "color": "Underworld (Purple)",
                     "upside": true,
                     "index": 29
                 },
                 "down": {
-                    "name": "The Gang",
+                    "name": "The Family",
                     "symbol": "The Spirit Bottle (down)",
-                    "legend": "Nothing is as sacred as family",
+                    "legend": "Ours",
                     "value": "15",
                     "color": "Underworld (Purple)",
                     "upside": false,
@@ -678,7 +678,7 @@
                 "up": {
                     "name": "The Jungle",
                     "symbol": "The Tree (up)",
-                    "legend": "The call to adventure",
+                    "legend": "Lost no more",
                     "value": "3",
                     "color": "Adventurers (Pink)",
                     "upside": true,
@@ -687,7 +687,7 @@
                 "down": {
                     "name": "The Jungle",
                     "symbol": "The Sleeper (down)",
-                    "legend": "The ruins of the past",
+                    "legend": "History finds a way",
                     "value": "3",
                     "color": "Adventurers (Pink)",
                     "upside": false,
@@ -930,7 +930,7 @@
                 "up": {
                     "name": "The Archaeologists",
                     "symbol": "The Tree (up)",
-                    "legend": "The battle for History",
+                    "legend": "Rise again",
                     "value": "15",
                     "color": "Adventurers (Pink)",
                     "upside": true,
@@ -1234,7 +1234,7 @@
                 "down": {
                     "name": "The School Students",
                     "symbol": "The Broken Man (down)",
-                    "legend": "I'll catch you on the greasy side",
+                    "legend": "Just wait until recess",
                     "value": "14",
                     "color": "People (Blue)",
                     "upside": false,
@@ -1246,7 +1246,7 @@
                 "up": {
                     "name": "The Workers",
                     "symbol": "The Imperial Owl (up)",
-                    "legend": "United, we shouldn't be defeated",
+                    "legend": "We made this",
                     "value": "15",
                     "color": "People (Blue)",
                     "upside": true,
@@ -1255,7 +1255,7 @@
                 "down": {
                     "name": "The Workers",
                     "symbol": "The Broken Man (down)",
-                    "legend": "Back to work",
+                    "legend": "A chain, unbroken",
                     "value": "15",
                     "color": "People (Blue)",
                     "upside": false,
@@ -1626,7 +1626,7 @@
                 "up": {
                     "name": "The Socialite",
                     "symbol": "The Wind (up)",
-                    "legend": "Love Lost",
+                    "legend": "Love is loss",
                     "value": "III",
                     "color": "Menace (Black)",
                     "upside": true,
@@ -1635,7 +1635,7 @@
                 "down": {
                     "name": "The Socialite",
                     "symbol": "The Hourglass (down)",
-                    "legend": "Lost By Love",
+                    "legend": "We shall utter the unspoken truths",
                     "value": "III",
                     "color": "Menace (Black)",
                     "upside": false,
