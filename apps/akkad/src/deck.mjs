@@ -16,7 +16,7 @@ function cardIndex(value) {
 }
 let promiseCards = (function init() {
     return __awaiter(this, void 0, void 0, function* () {
-        let response = yield fetch("../resources/cards.json");
+        let response = yield fetch("resources/cards.json");
         let json = yield response.json();
         let cards = [];
         for (let suitKey of Object.keys(json)) {

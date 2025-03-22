@@ -15,7 +15,7 @@ function cardIndex(value: number): CardIndex {
 }
 
 let promiseCards: Promise<Card[]> = (async function init() {
-    let response = await fetch("../resources/cards.json");
+    let response = await fetch("resources/cards.json");
     let json = await response.json();
     let cards = [];
     for (let suitKey of Object.keys(json)) {
